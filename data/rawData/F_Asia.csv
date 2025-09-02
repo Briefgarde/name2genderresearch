@@ -1,0 +1,501 @@
+person,person_label,genders,dobs,countries,continents
+http://www.wikidata.org/entity/Q10000001,Tatyana Kolotilshchikova,female,1937-04-11T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100016875,Sukri Bommagowda,female,1937-01-01T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q100116307,Cynthia Patag,female,1956-02-28T00:00:00Z,Philippines,Asia
+http://www.wikidata.org/entity/Q100138120,Bharati Harish Dangre,female,1968-01-01T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q100138411,Qian Xijun,female,1905-01-01T00:00:00Z,People's Republic of China,Asia
+http://www.wikidata.org/entity/Q100138493,Qiu Yihan,female,1907-01-01T00:00:00Z,People's Republic of China,Asia
+http://www.wikidata.org/entity/Q100142328,Rengin Altay,female,1962-09-23T00:00:00Z,Turkey,Asia
+http://www.wikidata.org/entity/Q100146393,Sai Na,female,1979-01-01T00:00:00Z,People's Republic of China,Asia
+http://www.wikidata.org/entity/Q100146403,Yeom Seungsuk,female,1982-01-01T00:00:00Z,South Korea,Asia
+http://www.wikidata.org/entity/Q100146627,Marina Rosenberg,female,1976-01-01T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q100146686,Tara Gandhi,female,1934-04-24T00:00:00Z,British Raj,Asia
+http://www.wikidata.org/entity/Q100146688,Wang Henei,female,1912-01-01T00:00:00Z,People's Republic of China,Asia
+http://www.wikidata.org/entity/Q100146791,Wang Quanyuan,female,1913-01-01T00:00:00Z,Republic of China,Asia
+http://www.wikidata.org/entity/Q100146799,Wang Yingchun,female,1942-01-01T00:00:00Z,People's Republic of China,Asia
+http://www.wikidata.org/entity/Q100146820,Wu Fulian,female,1912-01-01T00:00:00Z,Republic of China,Asia
+http://www.wikidata.org/entity/Q100146877,Wulan,female,1923-01-01T00:00:00Z,People's Republic of China,Asia
+http://www.wikidata.org/entity/Q100147027,Xiao Yuehua,female,1913-01-01T00:00:00Z,People's Republic of China,Asia
+http://www.wikidata.org/entity/Q100147817,Sumitra Kulkarni,female,1929-10-05T00:00:00Z,British Raj,Asia
+http://www.wikidata.org/entity/Q100149087,Melika Ahadi,female,1998-05-18T00:00:00Z,Iran,Asia
+http://www.wikidata.org/entity/Q100150481,Su Pei-ling,female,2000-01-30T00:00:00Z,Taiwan,Asia
+http://www.wikidata.org/entity/Q100151554,Tatyana Vlasova,female,1943-01-05T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100151994,Yang Houzhen,female,1908-01-01T00:00:00Z,People's Republic of China,Asia
+http://www.wikidata.org/entity/Q100152023,Yang Huizen,female,1913-01-01T00:00:00Z,Republic of China,Asia
+http://www.wikidata.org/entity/Q100152143,Ye Tao,female,1905-01-01T00:00:00Z,Empire of Japan,Asia
+http://www.wikidata.org/entity/Q100152796,Zhang Guiqin,female,1941-01-01T00:00:00Z,People's Republic of China,Asia
+http://www.wikidata.org/entity/Q100152836,Zhenhua,female,1909-01-01T00:00:00Z,Republic of China,Asia
+http://www.wikidata.org/entity/Q100152844,Zhong Yuzheng,female,1930-01-01T00:00:00Z,People's Republic of China,Asia
+http://www.wikidata.org/entity/Q100153927,Hayeon,female,1998-08-31T00:00:00Z,South Korea,Asia
+http://www.wikidata.org/entity/Q100159294,Nurani Ratu Azzahra,female,2002-05-15T00:00:00Z,Indonesia,Asia
+http://www.wikidata.org/entity/Q100168530,Alexandra Kalev,female,1970-01-01T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q100223754,Vijay Atluri,female,1956-05-31T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q100233715,Kamala Balakrishnan,female,1930-01-16T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q100235645,Nada Boustani,female,1983-01-27T00:00:00Z,Lebanon,Asia
+http://www.wikidata.org/entity/Q100235770,Irit Ben-Abba,female,1958-01-01T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q100237345,Hande Sarıoğlu,female,1988-09-19T00:00:00Z,Turkey,Asia
+http://www.wikidata.org/entity/Q100248430,Shakuntala Bhagat,female,1933-02-06T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q100251607,Jo Yeong-ja,female,1950-01-08T00:00:00Z,South Korea,Asia
+http://www.wikidata.org/entity/Q100251647,Jo Yeong-suk,female,1951-08-06T00:00:00Z,South Korea,Asia
+http://www.wikidata.org/entity/Q100251969,Zhang Yiming,female,2000-11-01T00:00:00Z,People's Republic of China,Asia
+http://www.wikidata.org/entity/Q100252442,Hồng Đào,female,1962-09-25T00:00:00Z,Vietnam,Asia
+http://www.wikidata.org/entity/Q100254882,Luo Chuyue,female,2001-08-10T00:00:00Z,People's Republic of China,Asia
+http://www.wikidata.org/entity/Q100255645,Koo Donghee,female,1974-01-01T00:00:00Z,South Korea,Asia
+http://www.wikidata.org/entity/Q100255658,Hanan Jarrar,female,1975-02-14T00:00:00Z,State of Palestine,Asia
+http://www.wikidata.org/entity/Q100256841,Rachel Tseng,female,1998-03-03T00:00:00Z,South Korea,Asia
+http://www.wikidata.org/entity/Q100257890,"Rabīʻ, Āminah",female,1969-01-01T00:00:00Z,Oman,Asia
+http://www.wikidata.org/entity/Q100258074,Rania Eissa,female,1978-10-08T00:00:00Z,Lebanon,Asia
+http://www.wikidata.org/entity/Q100258154,Zarqa Yaftali,female,1984-01-01T00:00:00Z,Afghanistan,Asia
+http://www.wikidata.org/entity/Q100258269,Jumana karim,female,1984-10-06T00:00:00Z,Iraq,Asia
+http://www.wikidata.org/entity/Q100258571,Amina Rasul-Bernardo,female,1954-01-01T00:00:00Z,Philippines,Asia
+http://www.wikidata.org/entity/Q100258613,Aida Idriss,female,1934-01-01T00:00:00Z,Lebanon,Asia
+http://www.wikidata.org/entity/Q100258644,Alia Hatogh Buran,female,1955-01-01T00:00:00Z,Jordan,Asia
+http://www.wikidata.org/entity/Q100259783,Magda Saleh,female,1943-01-01T00:00:00Z,United Arab Republic,Asia
+http://www.wikidata.org/entity/Q100260161,Sajida Obaidl,female,1957-11-02T00:00:00Z,Iraq,Asia
+http://www.wikidata.org/entity/Q100260999,Muqadasa Ahmadzai,female,1993-01-01T00:00:00Z,Afghanistan,Asia
+http://www.wikidata.org/entity/Q100262707,Yukimi Moriyama,female,1996-08-09T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100262740,Kristina Miletić,female,2000-04-21T00:00:00Z,Azerbaijan,Asia
+http://www.wikidata.org/entity/Q100262813,Mayuko Goto,female,1995-07-13T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100267432,Aarushi Nishank,female,1986-01-01T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q100272313,Emi Moronuki,female,1992-10-22T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100272600,Naima Akter,female,1999-02-07T00:00:00Z,Bangladesh,Asia
+http://www.wikidata.org/entity/Q100274283,Po Po Heather,female,1998-01-08T00:00:00Z,Myanmar,Asia
+http://www.wikidata.org/entity/Q100276701,Mimlu Sen,female,1949-01-01T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q100286218,Haiying Shen,female,1978-01-01T00:00:00Z,People's Republic of China,Asia
+http://www.wikidata.org/entity/Q100292168,Maryam Saqer Al Qasimi,female,1990-01-01T00:00:00Z,United Arab Emirates,Asia
+http://www.wikidata.org/entity/Q100294301,Hemlata Talesra,female,1944-07-01T00:00:00Z,British Raj,Asia
+http://www.wikidata.org/entity/Q100301952,Feng Junyang,female,1998-12-29T00:00:00Z,Indonesia,Asia
+http://www.wikidata.org/entity/Q100302982,Alexandra Fjodorowna Salnikowa,female,1900-04-28T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100304600,Sahar Zohouri,female,1986-01-01T00:00:00Z,Iran,Asia
+http://www.wikidata.org/entity/Q100307666,Subur Parthasarathy,female,1911-01-01T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q100308127,Rekha Boyalapalli,female,1983-11-12T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q100308760,Hee Sook Lee,female,1959-06-24T00:00:00Z,Korea,Asia
+http://www.wikidata.org/entity/Q1003099,Xu Jiao,female,1997-08-05T00:00:00Z,People's Republic of China,Asia
+http://www.wikidata.org/entity/Q100319448,Galina Arapova,female,1972-06-16T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100319922,Abhinaya,female,1971-01-01T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q100319932,Aya Sato,female,1994-07-02T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100319946,Louise Elisabeth Coldenhoff,female,1935-03-22T00:00:00Z,Indonesia,Asia
+http://www.wikidata.org/entity/Q100319976,Yang Yi,female,1952-01-01T00:00:00Z,People's Republic of China,Asia
+http://www.wikidata.org/entity/Q100320043,Jannie Lasimbang,female,1962-11-29T00:00:00Z,Malaysia,Asia
+http://www.wikidata.org/entity/Q100320767,Xiao-Ying Bai,female,2007-10-03T00:00:00Z,Taiwan,Asia
+http://www.wikidata.org/entity/Q100321834,Yehudit Malik Shiran,female,1958-05-18T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q100323013,Kay Kay Moe,female,1991-09-09T00:00:00Z,Myanmar,Asia
+http://www.wikidata.org/entity/Q100323701,Nili Dotan,female,1955-03-28T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q100323856,Nicholle Toh,female,2001-08-18T00:00:00Z,Singapore,Asia
+http://www.wikidata.org/entity/Q100323864,Ai Soma,female,1997-09-15T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100323869,Yukina Hirayama,female,1995-12-19T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100324016,Zhang Xiantu,female,1926-01-01T00:00:00Z,People's Republic of China,Asia
+http://www.wikidata.org/entity/Q100324192,Nao Kobayashi,female,1993-10-27T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100324400,Roza Erdemli,female,2001-01-15T00:00:00Z,Turkey,Asia
+http://www.wikidata.org/entity/Q1003254,Buket Bengisu,female,1978-07-19T00:00:00Z,Turkey,Asia
+http://www.wikidata.org/entity/Q100329203,Vera Sukhova,female,1963-07-09T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100331971,Se-hwa Oh,female,1943-01-01T00:00:00Z,South Korea,Asia
+http://www.wikidata.org/entity/Q100332386,Shlomit Yanisky-Ravid,female,1963-11-11T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q100340800,Huda Hamed,female,1981-01-01T00:00:00Z,Oman,Asia
+http://www.wikidata.org/entity/Q100348084,Si Jia,female,1978-06-08T00:00:00Z,People's Republic of China,Asia
+http://www.wikidata.org/entity/Q100369513,Orly Amit,female,1990-01-01T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q100377521,İdil Keysan,female,1993-01-01T00:00:00Z,Turkey,Asia
+http://www.wikidata.org/entity/Q100382817,Paula Bataona Renyaan,female,1942-09-16T00:00:00Z,Indonesia,Asia
+http://www.wikidata.org/entity/Q100385520,Pushpa Bhave,female,1939-03-23T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q100397038,Leia,female,2001-05-14T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100400535,Yasemin Besen–Cassino,female,1978-12-27T00:00:00Z,Turkey,Asia
+http://www.wikidata.org/entity/Q100400601,Hatice Barré,female,1980-08-03T00:00:00Z,Turkey,Asia
+http://www.wikidata.org/entity/Q100401047,Swapna Sanjiv Joshi,female,1959-01-01T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q100421215,Lesley Sachs,female,1958-08-25T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q100421709,Limor Rose,female,1968-09-03T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q1004266,Etsuko Fukano,female,1972-02-09T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100428190,Wolftyla,female,1996-06-01T00:00:00Z,South Korea,Asia
+http://www.wikidata.org/entity/Q100431954,Perin Chandra,female,1918-10-02T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q1004398,Asumi Nakada,female,1988-04-05T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100448914,Jennifer Lasimbang,female,1974-01-01T00:00:00Z,Malaysia,Asia
+http://www.wikidata.org/entity/Q100450281,Li-Cheng Hung,female,1985-03-31T00:00:00Z,Taiwan,Asia
+http://www.wikidata.org/entity/Q100451978,Alyssa Dezek,female,2008-04-24T00:00:00Z,Malaysia,Asia
+http://www.wikidata.org/entity/Q100453071,Jialing Zhang,female,1984-01-01T00:00:00Z,People's Republic of China,Asia
+http://www.wikidata.org/entity/Q100453258,Martha Nakamura,female,1990-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100453268,Mio Takemura,female,1989-01-19T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100453269,Kokoro Maeda,female,2002-06-23T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100453331,Fumiho Kero,female,1945-10-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100453363,Riina Murakami,female,1994-11-26T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100453524,Rena Kodama,female,1999-12-12T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100453564,Kawaguchi Aoi,female,1998-11-26T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100453587,Seina Saito,female,1992-05-30T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100453611,Shikako,female,1988-10-03T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100453620,Yumeno Noda,female,1997-10-25T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100453668,Yuna Nishimura,female,2000-08-04T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100453718,Koharu Asai,female,1998-12-17T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100453744,Mei Hoshizuki,female,2002-04-23T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100453755,Yuinishio,female,1997-07-03T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100453791,Rinka Matsuda,female,2001-12-05T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100453815,Yūko Ogasawara,female,1935-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100453833,Nanami,female,2006-08-03T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100453886,Momo Momose,female,1993-07-15T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454063,Rena Mizusugi,female,2000-04-06T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454081,Aya Akiyoshi,female,1995-05-25T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454102,Asami Adachi,female,1983-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454287,Rin Usami,female,1999-05-16T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454353,Hina Kikuchi,female,2004-10-19T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454425,Lun Uchida,female,1982-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454472,Hiroko Okada,female,1925-01-03T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454474,Hagiko Umezu,female,1904-04-22T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454478,Chiyoko Mimura,female,1903-11-12T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454481,Toshio Takai,female,1902-10-26T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454485,Mina Yamanouchi,female,1900-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454609,Anna Kawabata,female,1980-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454702,Shizuku Tsukino,female,1997-03-15T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454722,Hinata Terayama,female,2001-01-19T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454746,Misuzu Yamada,female,1998-06-10T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454750,Kōji Miura,female,1995-03-28T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454756,Masako Hatanaka,female,1963-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454865,Mei Kodama,female,1999-06-08T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454867,Midori Minamida,female,1948-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454882,Yurika Nakamoto,female,1995-02-04T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100455003,Haruka Ōta,female,2003-10-21T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100455309,Mikie Sasano,female,1984-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100455394,Norma Abu Hassan,female,1960-01-01T00:00:00Z,Lebanon,Asia
+http://www.wikidata.org/entity/Q100488613,Bernadette San Pedro Bayot,female,1957-08-18T00:00:00Z,Philippines,Asia
+http://www.wikidata.org/entity/Q100490359,Asya Hyusisyan,female,1915-01-01T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100491486,Kuralai Uzurova,female,1972-12-17T00:00:00Z,Kazakhstan,Asia
+http://www.wikidata.org/entity/Q100493495,Nina Makino,female,2005-02-27T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100499194,Savitri Sahni,female,1902-09-19T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q100501216,Alzira Sequeira Freitas dos Reis,female,1979-01-15T00:00:00Z,Timor-Leste,Asia
+http://www.wikidata.org/entity/Q100509113,Bilge Tarhan,female,2004-05-20T00:00:00Z,Turkey,Asia
+http://www.wikidata.org/entity/Q100530747,Khaira Ledeyo,female,2000-01-01T00:00:00Z,Vietnam,Asia
+http://www.wikidata.org/entity/Q100535264,Gül Büyükbese Muyan,female,1963-01-01T00:00:00Z,Turkey,Asia
+http://www.wikidata.org/entity/Q100540106,Mor Kalnisky,female,1981-10-18T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q100546653,Nilüfer Kılıçarslan,female,1969-01-01T00:00:00Z,Turkey,Asia
+http://www.wikidata.org/entity/Q100550356,Anula Bulathsinhala,female,1947-09-21T00:00:00Z,Sri Lanka,Asia
+http://www.wikidata.org/entity/Q100553248,Ekaterina Ignatova,female,1968-03-21T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100553334,Hamida Saiduzzafar,female,1921-07-16T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q100555317,Lee Seol,female,1989-01-23T00:00:00Z,South Korea,Asia
+http://www.wikidata.org/entity/Q100567599,Olga Slucker,female,1965-01-14T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100571577,Hadassah Spira Epstein,female,1909-12-30T00:00:00Z,Ottoman Empire,Asia
+http://www.wikidata.org/entity/Q100571955,Yuli Arnon Golan,female,2004-01-01T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q100571968,Geffen Dor Dery,female,2004-01-01T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q100571983,Idan Rakocz,female,2005-01-01T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q100572004,Junliang Lyu,female,2005-01-01T00:00:00Z,People's Republic of China,Asia
+http://www.wikidata.org/entity/Q100572009,He Licheng,female,2004-01-01T00:00:00Z,People's Republic of China,Asia
+http://www.wikidata.org/entity/Q100572016,Noam Dadon,female,2004-01-01T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q100572033,Shalit Noga,female,2004-01-01T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q100572054,Yanan Li,female,2005-01-01T00:00:00Z,People's Republic of China,Asia
+http://www.wikidata.org/entity/Q100572064,Yanfei Chen,female,2004-01-01T00:00:00Z,People's Republic of China,Asia
+http://www.wikidata.org/entity/Q100572079,Yue Yue,female,2005-01-01T00:00:00Z,People's Republic of China,Asia
+http://www.wikidata.org/entity/Q100573485,Diah Pikatan Orissa Putri Hapsari,female,1998-12-08T00:00:00Z,Indonesia,Asia
+http://www.wikidata.org/entity/Q100586013,Mahta Mohammadi,female,1990-04-13T00:00:00Z,Iran,Asia
+http://www.wikidata.org/entity/Q100587764,Patchaploy Rueandaluang,female,1995-09-09T00:00:00Z,Thailand,Asia
+http://www.wikidata.org/entity/Q100587766,Patcharaporn Chantarapadit,female,1998-05-19T00:00:00Z,Thailand,Asia
+http://www.wikidata.org/entity/Q100587877,Pushpa Virendra Ganediwala,female,1969-03-11T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q100594513,Danty Indriastuti Purnamasari,female,1975-06-20T00:00:00Z,Indonesia,Asia
+http://www.wikidata.org/entity/Q100600,Dilek Zaptçıoğlu,female,1959-01-01T00:00:00Z,Turkey,Asia
+http://www.wikidata.org/entity/Q100605067,Sivan Arbel,female,1990-01-01T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q100605218,Pınar Karabulut,female,1987-01-01T00:00:00Z,Turkey,Asia
+http://www.wikidata.org/entity/Q100623651,Jung You-IN,female,1994-05-16T00:00:00Z,South Korea,Asia
+http://www.wikidata.org/entity/Q100626375,Robin Levy-Stevenson,female,1961-01-15T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q100627627,Ilana Rovina,female,1934-02-10T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q100632006,Dana Shatz,female,1967-12-26T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q100656013,Lidia Mikhailova,female,1957-12-12T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100658467,Irina Gerasimenko,female,1961-04-23T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100666018,Gölsinä Miñnexanova,female,1969-01-01T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100668036,Tatiana Franus,female,1957-10-13T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100673260,Najwa Qassab Hassan,female,1943-01-01T00:00:00Z,Syria,Asia
+http://www.wikidata.org/entity/Q100675530,Yeliz Simsek,female,1990-11-08T00:00:00Z,Turkey,Asia
+http://www.wikidata.org/entity/Q100691639,Miho Tanaka,female,1972-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q1006996,Fu Ying,female,1953-01-01T00:00:00Z,People's Republic of China,Asia
+http://www.wikidata.org/entity/Q100699855,Maisa Tsuno,female,1991-10-02T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100706299,Vijayalakshmi Ramanan,female,1924-01-01T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q100710813,Ella Yablonsky,female,1973-01-01T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q100716647,Karen Sader,female,1966-01-01T00:00:00Z,Lebanon,Asia
+http://www.wikidata.org/entity/Q100718807,Rabeya Bhuiyan,female,1944-01-01T00:00:00Z,Bangladesh,Asia
+http://www.wikidata.org/entity/Q100721814,Tarannum Pathan,female,1993-10-08T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q100728314,Nithya Raman,female,1981-07-28T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q100733846,Anushree Roy,female,1965-06-13T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q100737419,Afifah Alia,female,1975-11-16T00:00:00Z,Indonesia,Asia
+http://www.wikidata.org/entity/Q100740610,Mukta Gupta,female,1961-01-01T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q100740646,Vijaya Dabbe,female,1951-06-01T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q100741881,Kim Yeonkyung,female,1975-01-01T00:00:00Z,South Korea,Asia
+http://www.wikidata.org/entity/Q100741899,Prathiba M. Singh,female,1968-07-20T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q100741908,Rekha Palli,female,1963-03-09T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q100742458,Nako Hirasawa,female,1972-08-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100756726,Zinaida Korchagin,female,1913-01-01T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100758355,Rakefet Ziv-Li,female,1968-06-26T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q100767196,Orit Uziel,female,1952-01-01T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q100794150,Lee Soo-dam,female,1999-11-09T00:00:00Z,South Korea,Asia
+http://www.wikidata.org/entity/Q100794612,Jinny Park,female,1998-01-20T00:00:00Z,South Korea,Asia
+http://www.wikidata.org/entity/Q100797850,Miri Varon,female,1944-11-17T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q1007984,Yoshino Takamori,female,1963-11-23T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100800227,Nomi Wischnitzer,female,1925-01-30T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q100801160,Ruthie Vital Gilad,female,1963-01-14T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q100805268,Hong Eui-jeong,female,1982-01-01T00:00:00Z,South Korea,Asia
+http://www.wikidata.org/entity/Q100805331,Voĺha Damanava,female,1958-12-24T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100805992,Fumi Kaneko,female,1991-10-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100806782,Geula Hodes-Palchan,female,1966-08-13T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q100862081,Sayaka Oishi,female,1991-03-11T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100863557,Anu Malhotra,female,1960-01-01T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q1008702,Ghazala Javed,female,1988-01-01T00:00:00Z,Pakistan,Asia
+http://www.wikidata.org/entity/Q100875268,Aya Ōta,female,1962-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100878672,Tomoe Osada,female,1941-02-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100901258,Dalal Salameh,female,1965-10-04T00:00:00Z,State of Palestine,Asia
+http://www.wikidata.org/entity/Q100901446,Dhanwati Chandela,female,1960-01-01T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q100915126,Yeter Göksu,female,1943-01-10T00:00:00Z,Turkey,Asia
+http://www.wikidata.org/entity/Q100921652,Noga Treves,female,1901-01-01T00:00:00Z,Ottoman Empire,Asia
+http://www.wikidata.org/entity/Q100929577,Asya Pereltsvaig,female,1972-01-01T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100935635,Buse Arslan,female,1992-12-29T00:00:00Z,Turkey,Asia
+http://www.wikidata.org/entity/Q100937829,Ya'ara Saks,female,1973-03-09T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q100975173,Sanaa Shebbani,female,1966-01-01T00:00:00Z,Lebanon,Asia
+http://www.wikidata.org/entity/Q100978671,Neda Chamlanian,female,1994-03-07T00:00:00Z,Iran,Asia
+http://www.wikidata.org/entity/Q100978717,Mısra Turp,female,1993-09-25T00:00:00Z,Turkey,Asia
+http://www.wikidata.org/entity/Q100979693,Asha Menon,female,1960-09-17T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q100981276,Fatma Demir,female,1996-05-05T00:00:00Z,Turkey,Asia
+http://www.wikidata.org/entity/Q100989002,Ng Wing Sze,female,1997-01-02T00:00:00Z,British Hong Kong,Asia
+http://www.wikidata.org/entity/Q100989137,Alisa Stadler,female,1914-11-22T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q100994330,Nao Okabe,female,1988-08-28T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100995847,Sun Yi,female,1907-01-01T00:00:00Z,People's Republic of China,Asia
+http://www.wikidata.org/entity/Q100996629,Maya Savir,female,1973-06-16T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q100997927,Vera Zakharova,female,1920-07-12T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100998024,Sofia Khentova,female,1922-06-27T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100998097,Feng Hui,female,1917-09-05T00:00:00Z,Republic of China,Asia
+http://www.wikidata.org/entity/Q100998571,Ruth Mense,female,1933-02-04T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q100999356,Sara Fajira,female,1996-05-03T00:00:00Z,Indonesia,Asia
+http://www.wikidata.org/entity/Q101000941,Jamila Saidam,female,1947-10-25T00:00:00Z,State of Palestine,Asia
+http://www.wikidata.org/entity/Q101001136,Rinat Schnadower,female,1978-09-21T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q101001292,Chisato Tanaka,female,1988-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q101001377,Sultana Firdousi,female,1974-12-11T00:00:00Z,Bangladesh,Asia
+http://www.wikidata.org/entity/Q101002792,Latha Rajavelan,female,1985-11-10T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q1010229,Taeko Nakanishi,female,1931-02-11T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q101022976,Helen Li,female,1929-01-01T00:00:00Z,People's Republic of China,Asia
+http://www.wikidata.org/entity/Q101023582,Jyoti Singh,female,1966-10-01T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q101029099,Kamila Tyabji,female,1918-02-14T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q101031750,Alin Taşçıyan,female,1969-01-01T00:00:00Z,Turkey,Asia
+http://www.wikidata.org/entity/Q101033432,Yael Shaham,female,1957-01-01T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q101033543,Mimma Chernovita,female,1974-11-11T00:00:00Z,Indonesia,Asia
+http://www.wikidata.org/entity/Q101048055,Tsfira Grebelsky-Lichtman,female,1971-01-24T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q101048930,Motoka Arai,female,1974-07-04T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q101048946,Militsa Kazarinova,female,1907-08-26T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q101051116,Melis Behlil,female,1974-01-01T00:00:00Z,Turkey,Asia
+http://www.wikidata.org/entity/Q1010591,Kumi Sakuma,female,1976-11-02T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q101061489,Huang Mei-chien,female,1998-06-13T00:00:00Z,Taiwan,Asia
+http://www.wikidata.org/entity/Q101063208,Aniqah Gaffoor,female,2004-01-23T00:00:00Z,Sri Lanka,Asia
+http://www.wikidata.org/entity/Q101064387,Cansever,female,1967-07-08T00:00:00Z,Turkey,Asia
+http://www.wikidata.org/entity/Q101064432,Audrey Donnithorne,female,1922-11-27T00:00:00Z,Republic of China,Asia
+http://www.wikidata.org/entity/Q1010648,Yumi Shimura,female,1982-11-30T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q101067870,Shi Yue,female,1999-04-17T00:00:00Z,People's Republic of China,Asia
+http://www.wikidata.org/entity/Q101067874,Bella Shaier,female,1957-03-10T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q101068038,Misaki Emura,female,1998-11-20T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q101068116,Fatimah Hasan Delais,female,1915-06-13T00:00:00Z,Indonesia,Asia
+http://www.wikidata.org/entity/Q101069120,Amal Jadou,female,1972-09-28T00:00:00Z,State of Palestine,Asia
+http://www.wikidata.org/entity/Q101069726,Galina Lomanova,female,1920-11-11T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q101071257,Valancina Hiruć-Rusakievič,female,1953-10-18T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q101071363,Bhabini Mahato,female,1915-01-01T00:00:00Z,British Raj,Asia
+http://www.wikidata.org/entity/Q101072261,Zoya Korcheva,female,1922-06-01T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q101077878,Ruth Ben-Ishai,female,1923-03-07T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q101084357,Vital Kats,female,1999-11-18T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q101084358,Yanting Ma,female,1993-11-25T00:00:00Z,People's Republic of China,Asia
+http://www.wikidata.org/entity/Q101084932,Sara Kagami,female,2000-02-10T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q101087922,Dubai Abulhoul,female,1996-01-01T00:00:00Z,United Arab Emirates,Asia
+http://www.wikidata.org/entity/Q101088184,Yoshimi Yokoyama,female,1975-06-24T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q101094306,Hikari Aozora,female,1999-01-08T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q101095038,Antoinette Halas Sedin,female,2000-01-01T00:00:00Z,State of Palestine,Asia
+http://www.wikidata.org/entity/Q101095873,Eva Ranaweera,female,1924-01-01T00:00:00Z,Sri Lanka,Asia
+http://www.wikidata.org/entity/Q101096381,Zhanerke Perme,female,1996-07-12T00:00:00Z,Kazakhstan,Asia
+http://www.wikidata.org/entity/Q101096570,Nazlıcan Kılıç,female,1995-11-06T00:00:00Z,Turkey,Asia
+http://www.wikidata.org/entity/Q101096817,Liu Chu-Ping,female,1993-12-21T00:00:00Z,Taiwan,Asia
+http://www.wikidata.org/entity/Q101097338,Yekaterina Migunova,female,1912-11-06T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q101103761,Miriam Nevo,female,1917-11-25T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q101103818,Rin Kawana,female,2003-12-06T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q101103820,Shion Tamenaga,female,2004-02-09T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q101104149,Pratibha Nandakumar,female,1955-01-25T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q101104341,Ani Yeghiazaryan,female,1985-05-14T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q101108241,Erum Akhtar,female,1982-08-16T00:00:00Z,Pakistan,Asia
+http://www.wikidata.org/entity/Q101109027,Heili Sepp,female,1975-08-02T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q101109898,Javalakar Uma Devi,female,1959-09-26T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q101112402,Han Hye-song,female,1988-08-02T00:00:00Z,North Korea,Asia
+http://www.wikidata.org/entity/Q101112651,Hong Mei-ling,female,1940-01-01T00:00:00Z,Taiwan under Japanese rule,Asia
+http://www.wikidata.org/entity/Q101113280,Lana Jundi,female,1977-11-25T00:00:00Z,Syria,Asia
+http://www.wikidata.org/entity/Q101113313,Otokata Higashi,female,1923-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q101116092,Sunita Agarwal,female,1966-04-20T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q101116094,Gina Shimborsky,female,1946-01-01T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q101124233,Ayala Gordon,female,1930-01-01T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q101136948,Heidy Quah,female,1901-01-01T00:00:00Z,Malaysia,Asia
+http://www.wikidata.org/entity/Q101141527,Nova Firoze,female,1989-02-16T00:00:00Z,Bangladesh,Asia
+http://www.wikidata.org/entity/Q101142156,Gian Gloria,female,1990-02-17T00:00:00Z,Philippines,Asia
+http://www.wikidata.org/entity/Q101147089,Fadia Stella,female,1974-12-30T00:00:00Z,Lebanon,Asia
+http://www.wikidata.org/entity/Q101161002,Karina,female,2000-04-11T00:00:00Z,South Korea,Asia
+http://www.wikidata.org/entity/Q101161168,Giselle,female,2000-10-30T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q101161289,Winter,female,2001-01-01T00:00:00Z,South Korea,Asia
+http://www.wikidata.org/entity/Q101161499,Ningning,female,2002-10-23T00:00:00Z,People's Republic of China,Asia
+http://www.wikidata.org/entity/Q101183227,Rekha Dikshit,female,1959-08-10T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q101199736,Riju Murahoshi,female,2002-10-19T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q101199738,Moa Serizawa,female,2006-01-18T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q101199856,Minami Ishikawa,female,1996-08-04T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q101199886,Ikuko Samizo,female,1974-01-17T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q101199910,Sayako Nomura,female,1997-09-25T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q101200026,Mizuho Uchida,female,1989-11-10T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q101200087,Phen Savny,female,1962-12-12T00:00:00Z,Cambodia,Asia
+http://www.wikidata.org/entity/Q101200178,Yuzuna Nagase,female,2015-06-13T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q101200208,Nanoha Aoyama,female,2008-09-10T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q101200250,Yumiko Hara,female,1945-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q101200306,Mirai Tachibana,female,2000-03-05T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q101200331,Ema Itō,female,1997-07-31T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q101200406,Yuuka Tateishi,female,1998-03-21T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q101200476,Keiko Saito,female,1950-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q101200544,Shioka Ishizuka,female,1997-07-03T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q101200599,Ema Futaba,female,1998-08-07T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q101200609,Sayaka Nitori,female,1993-09-28T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q101204020,Shirli Levi,female,1996-05-12T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q101204585,Honey Lacuna,female,1965-05-06T00:00:00Z,Philippines,Asia
+http://www.wikidata.org/entity/Q101207120,Gyeongmin,female,2000-05-10T00:00:00Z,South Korea,Asia
+http://www.wikidata.org/entity/Q101207563,Eunbyeol,female,1998-05-05T00:00:00Z,South Korea,Asia
+http://www.wikidata.org/entity/Q101208711,Rakuko Naito,female,1937-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q101210035,Vimla Virmani,female,1919-04-12T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q101213233,Margaret Hsing,female,1944-01-01T00:00:00Z,People's Republic of China,Asia
+http://www.wikidata.org/entity/Q101218062,B. Venkataramiah Nagarathna,female,1962-10-30T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q101229041,Ruqayya al-Mhareb,female,1962-01-01T00:00:00Z,Saudi Arabia,Asia
+http://www.wikidata.org/entity/Q101231450,Negin Altooni,female,2001-03-01T00:00:00Z,Iran,Asia
+http://www.wikidata.org/entity/Q101232016,Moniq Crasivaya,female,1998-06-11T00:00:00Z,Indonesia,Asia
+http://www.wikidata.org/entity/Q101232142,Asiye Nurten,female,1961-03-26T00:00:00Z,Turkey,Asia
+http://www.wikidata.org/entity/Q101239209,Nataliya Zhvanetsky,female,1966-04-16T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q101242846,Alya Bakhshal,female,1978-06-03T00:00:00Z,Pakistan,Asia
+http://www.wikidata.org/entity/Q101243324,Komal Shahani,female,1981-12-09T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q101243396,Dian Yasmina Fajri,female,1971-01-09T00:00:00Z,Indonesia,Asia
+http://www.wikidata.org/entity/Q101243559,Manju Rani Chauhan,female,1966-08-29T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q101244278,Ánh Hoa,female,1941-01-01T00:00:00Z,Vietnam,Asia
+http://www.wikidata.org/entity/Q101244303,Etsuko Sonobe,female,1955-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q101244735,Dwi Septiawati,female,1968-09-14T00:00:00Z,Indonesia,Asia
+http://www.wikidata.org/entity/Q101246190,Najat Abdul Samad,female,1967-01-01T00:00:00Z,Syria,Asia
+http://www.wikidata.org/entity/Q101246219,Lamia Al Solh,female,1937-08-04T00:00:00Z,Lebanon,Asia
+http://www.wikidata.org/entity/Q101246412,Lidia Gasparyan,female,1923-01-01T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q101246538,Rosa Minasyan,female,1922-01-01T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q101246751,Maro Hasratyan,female,1922-01-01T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q101246858,Amalya Bayramyan,female,1920-01-01T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q101251404,Samapti Chatterjee,female,1958-12-13T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q101252332,Svetlana Grigoryevna Nesterenko,female,1947-03-24T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q101252383,Mariam Harutyunyan,female,1925-10-17T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q101252521,Lianne Witkin,female,1996-01-19T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q101252557,Yanina Kuskova,female,2001-12-11T00:00:00Z,Uzbekistan,Asia
+http://www.wikidata.org/entity/Q101252565,Anna Kulikova,female,2001-03-19T00:00:00Z,Uzbekistan,Asia
+http://www.wikidata.org/entity/Q1012622,Kwong Siu-hing,female,1929-01-01T00:00:00Z,People's Republic of China,Asia
+http://www.wikidata.org/entity/Q1012790,Satoko Yamano,female,1963-08-02T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q101283567,Lee Yun-seo,female,2003-03-05T00:00:00Z,South Korea,Asia
+http://www.wikidata.org/entity/Q101291607,Jade Hadas Sakori,female,1990-05-27T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q101310490,Mridula Bhatkar,female,1957-05-28T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q101392041,İpek Er,female,2002-01-01T00:00:00Z,Turkey,Asia
+http://www.wikidata.org/entity/Q101414548,Zeynep Ersan,female,1967-01-06T00:00:00Z,Turkey,Asia
+http://www.wikidata.org/entity/Q101414708,Zara Leola,female,2006-08-16T00:00:00Z,Indonesia,Asia
+http://www.wikidata.org/entity/Q101419084,Anna Marikyan,female,1941-09-23T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q101419168,Mini Sharma,female,1999-12-08T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q101420493,Nashwa Zahira,female,2005-02-03T00:00:00Z,Indonesia,Asia
+http://www.wikidata.org/entity/Q10142171,Dorje Yudon Yuthok,female,1912-01-12T00:00:00Z,Taiwan,Asia
+http://www.wikidata.org/entity/Q101423071,Tahira Kashyap,female,1983-01-21T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q101423152,Rachel Hirsch,female,1937-01-01T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q101424728,Sirush Machkalyan,female,1917-01-01T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q101424739,Sugandha Kumari,female,1996-08-02T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q101424744,Sumi Aktar,female,1997-10-08T00:00:00Z,Bangladesh,Asia
+http://www.wikidata.org/entity/Q101425422,Huang Lili,female,1977-01-01T00:00:00Z,People's Republic of China,Asia
+http://www.wikidata.org/entity/Q101429316,Gaitri Issar Kumar,female,1962-06-20T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q101429454,Fang Ruoxi,female,2002-03-21T00:00:00Z,People's Republic of China,Asia
+http://www.wikidata.org/entity/Q101429537,Park Jiyoung,female,1990-03-03T00:00:00Z,South Korea,Asia
+http://www.wikidata.org/entity/Q101429552,Kim Nokyeong,female,2002-09-15T00:00:00Z,South Korea,Asia
+http://www.wikidata.org/entity/Q101445885,Tang Jiawen,female,2004-02-18T00:00:00Z,People's Republic of China,Asia
+http://www.wikidata.org/entity/Q101453989,Tal Moran Yorovich,female,1981-06-28T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q101456052,Pratibha Rani,female,1956-08-25T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q101462099,Sara Burak,female,1922-01-01T00:00:00Z,Turkey,Asia
+http://www.wikidata.org/entity/Q101468978,Shifra Milstein,female,1939-06-01T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q101470899,Dong Feifei,female,1982-01-01T00:00:00Z,People's Republic of China,Asia
+http://www.wikidata.org/entity/Q101476347,Svetlana Chervonnaya,female,1936-06-07T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q101500216,Shazia Parveen,female,1990-01-01T00:00:00Z,Pakistan,Asia
+http://www.wikidata.org/entity/Q101515753,N.I. Shirkina,female,1951-01-01T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q101526088,Sunaina Kejriwal,female,1971-01-01T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q101537664,Javahir Isgandarova,female,1914-03-03T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q101542252,Maide Er,female,1997-06-11T00:00:00Z,Turkey,Asia
+http://www.wikidata.org/entity/Q101542371,Yu Suxian,female,1931-07-01T00:00:00Z,People's Republic of China,Asia
+http://www.wikidata.org/entity/Q1015429,Xu Yuan,female,1985-11-17T00:00:00Z,People's Republic of China,Asia
+http://www.wikidata.org/entity/Q101545036,Nina Belobrova,female,1922-01-09T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q101546092,Miriam Engel,female,1983-11-13T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q101554961,Liu Yichi,female,1989-11-01T00:00:00Z,People's Republic of China,Asia
+http://www.wikidata.org/entity/Q101555039,Susanti Dewi,female,1981-02-25T00:00:00Z,Indonesia,Asia
+http://www.wikidata.org/entity/Q101555549,Jun Ye-jin,female,1994-04-21T00:00:00Z,South Korea,Asia
+http://www.wikidata.org/entity/Q101564486,Rina Ouziel Blumenthal,female,1944-01-01T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q1015701,Sister Mayo,female,1974-07-26T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q101575908,Maria Lacruna,female,2000-01-01T00:00:00Z,Timor-Leste,Asia
+http://www.wikidata.org/entity/Q101579977,Yafah Hauzer,female,1944-11-10T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q101580391,Rina Havron,female,1925-08-28T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q101583695,Olyria Roy,female,1987-11-18T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q101583869,Florence Giovani,female,1991-11-07T00:00:00Z,Indonesia,Asia
+http://www.wikidata.org/entity/Q101584348,Elina Mazur,female,1965-06-20T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q101584452,Marina Dzhigarkhanyan,female,1954-02-23T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q101586282,Rukhsana Parveen,female,1992-01-01T00:00:00Z,Pakistan,Asia
+http://www.wikidata.org/entity/Q101606971,Eranga Rashila Dulakshi,female,1991-03-21T00:00:00Z,Sri Lanka,Asia
+http://www.wikidata.org/entity/Q1016074,Umi Tenjin,female,1950-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q101616064,Pushpa Kumari Kohli,female,1990-01-01T00:00:00Z,Pakistan,Asia
+http://www.wikidata.org/entity/Q101625823,Ruthy Pribar,female,1982-07-02T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q101646214,Fatema Chowdhury Paru,female,1944-08-04T00:00:00Z,Bangladesh,Asia
+http://www.wikidata.org/entity/Q101652299,Wakana Matsumoto,female,2007-09-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q101658477,Tharanga Vinodani,female,1984-03-15T00:00:00Z,Sri Lanka,Asia
+http://www.wikidata.org/entity/Q1016653,Ochirbatyn Burmaa,female,1982-05-28T00:00:00Z,Mongolia,Asia
+http://www.wikidata.org/entity/Q101667388,Shardha Ghule,female,1991-06-03T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q101691188,Tapasi Mondal,female,1972-03-01T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q101691603,Merav Nakar-Sadi,female,1970-07-29T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q101706126,Shyamali Pradhan,female,1972-08-02T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q1017066,Chiaki,female,1971-10-26T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q101714359,Rojjana Raklao,female,1993-08-11T00:00:00Z,Thailand,Asia
+http://www.wikidata.org/entity/Q1017184,Yuan Xuefen,female,1922-03-26T00:00:00Z,People's Republic of China,Asia
+http://www.wikidata.org/entity/Q101721515,Amrin Qureshi,female,1998-01-01T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q1017226,Arisa Ogasawara,female,1980-09-30T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q1017235,Kanako Mitsuhashi,female,1978-01-10T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q101724086,Edna Noy,female,1950-02-17T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q101728578,Reva Khetrapal,female,1952-09-23T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q101728614,Maung Maung San,female,1946-12-29T00:00:00Z,Myanmar,Asia
+http://www.wikidata.org/entity/Q1017313,Yurika Hino,female,1963-01-16T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q101735986,Roza Kuleshova,female,1940-05-29T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q101755059,Hala Abou Hassira,female,1976-10-26T00:00:00Z,State of Palestine,Asia
+http://www.wikidata.org/entity/Q101755252,Olga Bordashevskaya,female,1919-01-01T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q101757,Jutta Oesterle-Schwerin,female,1941-02-25T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q101758448,Zirlyfera Jamil,female,1972-02-15T00:00:00Z,Indonesia,Asia
+http://www.wikidata.org/entity/Q101758984,Meutia Geumala,female,1974-03-15T00:00:00Z,Indonesia,Asia
+http://www.wikidata.org/entity/Q101777750,Shahnaz Sumi,female,2001-04-18T00:00:00Z,Bangladesh,Asia
+http://www.wikidata.org/entity/Q101802184,Jilan Abdul Majid,female,1969-08-25T00:00:00Z,State of Palestine,Asia
+http://www.wikidata.org/entity/Q101807589,Zohra Yusuf,female,1950-05-02T00:00:00Z,Pakistan,Asia
+http://www.wikidata.org/entity/Q101807656,Arisa Kimishima,female,1995-12-23T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q101814723,Maham Aftab,female,1994-11-05T00:00:00Z,Pakistan,Asia
+http://www.wikidata.org/entity/Q101816507,Kumud Pawde,female,1938-01-01T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q101818801,Aresta Bakhishova,female,1989-05-04T00:00:00Z,Azerbaijan,Asia
+http://www.wikidata.org/entity/Q101821937,Yael Elkana,female,1992-11-20T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q101825022,Dvora Silverstein,female,1948-06-11T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q101826202,Annies Kanmani Joy,female,1985-04-23T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q101832212,Anujin Jinjiibadam,female,2002-12-02T00:00:00Z,Mongolia,Asia
+http://www.wikidata.org/entity/Q101839948,Carmit Sahar,female,1967-04-24T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q101843237,Eylon Nuphar,female,1971-02-11T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q1018468,Oyuki Konno,female,1965-06-02T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q101846946,Amina Toyoda,female,1992-01-01T00:00:00Z,Pakistan,Asia
+http://www.wikidata.org/entity/Q101856641,Tang Xin,female,2001-01-07T00:00:00Z,People's Republic of China,Asia
+http://www.wikidata.org/entity/Q101858302,Zahia Qaddoura,female,1920-01-01T00:00:00Z,French mandate of Lebanon,Asia
+http://www.wikidata.org/entity/Q101858440,Shlomit Miron,female,1962-05-18T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q101866327,Shlomit Rapaport Meron,female,1936-10-15T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q10186907,Song Tianyi,female,1969-03-07T00:00:00Z,People's Republic of China,Asia
+http://www.wikidata.org/entity/Q1018699,Vidya Malvade,female,1972-03-02T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q101900297,Yang Tzu-Hsuan,female,2002-12-24T00:00:00Z,Taiwan,Asia
+http://www.wikidata.org/entity/Q101910956,Marcela London,female,1941-09-01T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q101919082,Lu Yu-Hua,female,1997-10-16T00:00:00Z,Taiwan,Asia
+http://www.wikidata.org/entity/Q101919894,Huang Yu-Teng,female,2007-10-29T00:00:00Z,Taiwan,Asia
+http://www.wikidata.org/entity/Q101921954,Lin Xiaotong,female,1997-02-15T00:00:00Z,Taiwan,Asia
+http://www.wikidata.org/entity/Q101929699,Hadas Leibovich,female,1971-08-27T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q101932661,Hadara Lazar,female,1935-10-31T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q101938453,Pai Hsin-Hui,female,2001-04-12T00:00:00Z,Taiwan,Asia
+http://www.wikidata.org/entity/Q101940268,Shu Ching-Wen,female,2005-06-07T00:00:00Z,Taiwan,Asia
+http://www.wikidata.org/entity/Q101941099,Lin Yu-Ting,female,2006-07-23T00:00:00Z,Taiwan,Asia
+http://www.wikidata.org/entity/Q101941609,Liu Yi-Fang,female,1998-05-08T00:00:00Z,Taiwan,Asia
+http://www.wikidata.org/entity/Q101974287,Bushra Qayyum,female,1995-07-11T00:00:00Z,Pakistan,Asia
+http://www.wikidata.org/entity/Q101977824,Ora Goldenberg,female,1940-01-01T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q101978662,Mariam Karapetyan,female,1987-08-09T00:00:00Z,Armenia,Asia
+http://www.wikidata.org/entity/Q101989467,Aruna Suresh,female,1950-02-19T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q101996742,Sarangi Silva,female,1996-10-27T00:00:00Z,Sri Lanka,Asia
+http://www.wikidata.org/entity/Q102004772,Huma Javeed,female,1993-05-06T00:00:00Z,Pakistan,Asia
+http://www.wikidata.org/entity/Q102012916,Sukaina Khan,female,1996-05-28T00:00:00Z,Pakistan,Asia
+http://www.wikidata.org/entity/Q102014966,Hana'a Shawa,female,1968-09-03T00:00:00Z,State of Palestine,Asia
+http://www.wikidata.org/entity/Q102020523,Sehra Akram,female,1995-10-01T00:00:00Z,Pakistan,Asia
+http://www.wikidata.org/entity/Q102033142,Zarina Jamal,female,1970-01-01T00:00:00Z,Pakistan,Asia
+http://www.wikidata.org/entity/Q102033388,Jin-Ah Ahn,female,1969-01-01T00:00:00Z,South Korea,Asia
+http://www.wikidata.org/entity/Q102035876,Humaira Ashiq,female,1989-01-01T00:00:00Z,Pakistan,Asia
+http://www.wikidata.org/entity/Q102035966,Gökçe Altay,female,1975-01-01T00:00:00Z,Turkey,Asia
+http://www.wikidata.org/entity/Q102036226,Edna Kaplan-Hagler,female,1942-01-01T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q102036344,Lyudmila Perevedentseva,female,1936-02-18T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q102036355,Kulsoom Hazara,female,1988-09-04T00:00:00Z,Pakistan,Asia

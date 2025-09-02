@@ -1,0 +1,501 @@
+person,person_label,genders,dobs,countries,continents
+http://www.wikidata.org/entity/Q10000001,Tatyana Kolotilshchikova,female,1937-04-11T00:00:00Z,Russia,Europe
+http://www.wikidata.org/entity/Q10000101,Eliška Hladilová,female,1993-01-23T00:00:00Z,Czech Republic,Europe
+http://www.wikidata.org/entity/Q1000023,Wiltraut Rupp-von Brünneck,female,1912-08-07T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q1000044,Sylvia Bayr-Klimpfinger,female,1907-08-01T00:00:00Z,Austria,Europe
+http://www.wikidata.org/entity/Q1000089,Ulrike Scheel,female,2000-01-01T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100011609,Nadia Boule,female,1984-10-01T00:00:00Z,Greece,Europe
+http://www.wikidata.org/entity/Q1000204,Renee Goddard,female,1923-01-01T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q1000231,Elisabeth Lange,female,1900-07-07T00:00:00Z,German Reich,Europe
+http://www.wikidata.org/entity/Q1000310,Isabella Kossina,female,1962-08-18T00:00:00Z,Austria,Europe
+http://www.wikidata.org/entity/Q1000318,Florina Gillnik,female,1958-04-14T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100044214,Hédi Bergl,female,1911-09-08T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q1000464,Evelin Ferencsik,female,1989-03-20T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q1000513,Anna Ferenczi,female,1972-09-23T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q100051867,Danièle Roy,female,1921-11-11T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q1000542,Christina Kauschke,female,1964-01-01T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100054253,Prune de Maistre,female,1978-01-01T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q1000575,Júlia Ferenczy,female,1909-04-03T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q1000619,Sonja Gerstner,female,1952-06-13T00:00:00Z,German Democratic Republic,Europe
+http://www.wikidata.org/entity/Q1000622,Zsuzsa Ferge,female,1931-04-25T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q100063,Ragnhild Haga,female,1991-02-12T00:00:00Z,Norway,Europe
+http://www.wikidata.org/entity/Q100088080,Jackie van Oppen,female,1961-01-01T00:00:00Z,Kingdom of the Netherlands,Europe
+http://www.wikidata.org/entity/Q100089913,Lita Soler Arimon,female,1917-01-01T00:00:00Z,Spain,Europe
+http://www.wikidata.org/entity/Q1000983,Heike M. Goetze,female,1978-01-01T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q1001088,Sonia Farke,female,1969-01-06T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100109193,Princess Joséphine of Belgium,female,2003-10-17T00:00:00Z,Belgium,Europe
+http://www.wikidata.org/entity/Q1001145,La Lupa,female,1947-02-09T00:00:00Z,Switzerland,Europe
+http://www.wikidata.org/entity/Q100115819,Miriam Fontaine,female,1988-03-30T00:00:00Z,Austria,Europe
+http://www.wikidata.org/entity/Q100121326,Elena Kafalieva,female,1940-12-06T00:00:00Z,Bulgaria,Europe
+http://www.wikidata.org/entity/Q100135511,Beatriz García Trillo,female,1960-01-01T00:00:00Z,Spain,Europe
+http://www.wikidata.org/entity/Q100136956,Annie Gay,female,1945-06-27T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100137296,Beatrice Vendramin,female,2000-06-15T00:00:00Z,Italy,Europe
+http://www.wikidata.org/entity/Q100137671,Fotinì Peluso,female,1999-01-01T00:00:00Z,Italy,Europe
+http://www.wikidata.org/entity/Q100137675,Hildegarde Vermeire,female,1947-03-01T00:00:00Z,Belgium,Europe
+http://www.wikidata.org/entity/Q100137694,Christina Kyriakou,female,1990-11-26T00:00:00Z,Cyprus,Europe
+http://www.wikidata.org/entity/Q100137695,Gerda Schouten,female,1950-12-23T00:00:00Z,Kingdom of the Netherlands,Europe
+http://www.wikidata.org/entity/Q100137741,Iren Gal,female,1950-12-08T00:00:00Z,Yugoslavia,Europe
+http://www.wikidata.org/entity/Q100137836,Mirjana Maksimović,female,1954-03-07T00:00:00Z,Serbia,Europe
+http://www.wikidata.org/entity/Q100138184,Elsa Aschim,female,1928-08-18T00:00:00Z,Norway,Europe
+http://www.wikidata.org/entity/Q100138185,Katrine Alfsnes,female,1986-03-24T00:00:00Z,Norway,Europe
+http://www.wikidata.org/entity/Q100138188,Kari Steffensen,female,1929-01-04T00:00:00Z,Norway,Europe
+http://www.wikidata.org/entity/Q100138205,Gro Hege Cleveland,female,1969-12-27T00:00:00Z,Norway,Europe
+http://www.wikidata.org/entity/Q100138219,Wenche Nystad,female,1952-03-13T00:00:00Z,Norway,Europe
+http://www.wikidata.org/entity/Q100138223,Elisabeth Magnus,female,1953-05-04T00:00:00Z,Norway,Europe
+http://www.wikidata.org/entity/Q100138226,Ina Garvik,female,1960-07-12T00:00:00Z,Norway,Europe
+http://www.wikidata.org/entity/Q100138241,Karin Serres,female,1967-02-07T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100138413,Ioustina Matsiasek,female,1988-10-30T00:00:00Z,Greece,Europe
+http://www.wikidata.org/entity/Q100139328,Deine Cousine,female,1986-04-23T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100139511,Esperanza Romero,female,1956-01-01T00:00:00Z,Spain,Europe
+http://www.wikidata.org/entity/Q100139895,Riina Tanskanen,female,1998-01-01T00:00:00Z,Finland,Europe
+http://www.wikidata.org/entity/Q1001419,Ilona Filó-Fischer,female,1910-02-17T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q100142126,Bjørg Langseth Valen,female,1948-08-28T00:00:00Z,Norway,Europe
+http://www.wikidata.org/entity/Q100144347,Elena Ilieva,female,1950-07-08T00:00:00Z,Bulgaria,Europe
+http://www.wikidata.org/entity/Q100144356,Alessia Scortechini,female,1997-02-11T00:00:00Z,Italy,Europe
+http://www.wikidata.org/entity/Q100144388,Lilija Jankova,female,1951-03-24T00:00:00Z,Bulgaria,Europe
+http://www.wikidata.org/entity/Q100144423,Sonja Simova,female,1951-01-18T00:00:00Z,Bulgaria,Europe
+http://www.wikidata.org/entity/Q100144477,Sylvie Franzen,female,1950-07-11T00:00:00Z,Kingdom of the Netherlands,Europe
+http://www.wikidata.org/entity/Q100144486,Élise Ventre,female,1973-01-12T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100144489,Aniko Deak,female,1950-10-11T00:00:00Z,Romania,Europe
+http://www.wikidata.org/entity/Q100144515,Karin Aichhorn,female,1950-03-23T00:00:00Z,Austria,Europe
+http://www.wikidata.org/entity/Q100144533,Johanna-Leontina Aspeslagh,female,1952-01-18T00:00:00Z,Belgium,Europe
+http://www.wikidata.org/entity/Q100144596,Eugenia Salcu,female,1950-07-02T00:00:00Z,Romania,Europe
+http://www.wikidata.org/entity/Q100144659,Ecaterina Vig,female,1950-03-31T00:00:00Z,Romania,Europe
+http://www.wikidata.org/entity/Q100144678,Bruna Pecciarini,female,1926-01-01T00:00:00Z,Italy,Europe
+http://www.wikidata.org/entity/Q100144689,Lenka Trajkovski,female,1950-09-02T00:00:00Z,Yugoslavia,Europe
+http://www.wikidata.org/entity/Q100144721,Gordana Janjić,female,1952-01-22T00:00:00Z,Serbia,Europe
+http://www.wikidata.org/entity/Q100144745,Priya Blackburn,female,1995-10-12T00:00:00Z,United Kingdom,Europe
+http://www.wikidata.org/entity/Q100144762,Snežana Šipka,female,1950-11-03T00:00:00Z,Serbia,Europe
+http://www.wikidata.org/entity/Q100144813,Colette Herzog,female,1923-10-25T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100145615,Denka Katić,female,1953-02-22T00:00:00Z,Yugoslavia,Europe
+http://www.wikidata.org/entity/Q100145815,Maria Meijll,female,1950-09-03T00:00:00Z,Kingdom of the Netherlands,Europe
+http://www.wikidata.org/entity/Q100145817,Androniki Drakou,female,1965-12-09T00:00:00Z,Greece,Europe
+http://www.wikidata.org/entity/Q100145874,Margreet van Putten,female,1953-08-09T00:00:00Z,Kingdom of the Netherlands,Europe
+http://www.wikidata.org/entity/Q100145930,Petra van der Burg,female,1950-05-24T00:00:00Z,Kingdom of the Netherlands,Europe
+http://www.wikidata.org/entity/Q100145961,Marja Kooiman,female,1954-02-19T00:00:00Z,Kingdom of the Netherlands,Europe
+http://www.wikidata.org/entity/Q100146048,Brigitta Suchanek,female,1953-11-04T00:00:00Z,Austria,Europe
+http://www.wikidata.org/entity/Q100146053,Monica Ptacnik,female,1953-04-16T00:00:00Z,Austria,Europe
+http://www.wikidata.org/entity/Q100146057,Gabriela Trmal,female,1952-09-14T00:00:00Z,Austria,Europe
+http://www.wikidata.org/entity/Q100146064,Elisabeth Mayrhofer,female,1953-08-11T00:00:00Z,Austria,Europe
+http://www.wikidata.org/entity/Q100146129,Maria Lansink,female,1957-07-01T00:00:00Z,Kingdom of the Netherlands,Europe
+http://www.wikidata.org/entity/Q100146494,Edibe Gölgeli,female,1978-06-14T00:00:00Z,Switzerland,Europe
+http://www.wikidata.org/entity/Q100146623,Ilda Aurora Pinheiro de Moura Machado,female,1918-12-30T00:00:00Z,Portugal,Europe
+http://www.wikidata.org/entity/Q100146626,Maeve Gilchrist,female,1985-01-01T00:00:00Z,United Kingdom,Europe
+http://www.wikidata.org/entity/Q100146628,Marjorie Thomson,female,1913-10-13T00:00:00Z,United Kingdom,Europe
+http://www.wikidata.org/entity/Q100146632,Salma Samar Damluji,female,1954-01-01T00:00:00Z,United Kingdom,Europe
+http://www.wikidata.org/entity/Q100146688,Wang Henei,female,1912-01-01T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100147969,Thea Christodoulidou,female,1970-11-24T00:00:00Z,Cyprus,Europe
+http://www.wikidata.org/entity/Q100148019,Wanda Bendjelloul,female,1975-09-10T00:00:00Z,Sweden,Europe
+http://www.wikidata.org/entity/Q100148202,Nasty Sozonik,female,1994-08-31T00:00:00Z,Russia,Europe
+http://www.wikidata.org/entity/Q100148235,Grazia Honegger Fresco,female,1929-01-06T00:00:00Z,Kingdom of Italy,Europe
+http://www.wikidata.org/entity/Q100148261,Susana Carro Fernández,female,1971-01-01T00:00:00Z,Spain,Europe
+http://www.wikidata.org/entity/Q100148353,Jacqueline Goddet,female,1921-08-16T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100148958,Loredana Furno,female,1941-01-01T00:00:00Z,Kingdom of Italy,Europe
+http://www.wikidata.org/entity/Q100149335,Nóra Molnár G.,female,1992-09-14T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q100149427,Claire Saillard,female,1969-05-30T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100149484,Sabina Šurjan,female,2000-04-10T00:00:00Z,Serbia,Europe
+http://www.wikidata.org/entity/Q100149496,Valeska Böttcher,female,1967-01-01T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100149498,Christine Lüders,female,1953-01-01T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100151427,Marina Marazza,female,1957-07-06T00:00:00Z,Italy,Europe
+http://www.wikidata.org/entity/Q100151434,Sandra Kooij,female,1958-01-01T00:00:00Z,Kingdom of the Netherlands,Europe
+http://www.wikidata.org/entity/Q1001515,Petra Olli,female,1994-06-05T00:00:00Z,Finland,Europe
+http://www.wikidata.org/entity/Q100151554,Tatyana Vlasova,female,1943-01-05T00:00:00Z,Russia,Europe
+http://www.wikidata.org/entity/Q100151906,Martina Rosenberg,female,1970-01-01T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100151973,Eva Testor,female,1967-01-01T00:00:00Z,Austria,Europe
+http://www.wikidata.org/entity/Q100151979,Ann Boglind,female,1946-01-01T00:00:00Z,Sweden,Europe
+http://www.wikidata.org/entity/Q100152046,Aleksandra Sambor,female,1962-09-29T00:00:00Z,Poland,Europe
+http://www.wikidata.org/entity/Q100152190,Laurence Baldetti,female,1982-01-01T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100152709,Inge Meier,female,1917-09-27T00:00:00Z,German Reich,Europe
+http://www.wikidata.org/entity/Q100152797,Ineke Gutterswijk-Luiten,female,1958-01-01T00:00:00Z,Kingdom of the Netherlands,Europe
+http://www.wikidata.org/entity/Q100152800,Noemí Dulsat Ortiz,female,1973-11-23T00:00:00Z,Spain,Europe
+http://www.wikidata.org/entity/Q100152956,Irén Bartos,female,1917-12-15T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q100153071,Ciara Charteris,female,1995-08-03T00:00:00Z,United Kingdom,Europe
+http://www.wikidata.org/entity/Q100153298,Lise Busk-Jensen,female,1944-11-01T00:00:00Z,Kingdom of Denmark,Europe
+http://www.wikidata.org/entity/Q100154208,Marga Philip,female,1900-03-18T00:00:00Z,German Reich,Europe
+http://www.wikidata.org/entity/Q100154444,Denise Zimmermann,female,1975-11-25T00:00:00Z,Switzerland,Europe
+http://www.wikidata.org/entity/Q100154820,Gabriella Uhl,female,1970-01-01T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q100154868,Marie-Françoise Allain,female,1945-01-01T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100154995,Linda Kebbab,female,1981-01-01T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100156267,Aurora Giovinazzo,female,2002-04-18T00:00:00Z,Italy,Europe
+http://www.wikidata.org/entity/Q100157102,Agnes Östergren,female,1985-06-03T00:00:00Z,Sweden,Europe
+http://www.wikidata.org/entity/Q100158636,Amanda Pritchard,female,1976-01-01T00:00:00Z,United Kingdom,Europe
+http://www.wikidata.org/entity/Q100158789,Marc Bariteau,female,1930-08-10T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100159290,Lorna Shaughnessy,female,1961-01-31T00:00:00Z,United Kingdom,Europe
+http://www.wikidata.org/entity/Q100159675,Nadine Fiévet,female,1947-01-01T00:00:00Z,Belgium,Europe
+http://www.wikidata.org/entity/Q100164617,Szilvia Vetter,female,1983-08-06T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q100165428,Amaia Serrano Mariezkurrena,female,1984-01-01T00:00:00Z,Spain,Europe
+http://www.wikidata.org/entity/Q100165441,Christine Wirz-von Planta,female,1944-03-26T00:00:00Z,Switzerland,Europe
+http://www.wikidata.org/entity/Q100165442,Paneeraq Siegstad Munk,female,1977-01-30T00:00:00Z,Kingdom of Denmark,Europe
+http://www.wikidata.org/entity/Q100165489,Christine Ehm,female,1959-01-01T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100165777,Elisabetta Armiato,female,1963-01-01T00:00:00Z,Italy,Europe
+http://www.wikidata.org/entity/Q100165783,Suzanne Kabok,female,1962-03-07T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100165799,Marisa Figurato,female,1952-01-27T00:00:00Z,Italy,Europe
+http://www.wikidata.org/entity/Q100165910,Claude Haffner,female,1976-01-01T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100166183,Caroline Roger-Lacan,female,1937-01-08T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100166261,Božena Orožen,female,1929-10-31T00:00:00Z,Kingdom of Yugoslavia,Europe
+http://www.wikidata.org/entity/Q100166410,Anne Schmidt-Riou,female,1963-05-21T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100166577,Svetla Torbova,female,1939-01-01T00:00:00Z,Bulgaria,Europe
+http://www.wikidata.org/entity/Q100170383,Josephine Stephenson,female,1990-01-01T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100175,Lilli Schweiger,female,1998-07-17T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100198401,Amanda Figueras,female,1978-01-01T00:00:00Z,Spain,Europe
+http://www.wikidata.org/entity/Q1002127,Florina Ilis,female,1968-08-26T00:00:00Z,Romania,Europe
+http://www.wikidata.org/entity/Q100215403,Cristina Treves,female,1942-10-02T00:00:00Z,Italy,Europe
+http://www.wikidata.org/entity/Q100217,Kareen Zebroff,female,1941-01-01T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100218,Martina Bunge,female,1951-05-18T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100220,Susan Cummings,female,1930-07-10T00:00:00Z,Weimar Republic,Europe
+http://www.wikidata.org/entity/Q1002213,Mária Flórián,female,1940-04-23T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q100225,Angie Westhoff,female,1966-01-01T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q1002263,Annamária Fodor,female,1980-09-17T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q100226899,Francesca Barberini,female,1972-02-04T00:00:00Z,Italy,Europe
+http://www.wikidata.org/entity/Q1002276,Emese Fodor,female,1972-05-13T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q1002278,Erzsébet Fodor,female,1971-02-26T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q100228149,Grażyna Ignaczak-Bandych,female,1963-05-01T00:00:00Z,Poland,Europe
+http://www.wikidata.org/entity/Q1002305,Irén Fodor,female,1931-01-10T00:00:00Z,Romania,Europe
+http://www.wikidata.org/entity/Q100231119,Iphigenia Papadogianni,female,1937-01-03T00:00:00Z,Greece,Europe
+http://www.wikidata.org/entity/Q100232,Tamara Bach,female,1976-01-18T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100233022,Irena Brabcová,female,1958-07-09T00:00:00Z,Czech Republic,Europe
+http://www.wikidata.org/entity/Q1002335,Katalin Fodor,female,1966-04-26T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q100233618,Pauliina Kainulainen,female,1968-01-01T00:00:00Z,Finland,Europe
+http://www.wikidata.org/entity/Q100233661,Anna Ahlund,female,1987-01-01T00:00:00Z,Sweden,Europe
+http://www.wikidata.org/entity/Q1002337,Katalin Fodor,female,1931-02-15T00:00:00Z,Romania,Europe
+http://www.wikidata.org/entity/Q100234,Marion Schick,female,1958-09-05T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100234045,Leonor Fuentes Domingo,female,1973-07-27T00:00:00Z,Spain,Europe
+http://www.wikidata.org/entity/Q100234778,Isabella Gherardi,female,1962-01-01T00:00:00Z,Italy,Europe
+http://www.wikidata.org/entity/Q100234928,Mar Linares,female,2003-01-01T00:00:00Z,Spain,Europe
+http://www.wikidata.org/entity/Q100235,Kathrin Kadelbach,female,1983-08-01T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100235147,Erzsébet Barna,female,1909-12-01T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q100235175,Efterpi Koutzamani,female,1949-01-01T00:00:00Z,Greece,Europe
+http://www.wikidata.org/entity/Q100235316,Alicja Mounk,female,1947-08-02T00:00:00Z,Poland,Europe
+http://www.wikidata.org/entity/Q100235399,Caitlin McElroy,female,1983-09-28T00:00:00Z,United Kingdom,Europe
+http://www.wikidata.org/entity/Q100235414,Anaïs Rizzo,female,1997-05-11T00:00:00Z,Italy,Europe
+http://www.wikidata.org/entity/Q100235435,Aminatou Echard,female,1973-01-01T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100235588,Rakel Christina Granaas,female,1949-01-01T00:00:00Z,Norway,Europe
+http://www.wikidata.org/entity/Q1002357,Eva Jancak,female,1953-11-09T00:00:00Z,Austria,Europe
+http://www.wikidata.org/entity/Q1002366,Zsóka Fodor,female,1942-05-28T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q100237,Susanne Stichler,female,1969-08-17T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100237893,Lavinia Petti,female,1988-01-01T00:00:00Z,Italy,Europe
+http://www.wikidata.org/entity/Q100239,Ruth Abramovitsch Sorel,female,1907-06-18T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100240,Meral Perin,female,1965-01-01T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100243998,Alice Rinell Hermansson,female,1931-02-20T00:00:00Z,Sweden,Europe
+http://www.wikidata.org/entity/Q1002462,Katalin Fogl,female,1983-11-07T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q100246814,Susanne Holzgraefe,female,1971-01-31T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100248945,Lisa Augenthaler,female,1990-03-31T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100250212,Silvia Garrido Galera,female,1960-12-06T00:00:00Z,Spain,Europe
+http://www.wikidata.org/entity/Q100251324,Danièle Aron-Rosa,female,1934-10-15T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100251379,Barbora Mikuskova,female,2001-01-19T00:00:00Z,Slovakia,Europe
+http://www.wikidata.org/entity/Q100251384,Diana Petkova,female,2000-06-10T00:00:00Z,Bulgaria,Europe
+http://www.wikidata.org/entity/Q100251614,Silviya Kabaivanova,female,1975-04-18T00:00:00Z,Bulgaria,Europe
+http://www.wikidata.org/entity/Q100251627,P.R2B,female,1990-11-26T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100253378,Dorota Grejner-Brzezińska,female,1963-01-01T00:00:00Z,Poland,Europe
+http://www.wikidata.org/entity/Q100253457,Zoë Zimmer,female,1983-11-02T00:00:00Z,United Kingdom,Europe
+http://www.wikidata.org/entity/Q100255559,Cécile Kruyfhooft,female,1950-01-01T00:00:00Z,Belgium,Europe
+http://www.wikidata.org/entity/Q100256276,Anna Hansson,female,1981-06-18T00:00:00Z,Sweden,Europe
+http://www.wikidata.org/entity/Q100256291,Ann-Krisine Moback,female,1947-04-20T00:00:00Z,Sweden,Europe
+http://www.wikidata.org/entity/Q100256324,Maylis Adhémar,female,1985-01-01T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100256345,Miss Tagless,female,1992-04-27T00:00:00Z,Spain,Europe
+http://www.wikidata.org/entity/Q100256880,Francesca Falzon Young,female,2001-02-03T00:00:00Z,Malta,Europe
+http://www.wikidata.org/entity/Q100256891,Tonia Papapetrou,female,2000-12-08T00:00:00Z,Cyprus,Europe
+http://www.wikidata.org/entity/Q100257320,Atxe,female,1983-01-01T00:00:00Z,Spain,Europe
+http://www.wikidata.org/entity/Q100257954,Karen Schwichtenberg,female,1974-01-01T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100259131,Eleonora Alvisi,female,2003-03-13T00:00:00Z,Italy,Europe
+http://www.wikidata.org/entity/Q100261272,Bente von der Lippe,female,1947-06-26T00:00:00Z,Norway,Europe
+http://www.wikidata.org/entity/Q100262771,Sabína Kupčová,female,2003-02-28T00:00:00Z,Slovakia,Europe
+http://www.wikidata.org/entity/Q100263,Petra Gerster,female,1955-01-25T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100265415,Eva Netland,female,1989-01-01T00:00:00Z,Norway,Europe
+http://www.wikidata.org/entity/Q100266,Ingeborg von Kusserow,female,1917-01-28T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100266507,Claire Duvivier,female,1981-01-01T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100267796,Christine Siméone,female,1901-01-01T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100267949,Jacqueline Chénieux-Gendron,female,1939-11-19T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100268200,Malin Bergström,female,1977-03-13T00:00:00Z,Sweden,Europe
+http://www.wikidata.org/entity/Q100268244,Anna Erixon,female,1981-03-05T00:00:00Z,Sweden,Europe
+http://www.wikidata.org/entity/Q100268274,Jenny Bassani Liscia,female,1924-01-01T00:00:00Z,Kingdom of Italy,Europe
+http://www.wikidata.org/entity/Q100268574,Emma Bjessmo,female,1995-06-22T00:00:00Z,Sweden,Europe
+http://www.wikidata.org/entity/Q100268687,Kjellaug Lerheim,female,1926-06-23T00:00:00Z,Norway,Europe
+http://www.wikidata.org/entity/Q100268897,Agnes Henning,female,2000-01-01T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100269,Simone Thomalla,female,1965-04-11T00:00:00Z,German Democratic Republic,Europe
+http://www.wikidata.org/entity/Q100269091,Hélène P. Mérelle,female,1950-01-01T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100269307,Eva Possnig,female,1960-08-31T00:00:00Z,Austria,Europe
+http://www.wikidata.org/entity/Q100269372,Natacha Pavel,female,1936-01-01T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100269537,Alice Travers,female,1979-05-02T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100269573,Melanie Göldner,female,1996-07-12T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100269618,Madalena Cavilhas,female,2003-01-01T00:00:00Z,Portugal,Europe
+http://www.wikidata.org/entity/Q100269625,Eveline Hofmann-Huber,female,1918-03-13T00:00:00Z,Switzerland,Europe
+http://www.wikidata.org/entity/Q100269788,Beatriz Cardoso,female,2003-01-01T00:00:00Z,Portugal,Europe
+http://www.wikidata.org/entity/Q100270,Sarah Zierhut,female,1985-01-31T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100270819,Beatriz Varela,female,1927-01-01T00:00:00Z,Spain,Europe
+http://www.wikidata.org/entity/Q100271116,Margit Istók,female,1901-03-26T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q100271382,Amandine Urruty,female,1982-12-23T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100271534,Muriel Soret,female,1963-10-27T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100271542,Hanne Tersmette,female,1987-06-27T00:00:00Z,Kingdom of the Netherlands,Europe
+http://www.wikidata.org/entity/Q100271704,Marie-Christine Butel,female,1959-06-03T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100272312,Seraina Sturzenegger,female,1997-09-25T00:00:00Z,Switzerland,Europe
+http://www.wikidata.org/entity/Q1002724,Márta Font,female,1952-04-28T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q100272762,Nyassa Alberta,female,1982-01-01T00:00:00Z,Kingdom of the Netherlands,Europe
+http://www.wikidata.org/entity/Q100272989,Lauriane Escaffre,female,1978-01-26T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100272995,Teresa Torrents i Casellas,female,1975-11-05T00:00:00Z,Spain,Europe
+http://www.wikidata.org/entity/Q100273,Sabine Huth,female,1967-01-03T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100273083,Lenka Zlámalová,female,1973-04-24T00:00:00Z,Czech Republic,Europe
+http://www.wikidata.org/entity/Q100273547,Anna Härtl,female,1995-12-27T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q1002757,Barbara Fonyó,female,1972-03-15T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q100276041,Elżbieta Laskowska,female,1946-01-01T00:00:00Z,Poland,Europe
+http://www.wikidata.org/entity/Q100276112,Josefa Susarte Párraga,female,1997-03-21T00:00:00Z,Spain,Europe
+http://www.wikidata.org/entity/Q100276313,Emma-Jean Thackray,female,1989-01-01T00:00:00Z,United Kingdom,Europe
+http://www.wikidata.org/entity/Q100276375,Brigita Krasniqi,female,1997-01-01T00:00:00Z,Finland,Europe
+http://www.wikidata.org/entity/Q100276378,Soňa Ehlerová,female,1972-01-01T00:00:00Z,Czech Republic,Europe
+http://www.wikidata.org/entity/Q100276472,Diana Rieck-Vogt,female,1972-01-01T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100276535,Michelle Leservoisier,female,1965-09-08T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100276579,Nerea Moldes Bóveda,female,1998-04-13T00:00:00Z,Spain,Europe
+http://www.wikidata.org/entity/Q100276645,Ullariikka Koskela,female,1974-03-02T00:00:00Z,Finland,Europe
+http://www.wikidata.org/entity/Q100277136,Marie-Cathérine Schumann,female,1983-01-01T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100278786,Winifred Casson,female,1908-01-01T00:00:00Z,United Kingdom,Europe
+http://www.wikidata.org/entity/Q100279507,Ellen Eriksson,female,1900-09-16T00:00:00Z,Sweden,Europe
+http://www.wikidata.org/entity/Q100279965,Linn Grant,female,1999-06-20T00:00:00Z,Sweden,Europe
+http://www.wikidata.org/entity/Q100280944,María Lind Sigurðardóttir,female,1989-08-16T00:00:00Z,Iceland,Europe
+http://www.wikidata.org/entity/Q100282258,Margot Boulet,female,1990-05-13T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100285491,Moyka,female,1998-01-01T00:00:00Z,Norway,Europe
+http://www.wikidata.org/entity/Q100286217,Brittis Benzler,female,1958-12-12T00:00:00Z,Sweden,Europe
+http://www.wikidata.org/entity/Q100288546,Tereza Seabra,female,1944-01-01T00:00:00Z,Portugal,Europe
+http://www.wikidata.org/entity/Q100290631,Polina Aug,female,1995-09-21T00:00:00Z,Russia,Europe
+http://www.wikidata.org/entity/Q1002920,Zsuzsa Forgács,female,1955-05-13T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q1002928,Fanni Forgó,female,1991-11-01T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q100293154,Eszter Horváth,female,1938-06-15T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q100293288,Anastasiya Evgrafova,female,1990-10-17T00:00:00Z,Russia,Europe
+http://www.wikidata.org/entity/Q100293343,Katariñe Puxana,female,1908-11-25T00:00:00Z,Spain,Europe
+http://www.wikidata.org/entity/Q100293465,Darya Zhovner,female,1992-09-20T00:00:00Z,Russia,Europe
+http://www.wikidata.org/entity/Q100295554,Amelia Eve,female,1994-12-22T00:00:00Z,United Kingdom,Europe
+http://www.wikidata.org/entity/Q100295637,Joanna Hobot-Marcinek,female,1969-01-01T00:00:00Z,Poland,Europe
+http://www.wikidata.org/entity/Q100295934,Dorota Wojda,female,1971-01-01T00:00:00Z,Poland,Europe
+http://www.wikidata.org/entity/Q100296054,Frieda Abegg,female,1919-12-18T00:00:00Z,Austria,Europe
+http://www.wikidata.org/entity/Q100299,Ursula Herking,female,1912-01-28T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100299833,Maria Pia Arcangeli,female,1918-01-23T00:00:00Z,Kingdom of Italy,Europe
+http://www.wikidata.org/entity/Q100300272,Olga Dragunova,female,1976-05-29T00:00:00Z,Russia,Europe
+http://www.wikidata.org/entity/Q100302982,Alexandra Fjodorowna Salnikowa,female,1900-04-28T00:00:00Z,Soviet Union,Europe
+http://www.wikidata.org/entity/Q100302986,Alyona Kuchkova,female,1988-10-25T00:00:00Z,Russia,Europe
+http://www.wikidata.org/entity/Q100303771,Kate Carpenter,female,1903-04-03T00:00:00Z,Sweden,Europe
+http://www.wikidata.org/entity/Q100304017,Luisa Säger,female,1999-08-10T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100304474,Cornelia Pammer,female,2000-07-09T00:00:00Z,Austria,Europe
+http://www.wikidata.org/entity/Q100304570,Jessica Steiger,female,1992-05-24T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100308188,Stella Belmondo,female,2003-08-13T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100308321,Charo Pita,female,1966-01-24T00:00:00Z,Spain,Europe
+http://www.wikidata.org/entity/Q100308575,Sophie Woodrow,female,1979-01-01T00:00:00Z,United Kingdom,Europe
+http://www.wikidata.org/entity/Q100308720,Kerstin Boulogner,female,1945-02-07T00:00:00Z,Sweden,Europe
+http://www.wikidata.org/entity/Q100309603,Elin Söderberg,female,1984-02-27T00:00:00Z,Sweden,Europe
+http://www.wikidata.org/entity/Q100310035,Nora Sayyad,female,1991-01-01T00:00:00Z,Finland,Europe
+http://www.wikidata.org/entity/Q100310351,Joana Desbordes,female,2000-02-16T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100314508,Petra Rudolf,female,1967-01-01T00:00:00Z,Austria,Europe
+http://www.wikidata.org/entity/Q100316111,Tove Kohala,female,2001-01-29T00:00:00Z,Sweden,Europe
+http://www.wikidata.org/entity/Q100316722,Cristina Cabello,female,1969-01-01T00:00:00Z,Spain,Europe
+http://www.wikidata.org/entity/Q100316882,Sigrid Spaeth,female,1936-08-09T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100317,Alisha Ossowski,female,1995-03-26T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100317832,Olga Tserpitskaya,female,1979-07-01T00:00:00Z,Russia,Europe
+http://www.wikidata.org/entity/Q100318,Lara-Isabelle Rentinck,female,1986-08-18T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100318551,Lígia Ferro,female,1981-06-03T00:00:00Z,Portugal,Europe
+http://www.wikidata.org/entity/Q100318751,Telma Björk Fjalarsdóttir,female,1984-10-06T00:00:00Z,Iceland,Europe
+http://www.wikidata.org/entity/Q100318852,Marie Gourdain,female,1986-01-01T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100319,Judith Park,female,1984-05-19T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100319041,Philippa Ndisi-Herrmann,female,1985-01-01T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100319342,Urszula Wich,female,1942-11-07T00:00:00Z,Poland,Europe
+http://www.wikidata.org/entity/Q100319448,Galina Arapova,female,1972-06-16T00:00:00Z,Russia,Europe
+http://www.wikidata.org/entity/Q100319573,Sanna Nuutinen,female,1991-04-08T00:00:00Z,Finland,Europe
+http://www.wikidata.org/entity/Q100319865,Dilys Price,female,1932-06-03T00:00:00Z,United Kingdom,Europe
+http://www.wikidata.org/entity/Q100319933,Basma El Ghouate,female,2002-03-21T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100319979,Pia Greiten,female,1997-02-18T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100319986,Liv Andrea Hauge,female,1995-01-01T00:00:00Z,Norway,Europe
+http://www.wikidata.org/entity/Q100319988,Veslemøy Narvesen,female,1997-11-05T00:00:00Z,Norway,Europe
+http://www.wikidata.org/entity/Q100319997,Sandrine Dos Santos,female,1972-09-24T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100320030,Jade Edwards,female,1991-03-31T00:00:00Z,United Kingdom,Europe
+http://www.wikidata.org/entity/Q100320095,Marika V. Lagercrantz,female,1949-01-01T00:00:00Z,Sweden,Europe
+http://www.wikidata.org/entity/Q100321,Stefanie Golla,female,1985-09-18T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100321832,Hélène Sarrazin,female,1920-12-17T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100322420,Adamantia Economou,female,1956-01-01T00:00:00Z,Greece,Europe
+http://www.wikidata.org/entity/Q100323423,Elena Striggari,female,1950-01-01T00:00:00Z,Greece,Europe
+http://www.wikidata.org/entity/Q100323486,Anna Giurickovic Dato,female,1989-01-01T00:00:00Z,Italy,Europe
+http://www.wikidata.org/entity/Q100323587,Éva B. Sipos,female,1919-06-03T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q100323676,Eeva-Riitta Fingerroos,female,1969-07-04T00:00:00Z,Finland,Europe
+http://www.wikidata.org/entity/Q100323738,Ulla-Britt Englund,female,1928-06-27T00:00:00Z,Sweden,Europe
+http://www.wikidata.org/entity/Q100323814,Lottie Tomlinson,female,1998-08-04T00:00:00Z,United Kingdom,Europe
+http://www.wikidata.org/entity/Q100323857,Tamara Potocká,female,2002-08-15T00:00:00Z,Slovakia,Europe
+http://www.wikidata.org/entity/Q100323915,Claudia Müller,female,1964-11-04T00:00:00Z,Switzerland,Europe
+http://www.wikidata.org/entity/Q100324074,Susan Acland-Hood,female,1977-06-01T00:00:00Z,United Kingdom,Europe
+http://www.wikidata.org/entity/Q100324162,Daniela Švandová,female,1944-10-30T00:00:00Z,Czech Republic,Europe
+http://www.wikidata.org/entity/Q100324280,Simona Luftová,female,1973-03-05T00:00:00Z,Czech Republic,Europe
+http://www.wikidata.org/entity/Q100324313,Jenny Elander Ek,female,1988-05-29T00:00:00Z,Sweden,Europe
+http://www.wikidata.org/entity/Q100324354,Claudia Hufnagl,female,1996-05-20T00:00:00Z,Austria,Europe
+http://www.wikidata.org/entity/Q100324378,Maria Tort Xirau,female,1924-05-26T00:00:00Z,Spain,Europe
+http://www.wikidata.org/entity/Q100324401,Inger Lise Nyberg,female,1942-11-30T00:00:00Z,Norway,Europe
+http://www.wikidata.org/entity/Q100324415,Estrella Rivas Franco,female,1921-12-12T00:00:00Z,Spain,Europe
+http://www.wikidata.org/entity/Q100324429,Moa Petersén,female,1981-01-01T00:00:00Z,Sweden,Europe
+http://www.wikidata.org/entity/Q100324431,Carme Cervera Giralt,female,1917-09-01T00:00:00Z,Spain,Europe
+http://www.wikidata.org/entity/Q100324868,Jana Bartošová,female,1971-01-01T00:00:00Z,Czech Republic,Europe
+http://www.wikidata.org/entity/Q100325714,Kerstin Enbom,female,1945-01-01T00:00:00Z,Finland,Europe
+http://www.wikidata.org/entity/Q100326095,Branwen Okpako,female,1969-02-25T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100326533,Fanny Lamminen,female,2002-01-01T00:00:00Z,Finland,Europe
+http://www.wikidata.org/entity/Q100327208,Halina Skrobiszewska,female,1926-07-11T00:00:00Z,Poland,Europe
+http://www.wikidata.org/entity/Q100327216,Lena Miro,female,1981-06-24T00:00:00Z,Russia,Europe
+http://www.wikidata.org/entity/Q100327574,Berit Woelfer,female,1925-12-04T00:00:00Z,Sweden,Europe
+http://www.wikidata.org/entity/Q1003280,Edit Frajt,female,1955-11-02T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q100328196,Vera Scardino,female,1916-01-01T00:00:00Z,Italy,Europe
+http://www.wikidata.org/entity/Q100328633,Cristina Wis,female,1946-11-27T00:00:00Z,Italy,Europe
+http://www.wikidata.org/entity/Q100328765,Fátima Patriarca,female,1944-01-19T00:00:00Z,Portugal,Europe
+http://www.wikidata.org/entity/Q100329044,Abril Montilla,female,2000-10-03T00:00:00Z,Spain,Europe
+http://www.wikidata.org/entity/Q100329203,Vera Sukhova,female,1963-07-09T00:00:00Z,Russia,Europe
+http://www.wikidata.org/entity/Q100329251,Maria Bouabdellah Shaimi,female,2002-01-01T00:00:00Z,Spain,Europe
+http://www.wikidata.org/entity/Q100329986,Sandra Weihs,female,1983-09-15T00:00:00Z,Austria,Europe
+http://www.wikidata.org/entity/Q100330003,Leona König,female,1981-06-17T00:00:00Z,Austria,Europe
+http://www.wikidata.org/entity/Q100330077,Camilla Wang,female,1969-03-15T00:00:00Z,Kingdom of Denmark,Europe
+http://www.wikidata.org/entity/Q1003306,Frances Ondiviela,female,1963-05-19T00:00:00Z,Spain,Europe
+http://www.wikidata.org/entity/Q100331501,Liliia Tsvielikova,female,1992-12-21T00:00:00Z,Ukraine,Europe
+http://www.wikidata.org/entity/Q100332226,Katarzyna Sienkiewicz,female,1993-10-01T00:00:00Z,Poland,Europe
+http://www.wikidata.org/entity/Q100332857,Gerd Inger De Groot,female,1945-02-08T00:00:00Z,Norway,Europe
+http://www.wikidata.org/entity/Q100332905,Helene Wedel,female,1945-04-30T00:00:00Z,Sweden,Europe
+http://www.wikidata.org/entity/Q100332986,Nina Kulikovskikh,female,1961-02-05T00:00:00Z,Russia,Europe
+http://www.wikidata.org/entity/Q100334078,Mihaela Geoană,female,1962-02-26T00:00:00Z,Romania,Europe
+http://www.wikidata.org/entity/Q100334175,Heidi Piiroinen,female,1978-01-01T00:00:00Z,Finland,Europe
+http://www.wikidata.org/entity/Q100340753,Tessa Praun,female,1977-04-29T00:00:00Z,Austria,Europe
+http://www.wikidata.org/entity/Q100342047,Iryna Kompaniiets,female,1993-11-21T00:00:00Z,Ukraine,Europe
+http://www.wikidata.org/entity/Q100345431,Marianna Koukoutsakis,female,1994-07-13T00:00:00Z,Greece,Europe
+http://www.wikidata.org/entity/Q100346760,Erica Matile,female,1957-01-08T00:00:00Z,Switzerland,Europe
+http://www.wikidata.org/entity/Q100347444,Jasmin Reuter,female,1981-01-01T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100347457,Brit Mæhlum,female,1957-01-01T00:00:00Z,Norway,Europe
+http://www.wikidata.org/entity/Q100348028,Marta Pessoa,female,1974-03-24T00:00:00Z,Portugal,Europe
+http://www.wikidata.org/entity/Q100348038,Lidia Salgueiro,female,1917-12-31T00:00:00Z,Portugal,Europe
+http://www.wikidata.org/entity/Q100348071,Emma Vakarelova,female,1988-01-01T00:00:00Z,Bulgaria,Europe
+http://www.wikidata.org/entity/Q100348072,Mireia Comas,female,1976-01-01T00:00:00Z,Spain,Europe
+http://www.wikidata.org/entity/Q100348227,María Victoria Lareu,female,1960-03-07T00:00:00Z,Spain,Europe
+http://www.wikidata.org/entity/Q100348285,Cecília Gewertz,female,1922-01-01T00:00:00Z,Portugal,Europe
+http://www.wikidata.org/entity/Q100348739,Björk Níelsdóttir,female,1986-01-01T00:00:00Z,Iceland,Europe
+http://www.wikidata.org/entity/Q100349,Isabel Bongard,female,1991-01-01T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100349739,Maria Teresa Andreu Grau,female,1952-01-21T00:00:00Z,Spain,Europe
+http://www.wikidata.org/entity/Q100351370,Nancy Horrocks,female,1900-01-01T00:00:00Z,United Kingdom,Europe
+http://www.wikidata.org/entity/Q100352461,Tara Isis Gerris,female,1977-03-09T00:00:00Z,Kingdom of the Netherlands,Europe
+http://www.wikidata.org/entity/Q1003528,Mária Frank,female,1943-09-08T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q100353692,Aino Östergren,female,1941-10-01T00:00:00Z,Sweden,Europe
+http://www.wikidata.org/entity/Q100353720,Lexuri Gallastegi,female,1975-01-01T00:00:00Z,Spain,Europe
+http://www.wikidata.org/entity/Q100353726,Eivor Spetz,female,1947-03-14T00:00:00Z,Sweden,Europe
+http://www.wikidata.org/entity/Q100354851,Kateryna Fain,female,1994-01-26T00:00:00Z,Ukraine,Europe
+http://www.wikidata.org/entity/Q100355466,Pia Babnik,female,2004-01-02T00:00:00Z,Slovenia,Europe
+http://www.wikidata.org/entity/Q100356,Ruth Eweler,female,1916-03-19T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100356218,Caroline Campbell,female,1973-06-23T00:00:00Z,Ireland,Europe
+http://www.wikidata.org/entity/Q100357,Sabine Jünger,female,1973-05-21T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q1003586,Tünde Frankó,female,1966-07-15T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q100360127,Anna-Brita Pontén,female,1905-07-01T00:00:00Z,Sweden,Europe
+http://www.wikidata.org/entity/Q100360497,Zhanna Vokueva,female,1987-01-14T00:00:00Z,Russia,Europe
+http://www.wikidata.org/entity/Q100361156,Ellen L. van Olst,female,1952-01-01T00:00:00Z,Kingdom of the Netherlands,Europe
+http://www.wikidata.org/entity/Q100362310,Jenn Butterworth,female,1983-01-01T00:00:00Z,United Kingdom,Europe
+http://www.wikidata.org/entity/Q100368791,Lévanah Solomon,female,2005-10-08T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100369074,Irma Bruun Hodne,female,1919-08-16T00:00:00Z,Norway,Europe
+http://www.wikidata.org/entity/Q100369077,Ruth Gall,female,1920-04-27T00:00:00Z,Poland,Europe
+http://www.wikidata.org/entity/Q100369472,Suzanne van der Schot,female,1973-01-01T00:00:00Z,Kingdom of the Netherlands,Europe
+http://www.wikidata.org/entity/Q100371075,Monika Ošmianskienė,female,1978-12-26T00:00:00Z,Lithuania,Europe
+http://www.wikidata.org/entity/Q100375903,Cynthia Butare,female,1987-01-01T00:00:00Z,Switzerland,Europe
+http://www.wikidata.org/entity/Q100376270,Kai Nakai,female,1996-04-29T00:00:00Z,Spain,Europe
+http://www.wikidata.org/entity/Q100377182,Anastasia Alekseeva,female,1995-04-29T00:00:00Z,Russia,Europe
+http://www.wikidata.org/entity/Q100377312,Cristina Castel-Branco,female,1950-01-01T00:00:00Z,Portugal,Europe
+http://www.wikidata.org/entity/Q100380034,Anne-Laure Jacquemart,female,1965-01-01T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q1003810,Szilvia Freire,female,1984-09-23T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q100383508,Erna Hluba-Daum,female,1924-05-05T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100385241,Maria João Xavier,female,1971-03-08T00:00:00Z,Portugal,Europe
+http://www.wikidata.org/entity/Q1003878,Beatrix Fricsovszky,female,1974-02-16T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q100388224,Dora Schottländer,female,1904-04-26T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q1003887,Katalin Frideczky,female,1950-07-11T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q1003891,Fruzsina Fridel,female,1978-06-12T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q100389312,Jana Sobotová,female,1964-03-11T00:00:00Z,Czech Republic,Europe
+http://www.wikidata.org/entity/Q100391281,Diana Burkot,female,1985-03-16T00:00:00Z,Russia,Europe
+http://www.wikidata.org/entity/Q100391910,Stephanie Smith,female,1968-02-01T00:00:00Z,United Kingdom,Europe
+http://www.wikidata.org/entity/Q100392617,Mo Diener,female,1961-05-08T00:00:00Z,Switzerland,Europe
+http://www.wikidata.org/entity/Q100394145,Isabella Schwaderer,female,1974-01-01T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100395,Tessa Mittelstaedt,female,1974-04-01T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100397037,Giampaola Pachetti,female,1953-07-23T00:00:00Z,Italy,Europe
+http://www.wikidata.org/entity/Q100397057,Judith Pühringer,female,1976-01-19T00:00:00Z,Austria,Europe
+http://www.wikidata.org/entity/Q100397465,Marta Maribona,female,1965-01-01T00:00:00Z,Spain,Europe
+http://www.wikidata.org/entity/Q100400,Tamara Ehlert,female,1921-12-28T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100400530,Kelly Vedovelli,female,1990-03-27T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100400681,Jessica Moore,female,1985-11-14T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q100400719,Ingeborg Breines,female,1945-08-14T00:00:00Z,Norway,Europe
+http://www.wikidata.org/entity/Q100400977,Rita de la Feria,female,1976-01-01T00:00:00Z,Portugal,Europe
+http://www.wikidata.org/entity/Q100401,Waltrude Schleyer,female,1916-01-21T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100401219,Fani Georgakopoulou,female,1989-08-31T00:00:00Z,Greece,Europe
+http://www.wikidata.org/entity/Q100401264,Karin Ehrnrooth,female,1960-01-01T00:00:00Z,Finland,Europe
+http://www.wikidata.org/entity/Q100405469,Sandra Petojevic,female,1969-01-01T00:00:00Z,Sweden,Europe
+http://www.wikidata.org/entity/Q100406918,Nanouschka Myrberg,female,1969-02-07T00:00:00Z,Sweden,Europe
+http://www.wikidata.org/entity/Q100408392,Anna Woolhouse,female,1984-01-01T00:00:00Z,United Kingdom,Europe
+http://www.wikidata.org/entity/Q100408447,Birgit Männel,female,1955-01-01T00:00:00Z,German Democratic Republic,Europe
+http://www.wikidata.org/entity/Q100408673,Charlotte Taylor,female,1994-02-02T00:00:00Z,United Kingdom,Europe
+http://www.wikidata.org/entity/Q100409,Rosa Barba,female,1972-01-01T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100410857,Zsuzsanna Fehér,female,1954-03-07T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q1004134,Rózsa Porács,female,1923-11-15T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q100413600,Hilde Vanhove,female,1964-06-03T00:00:00Z,Belgium,Europe
+http://www.wikidata.org/entity/Q100414420,Elisabeth Amann,female,1936-08-02T00:00:00Z,Austria,Europe
+http://www.wikidata.org/entity/Q100414990,Gabriele Berger,female,1949-05-25T00:00:00Z,Austria,Europe
+http://www.wikidata.org/entity/Q100415,Saralisa Volm,female,1985-06-24T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100415238,Roselyne Chaleil,female,1939-01-31T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100415644,Monika Auböck,female,1966-01-01T00:00:00Z,Austria,Europe
+http://www.wikidata.org/entity/Q100415790,Adele Bailer,female,1905-01-01T00:00:00Z,Austria,Europe
+http://www.wikidata.org/entity/Q100415842,Thale Vangen,female,1974-01-01T00:00:00Z,Norway,Europe
+http://www.wikidata.org/entity/Q100416206,Sylvia Baumgartner,female,1943-11-13T00:00:00Z,Austria,Europe
+http://www.wikidata.org/entity/Q100416374,Erna Behrens-Giegl,female,1917-10-26T00:00:00Z,Austria,Europe
+http://www.wikidata.org/entity/Q100416450,Eleonora Berger,female,1919-03-13T00:00:00Z,Austria,Europe
+http://www.wikidata.org/entity/Q1004169,Ida Fröhlich,female,1947-09-01T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q100416909,Elisabeth G. Beyerl,female,1937-01-27T00:00:00Z,Austria,Europe
+http://www.wikidata.org/entity/Q100417031,Erika B. Blaas,female,1917-09-10T00:00:00Z,Austria,Europe
+http://www.wikidata.org/entity/Q100417078,Maria Blazejovsky,female,1945-11-21T00:00:00Z,Austria,Europe
+http://www.wikidata.org/entity/Q100417494,Leonie Bremer,female,1997-03-27T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100417607,Ilse Viktoria Bösze,female,1942-02-23T00:00:00Z,Austria,Europe
+http://www.wikidata.org/entity/Q100417734,Ilse Breit,female,1908-03-09T00:00:00Z,Austria,Europe
+http://www.wikidata.org/entity/Q100417839,Elfriede Buttazoni,female,1951-03-01T00:00:00Z,Austria,Europe
+http://www.wikidata.org/entity/Q100417863,Mara Redeghieri,female,1961-02-10T00:00:00Z,Italy,Europe
+http://www.wikidata.org/entity/Q100417971,Hannelore Bürstmayr,female,1939-07-30T00:00:00Z,Austria,Europe
+http://www.wikidata.org/entity/Q100418,Petra Hack,female,1970-01-01T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100418429,Lada Semecká,female,1973-01-01T00:00:00Z,Czech Republic,Europe
+http://www.wikidata.org/entity/Q100420190,Ann-Catrine Edlund,female,1959-12-29T00:00:00Z,Sweden,Europe
+http://www.wikidata.org/entity/Q1004203,Lívia Fuchs,female,1947-12-06T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q100421343,Martha Aigner,female,1915-12-03T00:00:00Z,Austria,Europe
+http://www.wikidata.org/entity/Q100421349,Leopoldine Androschin,female,1902-01-23T00:00:00Z,Cisleithania,Europe
+http://www.wikidata.org/entity/Q100421354,Magda Babitsch,female,1908-03-18T00:00:00Z,Austria,Europe
+http://www.wikidata.org/entity/Q100421361,Maria Bamberger,female,1921-01-04T00:00:00Z,Austria,Europe
+http://www.wikidata.org/entity/Q100421364,Heidi Zöllner,female,1949-01-01T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100421374,Silvia Baumann,female,1960-12-29T00:00:00Z,Austria,Europe
+http://www.wikidata.org/entity/Q100421388,Eva Botstiber,female,1910-01-22T00:00:00Z,Austria,Europe
+http://www.wikidata.org/entity/Q100421390,Cornelia Buchinger,female,1967-12-26T00:00:00Z,Austria,Europe
+http://www.wikidata.org/entity/Q100421392,Edith Buchmayer,female,1937-11-20T00:00:00Z,Austria,Europe
+http://www.wikidata.org/entity/Q100421395,Hildegard von Buol-Wischenau,female,1911-06-23T00:00:00Z,Cisleithania,Europe
+http://www.wikidata.org/entity/Q100421397,Judith Cenkl,female,1905-02-17T00:00:00Z,Austria,Europe
+http://www.wikidata.org/entity/Q100424674,Gerda Braun-Ostermayer,female,1940-01-01T00:00:00Z,Austria,Europe
+http://www.wikidata.org/entity/Q100424966,Iveta Koulová,female,1967-05-09T00:00:00Z,Czech Republic,Europe
+http://www.wikidata.org/entity/Q100428590,Uxune Martinez Mazaga,female,1969-02-15T00:00:00Z,Spain,Europe
+http://www.wikidata.org/entity/Q100429225,Veronica Garcia Kambe,female,1978-01-01T00:00:00Z,Norway,Europe
+http://www.wikidata.org/entity/Q100430070,Zora Palová,female,1947-12-22T00:00:00Z,Czechoslovakia,Europe
+http://www.wikidata.org/entity/Q100430345,Rannvá Holm Mortensen,female,1950-01-01T00:00:00Z,Kingdom of Denmark,Europe
+http://www.wikidata.org/entity/Q100430551,Lív Maria Róadóttir Jæger,female,1981-01-01T00:00:00Z,Kingdom of Denmark,Europe
+http://www.wikidata.org/entity/Q1004310,Andrea Fullajtár,female,1973-09-07T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q100435418,Ewelina Dobrowolska,female,1988-08-16T00:00:00Z,Lithuania,Europe
+http://www.wikidata.org/entity/Q100437434,Erika Danneberg,female,1922-01-09T00:00:00Z,Austria,Europe
+http://www.wikidata.org/entity/Q100438370,Sofia Konkina,female,1988-05-19T00:00:00Z,Russia,Europe
+http://www.wikidata.org/entity/Q100438447,Ángela Baldellou,female,1977-01-01T00:00:00Z,Spain,Europe
+http://www.wikidata.org/entity/Q1004444,Vilma Fux,female,1916-05-20T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q100444699,Radka Prokopová,female,1969-11-15T00:00:00Z,Czech Republic,Europe
+http://www.wikidata.org/entity/Q1004464,Dóra Fábián,female,1991-09-10T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q100446512,Ashley Robbins,female,1979-10-12T00:00:00Z,Czech Republic,Europe
+http://www.wikidata.org/entity/Q100446857,Simone Korkus,female,1956-03-25T00:00:00Z,Kingdom of the Netherlands,Europe
+http://www.wikidata.org/entity/Q1004481,Janka Fábián,female,1973-01-01T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q100449,Silvia Sperl,female,1991-10-02T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q1004492,Margit Fábián,female,1949-01-01T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q100450263,Rita Heuser,female,1964-01-01T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q1004508,Éva Fábián,female,1954-10-01T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q100451,Susanne Szell,female,1965-11-04T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100451002,Tünde Sepa,female,1991-01-06T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q100451402,Amale,female,1993-06-19T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100451492,Lady Sonia,female,1964-01-21T00:00:00Z,United Kingdom,Europe
+http://www.wikidata.org/entity/Q100451879,Marie Lepetit,female,1959-01-01T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100452030,Nathalie Héraut,female,1971-08-25T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100452371,Kathrin Dräger,female,1978-01-01T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100453256,Fruzsina Keller,female,2003-09-19T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q100455,Tina York,female,1954-04-29T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100455136,Annette Streeck-Fischer,female,1946-01-01T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100455150,Laura Salvador i Alaña,female,1988-01-05T00:00:00Z,Spain,Europe
+http://www.wikidata.org/entity/Q100455413,Krisztina Pénzes-Daku,female,1978-12-15T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q100455414,Zsuzsanna Bereczky,female,1974-10-21T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q100456507,Maryna Anikieyeva,female,1968-06-04T00:00:00Z,Belarus,Europe
+http://www.wikidata.org/entity/Q100457425,Uta Dorra,female,1944-01-01T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100458082,Cornelia Fermüller,female,1965-03-03T00:00:00Z,Austria,Europe
+http://www.wikidata.org/entity/Q100458833,Jutta Prasse,female,1941-06-26T00:00:00Z,Germany,Europe

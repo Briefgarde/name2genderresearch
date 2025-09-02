@@ -1,0 +1,501 @@
+person,person_label,genders,dobs,countries,continents
+http://www.wikidata.org/entity/Q1000026,Gillett Griffin,male,1928-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q1000070,Myron V. George,male,1900-01-06T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q1000154,"Hugh Meade Alcorn, Jr.",male,1907-10-20T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q10001579,Uladzimir Dudzitsky,male,1911-01-08T00:00:00Z,Russian Empire,North America
+http://www.wikidata.org/entity/Q1000290,Tracy Adams,male,2000-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q1000366,Bucky Pizzarelli,male,1926-01-09T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q1000396,Ed Meador,male,1937-08-10T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q1000408,Larry Augustin,male,1962-10-10T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q1000439,Bud Cullen,male,1927-04-20T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q1000458,Bud Gulka,male,1947-04-12T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q1000491,Bud Collins,male,1929-06-17T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q1000498,Bud Greenspan,male,1926-09-18T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q1000502,Bud Olson,male,1925-10-06T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q1000505,Bud Lee,male,1955-09-30T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q1000509,Bud Holloway,male,1988-03-01T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q1000528,Bud Rose,male,1914-05-07T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q1000539,Bud Sennett,male,1912-05-21T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q1000549,Bud Thackery,male,1903-01-31T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q1000556,Bud Poile,male,1924-02-10T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q1000678,Randy McKay,male,1967-01-25T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100068177,John Aylward,male,1980-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q1000721,Budd Porter,male,1930-01-01T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q1000791,John Jenkins,male,1991-03-06T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100087516,E. John Robinson,male,1922-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q1000980,Geoff Kinrade,male,1985-07-29T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q1001077,Sergey Dikovsky,male,1907-03-14T00:00:00Z,Russian Empire,North America
+http://www.wikidata.org/entity/Q1001114,Buddy Baker,male,1918-01-04T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q1001117,Buddy Banks,male,1927-01-15T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q1001119,Buddy Banks,male,1909-10-03T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q1001130,Buddy Bregman,male,1930-07-09T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q1001142,Buddy Catlett,male,1933-05-13T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q1001146,Buddy Cage,male,1946-02-18T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q1001147,Buddy Clark,male,1929-07-10T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q1001162,Buddy Deppenschmidt,male,1936-02-16T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q1001166,Buddy Childers,male,1926-02-12T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q1001185,Buddy Edelen,male,1937-09-22T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q1001188,Buddy Emmons,male,1937-01-27T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q1001195,Buddy Giovinazzo,male,1957-05-05T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q1001202,Sergey Strunnikov,male,1907-09-25T00:00:00Z,Russian Empire,North America
+http://www.wikidata.org/entity/Q1001203,Buddy Greco,male,1926-08-14T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q1001205,Buddy Harper,male,2000-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q1001209,Buddy Hughes,male,1919-06-18T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q1001211,Buddy Horne,male,1933-10-04T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q1001214,Buddy Ebsen,male,1908-04-02T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q1001217,Buddy Jones,male,1924-02-17T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100122,Kurt Kreuger,male,1916-07-23T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q1001235,Buddy Leach,male,1934-03-30T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q1001240,Buddy Lester,male,1915-01-16T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q1001244,Buddy McGirt,male,1964-01-17T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q1001250,Buddy Moreno,male,1912-07-14T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100125361,Taft Green,male,1972-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q1001254,Buddy Knox,male,1933-07-20T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q1001271,Buddy Ratner,male,1947-01-19T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q1001272,Buddy Parker,male,1913-12-16T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q1001285,Buddy Morrow,male,1919-02-08T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q1001305,Buddy Roberts,male,1945-06-16T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q1001309,Dan Zimmerman,male,1974-04-08T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q1001311,Buddy Starcher,male,1906-03-16T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q1001324,Buddy Rice,male,1976-01-31T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q1001362,Buddy Van Horn,male,1929-08-20T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100136561,Joseph Sirois,male,1955-07-29T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100137690,Ralph A. Coniston,male,1906-02-10T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100137737,Joanasie Kakee Korgak,male,1973-01-01T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100138068,Kowtynoo,male,1913-01-01T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100138117,Howard A. Knutson,male,1929-05-16T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100138346,Daniel Nuluki Kuanana,male,1936-01-01T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100138592,Jonassie Kudluk,male,1936-01-01T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100138618,Thomassie Kudluk,male,1910-01-01T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100139227,Gilles-Marie Bélanger,male,1911-01-01T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100140725,Ernie Whitecloud,male,1943-05-31T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100143418,James Kukkik,male,1949-01-01T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100144370,Émile Gosselin,male,1922-01-01T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100144425,Yvan Labelle,male,1929-01-01T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100144650,Donald Traver,male,1957-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100144672,Edgar A. Dryden,male,1937-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100145413,Eric G. Ball,male,1904-07-12T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100145562,Harutyun Kirakosyan,male,1913-01-01T00:00:00Z,Russian Empire,North America
+http://www.wikidata.org/entity/Q100145732,Souren Hovakimyan,male,1911-01-01T00:00:00Z,Russian Empire,North America
+http://www.wikidata.org/entity/Q100145970,Nicolas Lévesque,male,1982-01-01T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100146153,Josepie Niviaxie,male,1914-01-01T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100146189,Charles Dilbeck,male,1907-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100146286,Bryce Hamilton,male,2000-11-10T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100146354,Christian Harris,male,2001-01-16T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100146356,Cord Jefferson,male,1982-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100146357,DeAngelo Malone,male,1999-07-12T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100146408,Robert F. Harrison,male,1925-01-01T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100146436,Jessie Lemonier,male,1997-01-31T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100146477,W. Randle Iredale,male,1929-01-01T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100146523,Tyler Hall,male,1998-10-31T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100146530,Daniel Ruge,male,1917-05-13T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100146534,Ford Smith,male,1919-01-19T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100146542,Joseph Manzo,male,1917-02-03T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100146659,Stone Ishimaru,male,1923-05-09T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100147497,Samuel LeBlond,male,1985-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100148224,Julius Tennon,male,1953-12-24T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100149002,Vishesh Chachra,male,2000-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100149278,Brian Fennelly,male,1937-08-14T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100149337,Nicholas Bardach,male,1954-01-01T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100149431,Jan Hajda,male,1927-03-02T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100149493,Seth Jarvis,male,2002-02-01T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100149533,Jack Quinn,male,2001-09-19T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100149713,Canyon Prince,male,1977-12-14T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100150920,Connor Zary,male,2001-09-25T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100151627,Gilles Beausoleil,male,1927-01-01T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100151879,Stewart Chaney,male,1906-06-23T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100152008,Carlos Rojas,male,1970-06-05T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100152138,Kim Foltz,male,1948-08-29T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100152224,James N. Baker,male,1946-09-04T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100152426,Flip Kobler,male,1967-05-10T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100152550,Tom Rogers,male,1985-12-24T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100152661,Garnik Isahakyan,male,1908-01-01T00:00:00Z,Russian Empire,North America
+http://www.wikidata.org/entity/Q100153124,David Mitchell,male,1954-01-01T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100153910,Frank J. Blatt,male,1924-05-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100153949,Clément Cinq-Mars,male,1918-01-01T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100154054,Juanisi Nauja,male,1927-01-01T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100154148,Suren Hovhannisyan,male,1912-01-01T00:00:00Z,Russian Empire,North America
+http://www.wikidata.org/entity/Q100154399,Jason Gelinas,male,1977-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100154584,Robert P. Knight,male,1902-07-18T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100155725,Powerhouse Hobbs,male,1991-01-23T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100156210,Eugenio Chemp,male,1916-02-18T00:00:00Z,Russian Empire,North America
+http://www.wikidata.org/entity/Q100156269,Mike Quinn,male,1962-12-06T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100157076,Thomas Gentille,male,1936-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100157229,Daniel P. Schwartz,male,1925-10-31T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100157243,Edward R. Shapiro,male,1941-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100157364,MRG,male,1994-01-10T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100157375,Jacob Cooney,male,1981-11-22T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100157536,Abbas Al Baghdadi,male,1951-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100158658,Cyrus Washington,male,1983-10-28T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100165241,Glen Despins,male,1964-04-19T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100165481,Josh Ramsey,male,2002-08-22T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100165494,Egidio Tari,male,1968-01-08T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100165710,Phillip S. Berry,male,1937-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100165768,Carl Mazzocone,male,1958-10-20T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100166019,James W. Truran,male,1940-06-12T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100166253,Matt Foster,male,1995-01-27T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100166405,Will Butler,male,1996-12-23T00:00:00Z,Jamaica,North America
+http://www.wikidata.org/entity/Q100166427,Amir Bageria,male,2000-10-25T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100166474,Irwin Cohen,male,1947-10-21T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100166482,Blake Francis,male,1998-01-03T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100166499,Mavrik Bourque,male,2002-01-08T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100166509,Subby Byas,male,1910-03-19T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100166574,Jim Vecchi,male,1955-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100166651,Grant Golden,male,1998-01-15T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100166662,Justin Barron,male,2001-11-15T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100166664,Jake Neighbours,male,2002-03-29T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100166684,Madre Harper,male,1997-10-13T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100166692,Dylan Holloway,male,2001-09-23T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q1001688,Buell Kazee,male,1900-08-29T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100169285,Robert M. Winglee,male,1958-05-10T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q1001705,József Fischer,male,1901-04-12T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q1001724,Buell Neidlinger,male,1936-03-02T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100177400,Hassan Pinto,male,1997-07-29T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100177658,Ridly Greig,male,2002-08-08T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100178700,Randy Ramsey,male,1995-09-07T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100178804,Ray Lopez,male,1949-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100181596,Mark Ilisituk,male,1902-01-01T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100187048,Tyson Foerster,male,2002-01-18T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100187779,Cosmo Prete,male,1952-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100189128,Ozzy Wiesblatt,male,2002-03-09T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q1001910,Buff Bagwell,male,1970-01-10T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100193610,Jahmyr Gibbs,male,2002-03-20T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100193851,Javian Hawkins,male,1999-11-03T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100194041,Jordan Firstman,male,1990-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100195226,Richard O. Hart,male,1927-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100198686,Bartees Strange,male,1989-01-30T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100199837,Phil Jurkovec,male,1999-11-03T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100202921,James V. Mangano,male,1905-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100205066,Robert Howard,male,1922-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q1002201,Kip Kinkel,male,1982-08-30T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q1002248,Page Cavanaugh,male,1922-01-26T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100226,Jens-Peter Berndt,male,1963-08-17T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q1002293,Dustin Johnson,male,1984-06-22T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100229662,Stan Strembicki,male,1952-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100230360,Jack White,male,1931-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100230362,Benjamin Wigfall,male,1930-11-17T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100230382,Dmitri Wright,male,1948-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100230385,Samuel Yette,male,1929-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100230397,Gabriel M Padilla,male,1996-09-19T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100230404,Alexandr Ordyan,male,1915-01-01T00:00:00Z,Russian Empire,North America
+http://www.wikidata.org/entity/Q100231258,Jackson Murphy,male,1991-09-27T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100232976,Nat Trammell,male,1903-08-08T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100233507,Khalil Dorsey,male,1998-03-31T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100233508,Henry Merchant,male,1918-02-17T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100233523,Paris Chong,male,1974-09-08T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100233525,Conrado Federico Asenjo,male,1908-12-06T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100233526,Jack Cardinal,male,2005-08-01T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100233531,Wesley Cardinal,male,1976-01-26T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100233537,Gibberish Chong,male,1981-07-10T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100233730,Juan Ramón Aupart Cisneros,male,1913-02-09T00:00:00Z,Mexico,North America
+http://www.wikidata.org/entity/Q100233807,Michael McLendon,male,1963-11-14T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100233808,Baron Browning,male,1999-02-19T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100234047,John Dranow,male,1948-12-29T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100234056,Tony Washington,male,1993-12-21T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100234930,Noah Dranow,male,1973-06-21T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100234972,Eric McGill,male,1996-12-22T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100234982,Charles-Eugène Bélanger,male,1917-01-01T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100235174,Jean-Paul Deschênes,male,1930-01-01T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100235224,Jean-Pierre Després,male,1919-01-01T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100235232,Joseph Johnson III,male,1940-05-26T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100235317,Gilles Laflamme,male,1941-09-16T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100235331,Antonio Lagana,male,1946-01-01T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100235353,Wilfrid LeBlond,male,1900-01-01T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100235375,James H. Rupp,male,1918-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100235671,Michael Singletary,male,1950-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100235674,George Smith,male,1941-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100235698,Hubert C. Taylor,male,1937-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100235703,Tesfaye Tessema,male,1952-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100235716,William Tolliver,male,1951-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100235721,Mark Travis,male,1952-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100238562,Leon Loughridge,male,1952-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100238985,Paul Tardner,male,1985-05-05T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100239901,Harlan Jackson,male,1918-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100239910,Lamontez Jackson,male,1941-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100240047,Cal Massey,male,1926-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100240158,Arthur Monroe,male,1935-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100240182,Elrich Murphy,male,1909-01-31T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100240201,Willie Lee Nash,male,1937-02-22T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100240230,David Ogburn,male,1942-12-14T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100240484,Albert Sangiamo,male,1928-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100243106,Marcelo Flores,male,2003-10-01T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100243159,Mitchell Hoog,male,1999-03-22T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100243211,Jordan Goodwin,male,1998-10-23T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100248474,Arthur Arent,male,1904-09-29T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100249798,Otis L. Hairston Sr.,male,1918-04-28T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100249816,Zac Ista,male,1985-04-07T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100249904,Rick Beato,male,1962-04-24T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100249919,Martin Sheridan,male,1914-08-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100249992,Stanley Barnes,male,1952-01-01T00:00:00Z,Jamaica,North America
+http://www.wikidata.org/entity/Q100249997,Charles A. Bibbs,male,1948-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100250002,Elton Braithwaite,male,1950-01-10T00:00:00Z,Jamaica,North America
+http://www.wikidata.org/entity/Q100250006,Bernard Brooks,male,1939-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100250015,Gary Burnley,male,1950-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100250017,Reuben V. Burrell,male,1919-03-27T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100250018,Vernon Burwell,male,1916-04-28T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100250025,Donnie R. Carter,male,1939-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100250026,Stevens Jay Carter,male,1958-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100250034,Kevin Earlee Cole,male,1960-01-19T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100250035,Gerald Duane Coleman,male,1948-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100250038,Tarrence Corbin,male,1946-11-20T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100250045,Richard W. Dempsey,male,1909-09-14T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100250049,Raymond Dobard,male,1947-09-13T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100250051,Adolphus Ealey,male,1941-02-22T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100250054,Willie Leroy Elliott Jr.,male,1943-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100250056,Michael Ellison,male,1952-08-24T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100250058,Christopher Estridge,male,1951-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100250059,Darrell K. Evers,male,1953-06-30T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100250061,Kenneth Falana,male,1940-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100250067,Richard Fitzhugh,male,1944-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100250071,Ausbra Ford,male,1935-02-28T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100250108,Mike Henderson,male,1944-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100250111,Leon Hicks,male,1933-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100250121,Raymond Howell,male,1927-09-07T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100250258,Otis L. Hairston Jr.,male,1945-09-15T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100250320,Oleksandr Loginov,male,1992-06-25T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100250324,Werley Nortreus,male,1993-11-10T00:00:00Z,Haiti,North America
+http://www.wikidata.org/entity/Q100251098,Hamazasp Martirosyan,male,1912-01-01T00:00:00Z,Russian Empire,North America
+http://www.wikidata.org/entity/Q100251207,David Margaryan,male,1915-01-01T00:00:00Z,Russian Empire,North America
+http://www.wikidata.org/entity/Q100251235,Babken Nazaryan,male,1908-01-01T00:00:00Z,Russian Empire,North America
+http://www.wikidata.org/entity/Q100252415,Karsten S. Heckl,male,1964-09-02T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100253500,Richard William Lindsey,male,1904-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100255739,De'Quon Lake,male,1997-03-22T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100256440,Cdot Honcho,male,1996-01-18T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100256962,Justin Garcia,male,1995-10-26T00:00:00Z,Trinidad and Tobago,North America
+http://www.wikidata.org/entity/Q100258786,Gerald Klatskin,male,1910-05-05T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100262838,Austin Zajur,male,1995-08-12T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100267423,Jean-François Bédard,male,1964-01-01T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100268,Werner Dahm,male,1917-02-16T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100268106,Jackson Rowe,male,1997-01-04T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100268173,Sedrak Dokholyan,male,1916-01-01T00:00:00Z,Russian Empire,North America
+http://www.wikidata.org/entity/Q100268249,Jace Whittaker,male,1995-07-16T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100268254,Jabari Smith Jr.,male,2003-05-13T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100268668,George R. Rinhart,male,1944-09-02T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100268880,Clarence A. Darrow,male,1940-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100269027,Roger Willard Calkins,male,1934-06-21T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100269224,Daniel Sparks,male,1975-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100269293,Seth E. Masket,male,1969-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100269521,Harold Frederick Bechly,male,1904-05-04T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100269555,Isaiah Spiller,male,2001-08-09T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100270464,Frank Pesci,male,1929-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100270471,Ralph Donald Widdowson,male,1926-07-17T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100271079,Abdiel Ayarza,male,1992-09-12T00:00:00Z,Panama,North America
+http://www.wikidata.org/entity/Q100271244,Sean Masaki Flynn,male,1973-04-20T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100271356,Alejandro Yearwood,male,1996-04-29T00:00:00Z,Panama,North America
+http://www.wikidata.org/entity/Q100271390,Peter Carleton Kennedy,male,1923-06-19T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100271497,George Nakhshkaryan,male,1917-01-01T00:00:00Z,Russian Empire,North America
+http://www.wikidata.org/entity/Q100271499,Víctor Griffith,male,2000-12-12T00:00:00Z,Panama,North America
+http://www.wikidata.org/entity/Q100271502,César Yanis,male,1996-01-28T00:00:00Z,Panama,North America
+http://www.wikidata.org/entity/Q100272754,Kenneth Alfred,male,1959-01-01T00:00:00Z,Trinidad and Tobago,North America
+http://www.wikidata.org/entity/Q100272987,Joaquín Maass y Patiño,male,1906-10-01T00:00:00Z,Mexico,North America
+http://www.wikidata.org/entity/Q100273656,Mark Seikel,male,1950-11-14T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100273688,Phil Naro,male,1958-03-13T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100273697,Bud Lilly,male,1925-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100276044,Ángel Losada Gómez,male,1908-01-01T00:00:00Z,Mexico,North America
+http://www.wikidata.org/entity/Q100276513,J. Paul Fedoroff,male,1958-01-01T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100276744,Hunter Long,male,1998-08-19T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100277068,Sergo Meliksetyan,male,1913-01-01T00:00:00Z,Russian Empire,North America
+http://www.wikidata.org/entity/Q100277233,Gurgen Movsisyan,male,1915-01-01T00:00:00Z,Russian Empire,North America
+http://www.wikidata.org/entity/Q100277999,Hubert W. Woodruff,male,1923-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100281052,John L. Kennedy,male,1913-05-25T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100281369,William Mullen,male,1946-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100281884,Hubert M. James,male,1908-03-10T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q1002822,Shelley Duncan,male,1979-09-29T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q1002851,Trey Hillman,male,1963-01-04T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100287990,Heyward Hutson,male,1936-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100287991,Converse Chellis,male,1943-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100288104,Art Drelinger,male,1915-08-14T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100292024,Bobby Manila,male,1984-08-11T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100292057,Domenic Kane,male,1978-06-06T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100292074,David Loso,male,1987-04-21T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100297268,Joseph J. Hersch,male,1903-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100302081,Gordon Backlund,male,1940-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100302161,John Ethan Baer,male,1917-04-25T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100302195,Alfred L. Bell Jr.,male,1923-01-12T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100302558,Stanley B. Burns,male,1938-12-03T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100303428,Carl Eisdorfer,male,1930-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100304023,Dennis Alexander,male,1947-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100304862,Horace Champagne,male,1937-09-17T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100306860,Abraham Mesropyan,male,1913-01-01T00:00:00Z,Russian Empire,North America
+http://www.wikidata.org/entity/Q100307010,John Engel,male,1901-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100307815,Guy Ousley,male,1910-07-14T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100307848,Daisuke Tsuji,male,1982-08-04T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100307864,Marvin Mims,male,2002-03-19T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100307875,Raymond Drai,male,2003-10-14T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100308528,Alexis Savino,male,1981-05-11T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100309355,Babken Haroyan,male,1916-01-01T00:00:00Z,Russian Empire,North America
+http://www.wikidata.org/entity/Q100314823,Brandon Lake,male,1990-06-21T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100316345,Alexandre Perreault,male,1998-12-15T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100317085,Shemsu J. Lefevre,male,2006-04-27T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100318549,Roger Montoya,male,1961-02-03T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100319350,Norman Rhoderick Catto,male,1956-01-01T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100319440,Sergio Godoy,male,1973-02-14T00:00:00Z,Guatemala,North America
+http://www.wikidata.org/entity/Q100319503,Jesse S. Williams,male,1923-02-05T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100319589,Oscar Givens,male,1922-07-05T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100319797,Platon Shepelev,male,2013-04-07T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100319845,Willie Wells Jr.,male,1922-10-23T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100319846,Charles Gary,male,1920-06-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100319915,Eric Cervini,male,1992-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100320119,Jesse Douglas,male,1916-03-27T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100320706,Jim M. Baker,male,1927-05-21T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100320810,Sy Mann,male,1920-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100324013,"Dale Danks, Jr.",male,1939-08-27T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100324037,Eric Cantú,male,1999-02-28T00:00:00Z,Mexico,North America
+http://www.wikidata.org/entity/Q100324059,Marc Girard,male,1945-08-17T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100324086,Charly Perez,male,1982-01-08T00:00:00Z,Mexico,North America
+http://www.wikidata.org/entity/Q100324212,Russell C. Davis,male,1922-08-16T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100324314,John L. Volk,male,1901-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100324380,Brian Lanoue,male,1982-01-29T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100324395,Ron Harper Jr.,male,2000-04-12T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100324399,Berry Campbell,male,1912-03-21T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100324427,James P. Brennan,male,1955-05-28T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100324447,F. Bruce Lamb,male,1913-07-27T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100324925,Ashot Hovhannisyan,male,1913-01-01T00:00:00Z,Russian Empire,North America
+http://www.wikidata.org/entity/Q100325810,Henrik Ghevondyan,male,1914-01-01T00:00:00Z,Russian Empire,North America
+http://www.wikidata.org/entity/Q100326317,William Bernstein,male,1933-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100326539,Pete Werner,male,1999-06-05T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100326678,Tom Brewer,male,1958-08-06T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100328453,A. Webber Borchers,male,1906-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100328959,Mark Hadjipateras,male,1953-11-16T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100328985,"Edwin S. Fetcher, jr.",male,1909-08-12T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100329020,Kevin Skulzczyck,male,1969-12-17T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100329021,Hernán Díaz,male,1973-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100329742,Moses Pov,male,1915-01-01T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100329839,Booku Pudlat,male,1969-01-01T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100329920,Ningeoseak Pudlat,male,1937-01-01T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100330164,Isapic Qanguq,male,1918-01-01T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100330187,Davidee Qaqasilq,male,1954-01-01T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100330216,Gideon Qauqjuaq,male,1941-01-01T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100330337,Daniel L. Burrows,male,1908-01-23T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100331156,George Thomas Johnson,male,1916-03-16T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100331972,Kyle Hamilton,male,2001-03-16T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100331973,Howard Krein,male,1966-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100332177,Thomas William McNamara,male,1926-11-26T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100332250,Ben Ahlers,male,1996-08-17T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100332354,David Kendrick,male,1955-03-23T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100332454,Raúl Vásquez Sáez,male,1954-02-06T00:00:00Z,Panama,North America
+http://www.wikidata.org/entity/Q100336319,Parker Siegfried,male,1997-02-17T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100339861,Jeronimo Hagerman,male,1967-01-01T00:00:00Z,Mexico,North America
+http://www.wikidata.org/entity/Q100340209,José Rodolfo Villarreal Hernández,male,1978-01-16T00:00:00Z,Mexico,North America
+http://www.wikidata.org/entity/Q100340500,William T. Naud,male,1929-06-07T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100341215,Norman Link,male,1959-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100345859,Kaiir Elam,male,2001-05-05T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100347146,William Draper Byrne,male,1964-09-26T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100348299,John Willard Banks,male,1912-11-07T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100348431,Lawrence Rapchak,male,1951-05-07T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100348620,"John J. Monigan, Jr.",male,1913-12-04T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100348720,Hovhannes Vardanyan,male,1914-01-01T00:00:00Z,Russian Empire,North America
+http://www.wikidata.org/entity/Q100348858,Patrick Giroux,male,2000-01-01T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100349064,Aram Khachatryan,male,1910-01-01T00:00:00Z,Russian Empire,North America
+http://www.wikidata.org/entity/Q100349273,Yung Kayo,male,2003-11-29T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100349523,Thomas S. Hinkel,male,1913-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100349947,Víctor Medina,male,2001-02-18T00:00:00Z,Panama,North America
+http://www.wikidata.org/entity/Q100351071,Rafael Sabonge,male,1978-10-09T00:00:00Z,Panama,North America
+http://www.wikidata.org/entity/Q100351313,Paul Brycki,male,1950-06-29T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100351323,W. Anthony Park,male,1934-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100351350,Marvin R. Dee,male,1917-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100351613,Milton Mazer,male,1911-03-05T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100353809,Howard LeRoy Malchow,male,1945-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100353956,Howard R. Mohr,male,1921-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100353966,Luke Painter,male,1977-01-01T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100355459,Ed Berger,male,1945-07-29T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100356308,Byron Augustin,male,1941-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100359179,Ira Renay Bowles,male,1916-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100360414,Steven Feifke,male,1991-06-21T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100361372,Gilles Coutu,male,1933-11-03T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100362141,René Lavoie,male,1904-01-01T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100362520,Ismael Betegón,male,2001-05-27T00:00:00Z,Panama,North America
+http://www.wikidata.org/entity/Q100363462,Aleksandr Dmitrievich Alekseev,male,1913-05-20T00:00:00Z,Russian Empire,North America
+http://www.wikidata.org/entity/Q100366870,Bobby Edwards,male,1995-08-11T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100367725,Roman Maes,male,1941-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q1003708,Fred Arthur,male,1961-03-06T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q1003717,Fred Murphy,male,1942-12-16T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q1003718,Fred O'Donnell,male,1949-12-06T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100375932,Erik Dueñas,male,2004-10-18T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100376417,Hicham Nostik,male,1976-01-01T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100376684,Fedmyster,male,1995-08-07T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100377998,José Barrero,male,1998-04-05T00:00:00Z,Cuba,North America
+http://www.wikidata.org/entity/Q100378463,John N. Kotre,male,1940-04-04T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100381882,Austen Rydell,male,1992-04-03T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100384474,Shockman,male,1978-08-20T00:00:00Z,Suriname,North America
+http://www.wikidata.org/entity/Q100384568,Scarra,male,1989-11-25T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100384713,Jesse Nishihata,male,1929-01-01T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100385844,Malcolm Brown,male,1931-08-19T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100386554,Timothy Jar,male,1934-01-01T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100387691,Daniel Anderson,male,1957-03-31T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100389089,Cole Riel,male,1995-07-21T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100389269,Billie Kuniliusee,male,1972-01-01T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100390639,Joseph E. B. Elliott,male,1949-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100392080,Salehe Bembury,male,1986-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100394706,William Hamzy,male,1966-01-04T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100394713,Lynn Heinzerling,male,1906-10-23T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100397018,Ralph Durham Bird,male,1901-01-01T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100397019,Robin McCabe,male,1949-11-07T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100400842,Francisco Linares Aranda,male,1912-05-21T00:00:00Z,Guatemala,North America
+http://www.wikidata.org/entity/Q100401181,Steven Allerick,male,1901-01-01T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100401186,Jim Santangeli,male,1976-12-20T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100401218,Tyler McCaughn,male,1982-07-14T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q1004027,Fritz Goro,male,1901-04-20T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100403308,Stephen Courtleigh,male,1913-01-15T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100406252,Richard Courtleigh,male,1924-08-03T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100408294,Dyami Brown,male,1999-11-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100408299,Kyren Williams,male,2000-08-26T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q1004132,Bull City Red,male,1917-02-19T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100414703,Caleb Neelon,male,1976-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100415883,John Cappilla,male,1963-12-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100417135,Matt Walsh,male,1986-06-18T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100418505,Chris P. Johnson,male,1960-06-16T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100418545,Dayle Hammock,male,1947-08-09T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100418567,Randy Gross,male,1949-02-27T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100418629,Thomas J. Brunner,male,1958-02-28T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100418702,Paul Miskimins,male,1952-11-06T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q1004234,Brandon Webb,male,1979-05-09T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q1004246,Travis Hafner,male,1977-06-03T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100426602,Patrick J. Hogan,male,1962-09-22T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100428097,Ave Pildas,male,1939-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100429726,Miguel del Río,male,1950-05-20T00:00:00Z,Cuba,North America
+http://www.wikidata.org/entity/Q100430223,Ivan Bilancio,male,1966-04-20T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100431391,Don McCrae,male,1935-04-14T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100432107,Gérard Notebaert,male,1927-01-01T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100435802,Peter Ennis,male,1946-10-16T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100438942,Harold Popp,male,1903-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100440,Larry Hagman,male,1931-09-21T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100440489,Hovhannes Dilanyan,male,1916-01-01T00:00:00Z,Russian Empire,North America
+http://www.wikidata.org/entity/Q100442416,Robert P Brooks,male,1952-08-27T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100450331,Martin Bellemare,male,1973-01-01T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100450347,Richard Blackburn,male,1951-04-13T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100450367,Marvin Goldman,male,1928-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100450485,Alain Fournier,male,1951-08-05T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100450570,David Laferrière,male,1975-01-01T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100450579,Dario Larouche,male,1977-01-01T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100450603,Pierre Yves Lemieux,male,1962-01-01T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100450629,Pierre MacDuff,male,1952-06-11T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100452000,Charles H. Falkenbach,male,1902-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100452961,John Metchie III,male,2000-07-18T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100453245,Masaru Iwamoto,male,1915-08-11T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100457934,Glen Jackson,male,1957-06-16T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q1004583,Bullumba Landestoy,male,1925-08-16T00:00:00Z,Dominican Republic,North America
+http://www.wikidata.org/entity/Q100464134,David Bevis,male,1973-05-09T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100480791,Juan Carlos Arcq Guzmán,male,1966-10-17T00:00:00Z,Mexico,North America
+http://www.wikidata.org/entity/Q100487509,Sargis Baghdasaryan,male,1915-01-01T00:00:00Z,Russian Empire,North America
+http://www.wikidata.org/entity/Q1004881,Bumper Robinson,male,1974-06-19T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100490414,Kendric Davis,male,1999-05-14T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100490468,Aaron Brooks,male,2000-06-15T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100491129,Gustavo Escobar,male,2006-03-24T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q1004932,Bunchy Carter,male,1942-10-12T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100493217,Purnell Mincy,male,1916-02-14T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100493739,Mher Baghdasaryan,male,1909-01-01T00:00:00Z,Russian Empire,North America
+http://www.wikidata.org/entity/Q100508352,Michel Pérusse,male,1949-01-01T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100512223,Daniel Montoya Jr.,male,1978-10-14T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100513051,Gérard Woussen,male,1942-01-01T00:00:00Z,Canada,North America
+http://www.wikidata.org/entity/Q100524585,Chris Johnson,male,1978-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100527429,Hoss Walker,male,1904-09-10T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100533248,Val Bracey,male,1959-10-27T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100537742,Eric S Loker,male,1950-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100540981,"John G. Fulmer, Jr.",male,1944-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100546190,Bud Barbee,male,1914-03-16T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100546600,James Cusati-Moyer,male,1989-05-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100546725,Michael Antonov,male,1978-12-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100547036,Randolph Bowe,male,1918-12-18T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100547795,Danny Hayes,male,1946-01-01T00:00:00Z,United States,North America
+http://www.wikidata.org/entity/Q100548088,Comer Cox,male,1905-05-09T00:00:00Z,United States,North America

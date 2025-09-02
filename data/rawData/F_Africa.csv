@@ -1,0 +1,501 @@
+person,person_label,genders,dobs,countries,continents
+http://www.wikidata.org/entity/Q100065772,Clara Benson,female,2000-08-19T00:00:00Z,Ghana,Africa
+http://www.wikidata.org/entity/Q100136959,Esther Ruth Mbabazi,female,1995-01-01T00:00:00Z,Uganda,Africa
+http://www.wikidata.org/entity/Q100146654,Dalia Ziada,female,1982-01-01T00:00:00Z,Egypt,Africa
+http://www.wikidata.org/entity/Q100152601,Fatou Haidara,female,1962-01-01T00:00:00Z,Mali,Africa
+http://www.wikidata.org/entity/Q100165910,Claude Haffner,female,1976-01-01T00:00:00Z,Democratic Republic of the Congo,Africa
+http://www.wikidata.org/entity/Q100214040,Bâ Odette Yattara,female,1944-01-01T00:00:00Z,Mali,Africa
+http://www.wikidata.org/entity/Q100230407,Traoré Oumou Touré,female,1950-01-01T00:00:00Z,Mali,Africa
+http://www.wikidata.org/entity/Q100233625,Diallo Sène,female,1952-07-01T00:00:00Z,Mali,Africa
+http://www.wikidata.org/entity/Q100233649,Fatoumata Sylla,female,1954-12-11T00:00:00Z,Mali,Africa
+http://www.wikidata.org/entity/Q100233714,Maïga Zeïnab Mint Youba,female,1955-11-30T00:00:00Z,Mali,Africa
+http://www.wikidata.org/entity/Q100233791,Soumaré Aminata Sidibé,female,1954-01-01T00:00:00Z,Mali,Africa
+http://www.wikidata.org/entity/Q100243004,Manuella Ollo,female,1985-08-16T00:00:00Z,Ivory Coast,Africa
+http://www.wikidata.org/entity/Q100249616,Awa Traoré,female,1980-01-01T00:00:00Z,Mali,Africa
+http://www.wikidata.org/entity/Q100250433,Ba Hawa Keita,female,1952-10-20T00:00:00Z,Mali,Africa
+http://www.wikidata.org/entity/Q100250623,Bâ Fatoumata Nènè Sy,female,1959-07-03T00:00:00Z,Mali,Africa
+http://www.wikidata.org/entity/Q100251399,Maïga Sina Damba,female,1957-11-16T00:00:00Z,Mali,Africa
+http://www.wikidata.org/entity/Q100255653,Erlyne Antonella Ndembet,female,1971-01-01T00:00:00Z,Gabon,Africa
+http://www.wikidata.org/entity/Q100256832,Lorna Doorman,female,1998-04-15T00:00:00Z,Zimbabwe,Africa
+http://www.wikidata.org/entity/Q100258380,Enayat al-Zayyat,female,1936-03-23T00:00:00Z,Egypt,Africa
+http://www.wikidata.org/entity/Q100258634,Arafa Abdel Rasoul,female,1954-02-19T00:00:00Z,Egypt,Africa
+http://www.wikidata.org/entity/Q100258796,Fatima Hellilou,female,1955-01-01T00:00:00Z,Algeria,Africa
+http://www.wikidata.org/entity/Q100258808,Fadila Hachemaoui,female,1955-01-01T00:00:00Z,Algeria,Africa
+http://www.wikidata.org/entity/Q100258880,Mervat Farrag,female,1960-07-15T00:00:00Z,Egypt,Africa
+http://www.wikidata.org/entity/Q100258900,Ghaniyya Bouhouia,female,1988-10-11T00:00:00Z,Algeria,Africa
+http://www.wikidata.org/entity/Q100259331,Bella Keshk,female,1994-01-01T00:00:00Z,Egypt,Africa
+http://www.wikidata.org/entity/Q100259783,Magda Saleh,female,1943-01-01T00:00:00Z,Kingdom of Egypt,Africa
+http://www.wikidata.org/entity/Q100260890,Emna Fakher,female,1981-03-10T00:00:00Z,Tunisia,Africa
+http://www.wikidata.org/entity/Q100261615,Marianne Khoury,female,1958-10-02T00:00:00Z,Egypt,Africa
+http://www.wikidata.org/entity/Q100268168,Teodolinda Rosa Rodrigues Coelho,female,1959-08-02T00:00:00Z,Angola,Africa
+http://www.wikidata.org/entity/Q100268832,Diarra Mariam Flantié Diallo,female,1955-06-28T00:00:00Z,Mali,Africa
+http://www.wikidata.org/entity/Q100268843,Gakou Salamata Fofana,female,1956-01-01T00:00:00Z,Mali,Africa
+http://www.wikidata.org/entity/Q100268929,Diabaté Fatoumata Guindo,female,1973-06-28T00:00:00Z,Mali,Africa
+http://www.wikidata.org/entity/Q100269043,Sangaré Oumou Ba,female,1947-02-15T00:00:00Z,Mali,Africa
+http://www.wikidata.org/entity/Q100269474,Vicentia Boco,female,1949-01-22T00:00:00Z,Benin,Africa
+http://www.wikidata.org/entity/Q100272601,Therese Soukup,female,2003-07-08T00:00:00Z,Seychelles,Africa
+http://www.wikidata.org/entity/Q100273559,Aisha Yesufu,female,1973-12-12T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q100275809,Togola Marie Jacqueline Nana,female,1949-04-29T00:00:00Z,Mali,Africa
+http://www.wikidata.org/entity/Q100276084,Priscilla Jana,female,1943-12-05T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q100279030,Diarra Raky Talla,female,1966-08-15T00:00:00Z,Mali,Africa
+http://www.wikidata.org/entity/Q100279449,Sanogo Aminata Mallé,female,1957-01-01T00:00:00Z,Mali,Africa
+http://www.wikidata.org/entity/Q100280127,Bintou Founé Samaké,female,1960-01-01T00:00:00Z,Mali,Africa
+http://www.wikidata.org/entity/Q100280563,Traoré Seynabou Diop,female,1963-11-16T00:00:00Z,Mali,Africa
+http://www.wikidata.org/entity/Q100310363,Aïcha Macky,female,1982-01-08T00:00:00Z,Niger,Africa
+http://www.wikidata.org/entity/Q100313973,Keïta Aïda M'Bo,female,1958-01-01T00:00:00Z,Mali,Africa
+http://www.wikidata.org/entity/Q100319041,Philippa Ndisi-Herrmann,female,1985-01-01T00:00:00Z,Kenya,Africa
+http://www.wikidata.org/entity/Q100320633,Ly Taher Dravé,female,1972-06-01T00:00:00Z,Mali,Africa
+http://www.wikidata.org/entity/Q100324206,Bridget Otoo,female,1983-01-01T00:00:00Z,Ghana,Africa
+http://www.wikidata.org/entity/Q100326095,Branwen Okpako,female,1969-02-25T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q100330628,Voahary Rakotovelomanantsoa,female,1982-07-20T00:00:00Z,Madagascar,Africa
+http://www.wikidata.org/entity/Q100330737,Joelle Kayembe,female,1983-05-31T00:00:00Z,Democratic Republic of the Congo,Africa
+http://www.wikidata.org/entity/Q100334087,Sophia Byass,female,1993-05-26T00:00:00Z,The Gambia,Africa
+http://www.wikidata.org/entity/Q100341292,Marthe Solange Achy Brou,female,1949-01-01T00:00:00Z,Ivory Coast,Africa
+http://www.wikidata.org/entity/Q100341661,Celeste Heloise Barker,female,1960-07-07T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q100343336,Mandisa Makesini,female,1975-09-20T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q100364484,Loub Yacout Zaïdou,female,1961-01-01T00:00:00Z,Comoros,Africa
+http://www.wikidata.org/entity/Q100375903,Cynthia Butare,female,1987-01-01T00:00:00Z,Rwanda,Africa
+http://www.wikidata.org/entity/Q100376295,Thouria El Hadraoui,female,1957-01-01T00:00:00Z,Morocco,Africa
+http://www.wikidata.org/entity/Q100376310,Sakina Safadi,female,1952-01-01T00:00:00Z,Morocco,Africa
+http://www.wikidata.org/entity/Q100383566,Laura Musanase,female,1993-01-01T00:00:00Z,Tanzania,Africa
+http://www.wikidata.org/entity/Q100384329,Munezero Aline,female,1994-01-01T00:00:00Z,Rwanda,Africa
+http://www.wikidata.org/entity/Q100396318,Girley Jazama,female,1984-01-01T00:00:00Z,Namibia,Africa
+http://www.wikidata.org/entity/Q100415817,Nadège Uwamwezi,female,1993-01-01T00:00:00Z,Rwanda,Africa
+http://www.wikidata.org/entity/Q100418524,Dora Francisca Edu-Buandoh,female,1962-04-01T00:00:00Z,Ghana,Africa
+http://www.wikidata.org/entity/Q100427228,Martine Oulabou,female,1959-01-01T00:00:00Z,Gabon,Africa
+http://www.wikidata.org/entity/Q100431141,Ayyam Sureau,female,1965-01-01T00:00:00Z,Egypt,Africa
+http://www.wikidata.org/entity/Q100433730,Catherine Kamau,female,1987-02-03T00:00:00Z,Kenya,Africa
+http://www.wikidata.org/entity/Q100433813,Aïcha Boro,female,1978-05-24T00:00:00Z,Burkina Faso,Africa
+http://www.wikidata.org/entity/Q100436816,Fay Goldie,female,1904-01-01T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q100439059,Aderonke Adeola,female,1990-01-01T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q100489282,Pascale Lamche,female,1960-07-01T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q100535753,Kagendo Murungi,female,1971-12-07T00:00:00Z,Kenya,Africa
+http://www.wikidata.org/entity/Q100543825,Omelga Mthiyane,female,1977-01-01T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q100550045,Kokunre Agbontaen Eghafona,female,1959-10-01T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q100551511,Brillian Jepkorir Kipkoech,female,1995-03-01T00:00:00Z,Kenya,Africa
+http://www.wikidata.org/entity/Q100560895,Alfa Demmellash,female,1979-01-01T00:00:00Z,Ethiopia,Africa
+http://www.wikidata.org/entity/Q100571577,Hadassah Spira Epstein,female,1909-12-30T00:00:00Z,Ottoman Empire,Africa
+http://www.wikidata.org/entity/Q100571835,Habiba Marzouk,female,2002-05-14T00:00:00Z,Egypt,Africa
+http://www.wikidata.org/entity/Q100571950,Anne-Leen Thorburn,female,2006-01-01T00:00:00Z,Namibia,Africa
+http://www.wikidata.org/entity/Q100571960,Garcelle Napier,female,2005-05-10T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q100571994,Janke du Plessis,female,2005-01-01T00:00:00Z,Namibia,Africa
+http://www.wikidata.org/entity/Q100572021,Phiwe Mangaliso Nhleko,female,2006-01-31T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q100572044,Shante Thandiso Keleboglie Koti,female,2006-06-11T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q100574455,Hannah de Goede,female,2006-01-01T00:00:00Z,Namibia,Africa
+http://www.wikidata.org/entity/Q100574461,Isabella Tanya Bottger,female,2006-01-01T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q100574489,Jasmin Pillay,female,2006-01-01T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q100574751,Minette Hough,female,2004-01-01T00:00:00Z,Namibia,Africa
+http://www.wikidata.org/entity/Q100574781,Olivia Laszlo Bergem,female,2006-01-01T00:00:00Z,Namibia,Africa
+http://www.wikidata.org/entity/Q100587672,Fatou Samba,female,1995-03-25T00:00:00Z,Senegal,Africa
+http://www.wikidata.org/entity/Q100594757,Tyde Kara Cooper,female,2006-01-01T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q100598230,Melissa Cohen,female,1986-01-01T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q100605576,Sira Jallow,female,2004-01-01T00:00:00Z,The Gambia,Africa
+http://www.wikidata.org/entity/Q100698240,Vivienne Roumani,female,1950-01-01T00:00:00Z,Libya,Africa
+http://www.wikidata.org/entity/Q100699718,Mariya Petrovna Zhabinskaya,female,1938-05-22T00:00:00Z,Mozambique,Africa
+http://www.wikidata.org/entity/Q100700170,Sophie Heidi Kam,female,1968-01-01T00:00:00Z,Burkina Faso,Africa
+http://www.wikidata.org/entity/Q100705251,Mariama Sowe,female,2000-01-01T00:00:00Z,The Gambia,Africa
+http://www.wikidata.org/entity/Q100728340,Hannah Faal-Heim,female,2000-01-01T00:00:00Z,The Gambia,Africa
+http://www.wikidata.org/entity/Q100740557,Tsehay Melaku,female,1952-01-01T00:00:00Z,Ethiopia,Africa
+http://www.wikidata.org/entity/Q100741876,Tamy Moyo,female,1998-01-05T00:00:00Z,Zimbabwe,Africa
+http://www.wikidata.org/entity/Q100742177,Alphonse Menyo,female,1998-01-01T00:00:00Z,Ghana,Africa
+http://www.wikidata.org/entity/Q100744984,Chiedza Mhende,female,1991-10-19T00:00:00Z,Zimbabwe,Africa
+http://www.wikidata.org/entity/Q100747748,Shana Dowdeswell,female,1989-04-01T00:00:00Z,Zimbabwe,Africa
+http://www.wikidata.org/entity/Q100778343,Jean Doyle,female,1930-01-01T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q100778452,Geneviève Boko Nadjo,female,1956-12-26T00:00:00Z,Benin,Africa
+http://www.wikidata.org/entity/Q100787162,Vivian Ewalefo,female,1985-05-09T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q100791874,Shudufhadzo Musida,female,1996-07-18T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q100873289,Catarina Taborda,female,1989-01-01T00:00:00Z,Guinea-Bissau,Africa
+http://www.wikidata.org/entity/Q100921652,Noga Treves,female,1901-01-01T00:00:00Z,Ottoman Empire,Africa
+http://www.wikidata.org/entity/Q100933765,Fatou Baldeh,female,1983-01-01T00:00:00Z,The Gambia,Africa
+http://www.wikidata.org/entity/Q100961556,Fatima Chiguer,female,1948-01-01T00:00:00Z,Morocco,Africa
+http://www.wikidata.org/entity/Q100966395,Denise Fernandes,female,1990-01-01T00:00:00Z,Cape Verde,Africa
+http://www.wikidata.org/entity/Q100975176,Agatha Cilliers,female,1969-03-14T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q100998577,Alemu Megertu,female,1997-10-12T00:00:00Z,Ethiopia,Africa
+http://www.wikidata.org/entity/Q100998660,Rahma Tusa,female,1993-09-14T00:00:00Z,Ethiopia,Africa
+http://www.wikidata.org/entity/Q101012111,Phumzile Sitole,female,1989-11-18T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q101053660,Rosemary Aluoch,female,1976-07-05T00:00:00Z,Kenya,Africa
+http://www.wikidata.org/entity/Q101063239,Adanech Abebe,female,1950-01-01T00:00:00Z,Ethiopia,Africa
+http://www.wikidata.org/entity/Q101064944,Charlbi Dean,female,1990-02-05T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q101069531,Mariam Selim,female,2002-10-24T00:00:00Z,Egypt,Africa
+http://www.wikidata.org/entity/Q101072601,Sisay Meseret Gola,female,1997-12-30T00:00:00Z,Ethiopia,Africa
+http://www.wikidata.org/entity/Q101088489,Virginia Khunguni,female,1989-01-01T00:00:00Z,Malawi,Africa
+http://www.wikidata.org/entity/Q101088805,Leslie Witz,female,1959-01-13T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q101097166,Aisha Tsamiya,female,1992-01-01T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q101115022,Leila Nakabira,female,1993-01-01T00:00:00Z,Uganda,Africa
+http://www.wikidata.org/entity/Q101118261,Fati Washa,female,1993-02-21T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q101130581,Simone Ackermann,female,1990-02-01T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q101137395,Karabo Poppy Moletsane,female,1993-01-01T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q101138918,Hajia Jumai Bello,female,1941-01-01T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q101149289,Fati Shu'uma,female,1994-01-01T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q101198632,Patricia Francourt,female,1965-01-01T00:00:00Z,Seychelles,Africa
+http://www.wikidata.org/entity/Q101198923,Devika Vidot,female,1988-11-18T00:00:00Z,Seychelles,Africa
+http://www.wikidata.org/entity/Q101207557,Yola Mgogwana,female,2008-01-01T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q101208454,Aliaa Saleh,female,2004-08-04T00:00:00Z,Egypt,Africa
+http://www.wikidata.org/entity/Q101208465,Sana Elsherbiny,female,2004-01-01T00:00:00Z,Egypt,Africa
+http://www.wikidata.org/entity/Q101208480,Polina Fouda,female,2003-06-17T00:00:00Z,Egypt,Africa
+http://www.wikidata.org/entity/Q101208486,Salma Saleh,female,2003-12-19T00:00:00Z,Egypt,Africa
+http://www.wikidata.org/entity/Q101208492,Tia Sobhy,female,2003-02-07T00:00:00Z,Egypt,Africa
+http://www.wikidata.org/entity/Q101208544,Malak Selim,female,2003-05-01T00:00:00Z,Egypt,Africa
+http://www.wikidata.org/entity/Q101208559,Login Elsasyed,female,2003-01-01T00:00:00Z,Egypt,Africa
+http://www.wikidata.org/entity/Q101208747,Sara Rostom,female,1996-01-01T00:00:00Z,Egypt,Africa
+http://www.wikidata.org/entity/Q101210362,Mary Caroline Gomez,female,2000-01-01T00:00:00Z,The Gambia,Africa
+http://www.wikidata.org/entity/Q101210613,Janet Karim,female,1954-01-01T00:00:00Z,Malawi,Africa
+http://www.wikidata.org/entity/Q101244291,Zainab Gimba,female,1972-12-25T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q101246698,Joana Nnazua Kolo,female,1993-01-01T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q101246870,Farah Hussein,female,2001-10-07T00:00:00Z,Egypt,Africa
+http://www.wikidata.org/entity/Q101246940,Mandy Mohamed,female,2000-02-23T00:00:00Z,Egypt,Africa
+http://www.wikidata.org/entity/Q101246964,Farah Salem,female,2001-03-01T00:00:00Z,Egypt,Africa
+http://www.wikidata.org/entity/Q101247067,Adekemi Adesida,female,1991-05-28T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q101247074,Amenaghawon Osaretin Melvin,female,1995-07-05T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q101247084,Helen Ocheke,female,1989-05-06T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q101247093,Adenike Oyekunle,female,1996-08-02T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q101247151,Oluwadamilola Oluwafemi,female,1994-10-27T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q101247335,Cathryn Credo,female,1997-08-02T00:00:00Z,Tanzania,Africa
+http://www.wikidata.org/entity/Q101328026,Sheila Munyiva,female,1993-03-27T00:00:00Z,Kenya,Africa
+http://www.wikidata.org/entity/Q101405604,Michelle Abueng,female,2001-05-06T00:00:00Z,Botswana,Africa
+http://www.wikidata.org/entity/Q101412106,Adèle Degbalase Kanda,female,1950-01-01T00:00:00Z,Democratic Republic of the Congo,Africa
+http://www.wikidata.org/entity/Q101423280,Henrietta Mbawah,female,1988-01-01T00:00:00Z,Sierra Leone,Africa
+http://www.wikidata.org/entity/Q101426608,Hadja Diaka Diakité,female,1950-01-01T00:00:00Z,Guinea,Africa
+http://www.wikidata.org/entity/Q101426780,Sanaba Kaba,female,1950-01-01T00:00:00Z,Guinea,Africa
+http://www.wikidata.org/entity/Q101429479,Amina Mohammed Baloni,female,1961-06-27T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q101437886,Davina Itoo,female,1983-08-02T00:00:00Z,Mauritius,Africa
+http://www.wikidata.org/entity/Q101463848,Zainab Ibrahim Kuchi,female,1958-01-01T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q101464978,Hannatu Bashir,female,1992-10-02T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q101465795,Fadila Muhammad,female,1992-01-01T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q101468791,Susan Akene,female,1989-03-23T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q101470068,Yolanda Steyn,female,1972-08-22T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q101470935,Johanna Mafuyana,female,1927-09-18T00:00:00Z,Zimbabwe,Africa
+http://www.wikidata.org/entity/Q101471550,Bouchra Zboured,female,1950-01-01T00:00:00Z,Morocco,Africa
+http://www.wikidata.org/entity/Q101478158,Irène Josianne Ngouhada,female,1978-09-10T00:00:00Z,Cameroon,Africa
+http://www.wikidata.org/entity/Q101495761,Uzamat Akinbile Yussuf,female,1976-01-01T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q101500083,Arlete Bombe,female,1983-01-01T00:00:00Z,Mozambique,Africa
+http://www.wikidata.org/entity/Q101517016,Selma Hellal,female,1973-01-01T00:00:00Z,Algeria,Africa
+http://www.wikidata.org/entity/Q101528494,Yéli Monique Kam,female,1973-08-24T00:00:00Z,Burkina Faso,Africa
+http://www.wikidata.org/entity/Q101530455,Lihle Dhlomo,female,1990-01-01T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q101539401,Sukai Mbye Bojang,female,1955-03-08T00:00:00Z,The Gambia,Africa
+http://www.wikidata.org/entity/Q101541418,Rebecca Majeka,female,1939-01-01T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q101542310,Helena Amoako,female,1975-12-16T00:00:00Z,Ghana,Africa
+http://www.wikidata.org/entity/Q101542312,Dora Manu,female,1976-01-01T00:00:00Z,Ghana,Africa
+http://www.wikidata.org/entity/Q101542492,Yetunde Arobieke,female,1960-05-06T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q101554077,Mable Esendi,female,1961-01-01T00:00:00Z,Kenya,Africa
+http://www.wikidata.org/entity/Q101554155,Florence Wanjiru,female,1950-01-01T00:00:00Z,Kenya,Africa
+http://www.wikidata.org/entity/Q101555742,Emebet Shiferaw,female,1973-03-13T00:00:00Z,Ethiopia,Africa
+http://www.wikidata.org/entity/Q101557059,Ilse Wicksell,female,1959-08-10T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q101558792,Berhane Herpassa,female,1983-07-30T00:00:00Z,Ethiopia,Africa
+http://www.wikidata.org/entity/Q101560663,Mayra Rondo,female,1988-07-07T00:00:00Z,Equatorial Guinea,Africa
+http://www.wikidata.org/entity/Q101562045,Linah Cheruiyot,female,1950-01-01T00:00:00Z,Kenya,Africa
+http://www.wikidata.org/entity/Q101564367,Regina Chemeli,female,1970-01-01T00:00:00Z,Kenya,Africa
+http://www.wikidata.org/entity/Q101564458,Esther Ndoumbé,female,1940-01-01T00:00:00Z,Cameroon,Africa
+http://www.wikidata.org/entity/Q101564924,Geneviève Obone,female,1990-01-01T00:00:00Z,Gabon,Africa
+http://www.wikidata.org/entity/Q101565284,Diane Zancy,female,1950-01-01T00:00:00Z,Gabon,Africa
+http://www.wikidata.org/entity/Q101566880,Rethabile Ramaphakela,female,1987-04-13T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q101573786,Pearl Jansen,female,1950-01-01T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q101579052,Viola Jelagat,female,1992-04-20T00:00:00Z,Kenya,Africa
+http://www.wikidata.org/entity/Q101635665,Martha Udom,female,1970-01-01T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q101639556,Ismahane Lahmar,female,1982-10-25T00:00:00Z,Tunisia,Africa
+http://www.wikidata.org/entity/Q101666095,Yejide Kilanko,female,1975-01-01T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q101676922,Cora Amelia Musk,female,1923-08-16T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q101724086,Edna Noy,female,1950-02-17T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q101728544,Mouna Sabri,female,1984-02-02T00:00:00Z,Morocco,Africa
+http://www.wikidata.org/entity/Q101743466,Ajibola Ponnle,female,1973-01-01T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q101807505,Aya Samaha,female,1992-03-31T00:00:00Z,Egypt,Africa
+http://www.wikidata.org/entity/Q101815447,Adaku Ufere-Awoonor,female,1985-07-07T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q101828009,Oceanne Iradukunda,female,1996-11-11T00:00:00Z,Rwanda,Africa
+http://www.wikidata.org/entity/Q101836469,Laila Gohar,female,1988-01-01T00:00:00Z,Egypt,Africa
+http://www.wikidata.org/entity/Q101857636,Rolande Ngo Issi,female,1981-01-01T00:00:00Z,Cameroon,Africa
+http://www.wikidata.org/entity/Q101888717,Tanatsei Gambura,female,1999-01-01T00:00:00Z,Zimbabwe,Africa
+http://www.wikidata.org/entity/Q101958562,Mosun Belo-Olusoga,female,1957-09-13T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q102026455,Arame Fall,female,1936-01-01T00:00:00Z,Senegal,Africa
+http://www.wikidata.org/entity/Q102045752,Nomvelo Makhanya,female,1996-04-24T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q102045767,Nunu Khumalo,female,1992-04-15T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q102045932,Gcina Nkosi,female,1992-04-15T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q102046137,Lara Sousa,female,1991-01-01T00:00:00Z,Mozambique,Africa
+http://www.wikidata.org/entity/Q102046632,Sanaâ Mssoudy,female,1999-12-30T00:00:00Z,Morocco,Africa
+http://www.wikidata.org/entity/Q102047608,Jihan al-Mosli,female,1908-01-01T00:00:00Z,United Arab Republic,Africa
+http://www.wikidata.org/entity/Q102073069,Rosebell Kagumire,female,1983-04-23T00:00:00Z,Uganda,Africa
+http://www.wikidata.org/entity/Q102077235,Francesca Emanuel,female,1933-09-19T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q102078342,Saida Hagi-Dirie Herzi,female,1950-01-01T00:00:00Z,Somalia,Africa
+http://www.wikidata.org/entity/Q102105619,Rifkatu Adamu Chidawa,female,1956-02-08T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q102108395,Lorcia Cooper,female,1978-11-09T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q102113346,Dorothy Akpene Amenuke,female,1968-01-01T00:00:00Z,Ghana,Africa
+http://www.wikidata.org/entity/Q102115214,Obianuju Ekeocha,female,1979-01-01T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q102127885,Priscilla Kuye,female,1940-08-18T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q102136199,Arinola Fatimah Lawal,female,1969-10-26T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q102162766,Hadja Mariama Sow,female,1942-01-01T00:00:00Z,Guinea,Africa
+http://www.wikidata.org/entity/Q102174802,Sinatu Ojikutu,female,1946-01-01T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q102175095,Nabila Philip Atalla Seif,female,1951-11-06T00:00:00Z,Egypt,Africa
+http://www.wikidata.org/entity/Q102177082,Titilayo Laoye-Tomori,female,1948-12-22T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q102182331,Blessing Nsiegbe,female,1965-09-18T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q102182356,Rajae Aboulaich,female,1957-01-01T00:00:00Z,Morocco,Africa
+http://www.wikidata.org/entity/Q102183138,Gloria Sengha Panda Shala,female,1993-04-20T00:00:00Z,Democratic Republic of the Congo,Africa
+http://www.wikidata.org/entity/Q102184252,Alouf Jirari,female,1965-11-08T00:00:00Z,Morocco,Africa
+http://www.wikidata.org/entity/Q102184439,Néfertiti Magahed,female,1953-01-06T00:00:00Z,Egypt,Africa
+http://www.wikidata.org/entity/Q102187913,Miriam Onuoha,female,1965-09-18T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q102188984,Rahila Hadea Cudjoe,female,1948-10-06T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q102189005,Odile Sankara,female,1963-01-01T00:00:00Z,Burkina Faso,Africa
+http://www.wikidata.org/entity/Q102199040,Blessing Onuh,female,1976-06-30T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q102216511,Lee Visagie,female,1992-08-13T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q102222246,Khanya Mkangisa,female,1988-03-13T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q102222264,Soso Rungqu,female,1983-05-24T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q102225611,Michelle Beling,female,1988-01-01T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q102227958,Phatiah,female,2008-08-26T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q102228500,Tolulope Akande-Sadipe,female,1966-03-29T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q102229778,Ogunlola Olubunmi,female,1965-07-19T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q102231137,Farida Arman,female,1938-02-20T00:00:00Z,Egypt,Africa
+http://www.wikidata.org/entity/Q102251300,Hanan al-Barassi,female,1973-01-01T00:00:00Z,Libya,Africa
+http://www.wikidata.org/entity/Q102252527,Chantelle Gray van Heerden,female,2000-01-01T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q102267785,Ishtar Lakhani,female,1985-01-01T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q102271381,Uyaiedu Ikpe-Etim,female,1989-01-01T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q102271471,Ubah Ali,female,1996-01-01T00:00:00Z,Somaliland,Africa
+http://www.wikidata.org/entity/Q102271856,Gifty Eugenia Kwofie,female,1958-02-11T00:00:00Z,Ghana,Africa
+http://www.wikidata.org/entity/Q102274396,Habiba El Bouazzaoui,female,1946-01-01T00:00:00Z,Morocco,Africa
+http://www.wikidata.org/entity/Q102274709,Fanja Rakotondrajao,female,1969-01-01T00:00:00Z,Madagascar,Africa
+http://www.wikidata.org/entity/Q102274717,Melissa Reddy,female,1986-08-24T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q102276688,Aïssata Moumouni,female,1939-10-19T00:00:00Z,Niger,Africa
+http://www.wikidata.org/entity/Q102282163,Nadeen Ashraf,female,1998-03-12T00:00:00Z,Egypt,Africa
+http://www.wikidata.org/entity/Q102284287,Jemimah Kariuki,female,2000-01-01T00:00:00Z,Kenya,Africa
+http://www.wikidata.org/entity/Q102289477,Michaella Russell,female,1992-04-16T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q102291424,Khtek,female,1995-01-01T00:00:00Z,Morocco,Africa
+http://www.wikidata.org/entity/Q102292209,Douce Namwezi N'Ibamba,female,1989-02-11T00:00:00Z,Democratic Republic of the Congo,Africa
+http://www.wikidata.org/entity/Q102293184,Gosette Lubondo,female,1993-01-01T00:00:00Z,Democratic Republic of the Congo,Africa
+http://www.wikidata.org/entity/Q102300433,Rébecca Walo Omana,female,1951-07-15T00:00:00Z,Democratic Republic of the Congo,Africa
+http://www.wikidata.org/entity/Q102303137,Malaika Uwamahoro,female,1990-01-01T00:00:00Z,Rwanda,Africa
+http://www.wikidata.org/entity/Q102312435,Maryem Amkadni,female,1975-12-29T00:00:00Z,Morocco,Africa
+http://www.wikidata.org/entity/Q102318023,Hasnaa Zidani,female,1971-11-26T00:00:00Z,Morocco,Africa
+http://www.wikidata.org/entity/Q102323079,Judy Ditchfield,female,1963-07-23T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q102353316,Noluthando Meje,female,1986-10-30T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q102355525,Lynne McCarthy,female,1983-11-29T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q102375314,Keria Ibrahim,female,1973-03-22T00:00:00Z,Ethiopia,Africa
+http://www.wikidata.org/entity/Q102381675,Charlotte Ntamack,female,1979-01-01T00:00:00Z,Cameroon,Africa
+http://www.wikidata.org/entity/Q102394814,Fikile Mthwalo,female,1989-04-13T00:00:00Z,Lesotho,Africa
+http://www.wikidata.org/entity/Q102397087,Mary Anne Barlow,female,1973-11-21T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q102398347,Isma Kaddouri,female,1987-10-12T00:00:00Z,Algeria,Africa
+http://www.wikidata.org/entity/Q102412581,Edith Nzuruike,female,1995-12-12T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q102413678,Ratiba Derfoul,female,1983-07-25T00:00:00Z,Algeria,Africa
+http://www.wikidata.org/entity/Q102419910,Dominique Donner,female,1971-01-01T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q102419927,Cindy Schwulst,female,1991-01-01T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q102423552,Cindy Swanepoel,female,1981-12-15T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q102424782,Nobuhle Mahlasela,female,1982-04-10T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q102425219,Nejla Nouaili,female,1980-01-19T00:00:00Z,Tunisia,Africa
+http://www.wikidata.org/entity/Q102430251,Josina Z. Machel,female,1976-04-01T00:00:00Z,Mozambique,Africa
+http://www.wikidata.org/entity/Q102431988,Fatma Ayadi,female,1979-04-28T00:00:00Z,Tunisia,Africa
+http://www.wikidata.org/entity/Q102432291,Retha Heymann,female,2000-01-01T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q102440524,Boutheina Hafassa,female,1986-01-20T00:00:00Z,Tunisia,Africa
+http://www.wikidata.org/entity/Q102481401,Marwa Dridi,female,1986-06-29T00:00:00Z,Tunisia,Africa
+http://www.wikidata.org/entity/Q102582633,Houda Barkouki,female,1989-06-28T00:00:00Z,Morocco,Africa
+http://www.wikidata.org/entity/Q10263813,Dama Bete,female,1984-08-28T00:00:00Z,Mozambique,Africa
+http://www.wikidata.org/entity/Q1026465,Rebecca Kadaga,female,1956-05-24T00:00:00Z,Uganda,Africa
+http://www.wikidata.org/entity/Q10269022,Dulce Braga,female,1958-04-16T00:00:00Z,Angola,Africa
+http://www.wikidata.org/entity/Q10271926,Elisa Cossa,female,1980-07-03T00:00:00Z,Mozambique,Africa
+http://www.wikidata.org/entity/Q102783033,Hélène Diarra,female,1955-01-01T00:00:00Z,Mali,Africa
+http://www.wikidata.org/entity/Q10278393,Eva Nill,female,1909-06-25T00:00:00Z,Egypt,Africa
+http://www.wikidata.org/entity/Q102810465,Lindiwe Chibi,female,1976-01-01T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q102810680,Precious Simelane,female,1977-10-10T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q102864032,Chantel Clifton-Parks,female,2000-01-01T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q102883150,Muriel Blanche,female,1990-08-25T00:00:00Z,Cameroon,Africa
+http://www.wikidata.org/entity/Q102893869,Janice Acquah,female,1967-02-01T00:00:00Z,Ghana,Africa
+http://www.wikidata.org/entity/Q10292662,Gugu Dlamini,female,1962-01-01T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q102930751,Khalifa Es-Sebaiy,female,1977-12-11T00:00:00Z,Morocco,Africa
+http://www.wikidata.org/entity/Q10295168,Hermínia da Cruz Fortes,female,1941-09-17T00:00:00Z,Cape Verde,Africa
+http://www.wikidata.org/entity/Q102970151,Malika Agueznay,female,1934-01-01T00:00:00Z,Morocco,Africa
+http://www.wikidata.org/entity/Q102976139,Camilla George,female,1988-01-01T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q102979355,Asma Guesmi,female,1988-12-21T00:00:00Z,Algeria,Africa
+http://www.wikidata.org/entity/Q103009139,Desiree Edwards,female,2000-01-01T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q103009145,Valerie Bridgens,female,2000-01-01T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q103009147,Donna Caldwell,female,2000-01-01T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q103009152,Renee Aucamp,female,2000-01-01T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q103030199,Margaret Fombe Fube,female,1960-01-01T00:00:00Z,Cameroon,Africa
+http://www.wikidata.org/entity/Q10303796,Isabel Ferreira,female,1960-01-01T00:00:00Z,Angola,Africa
+http://www.wikidata.org/entity/Q103040720,Soufia Benhida,female,1989-05-01T00:00:00Z,Morocco,Africa
+http://www.wikidata.org/entity/Q103051372,Naomi Beukes-Meyer,female,1965-01-01T00:00:00Z,Namibia,Africa
+http://www.wikidata.org/entity/Q103054297,Marwa Khalil,female,1988-11-01T00:00:00Z,Tunisia,Africa
+http://www.wikidata.org/entity/Q103071113,Chiamaka Okoli,female,1987-01-01T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q103137005,Bouthaina Abdelhedi,female,1977-05-26T00:00:00Z,Tunisia,Africa
+http://www.wikidata.org/entity/Q103142323,Angela Ankomaah Tabiri,female,1990-01-01T00:00:00Z,Ghana,Africa
+http://www.wikidata.org/entity/Q103178588,Aicha Driouch,female,1991-11-20T00:00:00Z,Morocco,Africa
+http://www.wikidata.org/entity/Q10328338,Mel Gambôa,female,1984-05-23T00:00:00Z,Angola,Africa
+http://www.wikidata.org/entity/Q10335452,Nancy Vieira,female,1975-01-01T00:00:00Z,Cape Verde,Africa
+http://www.wikidata.org/entity/Q10335872,Nayma Mingas,female,1974-01-25T00:00:00Z,Angola,Africa
+http://www.wikidata.org/entity/Q10340236,Odete Semedo,female,1959-11-07T00:00:00Z,Guinea-Bissau,Africa
+http://www.wikidata.org/entity/Q103447475,Philomena Obiageliuwa Uyanwah,female,1938-03-28T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q1036242,Carine Mbuh Ndoum Yoh,female,1993-04-10T00:00:00Z,Cameroon,Africa
+http://www.wikidata.org/entity/Q103682850,Rachel Muyal,female,1933-01-01T00:00:00Z,Morocco,Africa
+http://www.wikidata.org/entity/Q103702855,Aisha Jawara,female,1988-01-01T00:00:00Z,The Gambia,Africa
+http://www.wikidata.org/entity/Q10372258,Sita Valles,female,1951-08-23T00:00:00Z,Angola,Africa
+http://www.wikidata.org/entity/Q103734582,Maria de Jesus Pereira Issungo,female,1958-12-31T00:00:00Z,Angola,Africa
+http://www.wikidata.org/entity/Q103739016,Wafa Kamil Fayid,female,1942-01-01T00:00:00Z,Kingdom of Egypt,Africa
+http://www.wikidata.org/entity/Q103759,Cesária Évora,female,1941-08-27T00:00:00Z,Cape Verde,Africa
+http://www.wikidata.org/entity/Q10377760,Taciana Lima,female,1983-12-17T00:00:00Z,Guinea-Bissau,Africa
+http://www.wikidata.org/entity/Q103817612,Boutheina El Ouaer,female,1984-01-01T00:00:00Z,Tunisia,Africa
+http://www.wikidata.org/entity/Q103819954,Sibonisiwe Sithole,female,1982-11-16T00:00:00Z,Zimbabwe,Africa
+http://www.wikidata.org/entity/Q103821084,Precious Mustapha,female,1997-04-13T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q10382741,Titina Rodriguês,female,1947-11-27T00:00:00Z,Cape Verde,Africa
+http://www.wikidata.org/entity/Q103830857,Ghada Maatouk,female,1998-05-11T00:00:00Z,Tunisia,Africa
+http://www.wikidata.org/entity/Q103859449,Penda Diakité,female,1992-01-01T00:00:00Z,Mali,Africa
+http://www.wikidata.org/entity/Q10389790,Vera Okolo,female,1985-01-05T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q103908669,Shanga,female,1993-01-01T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q103929653,Mulu Gebreegziabher,female,1962-01-01T00:00:00Z,Ethiopia,Africa
+http://www.wikidata.org/entity/Q10394856,Zaida Chongo,female,1970-06-17T00:00:00Z,Mozambique,Africa
+http://www.wikidata.org/entity/Q103958052,Fatoumata Ka,female,1950-01-01T00:00:00Z,Senegal,Africa
+http://www.wikidata.org/entity/Q103959291,Mantoulaye Guene,female,1939-01-01T00:00:00Z,Senegal,Africa
+http://www.wikidata.org/entity/Q10396323,Érica Chissapa,female,1988-12-22T00:00:00Z,Angola,Africa
+http://www.wikidata.org/entity/Q103992141,Imaan Sulaiman-Ibrahim,female,1980-04-19T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q103997957,Fadima Diawara,female,1986-06-16T00:00:00Z,Guinea,Africa
+http://www.wikidata.org/entity/Q104013391,Pius  Hadzide,female,1979-06-14T00:00:00Z,Ghana,Africa
+http://www.wikidata.org/entity/Q104029336,Josephine Effah-Chukwuma,female,1966-01-01T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q104031591,Ophelia Hayford,female,1973-10-29T00:00:00Z,Ghana,Africa
+http://www.wikidata.org/entity/Q104031634,Sheila Bartels,female,1975-09-03T00:00:00Z,Ghana,Africa
+http://www.wikidata.org/entity/Q104033582,Hirut Woldemariam,female,1969-06-05T00:00:00Z,Ethiopia,Africa
+http://www.wikidata.org/entity/Q104033906,Chioma Mang,female,1961-01-01T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q104054230,Akanvariva Lydia Lamisi,female,1973-10-07T00:00:00Z,Ghana,Africa
+http://www.wikidata.org/entity/Q104054581,Gizella Tetteh Agbotui,female,1970-11-30T00:00:00Z,Ghana,Africa
+http://www.wikidata.org/entity/Q104070455,Fatim Cissé,female,1983-03-31T00:00:00Z,Ivory Coast,Africa
+http://www.wikidata.org/entity/Q104091381,Rasha Samir,female,1969-01-01T00:00:00Z,Egypt,Africa
+http://www.wikidata.org/entity/Q104091419,Agnes Naa Momo Lartey,female,1976-04-26T00:00:00Z,Ghana,Africa
+http://www.wikidata.org/entity/Q104093818,Natasha Joubert,female,1997-07-23T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q104097782,Jane Thomas Rogers,female,1980-05-10T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q104119284,Mercy Kainobwisho,female,1979-01-01T00:00:00Z,Uganda,Africa
+http://www.wikidata.org/entity/Q104127716,Radwa Sayed,female,1997-05-30T00:00:00Z,Egypt,Africa
+http://www.wikidata.org/entity/Q104128393,Dina Salústio,female,1941-01-01T00:00:00Z,Cape Verde,Africa
+http://www.wikidata.org/entity/Q104144447,Souad Labbize,female,1965-03-25T00:00:00Z,Algeria,Africa
+http://www.wikidata.org/entity/Q104150527,Faith Mazibuko,female,1965-04-02T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q104152495,Leila Beratto,female,1980-01-01T00:00:00Z,Algeria,Africa
+http://www.wikidata.org/entity/Q104153639,Victoire Agbanrin-Elisha,female,1944-03-28T00:00:00Z,Benin,Africa
+http://www.wikidata.org/entity/Q104155741,Dawn Lindberg,female,1945-04-19T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q104166486,Honorine Ngou,female,1957-01-18T00:00:00Z,Gabon,Africa
+http://www.wikidata.org/entity/Q104167775,Mireille Tchengang,female,2002-12-20T00:00:00Z,Cameroon,Africa
+http://www.wikidata.org/entity/Q104172784,Amina Priscille Longoh,female,1991-06-06T00:00:00Z,Chad,Africa
+http://www.wikidata.org/entity/Q104173426,Ndeutala Angolo,female,1952-03-01T00:00:00Z,Namibia,Africa
+http://www.wikidata.org/entity/Q104176089,Jane Karuku,female,1961-01-01T00:00:00Z,Kenya,Africa
+http://www.wikidata.org/entity/Q104176638,Zahia Benarous,female,1958-06-10T00:00:00Z,Algeria,Africa
+http://www.wikidata.org/entity/Q104189031,Inviolata Mbwavi,female,1972-01-01T00:00:00Z,Kenya,Africa
+http://www.wikidata.org/entity/Q104192847,Omo-Oba Adenrele Ademola,female,1916-01-02T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q104212289,Sophy Aiida,female,1987-01-01T00:00:00Z,Cameroon,Africa
+http://www.wikidata.org/entity/Q104214763,Yolanda Dreyer,female,1956-12-01T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q104215235,Berhane Ras-Work,female,1940-01-01T00:00:00Z,Ethiopia,Africa
+http://www.wikidata.org/entity/Q104215675,Beauty Ngxongo,female,1953-01-01T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q104217128,Fatiha Targhaoui,female,1966-02-27T00:00:00Z,Morocco,Africa
+http://www.wikidata.org/entity/Q104217994,Isabella Maya,female,1986-01-01T00:00:00Z,Ivory Coast,Africa
+http://www.wikidata.org/entity/Q104218475,Signoline Kanyamuneza,female,1998-03-03T00:00:00Z,Burundi,Africa
+http://www.wikidata.org/entity/Q104218485,Charné Griesel,female,2000-07-20T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q104219238,Narindra Rakotovao,female,1998-04-03T00:00:00Z,Madagascar,Africa
+http://www.wikidata.org/entity/Q104224062,Lariba Abudu,female,1966-05-12T00:00:00Z,Ghana,Africa
+http://www.wikidata.org/entity/Q104243593,Sandrine Billiet,female,1990-02-16T00:00:00Z,Cape Verde,Africa
+http://www.wikidata.org/entity/Q104244687,Enku Ekuta,female,1998-03-15T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q104247071,Cornelia Glèlè,female,1997-07-14T00:00:00Z,Benin,Africa
+http://www.wikidata.org/entity/Q104284952,Rita Naa Odoley Sowah,female,1968-01-01T00:00:00Z,Ghana,Africa
+http://www.wikidata.org/entity/Q104290503,Safa Abdel Al Moneim,female,1960-12-27T00:00:00Z,Egypt,Africa
+http://www.wikidata.org/entity/Q104300338,Anastasiya-Alexandra Nenova,female,1998-05-14T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q104323967,Marie Branser,female,1992-08-15T00:00:00Z,Guinea,Africa
+http://www.wikidata.org/entity/Q104334969,Haingoniaina Durianah Ramiandrisoa,female,1997-05-05T00:00:00Z,Madagascar,Africa
+http://www.wikidata.org/entity/Q104345150,Dakoa Newman,female,1985-06-06T00:00:00Z,Ghana,Africa
+http://www.wikidata.org/entity/Q104355780,Erin Sterkenburg,female,2003-03-20T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q104356702,Georgiana Dorward,female,2002-01-01T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q104370664,Sasa Klaas,female,1993-05-17T00:00:00Z,Botswana,Africa
+http://www.wikidata.org/entity/Q104374139,Dorcas Affo-Toffey,female,1975-05-04T00:00:00Z,Ghana,Africa
+http://www.wikidata.org/entity/Q104413194,Manamba Kanté,female,1996-01-01T00:00:00Z,Guinea,Africa
+http://www.wikidata.org/entity/Q104413978,Ndidi Okezie,female,1979-01-01T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q104416497,Asina Bindimono Ruffine,female,1963-06-01T00:00:00Z,Democratic Republic of the Congo,Africa
+http://www.wikidata.org/entity/Q104418072,Tella Kpomahou,female,1978-03-18T00:00:00Z,Ivory Coast,Africa
+http://www.wikidata.org/entity/Q104425425,Nzambi Matee,female,1992-01-01T00:00:00Z,Kenya,Africa
+http://www.wikidata.org/entity/Q104437314,Kim Seebach,female,1996-11-12T00:00:00Z,Namibia,Africa
+http://www.wikidata.org/entity/Q104439025,Judith Adem Owigar,female,1985-01-01T00:00:00Z,Kenya,Africa
+http://www.wikidata.org/entity/Q104444642,Myriam Belkiri,female,1992-04-29T00:00:00Z,Algeria,Africa
+http://www.wikidata.org/entity/Q104444646,Farah N'Ser,female,1988-02-28T00:00:00Z,Morocco,Africa
+http://www.wikidata.org/entity/Q1044470,Caroline Kwambai,female,1975-09-09T00:00:00Z,Kenya,Africa
+http://www.wikidata.org/entity/Q1044472,Caroline Chepkwony,female,1985-07-24T00:00:00Z,Kenya,Africa
+http://www.wikidata.org/entity/Q104451984,Hanta Francine Randriambahiny,female,1964-01-01T00:00:00Z,Madagascar,Africa
+http://www.wikidata.org/entity/Q104454224,Halima Bah,female,1996-01-01T00:00:00Z,Guinea,Africa
+http://www.wikidata.org/entity/Q1044548,Caroline Rotich,female,1984-05-13T00:00:00Z,Kenya,Africa
+http://www.wikidata.org/entity/Q104466701,Miatta Maria Samba,female,1971-10-03T00:00:00Z,Sierra Leone,Africa
+http://www.wikidata.org/entity/Q104468204,Najwa Taib,female,1983-01-01T00:00:00Z,Morocco,Africa
+http://www.wikidata.org/entity/Q104522410,Anissa Maoulida,female,1997-05-26T00:00:00Z,Comoros,Africa
+http://www.wikidata.org/entity/Q104522476,Zaharouna Haoudadji,female,2000-06-03T00:00:00Z,Comoros,Africa
+http://www.wikidata.org/entity/Q104523176,TinyM,female,1973-05-27T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q104536631,Badra Ben Mustapha,female,1912-03-12T00:00:00Z,Tunisia,Africa
+http://www.wikidata.org/entity/Q104538322,Zuwera Ibrahimah,female,1970-07-27T00:00:00Z,Ghana,Africa
+http://www.wikidata.org/entity/Q104586121,Amira Hilmi Matar,female,1930-01-01T00:00:00Z,Egypt,Africa
+http://www.wikidata.org/entity/Q104587499,Rahma Abdulmajid,female,1980-01-01T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q104587523,Victoria Aguiyi-Ironsi,female,1923-11-21T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q104587532,Hirut Kassaw,female,1976-02-05T00:00:00Z,Ethiopia,Africa
+http://www.wikidata.org/entity/Q104588889,Agitu Ideo Gudeta,female,1978-01-01T00:00:00Z,Ethiopia,Africa
+http://www.wikidata.org/entity/Q104595282,Aderonke Apata,female,1967-01-20T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q104598316,Jummai Babangida Aliyu,female,1959-01-01T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q104598782,Fatima Ibrahim Shema,female,1962-01-01T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q104600285,Gaji Fatima Dantata,female,1957-01-01T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q104600300,Zainab Ujudud Shariff,female,1963-01-01T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q104602197,Karin Avenant,female,1964-03-26T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q104604682,Aïcha Ibrahim,female,1949-01-01T00:00:00Z,French protectorate of Tunisia,Africa
+http://www.wikidata.org/entity/Q104622999,Hadjatu Aliat Swelm,female,1973-01-01T00:00:00Z,Morocco,Africa
+http://www.wikidata.org/entity/Q104624486,Hanna Lalango,female,2008-01-01T00:00:00Z,Ethiopia,Africa
+http://www.wikidata.org/entity/Q104626596,Fetlework Gebregziabher,female,1961-01-01T00:00:00Z,Ethiopia,Africa
+http://www.wikidata.org/entity/Q104634790,Martha Kuwee Kumsa,female,1955-01-01T00:00:00Z,Ethiopia,Africa
+http://www.wikidata.org/entity/Q104635658,Birtukan Ayano Dadi,female,1975-01-01T00:00:00Z,Ethiopia,Africa
+http://www.wikidata.org/entity/Q104635831,Else Nizigama Ntamagiro,female,1972-11-15T00:00:00Z,Burundi,Africa
+http://www.wikidata.org/entity/Q104638938,Monique Ngo Ndjock,female,1985-10-08T00:00:00Z,Cameroon,Africa
+http://www.wikidata.org/entity/Q104640300,Ms Cosmo,female,1988-04-20T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q104642113,Izetta Roberts Cooper,female,1929-10-13T00:00:00Z,Liberia,Africa
+http://www.wikidata.org/entity/Q104643351,Soraya Mellili,female,1982-02-14T00:00:00Z,Algeria,Africa
+http://www.wikidata.org/entity/Q104649268,Theresa Lardi Awuni,female,1979-01-02T00:00:00Z,Ghana,Africa
+http://www.wikidata.org/entity/Q104649846,Nkirika Peace Obiajulu,female,1954-01-01T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q104665797,Sophia Williams-de Bruyn,female,1938-01-01T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q104687952,Abuk Payiti Ayik,female,2000-01-01T00:00:00Z,South Sudan,Africa
+http://www.wikidata.org/entity/Q104701310,Cynthia Fraser,female,1934-12-07T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q104704556,Rosemary Nyerere,female,1961-10-27T00:00:00Z,Tanzania,Africa
+http://www.wikidata.org/entity/Q104717322,Kamini Pather,female,1983-04-20T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q104717556,Doreen Kabareebe,female,1990-12-25T00:00:00Z,Uganda,Africa
+http://www.wikidata.org/entity/Q104771218,Henriette Wamu,female,1966-03-28T00:00:00Z,Democratic Republic of the Congo,Africa
+http://www.wikidata.org/entity/Q104772194,Sophie Adonon,female,1964-01-01T00:00:00Z,Benin,Africa
+http://www.wikidata.org/entity/Q104784106,Chichi Gift  Egbule,female,1990-10-01T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q104794304,Edda Ella Chitalo,female,1932-01-01T00:00:00Z,Malawi,Africa
+http://www.wikidata.org/entity/Q104794313,Fitsum Assefa,female,1979-01-01T00:00:00Z,Ethiopia,Africa
+http://www.wikidata.org/entity/Q104795610,Dinah Reindorf,female,1943-01-01T00:00:00Z,Ghana,Africa
+http://www.wikidata.org/entity/Q104801275,Fatmah Selim,female,1995-09-01T00:00:00Z,Egypt,Africa
+http://www.wikidata.org/entity/Q104822337,Ergoge Tesfaye,female,1978-01-01T00:00:00Z,Ethiopia,Africa
+http://www.wikidata.org/entity/Q1048226,Cashandra Slingerland,female,1974-12-08T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q104825430,Aya Saeid Saber,female,1991-03-20T00:00:00Z,Egypt,Africa
+http://www.wikidata.org/entity/Q104828106,Hasna Ben Slimane,female,1973-11-06T00:00:00Z,Tunisia,Africa
+http://www.wikidata.org/entity/Q104829255,Safia Elmi Djibril,female,1963-01-01T00:00:00Z,Djibouti,Africa
+http://www.wikidata.org/entity/Q104829441,Bintou Keita,female,1958-01-01T00:00:00Z,Guinea,Africa
+http://www.wikidata.org/entity/Q104835826,Hadjira Oumouri,female,1969-03-08T00:00:00Z,Comoros,Africa
+http://www.wikidata.org/entity/Q104842940,Makhadzi,female,1996-06-20T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q104843583,Tosin Otubajo,female,1984-07-16T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q104867415,Lamia Essaadi,female,1979-01-01T00:00:00Z,Morocco,Africa
+http://www.wikidata.org/entity/Q104868137,Gamal Ali Fouad Ismail,female,1950-10-29T00:00:00Z,Egypt,Africa
+http://www.wikidata.org/entity/Q104868671,Veronica Openibo,female,1951-01-17T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q104883043,Maria Athanasopoulou,female,1900-01-01T00:00:00Z,Ottoman Empire,Africa
+http://www.wikidata.org/entity/Q104903655,Nombulelo Hermans,female,1970-01-01T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q104904723,Mariya Nzigiyimana,female,1934-01-01T00:00:00Z,Burundi,Africa
+http://www.wikidata.org/entity/Q104905898,Iolanda Évora,female,1964-02-16T00:00:00Z,Cape Verde,Africa
+http://www.wikidata.org/entity/Q104906052,Halimatou Diallo,female,1993-01-20T00:00:00Z,Guinea,Africa
+http://www.wikidata.org/entity/Q104918173,Iphigenia Efunjoke Coker,female,1924-09-29T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q10492742,Evelyn Mase,female,1922-05-18T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q104933057,Chibesa Kankasa,female,1936-03-23T00:00:00Z,Zambia,Africa
+http://www.wikidata.org/entity/Q104963353,Alice Mashingaidze,female,2000-01-01T00:00:00Z,Zimbabwe,Africa
+http://www.wikidata.org/entity/Q104970077,Essmat Ezzat,female,1929-01-01T00:00:00Z,Egypt,Africa
+http://www.wikidata.org/entity/Q105001942,Amélia Sumbana,female,1949-12-12T00:00:00Z,Mozambique,Africa
+http://www.wikidata.org/entity/Q105027957,Elsa Garrido,female,1977-01-01T00:00:00Z,São Tomé and Príncipe,Africa
+http://www.wikidata.org/entity/Q105036832,Galani Garri,female,1900-01-01T00:00:00Z,Ottoman Empire,Africa
+http://www.wikidata.org/entity/Q105037740,Annie Lulu,female,1987-01-01T00:00:00Z,Democratic Republic of the Congo,Africa
+http://www.wikidata.org/entity/Q105037970,Faouzia Mebarki,female,1959-06-07T00:00:00Z,Algeria,Africa
+http://www.wikidata.org/entity/Q105038571,Eldevina Materula,female,1982-06-29T00:00:00Z,Mozambique,Africa
+http://www.wikidata.org/entity/Q105044669,Victoria Bright,female,1965-03-16T00:00:00Z,Ghana,Africa
+http://www.wikidata.org/entity/Q105045673,Camille Aumont Carnel,female,1996-12-06T00:00:00Z,Niger,Africa
+http://www.wikidata.org/entity/Q105047328,Bertha Kingori,female,1930-11-19T00:00:00Z,Tanzania,Africa
+http://www.wikidata.org/entity/Q105070907,Jane Raphaely,female,1937-07-30T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q105071250,Marcelle Kuetche,female,1992-01-01T00:00:00Z,Cameroon,Africa
+http://www.wikidata.org/entity/Q105071778,Agness Gidna,female,1950-01-01T00:00:00Z,Tanzania,Africa
+http://www.wikidata.org/entity/Q105072183,Paula Simons,female,1964-12-25T00:00:00Z,Angola,Africa
+http://www.wikidata.org/entity/Q105072416,Jean-Paul Mpila,female,1960-11-29T00:00:00Z,Republic of the Congo,Africa
+http://www.wikidata.org/entity/Q105078643,Rosamund Everard-Steenkamp,female,1907-01-01T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q105084925,Heline Eweni,female,1996-01-01T00:00:00Z,Cameroon,Africa
+http://www.wikidata.org/entity/Q105089610,Leonora van den Heever,female,1926-07-09T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q1050897,Catherina Paulin,female,1985-02-03T00:00:00Z,Seychelles,Africa
+http://www.wikidata.org/entity/Q105094438,Harmonie Dodé Byll Catarya,female,1991-01-01T00:00:00Z,Benin,Africa
+http://www.wikidata.org/entity/Q1050991,Catherine Kang,female,1987-09-25T00:00:00Z,Central African Republic,Africa
+http://www.wikidata.org/entity/Q105099701,Regina Twala,female,1908-01-01T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q1051020,Catherine Namugala,female,1966-01-02T00:00:00Z,Zambia,Africa
+http://www.wikidata.org/entity/Q105105301,Jeanette Traverso,female,1946-05-28T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q105112967,Hasna Tamtaoui,female,1969-08-02T00:00:00Z,Morocco,Africa
+http://www.wikidata.org/entity/Q1051142,Cathy Foo Kune,female,1960-01-01T00:00:00Z,Mauritius,Africa
+http://www.wikidata.org/entity/Q105121939,Emilia Asim-Ita,female,1998-01-01T00:00:00Z,Nigeria,Africa

@@ -1,0 +1,501 @@
+person,person_label,genders,dobs,countries,continents
+http://www.wikidata.org/entity/Q100005,Tadeusz Borowski,male,1922-11-12T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q10001579,Uladzimir Dudzitsky,male,1911-01-08T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q10002000,Mikhail Ioffe,male,1937-04-07T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100025380,Kerim Çalhanoğlu,male,2002-08-26T00:00:00Z,Turkey,Asia
+http://www.wikidata.org/entity/Q1000275,Miguel Molina,male,1984-07-22T00:00:00Z,Philippines,Asia
+http://www.wikidata.org/entity/Q100039033,Adem Metin Türk,male,2004-01-15T00:00:00Z,Turkey,Asia
+http://www.wikidata.org/entity/Q10004,Yevgeny Chernyaev,male,1921-08-05T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100041077,Abdulkadir Sünger,male,2000-05-24T00:00:00Z,Turkey,Asia
+http://www.wikidata.org/entity/Q1000425,Li Fei,male,1983-02-17T00:00:00Z,People's Republic of China,Asia
+http://www.wikidata.org/entity/Q100042751,Abdulkadir Tasdan,male,2003-06-18T00:00:00Z,Turkey,Asia
+http://www.wikidata.org/entity/Q1000588,Chiharu Matsuyama,male,1955-12-16T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q1000626,Hiroshi Yanaka,male,1958-03-10T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q1000674,Fernando G. Alvarez,male,1925-12-15T00:00:00Z,Philippines,Asia
+http://www.wikidata.org/entity/Q1000727,Ruslan Galitsky,male,1972-07-14T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q1000836,Buddhadeb Bhattacharjee,male,1944-03-01T00:00:00Z,British Raj,Asia
+http://www.wikidata.org/entity/Q100104168,Kanti Biswas,male,1932-01-01T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q1001077,Sergey Dikovsky,male,1907-03-14T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q1001202,Sergey Strunnikov,male,1907-09-25T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q1001206,Mathews Kunnepurayidom Francis,male,1944-12-08T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q100122986,Panos Manjian,male,1952-12-03T00:00:00Z,Lebanon,Asia
+http://www.wikidata.org/entity/Q100137627,Serhii Harmash,male,1971-02-27T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100138247,Haruki Noguchi,male,2001-06-20T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q1001420,Budi Santoso,male,1975-06-08T00:00:00Z,Indonesia,Asia
+http://www.wikidata.org/entity/Q100145298,Anushavan Hunanyan,male,1920-01-01T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100145562,Harutyun Kirakosyan,male,1913-01-01T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100145732,Souren Hovakimyan,male,1911-01-01T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100146267,Ibtihaj Al-Yawar,male,1946-01-01T00:00:00Z,Iraq,Asia
+http://www.wikidata.org/entity/Q100146284,Ablay Shugaipov,male,1988-12-07T00:00:00Z,Kazakhstan,Asia
+http://www.wikidata.org/entity/Q100146300,Mars Mikhailov,male,1938-06-17T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100146365,Hu Xingyu,male,2001-07-21T00:00:00Z,People's Republic of China,Asia
+http://www.wikidata.org/entity/Q100146386,Omar El Kurdi,male,1992-10-19T00:00:00Z,Lebanon,Asia
+http://www.wikidata.org/entity/Q100149285,Zafer Aktaş,male,1976-11-10T00:00:00Z,Turkey,Asia
+http://www.wikidata.org/entity/Q100149428,Hadi Özdemir,male,1983-10-11T00:00:00Z,Turkey,Asia
+http://www.wikidata.org/entity/Q100150916,Aybar Zhaksylykov,male,1997-07-24T00:00:00Z,Kazakhstan,Asia
+http://www.wikidata.org/entity/Q100151229,Rami Tahboub,male,2000-01-01T00:00:00Z,State of Palestine,Asia
+http://www.wikidata.org/entity/Q100152453,Hashim Muhammad al-Shakhs,male,1957-09-12T00:00:00Z,Saudi Arabia,Asia
+http://www.wikidata.org/entity/Q100152458,Setthawut Yordsuwan,male,1994-03-18T00:00:00Z,Thailand,Asia
+http://www.wikidata.org/entity/Q100152461,Ratchanon Yaowarat,male,1999-08-15T00:00:00Z,Thailand,Asia
+http://www.wikidata.org/entity/Q100152489,Tawatchai Jeeradechatam,male,1984-07-20T00:00:00Z,Thailand,Asia
+http://www.wikidata.org/entity/Q100152661,Garnik Isahakyan,male,1908-01-01T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100152856,Zaven Marukyan,male,1919-01-01T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100153738,Zafeeruddin Miftahi,male,1926-03-07T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q100154045,Koryun Marutyan,male,1918-01-01T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100154148,Suren Hovhannisyan,male,1912-01-01T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100154436,Ali Al Haj,male,2001-02-02T00:00:00Z,Lebanon,Asia
+http://www.wikidata.org/entity/Q100157043,Nityananda Nayak,male,1940-08-12T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q100157315,Ding Jing,male,1924-07-22T00:00:00Z,People's Republic of China,Asia
+http://www.wikidata.org/entity/Q100157536,Abbas Al Baghdadi,male,1951-01-01T00:00:00Z,Iraq,Asia
+http://www.wikidata.org/entity/Q100158033,Kevork Hadjian,male,1971-01-01T00:00:00Z,Armenia,Asia
+http://www.wikidata.org/entity/Q100158039,Yusuf ibn Rashed Al Sheikh Mubarak,male,1900-12-21T00:00:00Z,Kingdom of Nejd and Hejaz,Asia
+http://www.wikidata.org/entity/Q100158674,Jasnih Daya,male,1974-09-14T00:00:00Z,Malaysia,Asia
+http://www.wikidata.org/entity/Q100158700,Wetrom Bahanda,male,1969-05-24T00:00:00Z,Malaysia,Asia
+http://www.wikidata.org/entity/Q100158716,Taryam Omran Taryam,male,1942-01-01T00:00:00Z,United Arab Emirates,Asia
+http://www.wikidata.org/entity/Q100159848,Vladimir Ilyich Khlybov,male,1954-09-08T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100163409,Aleksi Makharashvili,male,1970-04-28T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100163497,Limus Jury,male,1961-07-24T00:00:00Z,Malaysia,Asia
+http://www.wikidata.org/entity/Q100165757,Ryo Aitaka,male,1989-12-31T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100165763,Matin Guliyev,male,1986-11-13T00:00:00Z,Azerbaijan,Asia
+http://www.wikidata.org/entity/Q100165767,Ahmad Rashid al-Mubarak,male,1914-01-01T00:00:00Z,Kingdom of Nejd and Hejaz,Asia
+http://www.wikidata.org/entity/Q100165974,Robert Tawik,male,1963-09-01T00:00:00Z,Malaysia,Asia
+http://www.wikidata.org/entity/Q100166248,Satoru Koga,male,1904-08-08T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100166324,Chandan Achar,male,1993-08-02T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q100166446,Abdullah ibn Ali Al Sheikh Mubarak,male,1921-01-01T00:00:00Z,Kingdom of Nejd and Hejaz,Asia
+http://www.wikidata.org/entity/Q100166465,Shai Buzaglo,male,1980-07-25T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q100166467,Tevfik Akdamar,male,1994-10-25T00:00:00Z,Turkey,Asia
+http://www.wikidata.org/entity/Q100166502,AM Amin Uddin,male,1962-01-01T00:00:00Z,Bangladesh,Asia
+http://www.wikidata.org/entity/Q100171306,Thak Kaeonoi,male,2001-04-14T00:00:00Z,Thailand,Asia
+http://www.wikidata.org/entity/Q100175521,Shigeru Ota,male,1967-01-08T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100177393,Ibrahim Bin Mohammed Al Midfa,male,1909-01-01T00:00:00Z,United Arab Emirates,Asia
+http://www.wikidata.org/entity/Q100177573,Anton Salman,male,1957-12-01T00:00:00Z,State of Palestine,Asia
+http://www.wikidata.org/entity/Q1001784,Tsubasa Fukuchi,male,1980-02-07T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q1001871,Takashi Saito,male,1970-02-14T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q1001884,Dong Sy Nguyen,male,1923-03-01T00:00:00Z,Vietnam,Asia
+http://www.wikidata.org/entity/Q100189870,Yakubah Khan,male,1962-11-24T00:00:00Z,Malaysia,Asia
+http://www.wikidata.org/entity/Q1001899,Shu Uemura,male,1928-06-19T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100193554,Jafry Arifin,male,1963-10-26T00:00:00Z,Malaysia,Asia
+http://www.wikidata.org/entity/Q100195394,Shahelmey Yahya,male,1973-02-19T00:00:00Z,Malaysia,Asia
+http://www.wikidata.org/entity/Q10019781,Arata Tendō,male,1960-05-08T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100199073,Uri Katz,male,1971-12-22T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q10019989,Isaac Bronstein,male,1939-01-01T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q1002290,Ryōji Chūbachi,male,1947-09-04T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100230404,Alexandr Ordyan,male,1915-01-01T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100230706,Zazi Zazyan,male,1922-01-01T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100233540,Hendrus Anding,male,1971-07-09T00:00:00Z,Malaysia,Asia
+http://www.wikidata.org/entity/Q100233542,James Ratib,male,1966-10-07T00:00:00Z,Malaysia,Asia
+http://www.wikidata.org/entity/Q100233619,Soesmono Martosiswojo,male,1934-11-07T00:00:00Z,Indonesia,Asia
+http://www.wikidata.org/entity/Q100233633,Mohd. Tamin Zainal,male,1970-01-30T00:00:00Z,Malaysia,Asia
+http://www.wikidata.org/entity/Q100233832,Husein Jachjasaputra,male,1945-01-07T00:00:00Z,Indonesia,Asia
+http://www.wikidata.org/entity/Q100233852,Zhang Jinchi,male,1937-02-16T00:00:00Z,People's Republic of China,Asia
+http://www.wikidata.org/entity/Q100233996,Mohamad Hamsan Awang Supian,male,1959-10-06T00:00:00Z,Malaysia,Asia
+http://www.wikidata.org/entity/Q100234469,Joniston Bangkuai,male,1962-04-17T00:00:00Z,Malaysia,Asia
+http://www.wikidata.org/entity/Q100234483,Harun Durabi,male,1963-11-01T00:00:00Z,Malaysia,Asia
+http://www.wikidata.org/entity/Q100234689,Nariman Abdulmutalibov,male,1968-10-26T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100234691,Erkan Yılmaz,male,1997-12-03T00:00:00Z,Turkey,Asia
+http://www.wikidata.org/entity/Q1002349,Abu Anas al-Shami,male,1969-01-01T00:00:00Z,State of Palestine,Asia
+http://www.wikidata.org/entity/Q100234947,Hanao,male,1992-08-15T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100234958,Dengan,male,1993-02-10T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100235014,Yaoki Ishii,male,1977-04-29T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100235077,Sam Modonpour,male,1976-04-06T00:00:00Z,Iran,Asia
+http://www.wikidata.org/entity/Q100235258,Ruddy Awah,male,1969-01-01T00:00:00Z,Malaysia,Asia
+http://www.wikidata.org/entity/Q100235321,Yoshio Namiki,male,1908-04-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100235410,Andi Muhammad Suryandy Bandy,male,1981-06-29T00:00:00Z,Malaysia,Asia
+http://www.wikidata.org/entity/Q100235632,Youssef Fenianos,male,1964-01-01T00:00:00Z,Lebanon,Asia
+http://www.wikidata.org/entity/Q100235779,Kim Jong-cheol,male,1970-10-15T00:00:00Z,South Korea,Asia
+http://www.wikidata.org/entity/Q100238182,Alexander Varakin,male,1996-02-17T00:00:00Z,Kazakhstan,Asia
+http://www.wikidata.org/entity/Q100238519,Kosuke Matsui,male,1994-03-28T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100243372,Thanawat Suengchitthawon,male,2000-01-08T00:00:00Z,Thailand,Asia
+http://www.wikidata.org/entity/Q100244556,Oskar Tauber‏,male,1909-09-28T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q100247962,Valeri H. Martirosyan,male,1940-02-08T00:00:00Z,Armenia,Asia
+http://www.wikidata.org/entity/Q100248618,Chaloemphon Klahan,male,1996-08-12T00:00:00Z,Thailand,Asia
+http://www.wikidata.org/entity/Q100249740,Chaudhary Surinder Singh,male,1956-12-30T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q1002501,Gyaincain Norbu,male,1932-01-01T00:00:00Z,People's Republic of China,Asia
+http://www.wikidata.org/entity/Q100250311,Sina Gholampour,male,1999-09-16T00:00:00Z,Indonesia,Asia
+http://www.wikidata.org/entity/Q100250538,Saul Patai,male,1918-08-02T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q100251049,Fuyu Yoshida,male,1997-11-23T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100251074,Gustaf Dahlman,male,1997-01-03T00:00:00Z,Azerbaijan,Asia
+http://www.wikidata.org/entity/Q100251085,Erge Gezmis,male,1998-01-17T00:00:00Z,Turkey,Asia
+http://www.wikidata.org/entity/Q100251091,Hou Yuije,male,1998-04-13T00:00:00Z,Indonesia,Asia
+http://www.wikidata.org/entity/Q100251097,Kaiya Seki,male,1999-12-24T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100251098,Hamazasp Martirosyan,male,1912-01-01T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100251175,Oleg Konstantinovich Gavrilov,male,1922-01-01T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100251207,David Margaryan,male,1915-01-01T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100251235,Babken Nazaryan,male,1908-01-01T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100253388,Kunihiro Ōta,male,1962-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100254214,Yang Jingzhu,male,1976-01-19T00:00:00Z,People's Republic of China,Asia
+http://www.wikidata.org/entity/Q100254867,Wan Leqi,male,1995-11-20T00:00:00Z,People's Republic of China,Asia
+http://www.wikidata.org/entity/Q100254874,Lu Junren,male,1998-04-11T00:00:00Z,People's Republic of China,Asia
+http://www.wikidata.org/entity/Q100254878,Jin Yucheng,male,2004-06-23T00:00:00Z,People's Republic of China,Asia
+http://www.wikidata.org/entity/Q100254886,Kotaro Seki,male,2001-11-28T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100255662,Naser ibn Hashim al-Salman,male,1929-01-01T00:00:00Z,Saudi Arabia,Asia
+http://www.wikidata.org/entity/Q100256806,Abdul Wahid Bangalzai,male,2003-03-04T00:00:00Z,Pakistan,Asia
+http://www.wikidata.org/entity/Q100257430,Toshiro Murata,male,1919-09-10T00:00:00Z,Empire of Japan,Asia
+http://www.wikidata.org/entity/Q100257491,Soekisno Hadikoemoro,male,1932-04-22T00:00:00Z,Indonesia,Asia
+http://www.wikidata.org/entity/Q100257686,Mustafa Al-Abdullah,male,1989-10-04T00:00:00Z,Iraq,Asia
+http://www.wikidata.org/entity/Q100257698,Milad Nouri Dijojin,male,1993-07-06T00:00:00Z,Iran,Asia
+http://www.wikidata.org/entity/Q100257974,ʿbd al-lh al-sīd,male,1941-01-01T00:00:00Z,Second Syrian Republic,Asia
+http://www.wikidata.org/entity/Q100257983,Rifaat Atfé,male,1947-01-01T00:00:00Z,Second Syrian Republic,Asia
+http://www.wikidata.org/entity/Q100258094,Rasoul Mohammad Rasoul,male,1959-01-01T00:00:00Z,Iraq,Asia
+http://www.wikidata.org/entity/Q100258202,Salah Faiq,male,1945-01-01T00:00:00Z,Iraq,Asia
+http://www.wikidata.org/entity/Q100258272,Abd al-Wahhab Abu Zayd,male,1970-01-01T00:00:00Z,Saudi Arabia,Asia
+http://www.wikidata.org/entity/Q100258299,Hishām ʻAlī,male,1952-09-08T00:00:00Z,Yemen,Asia
+http://www.wikidata.org/entity/Q100258326,Ali Al-Fridawy,male,1982-07-27T00:00:00Z,Iraq,Asia
+http://www.wikidata.org/entity/Q100258370,Safwan Abed,male,1962-03-21T00:00:00Z,Syria,Asia
+http://www.wikidata.org/entity/Q100258404,Basam Alasaly,male,1929-01-01T00:00:00Z,Second Syrian Republic,Asia
+http://www.wikidata.org/entity/Q100258408,Raed Al-Jishi,male,1976-01-01T00:00:00Z,Saudi Arabia,Asia
+http://www.wikidata.org/entity/Q100258409,ʻAbd Allah Fikri Khani,male,1922-01-01T00:00:00Z,State of Syria,Asia
+http://www.wikidata.org/entity/Q100258434,Mansour bin Mohammed Al-Khuraiji,male,1935-01-01T00:00:00Z,Saudi Arabia,Asia
+http://www.wikidata.org/entity/Q100258435,Hussam Al-majad,male,1988-03-11T00:00:00Z,Iraq,Asia
+http://www.wikidata.org/entity/Q100258498,Farhan Bulbul,male,1937-01-01T00:00:00Z,United Arab Republic,Asia
+http://www.wikidata.org/entity/Q100258611,Ehab Shaaban,male,1987-01-01T00:00:00Z,Syria,Asia
+http://www.wikidata.org/entity/Q100258642,Naim Antaki,male,1903-01-01T00:00:00Z,Syria,Asia
+http://www.wikidata.org/entity/Q100258675,Ammar Taqi,male,1976-08-22T00:00:00Z,Kuwait,Asia
+http://www.wikidata.org/entity/Q100258712,Hussein Nahaba,male,1966-01-01T00:00:00Z,Iraq,Asia
+http://www.wikidata.org/entity/Q100258743,Khalid Abu Ali,male,1966-11-13T00:00:00Z,Saudi Arabia,Asia
+http://www.wikidata.org/entity/Q100258774,Ali Jassim,male,1992-07-14T00:00:00Z,Iraq,Asia
+http://www.wikidata.org/entity/Q100259071,K. T. Jacob,male,1921-01-01T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q100259396,Takuo Kosuge,male,1926-01-01T00:00:00Z,Empire of Japan,Asia
+http://www.wikidata.org/entity/Q100260132,Muhammad Mustafa Ziyadat,male,1900-05-09T00:00:00Z,Ottoman Empire,Asia
+http://www.wikidata.org/entity/Q100260382,Abdul Amir Al-Hamdani,male,1967-01-01T00:00:00Z,Iraq,Asia
+http://www.wikidata.org/entity/Q100261074,Ghazi Altawbah,male,1939-05-15T00:00:00Z,State of Palestine,Asia
+http://www.wikidata.org/entity/Q100261116,Bashar Haydar,male,1943-01-01T00:00:00Z,Lebanon,Asia
+http://www.wikidata.org/entity/Q100261323,Bilal Martini,male,1991-06-03T00:00:00Z,Syria,Asia
+http://www.wikidata.org/entity/Q100264809,Islam Aslanov,male,1993-10-16T00:00:00Z,Uzbekistan,Asia
+http://www.wikidata.org/entity/Q100265189,Michel Tohme,male,1933-01-01T00:00:00Z,French mandate of Lebanon,Asia
+http://www.wikidata.org/entity/Q1002661,Xie Shaoguang,male,1965-09-15T00:00:00Z,Singapore,Asia
+http://www.wikidata.org/entity/Q100266734,V. K. Rajan,male,1940-01-01T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q100268007,Amaresh Datta,male,1917-01-01T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q100268173,Sedrak Dokholyan,male,1916-01-01T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100268196,Hamazasp Samvelyan,male,1920-01-01T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100268213,Samvel Chilingaryan,male,1923-01-01T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100268445,Do Jin-ki,male,1967-05-22T00:00:00Z,South Korea,Asia
+http://www.wikidata.org/entity/Q100268454,Ahmet Alagün,male,1958-01-01T00:00:00Z,Turkey,Asia
+http://www.wikidata.org/entity/Q100268875,Yuma Edo,male,1993-11-30T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100268947,Muhammad Adil Khan,male,1957-01-01T00:00:00Z,Pakistan,Asia
+http://www.wikidata.org/entity/Q100269057,Berk Özkul,male,1998-06-30T00:00:00Z,Turkey,Asia
+http://www.wikidata.org/entity/Q100269061,Hayate Matsubara,male,1991-12-05T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100269310,Pok Biil,male,1994-01-01T00:00:00Z,Thailand,Asia
+http://www.wikidata.org/entity/Q100269399,Eden Gabay,male,1995-01-01T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q100270889,Apisit T.N.Man,male,1997-08-13T00:00:00Z,Thailand,Asia
+http://www.wikidata.org/entity/Q100271076,Nickolas Khouri,male,1986-04-05T00:00:00Z,Jordan,Asia
+http://www.wikidata.org/entity/Q100271418,Ibrahim Al-Harbi,male,1995-07-26T00:00:00Z,Saudi Arabia,Asia
+http://www.wikidata.org/entity/Q100271497,George Nakhshkaryan,male,1917-01-01T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100271510,Chanthachone Thinolath,male,1999-02-05T00:00:00Z,Laos,Asia
+http://www.wikidata.org/entity/Q100272120,Vladimir Toropygin,male,1928-03-20T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100272129,Noam Dey,male,1999-10-14T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q100272143,Yonatan Elias,male,1998-03-16T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q100272159,Itamar Shviro,male,1998-06-17T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q100272166,Sergey Shakaryan,male,1974-12-09T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100272216,Nikolaĭ Nikolaevich Mezga,male,1965-05-31T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100272245,Viktor Morozov,male,1907-10-29T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100272526,Yuri Gareginyan,male,1994-02-03T00:00:00Z,Armenia,Asia
+http://www.wikidata.org/entity/Q100272580,Hardy Singh,male,1993-01-08T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q100272666,Daniel Peretz,male,2000-07-10T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q100272668,Amit Glazer,male,2000-05-30T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q100272681,Ronen Hanzis,male,2002-02-28T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q100272745,Aidin Ardjomandi,male,1988-03-25T00:00:00Z,Iran,Asia
+http://www.wikidata.org/entity/Q1002730,Toshihiko Kobayashi,male,1965-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100274755,Nattapol Jumchat,male,1996-06-24T00:00:00Z,Thailand,Asia
+http://www.wikidata.org/entity/Q100274757,Noppachai Klahan,male,2000-12-09T00:00:00Z,Thailand,Asia
+http://www.wikidata.org/entity/Q100274759,Tanaphon Seanumnuyphon,male,1996-09-23T00:00:00Z,Thailand,Asia
+http://www.wikidata.org/entity/Q100274760,Suriya Kitjaroenwat,male,1995-04-16T00:00:00Z,Thailand,Asia
+http://www.wikidata.org/entity/Q100274761,Suranat Kongsuk,male,2001-09-22T00:00:00Z,Thailand,Asia
+http://www.wikidata.org/entity/Q100275270,Father Stanislaus Lourduswamy,male,1937-04-26T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q100276551,Masaki Niiyama,male,1993-06-17T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100276683,Sergey Dyakonov,male,1937-07-18T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100276686,Kalathil Abdulla,male,1959-02-20T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q100276746,Hasan ibn Abd al-Latif al-Mani',male,1918-01-01T00:00:00Z,Kingdom of Nejd and Hejaz,Asia
+http://www.wikidata.org/entity/Q100276908,Grigor Martirosyan,male,1924-01-01T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100277068,Sergo Meliksetyan,male,1913-01-01T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100277078,Sa'd al-Suwayh,male,1953-01-01T00:00:00Z,Saudi Arabia,Asia
+http://www.wikidata.org/entity/Q100277233,Gurgen Movsisyan,male,1915-01-01T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100277998,Ahmad El Khodor,male,1984-11-30T00:00:00Z,State of Palestine,Asia
+http://www.wikidata.org/entity/Q10027920,Noam Cohen,male,1999-01-06T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q100287044,Sadashiva Brahmavar,male,1928-01-01T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q100288463,Itay Ben Horin,male,1978-05-01T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q100297943,Sibi George,male,1967-05-20T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q100298570,Juyang Xiong,male,1975-09-01T00:00:00Z,People's Republic of China,Asia
+http://www.wikidata.org/entity/Q100299069,Rajah Rasiah,male,1961-01-01T00:00:00Z,Malaysia,Asia
+http://www.wikidata.org/entity/Q100302056,Mikhail Dorinov,male,1995-08-09T00:00:00Z,Kazakhstan,Asia
+http://www.wikidata.org/entity/Q100305609,Abdullah ibn Suleiman al-Mazru',male,1902-01-01T00:00:00Z,Kingdom of Nejd and Hejaz,Asia
+http://www.wikidata.org/entity/Q100306860,Abraham Mesropyan,male,1913-01-01T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100307848,Daisuke Tsuji,male,1982-08-04T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100308620,Smbat Melkonyan,male,1918-01-01T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100309355,Babken Haroyan,male,1916-01-01T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100314749,Yoo Young-seo,male,2002-06-13T00:00:00Z,South Korea,Asia
+http://www.wikidata.org/entity/Q100316110,N. D. Appachan,male,1949-05-02T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q100316239,Siwat Matangkapong,male,1994-03-10T00:00:00Z,Thailand,Asia
+http://www.wikidata.org/entity/Q100316365,E. M. Augusthy,male,1952-01-18T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q100316409,Hryhory Pekarski,male,1998-01-08T00:00:00Z,Azerbaijan,Asia
+http://www.wikidata.org/entity/Q100316459,Roman Shevliakov,male,1998-08-26T00:00:00Z,Azerbaijan,Asia
+http://www.wikidata.org/entity/Q100316600,Takaya Yasue,male,1996-01-15T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100318010,Bobby Surkhpuria,male,1998-09-30T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q100318718,Yuya Yajima,male,1996-07-14T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100318981,Vladimir Trostenyuk,male,1954-02-04T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100319065,Manoj Shah,male,1955-02-05T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q100319424,Masoud Zoohori,male,1964-03-13T00:00:00Z,Iran,Asia
+http://www.wikidata.org/entity/Q100319926,Jassem al-Tawirjawi,male,1947-01-01T00:00:00Z,Iraq,Asia
+http://www.wikidata.org/entity/Q100320546,Arashi Hirakawa,male,1995-08-23T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100320558,Swarup Kumar Das,male,1970-04-11T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q100320644,Umesh Kushwaha,male,1973-03-01T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q100320657,Bijay Shankar Das,male,1992-05-14T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q100320699,Michael Hovsepyan,male,1923-01-01T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100320753,Haim Yacobi,male,1965-06-25T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q100320757,Bai Run-yin,male,2009-07-03T00:00:00Z,Taiwan,Asia
+http://www.wikidata.org/entity/Q100320882,T. M. Musthak Ali,male,1945-09-22T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q100321842,Shemuel Bistritski,male,1983-01-01T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q100322996,Kuat Bakhridinov,male,1979-09-30T00:00:00Z,Kazakhstan,Asia
+http://www.wikidata.org/entity/Q100323108,Arnon Zu-Aretz,male,1954-01-01T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q100323674,Haykaz Mamikonyan,male,1920-01-01T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100323733,Hrachik Ghazaryan,male,1920-01-01T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100323863,Shiho Ogawa,male,2003-05-14T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100323866,Ryotaro Tsunoda,male,1999-06-27T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100323986,Jamal Taleb,male,1991-05-14T00:00:00Z,Lebanon,Asia
+http://www.wikidata.org/entity/Q100324647,Izhar Khanne,male,1963-02-09T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q100324925,Ashot Hovhannisyan,male,1913-01-01T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100325119,Ahmet Arslaner,male,1970-12-24T00:00:00Z,Turkey,Asia
+http://www.wikidata.org/entity/Q100325125,Zinnur Sarı,male,1947-04-04T00:00:00Z,Turkey,Asia
+http://www.wikidata.org/entity/Q100325191,Serdar Bozkurt,male,1977-04-28T00:00:00Z,Turkey,Asia
+http://www.wikidata.org/entity/Q100325478,Liu Chang,male,1993-04-15T00:00:00Z,People's Republic of China,Asia
+http://www.wikidata.org/entity/Q100325560,Vagharshak Ghevondyan,male,1922-01-01T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100325810,Henrik Ghevondyan,male,1914-01-01T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100326683,Behzat Çınar,male,1946-04-09T00:00:00Z,Turkey,Asia
+http://www.wikidata.org/entity/Q100326956,Albert Adibekov,male,1940-11-01T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100328348,Aiham Ousou,male,2000-01-09T00:00:00Z,Syria,Asia
+http://www.wikidata.org/entity/Q100328683,Aleksandr Gertner,male,1963-01-01T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100329008,Taku Kuwabara,male,1985-05-20T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100329036,Domingos Sávio dos Santos,male,1998-02-01T00:00:00Z,Timor-Leste,Asia
+http://www.wikidata.org/entity/Q100329109,Nakamura Haruki,male,1967-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100329149,Haytham Shoja’aadin,male,2000-01-01T00:00:00Z,Yemen,Asia
+http://www.wikidata.org/entity/Q100329199,Muhammed Fatih Toprak,male,1985-07-02T00:00:00Z,Turkey,Asia
+http://www.wikidata.org/entity/Q100331980,Kenji Nakauchi,male,1902-01-12T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100332268,Roy Kurtluyan,male,1971-01-01T00:00:00Z,Turkey,Asia
+http://www.wikidata.org/entity/Q100333006,Toru H. Okabe,male,1965-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100336998,Maxim Ilyahov,male,1988-01-01T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100337563,Oleg Khabi,male,1940-10-02T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100340636,Samir Safarov,male,1979-01-02T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100341614,Mohammed Shakaoat,male,1992-01-20T00:00:00Z,United Arab Emirates,Asia
+http://www.wikidata.org/entity/Q100342199,Salman El Herfi,male,1944-04-24T00:00:00Z,State of Palestine,Asia
+http://www.wikidata.org/entity/Q10034596,Kenji Kosugi,male,1947-03-20T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100348034,Upendra Maharathi,male,1908-01-01T00:00:00Z,British Raj,Asia
+http://www.wikidata.org/entity/Q100348505,R. N. Pasricha,male,1926-11-17T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q100348508,P. Khemraj,male,1934-01-01T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q100348546,Prafulla Mohanti,male,1936-01-01T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q100348572,Arun Bose,male,1934-01-01T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q100348720,Hovhannes Vardanyan,male,1914-01-01T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100349064,Aram Khachatryan,male,1910-01-01T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100349589,Sultan Abilgazy,male,1997-02-22T00:00:00Z,Kazakhstan,Asia
+http://www.wikidata.org/entity/Q100350638,Napoleon Tumanyan,male,1923-01-01T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100350956,Gevorg Badalyan,male,1919-01-01T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100357190,Erfan Refahatnia,male,1995-08-03T00:00:00Z,Iran,Asia
+http://www.wikidata.org/entity/Q100360921,Stanislav Boyko,male,1968-04-10T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100363462,Aleksandr Dmitrievich Alekseev,male,1913-05-20T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100366073,Shemuʼel Aloni,male,1902-01-01T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q100366709,Ayaan Zubair Rahmani,male,2008-08-12T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q100367513,K. J. Ray Liu,male,1961-01-01T00:00:00Z,Taiwan,Asia
+http://www.wikidata.org/entity/Q100368103,Mao Hongtao,male,1970-11-29T00:00:00Z,People's Republic of China,Asia
+http://www.wikidata.org/entity/Q100369397,Vahagn Asatryan,male,1977-01-14T00:00:00Z,Armenia,Asia
+http://www.wikidata.org/entity/Q100375529,Abdugaffor Yuldashev,male,1957-09-13T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100375873,Sharon Greenberg,male,1970-01-01T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q100375908,Akhtar Shah,male,2002-01-01T00:00:00Z,Pakistan,Asia
+http://www.wikidata.org/entity/Q100375911,Ali Fadakar,male,1991-11-26T00:00:00Z,Iran,Asia
+http://www.wikidata.org/entity/Q100375944,Ye Yi-liang,male,1936-01-01T00:00:00Z,People's Republic of China,Asia
+http://www.wikidata.org/entity/Q100376081,Rani Graff,male,1961-01-01T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q100377209,Mohammad Khair Abu Qudais,male,1962-01-01T00:00:00Z,Jordan,Asia
+http://www.wikidata.org/entity/Q100377210,Ali Hamdan Al Ayed,male,1963-01-02T00:00:00Z,Jordan,Asia
+http://www.wikidata.org/entity/Q100377528,Irakli Medzmariashvili,male,1962-01-29T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100383360,Sevak Avanesyan,male,1989-03-17T00:00:00Z,Armenia,Asia
+http://www.wikidata.org/entity/Q100383370,Shakti Singh Yadav,male,1973-01-01T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q100383552,Sarkis Latchinian,male,1930-12-31T00:00:00Z,Lebanon,Asia
+http://www.wikidata.org/entity/Q100383667,Chaudhary Ram Lubaya,male,1941-01-01T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q100383778,Dhira Narayana,male,1987-04-25T00:00:00Z,Indonesia,Asia
+http://www.wikidata.org/entity/Q100386640,Varsham Hayrapetyan,male,1921-01-01T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100388567,Khachik Yeritsyan,male,1918-01-01T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100389682,Valery Ivanov,male,1948-01-04T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100400658,Antony D'Cruz,male,1932-04-01T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q100400718,Grigory Ratner,male,1948-01-17T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100406890,Yuichi Ikeda,male,1961-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100413280,Davit Imedashvili,male,1979-04-23T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100413891,Sadig Zarbaliyev,male,1951-04-11T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100414473,Pararajasingam Nadesan,male,1915-01-01T00:00:00Z,Sri Lanka,Asia
+http://www.wikidata.org/entity/Q100416150,Ibrahim ibn Abd al-Muhsin Al Abd al-Qadir,male,1924-01-01T00:00:00Z,Kingdom of Nejd and Hejaz,Asia
+http://www.wikidata.org/entity/Q100416221,Keizo Matsubara,male,1977-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100418518,Abdul Abbas Ayad,male,2000-03-18T00:00:00Z,Iraq,Asia
+http://www.wikidata.org/entity/Q100425203,Bruno Souza,male,1925-10-06T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q100428092,Serdar Alpdogan,male,1980-01-01T00:00:00Z,Turkey,Asia
+http://www.wikidata.org/entity/Q100430,Kenan Kolat,male,1959-08-24T00:00:00Z,Turkey,Asia
+http://www.wikidata.org/entity/Q1004330,Tomo Ohka,male,1976-03-18T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100433441,Vsevolod Chaichuk,male,1924-03-19T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100433644,Abd al-Aziz ibn Yahya al-Yahya,male,1929-03-21T00:00:00Z,Kingdom of Nejd and Hejaz,Asia
+http://www.wikidata.org/entity/Q100433877,D. Ethiraj,male,1934-07-01T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q100440489,Hovhannes Dilanyan,male,1916-01-01T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100441488,Norik Tadvosyan,male,1924-01-01T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100441930,Ruben Tadevosyan,male,1918-01-01T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100442103,Mesaad Ibrahim AlSulaim,male,1963-01-01T00:00:00Z,Saudi Arabia,Asia
+http://www.wikidata.org/entity/Q100442407,Ladik Elizbaryan,male,1920-01-01T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100444693,Daniel Santos do Carmo,male,2000-01-01T00:00:00Z,Timor-Leste,Asia
+http://www.wikidata.org/entity/Q100446761,Chatin Singh Samaon,male,1942-11-20T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q100450620,Makoto Matsui,male,1912-10-29T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100453217,Kedrick Stockman Jr.,male,2000-07-05T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100453297,Yuitadaichi Tōyama,male,1907-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100453301,Makoto Takagi,male,1939-01-01T00:00:00Z,Empire of Japan,Asia
+http://www.wikidata.org/entity/Q100453315,Takaaki Mizuno,male,1907-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100453341,Taichi Sugaya,male,1976-10-17T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100453376,Kenzō Tanaka,male,1922-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100453392,Seiichi Nakahama,male,1940-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100453430,Hidetoshi Ōtsubo,male,1949-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100453452,Tōya Nojima,male,2003-05-18T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100453456,Masaaki Hirano,male,1949-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100453458,Hitoshi Mitomo,male,1956-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100453464,Tadashi Fukao,male,1940-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100453479,Eiichi Asabuki,male,1909-12-22T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100453484,Shin'ya Kuriki,male,1946-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100453501,Akio Katō,male,1934-01-01T00:00:00Z,Empire of Japan,Asia
+http://www.wikidata.org/entity/Q100453508,Yoshinobu Kumata,male,1939-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100453512,Shirō Asabuki,male,1915-10-26T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100453517,Yoshitsugu Hayashi,male,1951-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100453519,Hirotada Kono,male,1932-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100453523,Kisaki Kiyoji,male,1935-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100453575,Yoshinori Enokizono,male,1906-02-22T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100453586,Takashi Furumura,male,1963-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100453599,Hajime Asaoka,male,1965-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100453604,Umio Ōtsuka,male,1960-08-06T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100453606,Etsuo Yamamura,male,1942-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100453609,Takehiko Yamamura,male,1943-02-08T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100453618,Yoshio Kimura,male,1932-01-01T00:00:00Z,Empire of Japan,Asia
+http://www.wikidata.org/entity/Q100453621,Masaharu Yamada,male,1920-02-18T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100453623,Yūri Kōno,male,1979-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100453640,Jun Kajiyama,male,1930-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100453666,Shirō Haruyama,male,1928-10-29T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100453690,Mitsuhiko Uehira,male,1956-02-19T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100453698,Yoshikazu Kitagawa,male,1941-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100453705,Ichirō Fujita,male,1914-01-04T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100453717,Toshirō Takeyama,male,1924-05-23T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100453751,Tsuneyoshi Nakayama,male,1945-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100453753,Toshio Takashima,male,1923-12-09T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100453757,Hirotsugu Takizawa,male,1962-12-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100453782,Toshisuke Hirano,male,1939-02-25T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100453798,Keijirō Araki,male,1954-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100453808,Yukinori Matsukura,male,1946-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100453836,Masakazu Iwamoto,male,1948-10-26T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100453854,Akinori Furukawa,male,1949-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100453867,Tohru Fukano,male,1940-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100453879,Hirotaka Yamashita,male,1956-06-09T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100453888,Tomohiro Sasada,male,1986-04-04T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100453893,Naoto Katayama,male,1960-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100453897,Nobuo Fukuwa,male,1957-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100453901,Toshihiro Osaragi,male,1962-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100453907,Kensuke Oki,male,1940-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100453910,Noboru Hamada,male,1967-12-18T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100453918,Yūichi Takeuchi,male,1967-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100453922,Mitsuru Nagasawa,male,1923-03-17T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100453927,Masayuki Ieda,male,1925-10-08T00:00:00Z,Empire of Japan,Asia
+http://www.wikidata.org/entity/Q100453941,Kazushige Obara,male,1959-12-27T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100453967,Jun Imaizumi,male,1984-09-11T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100453974,Yasuyoshi Inagaki,male,1939-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100453977,Naoharu Oka,male,1911-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100453985,Takao Moriwaki,male,1922-04-28T00:00:00Z,Empire of Japan,Asia
+http://www.wikidata.org/entity/Q100454000,Nobuhiko Sawaki,male,1945-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454001,Yūshū Matsushita,male,1954-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454009,Takuto Iketani,male,2002-03-10T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454038,Satoshi Hōno,male,1990-12-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454048,Masakiyo Matsumura,male,1941-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454054,Atsushi Kobayashi,male,1975-03-18T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454083,Hiroshi Inoue,male,1932-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454085,Masahiro Inoue,male,1941-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454091,Tarō Takeyama,male,1921-07-17T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454093,Hidenori Mitsui,male,1959-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454097,Bunchi Fukushi,male,1913-08-16T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454106,Keishi Amano,male,1914-04-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454107,Masao Komatsu,male,1919-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454108,Sakaji Yamada,male,1908-12-20T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454113,Satsuki Kariyase,male,1999-05-31T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454114,Yasuhito Suenaga,male,1945-11-23T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454116,Hidemitsu Ogawa,male,1942-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454122,Masahiro Wada,male,1942-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454161,Daikichirō Akimoto,male,1927-04-16T00:00:00Z,Empire of Japan,Asia
+http://www.wikidata.org/entity/Q100454174,Tsukasa Atsuya,male,1965-10-21T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454182,Fumihiko Yuki,male,1960-10-08T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454207,Kenjirō Oura,male,1941-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454227,Tsuyoshi Saitō,male,1913-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454233,Hiroshi Ishiwara,male,1945-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454249,Haruji Mizobuchi,male,1903-06-16T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454268,Takemi Chikahisa,male,1954-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454277,Shōji Tōriyama,male,1956-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454297,Toyohito Ikeda,male,1961-07-15T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454314,Atsuyuki Kogure,male,1954-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454315,Hisami Mitsumori,male,1957-11-18T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454323,Kōji Ono,male,1904-12-18T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454336,Ryōzō Nagai,male,1949-06-12T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454345,Uboku Nishitani,male,1904-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454364,Mizuki Akatsuka,male,1997-11-26T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454397,Masataka Tanaka,male,1943-01-01T00:00:00Z,Empire of Japan,Asia
+http://www.wikidata.org/entity/Q100454421,Kanji Itō,male,1997-06-02T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454437,Hiroaki Tanaka,male,1992-05-23T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454488,Tatsuo Tanaka,male,1927-06-19T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454492,Tadao Toda,male,1936-02-15T00:00:00Z,Empire of Japan,Asia
+http://www.wikidata.org/entity/Q100454506,Sekizan Fujiwara,male,1912-09-13T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454511,Tomohiro Yamashita,male,1974-04-13T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454553,Jun'ichi Matsubara,male,1923-03-10T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454560,Masaki Kurodo,male,1979-01-25T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454570,Kentaro Yoshinaga,male,1993-10-13T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454576,Takeshi Mugishima,male,1960-07-20T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454578,Masaya Shibayama,male,2002-07-02T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454585,Toshiaki Ikohagi,male,1948-01-02T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454601,Shigenori Adachihara,male,1921-02-12T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454605,Katsuki Gotō,male,1944-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454614,Yukio Irie,male,1953-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454660,Naokazu Arima,male,1927-01-26T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454684,Katsuyuki Ichimi,male,1963-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454691,Yūji Hirako,male,1958-01-25T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454700,Yoshihide Yoshida,male,1962-10-30T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454732,Yōichirō Iino,male,1924-12-08T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454741,Lee Seung-Sin,male,2001-01-13T00:00:00Z,South Korea,Asia
+http://www.wikidata.org/entity/Q100454758,Tsukasa Shibuya,male,1953-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454765,Shin'ichi Kōjō,male,1935-07-15T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454769,Tsuneaki Iguchi,male,1945-12-22T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454772,Eizaburō Ikeda,male,1915-03-25T00:00:00Z,Empire of Japan,Asia
+http://www.wikidata.org/entity/Q100454780,Kiyoshi Iketani,male,1932-04-29T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454799,Shigeru Ishii,male,1927-11-15T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454802,Tsuneo Ishii,male,1928-09-01T00:00:00Z,Empire of Japan,Asia
+http://www.wikidata.org/entity/Q100454808,Yoshihiko Ishii,male,1927-09-07T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454837,Jun Asakawa,male,1939-12-27T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454869,Toshimichi Miyaguchi,male,1946-08-30T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454874,Mareki Matsubara,male,1943-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454885,Yukihiko Usami,male,1946-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100454887,Kosei Hamaguchi,male,1998-04-11T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100455261,Katsuaki Onogi,male,1951-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100455265,Mitsutoshi Hatori,male,1938-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100455270,Nobuhide Kasagi,male,1947-05-08T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100455274,Noboru Harata,male,1955-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q10045531,Subramaniam Sathasivam,male,1953-04-01T00:00:00Z,Malaysia,Asia
+http://www.wikidata.org/entity/Q10045533,Takeshi Shinno,male,1965-05-12T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100455580,Yūta Kaneko,male,1991-08-26T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100456094,Ibrahim al-Tayyar al-Ja'fari,male,1925-01-01T00:00:00Z,Kingdom of Nejd and Hejaz,Asia
+http://www.wikidata.org/entity/Q100466458,R. B. Holle,male,1973-06-09T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q1004726,Bulut Basmaz,male,1984-05-06T00:00:00Z,Turkey,Asia
+http://www.wikidata.org/entity/Q100487261,Anwar Hossain Helal,male,1964-07-12T00:00:00Z,Bangladesh,Asia
+http://www.wikidata.org/entity/Q100487509,Sargis Baghdasaryan,male,1915-01-01T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100490172,Mohanbhai Dhodia,male,1957-06-01T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q100491171,Satoru Fujishige,male,1947-08-27T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100493739,Mher Baghdasaryan,male,1909-01-01T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100499032,Mahmoud al-Sayyed,male,1939-01-01T00:00:00Z,Second Syrian Republic,Asia
+http://www.wikidata.org/entity/Q100505246,Sadayandy Batumalai,male,1946-01-01T00:00:00Z,Malaysia,Asia
+http://www.wikidata.org/entity/Q100506196,Tetsuji Miyagawa,male,1970-01-01T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100511443,Laksono Trisnantoro,male,1961-08-27T00:00:00Z,Indonesia,Asia
+http://www.wikidata.org/entity/Q100525458,Álmos Kalafat,male,2001-09-04T00:00:00Z,Turkey,Asia
+http://www.wikidata.org/entity/Q100525600,Atalay Gökce,male,2003-06-20T00:00:00Z,Turkey,Asia
+http://www.wikidata.org/entity/Q100525683,Baran Basyigit,male,2003-02-17T00:00:00Z,Turkey,Asia
+http://www.wikidata.org/entity/Q100527779,Sa Aung Pyae Ko,male,1998-12-01T00:00:00Z,Myanmar,Asia
+http://www.wikidata.org/entity/Q10052957,Urio Shud?,male,1956-01-12T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q100531732,Hayato Watanabe,male,1993-07-12T00:00:00Z,Japan,Asia
+http://www.wikidata.org/entity/Q10053179,Vadim Sharkov,male,1987-07-20T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100533605,Zhongchun Liu,male,1973-01-01T00:00:00Z,People's Republic of China,Asia
+http://www.wikidata.org/entity/Q100536798,Mohammed Saeed Al Mulla,male,1926-01-01T00:00:00Z,United Arab Emirates,Asia
+http://www.wikidata.org/entity/Q100541062,Daniel Gilbert Nessim,male,1966-01-31T00:00:00Z,Israel,Asia
+http://www.wikidata.org/entity/Q100552282,Kuldeep Singh Vaid,male,1961-02-02T00:00:00Z,India,Asia
+http://www.wikidata.org/entity/Q100570933,Gourgen Aramyan,male,1919-01-01T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100571353,Yawhen Zhylin,male,1939-03-20T00:00:00Z,Soviet Union,Asia
+http://www.wikidata.org/entity/Q100571977,Guohuan Qin,male,2005-01-01T00:00:00Z,People's Republic of China,Asia
+http://www.wikidata.org/entity/Q100572070,Yangyu Zhang,male,2005-01-01T00:00:00Z,People's Republic of China,Asia

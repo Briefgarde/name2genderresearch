@@ -1,0 +1,501 @@
+person,person_label,genders,dobs,countries,continents
+http://www.wikidata.org/entity/Q1000002,Claus Hammel,male,1932-12-04T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q1000006,Florian Eichinger,male,1971-07-14T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100001260,Henk Rigters,male,1915-10-06T00:00:00Z,Kingdom of the Netherlands,Europe
+http://www.wikidata.org/entity/Q1000015,Florian Jahr,male,1983-06-23T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q1000045,Eugen Karl Brammertz,male,1915-04-03T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100005,Tadeusz Borowski,male,1922-11-12T00:00:00Z,Ukrainian Soviet Socialist Republic,Europe
+http://www.wikidata.org/entity/Q1000050,Mayk Bullerjahn,male,1963-11-01T00:00:00Z,German Democratic Republic,Europe
+http://www.wikidata.org/entity/Q1000053,Vasily Nebenzya,male,1962-02-26T00:00:00Z,Russia,Europe
+http://www.wikidata.org/entity/Q1000061,Valentyn Symonenko,male,1940-07-04T00:00:00Z,Ukraine,Europe
+http://www.wikidata.org/entity/Q1000074,Richard Ellerkmann,male,1928-06-06T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q1000079,Otto Arndt Liebisch,male,1935-01-22T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q1000087,Horst Baier,male,1933-03-26T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q10001579,Uladzimir Dudzitsky,male,1911-01-08T00:00:00Z,Soviet Union,Europe
+http://www.wikidata.org/entity/Q1000164,Erik Vliegen,male,1978-07-20T00:00:00Z,Belgium,Europe
+http://www.wikidata.org/entity/Q1000171,Daniele D’Agaro,male,1958-08-13T00:00:00Z,Italy,Europe
+http://www.wikidata.org/entity/Q1000173,Maximilian Holst,male,1989-06-23T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q1000180,Thilo Koch,male,1920-09-20T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q1000183,Martin Bärenz,male,1956-01-01T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q1000190,Christoph Behr,male,1989-03-21T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q1000193,Hans Elsässer,male,1929-03-29T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q1000195,Dietmar Thieser,male,1952-11-27T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q1000198,Richard Mademann,male,1968-04-25T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q10002000,Mikhail Ioffe,male,1937-04-07T00:00:00Z,Soviet Union,Europe
+http://www.wikidata.org/entity/Q10002044,Lean Nielsen,male,1935-01-28T00:00:00Z,Kingdom of Denmark,Europe
+http://www.wikidata.org/entity/Q1000228,Wolfgang Poppelbaum,male,1939-06-20T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q1000229,Hans Beletz,male,1954-05-30T00:00:00Z,Austria,Europe
+http://www.wikidata.org/entity/Q1000238,Clemens Ostermann,male,1984-06-11T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q1000242,Karl-Heinz Singer,male,1928-03-15T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q1000246,Halvor Næs,male,1928-04-19T00:00:00Z,Norway,Europe
+http://www.wikidata.org/entity/Q100025380,Kerim Çalhanoğlu,male,2002-08-26T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q1000254,Thomas A. Szlezák,male,1940-07-12T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100026236,Kévin Boma,male,2002-11-20T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q10002689,Mariusz Ziółko,male,1946-09-18T00:00:00Z,Poland,Europe
+http://www.wikidata.org/entity/Q100026920,Noah Fatar,male,2002-02-15T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100027694,Ismaël Sow,male,2001-02-19T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100028,Jörg Hube,male,1943-11-22T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q1000292,Klaus Wagner,male,1922-01-16T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100029727,Logan Delaurier-Chaubet,male,2002-04-22T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q1000299,Mikhail Chernikov,male,1974-01-11T00:00:00Z,Russia,Europe
+http://www.wikidata.org/entity/Q100030,Alfred Ter-Mkrtychyan,male,1971-03-19T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q1000309,Frank Lienert-Mondanelli,male,1955-01-01T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q1000314,Tom O'Donnell,male,1926-08-30T00:00:00Z,Ireland,Europe
+http://www.wikidata.org/entity/Q100031473,Amadou Traoré,male,2002-03-07T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q1000315,Wulf-Dietrich Kavasch,male,1944-07-19T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100032134,Pietro Clausetti,male,1904-01-02T00:00:00Z,Italy,Europe
+http://www.wikidata.org/entity/Q1000324,Alexander Eisvogel,male,1965-07-23T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100033333,Giulio Fanti,male,1956-02-03T00:00:00Z,Italy,Europe
+http://www.wikidata.org/entity/Q100033357,Mouhamad Lamine Doumbouya,male,2000-03-14T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q1000337,Lothar Curdt,male,1928-06-08T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100034703,Alexandre Fressange,male,2001-02-02T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q1000348,Rainer Neu,male,1950-07-18T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100034951,Dimitris Xonoglou,male,1949-01-01T00:00:00Z,Greece,Europe
+http://www.wikidata.org/entity/Q100035544,Etienne Green,male,2000-07-19T00:00:00Z,United Kingdom,Europe
+http://www.wikidata.org/entity/Q1000356,Rudolf Krause,male,1931-02-11T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q1000395,György Ferdinandy,male,1935-10-11T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q10004,Yevgeny Chernyaev,male,1921-08-05T00:00:00Z,Soviet Union,Europe
+http://www.wikidata.org/entity/Q1000405,Miguel de Ferdinandy,male,1912-10-05T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q1000416,Peter Buchholz,male,1954-09-05T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q1000435,Peter Sweeney,male,1984-09-25T00:00:00Z,United Kingdom,Europe
+http://www.wikidata.org/entity/Q1000444,Hermann Klenner,male,1926-01-05T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q1000488,Gyula Ferencz,male,1937-08-20T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q1000489,Győző Ferencz,male,1954-04-04T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q1000490,István Ferencz,male,1944-01-27T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q1000494,László Ferencz,male,1961-09-14T00:00:00Z,Romania,Europe
+http://www.wikidata.org/entity/Q1000503,István Ferencz S.,male,1945-01-01T00:00:00Z,Romania,Europe
+http://www.wikidata.org/entity/Q1000506,Attila Ferenczfy-Kovács,male,1951-07-26T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q1000520,Gábor Ferenczi,male,1950-05-07T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q1000521,György Ferenczi,male,1968-10-12T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q1000525,Géza Ferenczi,male,1924-06-22T00:00:00Z,Romania,Europe
+http://www.wikidata.org/entity/Q1000526,Imre Ferenczi,male,1931-01-06T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q1000540,János Ferenczi,male,1991-04-03T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q1000561,György Ferenczy,male,1901-04-14T00:00:00Z,Romania,Europe
+http://www.wikidata.org/entity/Q1000563,György Ferenczy,male,1902-02-08T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q1000565,Imre Ferenczy,male,1932-07-25T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q1000579,Károly Ferenczy,male,1901-10-14T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q1000591,Miklós Ferenczy,male,1931-03-27T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q1000592,Tyson Fury,male,1988-08-12T00:00:00Z,United Kingdom,Europe
+http://www.wikidata.org/entity/Q1000629,Attila Feri,male,1968-09-24T00:00:00Z,Romania,Europe
+http://www.wikidata.org/entity/Q1000631,Steffen Gräbner,male,1957-12-21T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q1000644,István Ferincz,male,1942-08-04T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q1000649,András Ferkai,male,1953-06-07T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q1000652,Csaba Ferkó,male,1987-07-07T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q1000665,Lukas Grauwiler,male,1984-04-13T00:00:00Z,Switzerland,Europe
+http://www.wikidata.org/entity/Q1000667,László Farnady,male,1900-01-01T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q1000669,Fernand Meese,male,1954-11-05T00:00:00Z,Belgium,Europe
+http://www.wikidata.org/entity/Q1000675,Herbert Sklenka,male,1958-05-28T00:00:00Z,Austria,Europe
+http://www.wikidata.org/entity/Q100067841,Ottorino Gentilucci,male,1910-08-14T00:00:00Z,Italy,Europe
+http://www.wikidata.org/entity/Q1000680,Kurt E. Koch,male,1913-11-16T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100068291,Olivier Devillers,male,1962-04-18T00:00:00Z,Belgium,Europe
+http://www.wikidata.org/entity/Q1000687,Karl Otto Henseling,male,1945-06-26T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q1000688,Fernando Santos Leite,male,1926-01-01T00:00:00Z,Portugal,Europe
+http://www.wikidata.org/entity/Q1000698,Günther Jahn,male,1930-01-09T00:00:00Z,German Democratic Republic,Europe
+http://www.wikidata.org/entity/Q1000713,Carlos Matos,male,1958-05-14T00:00:00Z,Portugal,Europe
+http://www.wikidata.org/entity/Q1000718,Günther Alster,male,1955-10-10T00:00:00Z,Austria,Europe
+http://www.wikidata.org/entity/Q1000727,Ruslan Galitsky,male,1972-07-14T00:00:00Z,Soviet Union,Europe
+http://www.wikidata.org/entity/Q1000731,Dirk Andries Flentrop,male,1910-05-01T00:00:00Z,Kingdom of the Netherlands,Europe
+http://www.wikidata.org/entity/Q1000734,Heinz Jankofsky,male,1935-09-28T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q1000744,Jürgen Koffler,male,1960-05-07T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q1000748,Jona Mues,male,1981-04-07T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q1000761,Nikolaos Makarezos,male,1919-01-01T00:00:00Z,Greece,Europe
+http://www.wikidata.org/entity/Q100077332,Gino Tani,male,1901-01-01T00:00:00Z,Kingdom of Italy,Europe
+http://www.wikidata.org/entity/Q1000788,Buddha Scheidegger,male,1940-05-13T00:00:00Z,Switzerland,Europe
+http://www.wikidata.org/entity/Q100079045,Dietger Ederhof,male,1925-09-01T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100079302,Milan Piško,male,1996-03-06T00:00:00Z,Czech Republic,Europe
+http://www.wikidata.org/entity/Q1000800,Heinz Bierbaum,male,1946-12-05T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q1000803,Hansjörg Wyss,male,1935-09-19T00:00:00Z,Switzerland,Europe
+http://www.wikidata.org/entity/Q1000805,Johannes Ising,male,1902-02-28T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q1000807,László Sillai,male,1943-06-02T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q1000815,Antal Fery,male,1908-06-12T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q1000820,Patrick Walsh,male,1931-04-09T00:00:00Z,United Kingdom,Europe
+http://www.wikidata.org/entity/Q100082630,Luis Gerardo Afán de Ribera y Nestares,male,1908-04-01T00:00:00Z,Spain,Europe
+http://www.wikidata.org/entity/Q1000848,Christian Poirot,male,1956-09-12T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q1000860,Pyotr Buslov,male,1976-06-01T00:00:00Z,Russia,Europe
+http://www.wikidata.org/entity/Q1000862,Paul Mathias Padua,male,1903-11-15T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q1000875,Stiliyan Makarski,male,1985-03-18T00:00:00Z,Bulgaria,Europe
+http://www.wikidata.org/entity/Q1000884,Roger Morris,male,1960-01-01T00:00:00Z,United Kingdom,Europe
+http://www.wikidata.org/entity/Q1000912,Piotr Trzaskalski,male,1964-02-05T00:00:00Z,Poland,Europe
+http://www.wikidata.org/entity/Q100091999,Javier Alonso Salgueiro,male,1951-08-20T00:00:00Z,Spain,Europe
+http://www.wikidata.org/entity/Q1000920,Gert Haendler,male,1924-08-17T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q1000964,Ian Christie,male,1927-06-24T00:00:00Z,United Kingdom,Europe
+http://www.wikidata.org/entity/Q100097557,Carlos Castelao,male,1970-01-29T00:00:00Z,Spain,Europe
+http://www.wikidata.org/entity/Q1000985,Milan Pacanda,male,1978-02-28T00:00:00Z,Czech Republic,Europe
+http://www.wikidata.org/entity/Q1000986,György Feszt,male,1925-09-15T00:00:00Z,Romania,Europe
+http://www.wikidata.org/entity/Q100098731,Jenő Kismarty-Lechner,male,1908-08-18T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q1000990,Béla Fesztbaum,male,1975-01-06T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q1000992,László Feszt,male,1930-10-17T00:00:00Z,Romania,Europe
+http://www.wikidata.org/entity/Q1001016,Nándor Fettich,male,1900-01-07T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q100103810,Florinel Sandu,male,2001-01-23T00:00:00Z,Romania,Europe
+http://www.wikidata.org/entity/Q1001049,Ferenc Fiala,male,1904-12-19T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q1001062,Tamaș Csicsaky,male,1980-06-04T00:00:00Z,Romania,Europe
+http://www.wikidata.org/entity/Q1001077,Sergey Dikovsky,male,1907-03-14T00:00:00Z,Soviet Union,Europe
+http://www.wikidata.org/entity/Q100110539,Prince Oscar of Belgium,male,2008-04-28T00:00:00Z,Belgium,Europe
+http://www.wikidata.org/entity/Q1001110,Kurt App,male,1952-01-01T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q1001135,Buddy Casino,male,1955-04-07T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100116017,Óscar Carrasco,male,1976-01-01T00:00:00Z,Spain,Europe
+http://www.wikidata.org/entity/Q100116286,Svein Hansen,male,1946-01-01T00:00:00Z,Norway,Europe
+http://www.wikidata.org/entity/Q1001168,Mihály Ficsor,male,1938-09-26T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q1001171,Mihaly Zoltan Ficsor,male,1964-01-01T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q1001173,Pál Ficsku,male,1967-01-22T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q1001175,Buddy Elias,male,1925-06-02T00:00:00Z,Switzerland,Europe
+http://www.wikidata.org/entity/Q1001178,Ádám Ficsor,male,1980-06-17T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q1001179,László Ficzere,male,1910-02-28T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q1001184,Philipp Stennert,male,1975-08-25T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q1001190,Buddy Featherstonhaugh,male,1909-10-10T00:00:00Z,United Kingdom,Europe
+http://www.wikidata.org/entity/Q1001202,Sergey Strunnikov,male,1907-09-25T00:00:00Z,Soviet Union,Europe
+http://www.wikidata.org/entity/Q1001218,Willy Meyer,male,1937-03-17T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100122,Kurt Kreuger,male,1916-07-23T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q1001238,József Fifilina,male,1926-08-10T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q1001242,Hinrich Franck,male,1956-11-08T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q1001252,Figus Illinyi Albert,male,1927-01-19T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q1001253,Leopold Eckhart,male,1900-01-31T00:00:00Z,Austria,Europe
+http://www.wikidata.org/entity/Q1001257,Buddy Ogün,male,1984-02-29T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q1001262,László Fikk,male,1920-02-02T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q1001268,Ivan Angeli,male,1940-11-05T00:00:00Z,Italy,Europe
+http://www.wikidata.org/entity/Q1001280,Dietrich Lohrmann,male,1937-06-09T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q1001295,László Filep,male,1941-12-06T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q1001302,Sándor Filep,male,1954-03-10T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q1001304,Florian Fitz,male,1967-11-16T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q1001312,György Filip,male,1966-06-21T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q100131661,Pierre-Yves Lebert,male,1964-11-27T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q1001318,Filip Pajović,male,1993-07-30T00:00:00Z,Serbia,Europe
+http://www.wikidata.org/entity/Q1001320,Filip Lăzăreanu,male,1981-07-05T00:00:00Z,Romania,Europe
+http://www.wikidata.org/entity/Q1001323,Eberhard Hesse,male,1911-06-28T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100134295,Ivan Ballo,male,1909-04-07T00:00:00Z,Czechoslovakia,Europe
+http://www.wikidata.org/entity/Q1001355,Ettore Tenchio,male,1915-10-21T00:00:00Z,Switzerland,Europe
+http://www.wikidata.org/entity/Q100136127,Gabriel Plumbuitu,male,2004-02-14T00:00:00Z,Romania,Europe
+http://www.wikidata.org/entity/Q100136407,Alexandre Mérieux,male,1974-01-15T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100136473,Javier Vilanova Pellisa,male,1973-09-23T00:00:00Z,Spain,Europe
+http://www.wikidata.org/entity/Q100136954,Gil Lagardère,male,1955-01-01T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100136962,Jean-Marc Lajudie,male,1948-01-01T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100137211,Giorgio Giorgerini,male,1931-05-31T00:00:00Z,Kingdom of Italy,Europe
+http://www.wikidata.org/entity/Q100137528,Francesco Malgeri,male,1900-01-13T00:00:00Z,Kingdom of Italy,Europe
+http://www.wikidata.org/entity/Q100137627,Serhii Harmash,male,1971-02-27T00:00:00Z,Soviet Union,Europe
+http://www.wikidata.org/entity/Q100137723,Walter Resentera,male,1907-02-09T00:00:00Z,Italy,Europe
+http://www.wikidata.org/entity/Q100137878,Dan Nanoveanu,male,1949-04-06T00:00:00Z,Romania,Europe
+http://www.wikidata.org/entity/Q100137960,Juan Luis Saco Cid,male,1938-10-03T00:00:00Z,Spain,Europe
+http://www.wikidata.org/entity/Q100137982,Stanislaw Wolak,male,1913-08-11T00:00:00Z,Poland,Europe
+http://www.wikidata.org/entity/Q100137986,Călin Papură,male,1950-02-24T00:00:00Z,Romania,Europe
+http://www.wikidata.org/entity/Q100138094,Alain Harf,male,1946-12-15T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100138179,Sander Aae Skotheim,male,2002-05-31T00:00:00Z,Norway,Europe
+http://www.wikidata.org/entity/Q100138229,Fran Ferriz,male,1979-08-31T00:00:00Z,Spain,Europe
+http://www.wikidata.org/entity/Q100138230,Svein Lilleberg,male,1943-05-08T00:00:00Z,Norway,Europe
+http://www.wikidata.org/entity/Q100138232,Terje Hellesylt,male,1950-09-22T00:00:00Z,Norway,Europe
+http://www.wikidata.org/entity/Q100138236,Bjørn Birknes,male,1946-03-17T00:00:00Z,Norway,Europe
+http://www.wikidata.org/entity/Q100138239,Terje Hoffmann,male,1956-08-13T00:00:00Z,Norway,Europe
+http://www.wikidata.org/entity/Q100138349,Jacopo Gassman,male,1980-06-26T00:00:00Z,Italy,Europe
+http://www.wikidata.org/entity/Q100138487,Daniel Grimshaw,male,1985-09-03T00:00:00Z,United Kingdom,Europe
+http://www.wikidata.org/entity/Q100138645,Zdeněk Sobotka,male,1973-07-26T00:00:00Z,Czech Republic,Europe
+http://www.wikidata.org/entity/Q100138675,Sigismondo Savona,male,1900-01-01T00:00:00Z,Crown Colony of Malta,Europe
+http://www.wikidata.org/entity/Q100138770,Kymo One,male,1995-01-01T00:00:00Z,Belgium,Europe
+http://www.wikidata.org/entity/Q100138863,Oscar Savio,male,1912-01-01T00:00:00Z,Kingdom of Italy,Europe
+http://www.wikidata.org/entity/Q100139176,Renato Gavarini,male,1919-01-01T00:00:00Z,Kingdom of Italy,Europe
+http://www.wikidata.org/entity/Q100139434,Matt Gibson,male,1953-05-07T00:00:00Z,United Kingdom,Europe
+http://www.wikidata.org/entity/Q100139889,Jean-Laurent Monnier,male,1948-01-01T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100142215,Mikitko syn Alexeev,male,1997-01-01T00:00:00Z,Russia,Europe
+http://www.wikidata.org/entity/Q1001426,Tamás Filó,male,1979-12-06T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q100142797,Aleksi Puranen,male,1978-01-01T00:00:00Z,Finland,Europe
+http://www.wikidata.org/entity/Q100143082,Heinz Stieger,male,1917-01-01T00:00:00Z,Switzerland,Europe
+http://www.wikidata.org/entity/Q100144349,Armin Hodžić,male,2000-02-29T00:00:00Z,Bosnia and Herzegovina,Europe
+http://www.wikidata.org/entity/Q100144382,Hans-Jürgen Mühle,male,1941-01-01T00:00:00Z,German Democratic Republic,Europe
+http://www.wikidata.org/entity/Q100144432,Chris Ross,male,1933-03-12T00:00:00Z,United Kingdom,Europe
+http://www.wikidata.org/entity/Q100144433,Victor Torp,male,1999-07-30T00:00:00Z,Kingdom of Denmark,Europe
+http://www.wikidata.org/entity/Q100144493,Miguel Rodríguez Vidal,male,2003-04-29T00:00:00Z,Spain,Europe
+http://www.wikidata.org/entity/Q1001445,Budislav Vukas,male,1938-01-01T00:00:00Z,Croatia,Europe
+http://www.wikidata.org/entity/Q100144511,Pedro Albert Lasierra,male,1913-01-01T00:00:00Z,Spain,Europe
+http://www.wikidata.org/entity/Q100144545,Edgar-Yves,male,1987-06-11T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100144548,Valeriano Bozal Urzay,male,1906-01-01T00:00:00Z,Spain,Europe
+http://www.wikidata.org/entity/Q100144549,Panagiotis Botinis,male,1939-01-01T00:00:00Z,Greece,Europe
+http://www.wikidata.org/entity/Q100144592,Christian Wüster,male,1984-10-03T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100144656,Lorenzo Casini,male,1974-01-01T00:00:00Z,Italy,Europe
+http://www.wikidata.org/entity/Q100144657,Lorenzo Casini,male,1997-03-19T00:00:00Z,Italy,Europe
+http://www.wikidata.org/entity/Q1001447,Gábor Financsek,male,1985-08-27T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q100144815,Alfred Schmidt,male,1908-06-25T00:00:00Z,German Reich,Europe
+http://www.wikidata.org/entity/Q100145022,Akis Kavallieratos,male,1937-01-01T00:00:00Z,Greece,Europe
+http://www.wikidata.org/entity/Q100145182,Manos Venieris,male,1947-01-01T00:00:00Z,Greece,Europe
+http://www.wikidata.org/entity/Q100145298,Anushavan Hunanyan,male,1920-01-01T00:00:00Z,Soviet Union,Europe
+http://www.wikidata.org/entity/Q100145354,Sylvain Pelissier,male,1979-05-29T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100145562,Harutyun Kirakosyan,male,1913-01-01T00:00:00Z,Soviet Union,Europe
+http://www.wikidata.org/entity/Q100145614,Maxime Oltmann,male,1995-12-28T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100145732,Souren Hovakimyan,male,1911-01-01T00:00:00Z,Soviet Union,Europe
+http://www.wikidata.org/entity/Q100145747,Malcom Ferdinand,male,1985-01-01T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100145802,Hans Rudolf Güdemann,male,1938-10-16T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100146146,Adam Trenčan,male,1990-07-10T00:00:00Z,Slovakia,Europe
+http://www.wikidata.org/entity/Q100146300,Mars Mikhailov,male,1938-06-17T00:00:00Z,Soviet Union,Europe
+http://www.wikidata.org/entity/Q100146346,Aarón Rey,male,1998-05-19T00:00:00Z,Spain,Europe
+http://www.wikidata.org/entity/Q100146358,Dean Owens,male,2000-01-01T00:00:00Z,Scotland,Europe
+http://www.wikidata.org/entity/Q100146363,Fábio Baptista,male,2001-03-29T00:00:00Z,Portugal,Europe
+http://www.wikidata.org/entity/Q100146405,Zbyněk Mařák,male,1971-08-12T00:00:00Z,Czech Republic,Europe
+http://www.wikidata.org/entity/Q100146488,Per Hedenius,male,1906-09-14T00:00:00Z,Sweden,Europe
+http://www.wikidata.org/entity/Q100146549,Rudolf Arn,male,1935-11-01T00:00:00Z,Switzerland,Europe
+http://www.wikidata.org/entity/Q100146609,Peeter Laredei,male,1911-12-25T00:00:00Z,Estonia,Europe
+http://www.wikidata.org/entity/Q100146691,Olivier Chavarot,male,1958-03-10T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100146692,Cristian Ojovan,male,1997-01-04T00:00:00Z,Moldova,Europe
+http://www.wikidata.org/entity/Q100146726,Nicolas Bourgoin,male,1962-06-21T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100146796,Nicolas Plain,male,1991-08-19T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q1001471,Kálmán Fink Forgács,male,1921-10-04T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q100148,Hans Bernhardt,male,1906-01-28T00:00:00Z,German Reich,Europe
+http://www.wikidata.org/entity/Q100148000,Emilio Santiago Muíño,male,1984-01-01T00:00:00Z,Spain,Europe
+http://www.wikidata.org/entity/Q100148114,Giuseppe Modica,male,1953-01-01T00:00:00Z,Italy,Europe
+http://www.wikidata.org/entity/Q100148260,Jure Piškur,male,1960-01-01T00:00:00Z,Slovenia,Europe
+http://www.wikidata.org/entity/Q100148277,Ramón Domínguez Veiga,male,1970-10-07T00:00:00Z,Spain,Europe
+http://www.wikidata.org/entity/Q100148306,Leonard Martin,male,1991-01-01T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100148849,Gabrio Taglietti,male,1955-01-01T00:00:00Z,Italy,Europe
+http://www.wikidata.org/entity/Q100148950,Giuseppe Zecchillo,male,1929-12-18T00:00:00Z,Kingdom of Italy,Europe
+http://www.wikidata.org/entity/Q100148998,Gino Brogi,male,1902-12-28T00:00:00Z,Italy,Europe
+http://www.wikidata.org/entity/Q100149034,Franco Crepax,male,1928-01-01T00:00:00Z,Kingdom of Italy,Europe
+http://www.wikidata.org/entity/Q1001491,Finn Kalvik,male,1947-04-30T00:00:00Z,Norway,Europe
+http://www.wikidata.org/entity/Q100149231,Luigi Campolieti,male,1905-01-01T00:00:00Z,Italy,Europe
+http://www.wikidata.org/entity/Q100149254,Joël Bartolomeo,male,1957-01-01T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100149274,Marjan Teržan,male,1938-05-05T00:00:00Z,Kingdom of Yugoslavia,Europe
+http://www.wikidata.org/entity/Q100149288,Paolo Perezzani,male,1955-01-01T00:00:00Z,Italy,Europe
+http://www.wikidata.org/entity/Q100149290,Gabrijel Kolbič,male,1913-03-17T00:00:00Z,Kingdom of Yugoslavia,Europe
+http://www.wikidata.org/entity/Q100149340,Armando Gatto,male,1928-12-29T00:00:00Z,Italy,Europe
+http://www.wikidata.org/entity/Q100149431,Jan Hajda,male,1927-03-02T00:00:00Z,Czechoslovakia,Europe
+http://www.wikidata.org/entity/Q100149476,Håkon Stavrum,male,1998-08-05T00:00:00Z,Norway,Europe
+http://www.wikidata.org/entity/Q100150011,Yegor Chinakhov,male,2001-02-01T00:00:00Z,Russia,Europe
+http://www.wikidata.org/entity/Q100150556,Francis Andruet,male,1923-05-28T00:00:00Z,Switzerland,Europe
+http://www.wikidata.org/entity/Q100150651,Fredrik Di Fiore,male,1973-01-01T00:00:00Z,Norway,Europe
+http://www.wikidata.org/entity/Q100150943,Josiane Boutet,male,1947-03-16T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q1001510,Finnbogi Arge,male,1955-09-06T00:00:00Z,Kingdom of Denmark,Europe
+http://www.wikidata.org/entity/Q100151407,Arturo Tallini,male,1958-09-20T00:00:00Z,Italy,Europe
+http://www.wikidata.org/entity/Q100151424,Alessandro Serena,male,1966-10-05T00:00:00Z,Italy,Europe
+http://www.wikidata.org/entity/Q100151609,Hugo Benitez,male,2001-01-20T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100151666,Endre Dévényi,male,1909-07-02T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q100151709,Alex Nogués,male,1976-01-01T00:00:00Z,Spain,Europe
+http://www.wikidata.org/entity/Q100151781,Kristjan Pelt,male,2001-07-12T00:00:00Z,Estonia,Europe
+http://www.wikidata.org/entity/Q100151786,Mark Lepik,male,2000-09-10T00:00:00Z,Estonia,Europe
+http://www.wikidata.org/entity/Q100151795,Lorant Benedek,male,2004-02-06T00:00:00Z,Romania,Europe
+http://www.wikidata.org/entity/Q100151797,Timothé Rupil,male,2003-06-12T00:00:00Z,Luxembourg,Europe
+http://www.wikidata.org/entity/Q100151801,Giacomo Conti,male,1999-07-21T00:00:00Z,San Marino,Europe
+http://www.wikidata.org/entity/Q100151810,Luca Nanni,male,1995-01-30T00:00:00Z,San Marino,Europe
+http://www.wikidata.org/entity/Q100151816,Samir Arab,male,1994-03-25T00:00:00Z,Malta,Europe
+http://www.wikidata.org/entity/Q100151824,Gytis Paulauskas,male,1999-09-27T00:00:00Z,Lithuania,Europe
+http://www.wikidata.org/entity/Q100151861,Pierre Vieu,male,1947-01-28T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100151909,Zoltán Szabó,male,1936-07-18T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q100151913,Franz Grau,male,1910-12-06T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100152003,Norbert Radzanowski,male,1948-01-01T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100152085,Felix Lampert,male,1982-12-30T00:00:00Z,German Democratic Republic,Europe
+http://www.wikidata.org/entity/Q100152140,Lylian,male,1975-04-12T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100152219,Georges-Henri Colombe,male,1998-04-09T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100152257,Jean Coquelin,male,1908-05-26T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100152261,Alexandru Folea,male,2005-07-22T00:00:00Z,Romania,Europe
+http://www.wikidata.org/entity/Q100152358,Richard Rein,male,1941-01-01T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100152417,Jari Liski,male,1967-01-18T00:00:00Z,Finland,Europe
+http://www.wikidata.org/entity/Q100152661,Garnik Isahakyan,male,1908-01-01T00:00:00Z,Soviet Union,Europe
+http://www.wikidata.org/entity/Q100152701,Henry Meier,male,1915-05-15T00:00:00Z,German Reich,Europe
+http://www.wikidata.org/entity/Q100152706,Hans-Joachim Pysall,male,1929-12-04T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100152786,Biel Rossell Pelfort,male,2004-06-30T00:00:00Z,Spain,Europe
+http://www.wikidata.org/entity/Q100152842,Jacques Buisson,male,1943-01-01T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100152848,Jean-Christophe Saint-Pau,male,1970-01-01T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100152856,Zaven Marukyan,male,1919-01-01T00:00:00Z,Soviet Union,Europe
+http://www.wikidata.org/entity/Q100152944,Jürgen Höfner,male,1957-01-01T00:00:00Z,German Democratic Republic,Europe
+http://www.wikidata.org/entity/Q100153203,Kjell-Arne Brändström,male,1936-04-06T00:00:00Z,Sweden,Europe
+http://www.wikidata.org/entity/Q100153340,Andrzej Kowalski,male,1946-01-01T00:00:00Z,Poland,Europe
+http://www.wikidata.org/entity/Q100153347,Andrzej Kowalski,male,1959-01-01T00:00:00Z,Poland,Europe
+http://www.wikidata.org/entity/Q100153350,Andrzej Kowalski,male,1929-08-31T00:00:00Z,Poland,Europe
+http://www.wikidata.org/entity/Q100153357,Andrzej Kowalski,male,1981-09-14T00:00:00Z,Poland,Europe
+http://www.wikidata.org/entity/Q100153387,Andrzej Kowalski,male,1967-04-18T00:00:00Z,Poland,Europe
+http://www.wikidata.org/entity/Q100153426,Eddie McLaughlin,male,1952-06-27T00:00:00Z,United Kingdom,Europe
+http://www.wikidata.org/entity/Q100153462,Jonas Carlquist,male,1961-10-11T00:00:00Z,Sweden,Europe
+http://www.wikidata.org/entity/Q100153537,Andrzej Nowak,male,1966-05-14T00:00:00Z,Poland,Europe
+http://www.wikidata.org/entity/Q100153906,Josef Lehner,male,1935-03-14T00:00:00Z,Austria,Europe
+http://www.wikidata.org/entity/Q100153910,Frank J. Blatt,male,1924-05-01T00:00:00Z,Austria,Europe
+http://www.wikidata.org/entity/Q100154045,Koryun Marutyan,male,1918-01-01T00:00:00Z,Soviet Union,Europe
+http://www.wikidata.org/entity/Q100154148,Suren Hovhannisyan,male,1912-01-01T00:00:00Z,Soviet Union,Europe
+http://www.wikidata.org/entity/Q100154173,Xosé Ramón Nóvoa Rodríguez,male,1957-03-30T00:00:00Z,Spain,Europe
+http://www.wikidata.org/entity/Q100154334,Biagio Iacovelli,male,1992-05-29T00:00:00Z,Italy,Europe
+http://www.wikidata.org/entity/Q100154338,Yung Snapp,male,1996-08-06T00:00:00Z,Italy,Europe
+http://www.wikidata.org/entity/Q100154346,Mikael Hedne,male,1988-06-06T00:00:00Z,Norway,Europe
+http://www.wikidata.org/entity/Q100154369,Geseko von Lüpke,male,1958-06-07T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100154426,Viktor Uchasev,male,1947-12-11T00:00:00Z,Russia,Europe
+http://www.wikidata.org/entity/Q100154472,Grigoris Toumpelis,male,2004-12-13T00:00:00Z,Greece,Europe
+http://www.wikidata.org/entity/Q100155245,Albert Reyes,male,1996-03-24T00:00:00Z,Andorra,Europe
+http://www.wikidata.org/entity/Q100156206,Rodney Grahame,male,1932-01-01T00:00:00Z,United Kingdom,Europe
+http://www.wikidata.org/entity/Q100156263,Giancarlo Martini,male,1963-10-14T00:00:00Z,Italy,Europe
+http://www.wikidata.org/entity/Q100156846,Enrico Le Donne,male,1981-10-09T00:00:00Z,Italy,Europe
+http://www.wikidata.org/entity/Q100157370,Daniel Fauville,male,1953-01-01T00:00:00Z,Belgium,Europe
+http://www.wikidata.org/entity/Q100157492,Antonio De Vita,male,1923-04-26T00:00:00Z,Italy,Europe
+http://www.wikidata.org/entity/Q1001575,Géza Finszter,male,1945-05-19T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q100157895,Géraud Seznec,male,1977-09-05T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100157965,Theo Bennes,male,1957-01-01T00:00:00Z,Kingdom of the Netherlands,Europe
+http://www.wikidata.org/entity/Q100157983,Antonio Di Ciolo,male,1934-07-12T00:00:00Z,Kingdom of Italy,Europe
+http://www.wikidata.org/entity/Q100157994,Jean Gaudaire-Thor,male,1947-10-16T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100158404,Eric Lutz,male,2000-01-01T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100158621,Francisco de la Gala Sánchez,male,1943-01-01T00:00:00Z,Spain,Europe
+http://www.wikidata.org/entity/Q100158635,Ricardo Mateos Sáinz de Medrano,male,1961-01-01T00:00:00Z,Spain,Europe
+http://www.wikidata.org/entity/Q100158637,Aleksander Kupcewicz,male,1923-04-01T00:00:00Z,Poland,Europe
+http://www.wikidata.org/entity/Q1001588,Béla Finta,male,1960-09-13T00:00:00Z,Romania,Europe
+http://www.wikidata.org/entity/Q100158833,Frenz Bertram,male,1937-01-08T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100158927,Daniel Torgersson,male,2002-01-26T00:00:00Z,Sweden,Europe
+http://www.wikidata.org/entity/Q100159202,Jean-Pierre Belna,male,1950-01-01T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100159282,Emil Heineman,male,2001-11-16T00:00:00Z,Sweden,Europe
+http://www.wikidata.org/entity/Q100159333,Theodor Niederbach,male,2002-01-26T00:00:00Z,Sweden,Europe
+http://www.wikidata.org/entity/Q100159336,Calle Clang,male,2002-05-20T00:00:00Z,Sweden,Europe
+http://www.wikidata.org/entity/Q100159428,Roby Rogiers,male,1997-06-14T00:00:00Z,Belgium,Europe
+http://www.wikidata.org/entity/Q100159474,Hans Werner Lampe,male,1911-07-12T00:00:00Z,Nazi Germany,Europe
+http://www.wikidata.org/entity/Q1001595,Károly Finta,male,1914-06-11T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q1001596,József Finta,male,1935-06-12T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q100159740,Vrenz Bleijenbergh,male,2000-10-14T00:00:00Z,Belgium,Europe
+http://www.wikidata.org/entity/Q100159848,Vladimir Ilyich Khlybov,male,1954-09-08T00:00:00Z,Soviet Union,Europe
+http://www.wikidata.org/entity/Q100160188,Bernd Siering,male,1954-01-01T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q1001604,Zoltán Finta,male,1964-05-05T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q100161582,Gilles Oderigo,male,1960-01-01T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q1001628,Fiorenzo Treossi,male,1959-06-01T00:00:00Z,Italy,Europe
+http://www.wikidata.org/entity/Q1001629,Fiorenzo Toso,male,1962-02-20T00:00:00Z,Italy,Europe
+http://www.wikidata.org/entity/Q100163409,Aleksi Makharashvili,male,1970-04-28T00:00:00Z,Soviet Union,Europe
+http://www.wikidata.org/entity/Q100163576,Vasyl Slobodian,male,1951-01-01T00:00:00Z,Ukraine,Europe
+http://www.wikidata.org/entity/Q1001652,Mátyás Firtl,male,1949-10-30T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q100165433,Ruslan Neshcheret,male,2002-01-22T00:00:00Z,Ukraine,Europe
+http://www.wikidata.org/entity/Q100165473,Giusto Cerutti,male,1903-03-09T00:00:00Z,Italy,Europe
+http://www.wikidata.org/entity/Q100165479,Battista Berardi,male,1903-02-28T00:00:00Z,Italy,Europe
+http://www.wikidata.org/entity/Q100165483,Natale Zaninetti,male,1907-03-24T00:00:00Z,Italy,Europe
+http://www.wikidata.org/entity/Q100165514,Virgil Thérésin,male,1999-01-20T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100165542,Antonis Martis,male,2000-09-08T00:00:00Z,Cyprus,Europe
+http://www.wikidata.org/entity/Q100165805,Willy Monteiro Duarte,male,1999-01-20T00:00:00Z,Italy,Europe
+http://www.wikidata.org/entity/Q100165846,Leo Müllenholz,male,1921-10-15T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100165905,Juan Benavides Delgado,male,1948-01-01T00:00:00Z,Spain,Europe
+http://www.wikidata.org/entity/Q100165907,Cristian Galas,male,1993-02-15T00:00:00Z,Spain,Europe
+http://www.wikidata.org/entity/Q100165958,Warwick Nash,male,1907-06-29T00:00:00Z,Ireland,Europe
+http://www.wikidata.org/entity/Q100166230,Bernard Locca,male,1926-07-29T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100166342,Jean Ampurias,male,1905-12-10T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100166444,Nick Bätzner,male,2000-03-15T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100166458,Dezső Berecki,male,1982-02-19T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q100166492,Léopold Boisselle,male,1903-06-14T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100166520,Vincent Carrara,male,1905-05-09T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100166523,Pierre Charton,male,1904-11-14T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100166532,Edoardo Colombo,male,2001-01-24T00:00:00Z,Italy,Europe
+http://www.wikidata.org/entity/Q100166588,Václav Drábek,male,1976-10-31T00:00:00Z,Czech Republic,Europe
+http://www.wikidata.org/entity/Q100166592,Pierre Warot,male,1922-01-01T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100166625,Marcel Folliot,male,1905-07-24T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100166647,Pierre Pelen,male,1911-10-16T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100166650,Sunny Asemota,male,1962-01-01T00:00:00Z,Kingdom of Denmark,Europe
+http://www.wikidata.org/entity/Q100166659,Elie Guillemer,male,1904-02-02T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100166669,Valentin Halattre,male,1904-11-06T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100166694,Robert Horák,male,1982-01-12T00:00:00Z,Czech Republic,Europe
+http://www.wikidata.org/entity/Q1001667,Alajos Fischer,male,1954-01-10T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q100166703,Marek Indra,male,1989-04-11T00:00:00Z,Czech Republic,Europe
+http://www.wikidata.org/entity/Q100166707,Jiří Denner,male,1986-06-10T00:00:00Z,Czech Republic,Europe
+http://www.wikidata.org/entity/Q100166723,Andrian Kraev,male,1999-02-14T00:00:00Z,Bulgaria,Europe
+http://www.wikidata.org/entity/Q100166821,Paulin Lanteri,male,1902-03-22T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100166922,Roger Lebas,male,1904-12-02T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100167160,Vladislav Mustafin,male,2000-07-21T00:00:00Z,Russia,Europe
+http://www.wikidata.org/entity/Q100167473,Casimir Lombardi,male,1901-01-09T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q1001676,Ferenc Fischer,male,1974-01-01T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q1001684,Gábor Fischer,male,1981-04-25T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q1001705,József Fischer,male,1901-04-12T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q1001715,Lajos Fischer,male,1902-04-07T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q1001718,László Fischer,male,1956-04-17T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q1001748,Ferenc Fister,male,1940-02-23T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q1001756,József Fitos,male,1959-11-04T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q1001760,László Fitos,male,1987-02-27T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q100177309,Sébastien Piccardo,male,1905-01-22T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q1001774,Jenő Fitz,male,1921-02-05T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q100178644,Norbert Haslhofer,male,1965-08-26T00:00:00Z,Austria,Europe
+http://www.wikidata.org/entity/Q100180671,Yves Ropartz,male,1903-06-27T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100181,Günter Deckert,male,1940-01-09T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100182118,Per Marius Weidner-Olsen,male,1963-01-01T00:00:00Z,Norway,Europe
+http://www.wikidata.org/entity/Q100182455,Brendan Schoonbaert,male,2000-05-09T00:00:00Z,Belgium,Europe
+http://www.wikidata.org/entity/Q1001836,András Fiáth,male,1955-08-04T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q1001839,François Bourguignon,male,1945-05-22T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100184,Ernst-Wilhelm Reinert,male,1919-02-02T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100185254,Vitali Taskinen,male,1986-07-27T00:00:00Z,Finland,Europe
+http://www.wikidata.org/entity/Q100187925,André Van Vierst,male,1904-05-25T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100188138,Allan Viral,male,2001-12-03T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100189049,Terry Whitthread,male,1964-07-07T00:00:00Z,United Kingdom,Europe
+http://www.wikidata.org/entity/Q100189976,Manuel Acero García,male,1937-11-06T00:00:00Z,Spain,Europe
+http://www.wikidata.org/entity/Q100197027,Marius Perrier,male,1905-01-01T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100197486,Pierre Gueroult,male,1905-01-01T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100199327,Mario Sánchez Franco,male,1993-02-11T00:00:00Z,Spain,Europe
+http://www.wikidata.org/entity/Q10019989,Isaac Bronstein,male,1939-01-01T00:00:00Z,Soviet Union,Europe
+http://www.wikidata.org/entity/Q100200,Norbert Buske,male,1936-01-02T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100202,Josef Jarolin,male,1904-03-06T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100204,Maximilian Du Prel,male,1904-05-07T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100205,Jakob Graf zu Eltz,male,1921-09-22T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100206855,Petar Petković,male,1980-07-12T00:00:00Z,Serbia,Europe
+http://www.wikidata.org/entity/Q100207515,Andriy Novikov,male,1984-07-25T00:00:00Z,Ukraine,Europe
+http://www.wikidata.org/entity/Q100210804,Guillaume Trèves,male,1969-04-14T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q1002119,Florin Iaru,male,1954-05-24T00:00:00Z,Romania,Europe
+http://www.wikidata.org/entity/Q100212,Peter Kramer,male,1933-01-01T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q1002121,Florin Răducu,male,1970-08-05T00:00:00Z,Romania,Europe
+http://www.wikidata.org/entity/Q100213,Otto Friedrich August Meinardus,male,1925-09-29T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100214,Jürgen W. Falter,male,1944-01-22T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100215,Justus Scharowsky,male,1980-08-13T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100216,Willi Kalender,male,1949-01-01T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q1002173,Hubert Schulte,male,1945-01-08T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100217709,Philippe Schweizer,male,1956-05-18T00:00:00Z,Switzerland,Europe
+http://www.wikidata.org/entity/Q100219,Wilhelm Hennis,male,1923-02-18T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100221,René Bielke,male,1962-04-09T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100221501,Kamil Tvrdek,male,1983-09-09T00:00:00Z,Czech Republic,Europe
+http://www.wikidata.org/entity/Q1002219,Tibor Flórián,male,1908-04-12T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q1002220,Tibor Flórián,male,1938-02-04T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q1002221,Ewald Roth,male,1960-02-05T00:00:00Z,Austria,Europe
+http://www.wikidata.org/entity/Q100223,Mojo Mendiola,male,1954-01-12T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100223407,Giannis Papachristos,male,1912-01-01T00:00:00Z,Greece,Europe
+http://www.wikidata.org/entity/Q100224,Ralph Morgenstern,male,1955-10-03T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q1002243,Patrick Bialdyga,male,1971-01-01T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q1002244,Konrad Kohlhammer,male,1932-11-15T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q1002250,Duncan Haldane,male,1951-09-14T00:00:00Z,United Kingdom,Europe
+http://www.wikidata.org/entity/Q1002257,András Fodor,male,1929-02-27T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q100226,Jens-Peter Berndt,male,1963-08-17T00:00:00Z,German Democratic Republic,Europe
+http://www.wikidata.org/entity/Q1002266,Antal Fodor,male,1941-01-01T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q1002270,Attila Fodor,male,1952-10-22T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q1002280,Ernő Fodor,male,1906-06-01T00:00:00Z,Romania,Europe
+http://www.wikidata.org/entity/Q1002281,Aldo Maria Lazzarín Stella,male,1926-12-13T00:00:00Z,Kingdom of Italy,Europe
+http://www.wikidata.org/entity/Q1002295,Gábor Fodor,male,1962-09-27T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q100230,Ludger Kühnhardt,male,1958-06-04T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q1002300,Géza Fodor,male,1943-05-02T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q1002303,Imre Fodor,male,1963-03-16T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q100230391,Jean Garet,male,1935-10-15T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100230404,Alexandr Ordyan,male,1915-01-01T00:00:00Z,Soviet Union,Europe
+http://www.wikidata.org/entity/Q100230406,Alexander Niemann,male,1953-01-01T00:00:00Z,German Democratic Republic,Europe
+http://www.wikidata.org/entity/Q100230434,Andrey Knorr,male,1957-05-11T00:00:00Z,Russia,Europe
+http://www.wikidata.org/entity/Q100230706,Zazi Zazyan,male,1922-01-01T00:00:00Z,Soviet Union,Europe
+http://www.wikidata.org/entity/Q100230897,Piotr Karpuś,male,1947-05-04T00:00:00Z,Poland,Europe
+http://www.wikidata.org/entity/Q100230925,Vít Vomáčka,male,1960-01-17T00:00:00Z,Czech Republic,Europe
+http://www.wikidata.org/entity/Q100230961,Walter Tusting Cocking,male,1907-01-01T00:00:00Z,United Kingdom,Europe
+http://www.wikidata.org/entity/Q100230979,Giannis Hainis,male,1930-01-01T00:00:00Z,Greece,Europe
+http://www.wikidata.org/entity/Q100230985,Domenico Stinellis,male,1963-01-16T00:00:00Z,Italy,Europe
+http://www.wikidata.org/entity/Q100231,Walter Weizel,male,1901-08-01T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q1002311,István Fodor,male,1945-03-02T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q100231206,Josef Střibrný,male,1996-07-13T00:00:00Z,Czech Republic,Europe
+http://www.wikidata.org/entity/Q1002319,János Fodor,male,1953-11-04T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q100232986,Edmond Epstein,male,1901-03-01T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100233,Udo Weilacher,male,1963-01-01T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100233096,Olav Molberg,male,1909-09-23T00:00:00Z,Norway,Europe
+http://www.wikidata.org/entity/Q100233318,Bjarki Steinn Bjarkason,male,2000-05-11T00:00:00Z,Iceland,Europe
+http://www.wikidata.org/entity/Q100233712,Maxime Legrand,male,1975-01-01T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100233802,Georges Constanti,male,1919-06-14T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100233809,Hicham Miftah,male,1980-06-03T00:00:00Z,Italy,Europe
+http://www.wikidata.org/entity/Q1002339,Lajos Fodor,male,1947-07-27T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q100233973,Neal Sako,male,1998-08-13T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100234007,Pantelis Chandris,male,1963-01-01T00:00:00Z,Greece,Europe
+http://www.wikidata.org/entity/Q100234010,Arturo Gutiérrez de Terán,male,1942-01-31T00:00:00Z,Spain,Europe
+http://www.wikidata.org/entity/Q100234029,Frédéric Boisseau,male,1972-10-19T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100234034,Ieronymos Karmas,male,1966-05-19T00:00:00Z,Greece,Europe
+http://www.wikidata.org/entity/Q100234126,Louis Lemelle,male,1905-05-20T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q1002343,László Fodor,male,1928-02-08T00:00:00Z,Romania,Europe
+http://www.wikidata.org/entity/Q100234551,Benjamin J. Todd,male,1999-01-01T00:00:00Z,United Kingdom,Europe
+http://www.wikidata.org/entity/Q100234663,Henri Benoît,male,1921-07-11T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100234686,G. J. Hooykaas,male,1937-01-01T00:00:00Z,Kingdom of the Netherlands,Europe
+http://www.wikidata.org/entity/Q100234689,Nariman Abdulmutalibov,male,1968-10-26T00:00:00Z,Soviet Union,Europe
+http://www.wikidata.org/entity/Q100234694,Franck Brinsolaro,male,1966-01-11T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100234766,Jean-Baptiste Fressoz,male,1977-01-01T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100234924,Yves Lafargue,male,1969-06-24T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100235012,Vuk Mirčetić,male,1989-01-05T00:00:00Z,Serbia,Europe
+http://www.wikidata.org/entity/Q100235025,Johann Piltz,male,1906-05-12T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100235095,Andoni Olariaga,male,1984-01-01T00:00:00Z,Spain,Europe
+http://www.wikidata.org/entity/Q1002351,Mihály László Fodor,male,1917-01-04T00:00:00Z,Hungary,Europe
+http://www.wikidata.org/entity/Q100235233,Isichios Thanos,male,1969-12-08T00:00:00Z,Greece,Europe
+http://www.wikidata.org/entity/Q100235243,Daniel Wagner,male,1980-01-01T00:00:00Z,Germany,Europe
+http://www.wikidata.org/entity/Q100235253,Martin Osmík,male,1996-04-07T00:00:00Z,Czech Republic,Europe
+http://www.wikidata.org/entity/Q100235261,Pylyp Harmash,male,1989-04-21T00:00:00Z,Ukraine,Europe
+http://www.wikidata.org/entity/Q100235313,Martin Finnland,male,1982-12-12T00:00:00Z,Austria,Europe
+http://www.wikidata.org/entity/Q100235315,André Seidenberg,male,1951-01-01T00:00:00Z,Switzerland,Europe
+http://www.wikidata.org/entity/Q100235320,Éric Liot,male,1964-04-01T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100235344,Jean Saint-Raymond,male,1946-12-27T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100235352,Álvaro Martín,male,2001-01-15T00:00:00Z,Spain,Europe
+http://www.wikidata.org/entity/Q100235386,Jean Preuss,male,1904-07-10T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100235392,Léon Chené,male,1905-06-27T00:00:00Z,France,Europe
+http://www.wikidata.org/entity/Q100235396,François Moreels,male,1903-08-25T00:00:00Z,Belgium,Europe

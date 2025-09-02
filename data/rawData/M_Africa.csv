@@ -1,0 +1,501 @@
+person,person_label,genders,dobs,countries,continents
+http://www.wikidata.org/entity/Q100026236,Kévin Boma,male,2002-11-20T00:00:00Z,Togo,Africa
+http://www.wikidata.org/entity/Q100026920,Noah Fatar,male,2002-02-15T00:00:00Z,Morocco,Africa
+http://www.wikidata.org/entity/Q100031473,Amadou Traoré,male,2002-03-07T00:00:00Z,Guinea,Africa
+http://www.wikidata.org/entity/Q100034703,Alexandre Fressange,male,2001-02-02T00:00:00Z,Cameroon,Africa
+http://www.wikidata.org/entity/Q1000379,Ferdinand Oyono,male,1929-09-14T00:00:00Z,Cameroon,Africa
+http://www.wikidata.org/entity/Q100075553,Steve Asare Hackman,male,1960-01-01T00:00:00Z,Ghana,Africa
+http://www.wikidata.org/entity/Q100088655,Tracey Boakye,male,1991-01-17T00:00:00Z,Ghana,Africa
+http://www.wikidata.org/entity/Q100136222,Bourama Fomba,male,1999-07-10T00:00:00Z,Mali,Africa
+http://www.wikidata.org/entity/Q100141020,Thomas Tayebwa,male,1980-11-10T00:00:00Z,Uganda,Africa
+http://www.wikidata.org/entity/Q100144350,Nicolas Jackson,male,2001-06-20T00:00:00Z,Senegal,Africa
+http://www.wikidata.org/entity/Q100144352,Isa Chiroma,male,1963-04-13T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q100144539,Raymond Danowski,male,1943-09-10T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q100145917,Tahir Mamman,male,1954-07-07T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q100146226,Mohammed Louz,male,1959-01-01T00:00:00Z,Morocco,Africa
+http://www.wikidata.org/entity/Q100146368,Jean-Claude Kassi Brou,male,1953-01-01T00:00:00Z,Ivory Coast,Africa
+http://www.wikidata.org/entity/Q100146381,Mohamed Aissa Meddeb,male,1966-10-10T00:00:00Z,Tunisia,Africa
+http://www.wikidata.org/entity/Q100146519,Katung Aduwak,male,1980-03-21T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q100149446,Fadoul,male,1941-01-01T00:00:00Z,Morocco,Africa
+http://www.wikidata.org/entity/Q100150563,Saaka Sulley,male,1956-01-01T00:00:00Z,Ghana,Africa
+http://www.wikidata.org/entity/Q100152035,Abubakari Ibrahim,male,1943-01-01T00:00:00Z,Ghana,Africa
+http://www.wikidata.org/entity/Q100152088,Kwabena Mustapha Emmanuel,male,1960-01-01T00:00:00Z,Ghana,Africa
+http://www.wikidata.org/entity/Q100152366,Sadio Camara,male,1979-01-01T00:00:00Z,Mali,Africa
+http://www.wikidata.org/entity/Q100152703,Ahmed Nuhu Bamalli,male,1966-06-08T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q100158749,Nabil Bechaouch,male,1970-01-01T00:00:00Z,Tunisia,Africa
+http://www.wikidata.org/entity/Q100166635,Willis Furtado,male,1997-09-04T00:00:00Z,Cape Verde,Africa
+http://www.wikidata.org/entity/Q100166666,Henri-Joseph Koumba Bididi,male,1957-07-15T00:00:00Z,Gabon,Africa
+http://www.wikidata.org/entity/Q100172714,Yusuf Mukisa,male,1993-07-19T00:00:00Z,Uganda,Africa
+http://www.wikidata.org/entity/Q100173920,Lawrence Nduga,male,1995-12-22T00:00:00Z,Uganda,Africa
+http://www.wikidata.org/entity/Q100175124,Olatunde Ojo,male,1963-02-14T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q100177477,Charles Mensah,male,1948-01-01T00:00:00Z,Gabon,Africa
+http://www.wikidata.org/entity/Q100185348,Dylan Tavares,male,1996-08-30T00:00:00Z,Cape Verde,Africa
+http://www.wikidata.org/entity/Q100188207,Ali Hadi,male,1949-01-01T00:00:00Z,Egypt,Africa
+http://www.wikidata.org/entity/Q100199907,Raúl Correia Mendes,male,1949-01-01T00:00:00Z,Angola,Africa
+http://www.wikidata.org/entity/Q100199990,Richard De Medeiros,male,1940-01-01T00:00:00Z,Benin,Africa
+http://www.wikidata.org/entity/Q100215767,Issa N'Diaye,male,1948-10-18T00:00:00Z,Mali,Africa
+http://www.wikidata.org/entity/Q1002166,Youssef Aboul-Kheir,male,1943-09-23T00:00:00Z,Egypt,Africa
+http://www.wikidata.org/entity/Q100233320,Kelvin John,male,2003-06-10T00:00:00Z,Tanzania,Africa
+http://www.wikidata.org/entity/Q100249775,Issaka Ibrahim Adam,male,1950-01-01T00:00:00Z,Ghana,Africa
+http://www.wikidata.org/entity/Q100249865,Abdul - Rahaman Saani,male,1955-01-01T00:00:00Z,Ghana,Africa
+http://www.wikidata.org/entity/Q100249967,Ahmed Yussif Abubakari,male,1947-01-01T00:00:00Z,Ghana,Africa
+http://www.wikidata.org/entity/Q100250052,Chris Ebigbo,male,1948-07-08T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q100250567,Ousmane Mohamed Diallo,male,1950-01-01T00:00:00Z,Mali,Africa
+http://www.wikidata.org/entity/Q100251660,Thaakir Abrahams,male,2000-01-10T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q100252023,Abdel Medioub,male,1997-08-28T00:00:00Z,Algeria,Africa
+http://www.wikidata.org/entity/Q100253380,Abdoul Bandaogo,male,1998-05-30T00:00:00Z,Burkina Faso,Africa
+http://www.wikidata.org/entity/Q100253386,Owell Brown,male,1973-01-01T00:00:00Z,Ivory Coast,Africa
+http://www.wikidata.org/entity/Q100253451,Ace Leen,male,1999-05-08T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q100257591,Mehammad Fayyad,male,1922-01-01T00:00:00Z,Egypt,Africa
+http://www.wikidata.org/entity/Q100257809,Haminiaina Ratovoarivony,male,1977-01-01T00:00:00Z,Madagascar,Africa
+http://www.wikidata.org/entity/Q100257974,ʿbd al-lh al-sīd,male,1941-01-01T00:00:00Z,United Arab Republic,Africa
+http://www.wikidata.org/entity/Q100257983,Rifaat Atfé,male,1947-01-01T00:00:00Z,United Arab Republic,Africa
+http://www.wikidata.org/entity/Q100257996,Zied Mehdi,male,1991-07-01T00:00:00Z,Tunisia,Africa
+http://www.wikidata.org/entity/Q100258228,Neji Elounelli,male,1968-01-01T00:00:00Z,Tunisia,Africa
+http://www.wikidata.org/entity/Q100258403,Mohamed El Amroussi,male,1982-08-25T00:00:00Z,Egypt,Africa
+http://www.wikidata.org/entity/Q100258404,Basam Alasaly,male,1929-01-01T00:00:00Z,United Arab Republic,Africa
+http://www.wikidata.org/entity/Q100258409,ʻAbd Allah Fikri Khani,male,1922-01-01T00:00:00Z,United Arab Republic,Africa
+http://www.wikidata.org/entity/Q100258425,Suhayl al-Khalidi,male,1942-01-01T00:00:00Z,Algeria,Africa
+http://www.wikidata.org/entity/Q100258486,Mohamed Zerguini,male,1922-01-30T00:00:00Z,Algeria,Africa
+http://www.wikidata.org/entity/Q100258498,Farhan Bulbul,male,1937-01-01T00:00:00Z,United Arab Republic,Africa
+http://www.wikidata.org/entity/Q100258658,Ahmad Samir Farag,male,1970-09-27T00:00:00Z,Egypt,Africa
+http://www.wikidata.org/entity/Q100258693,Ahmed Ibrahim Darwish‎,male,1943-05-15T00:00:00Z,Egypt,Africa
+http://www.wikidata.org/entity/Q100258703,Akram Farid,male,1973-03-06T00:00:00Z,Egypt,Africa
+http://www.wikidata.org/entity/Q100260132,Muhammad Mustafa Ziyadat,male,1900-05-09T00:00:00Z,Ottoman Empire,Africa
+http://www.wikidata.org/entity/Q100260209,Mohamed Ali Saadouni,male,2001-08-28T00:00:00Z,Tunisia,Africa
+http://www.wikidata.org/entity/Q100260743,Oussama Omrani,male,1992-03-10T00:00:00Z,Tunisia,Africa
+http://www.wikidata.org/entity/Q100260803,Mahmoud Gad,male,1998-10-01T00:00:00Z,Egypt,Africa
+http://www.wikidata.org/entity/Q100260806,Karim Fouad,male,1999-10-01T00:00:00Z,Egypt,Africa
+http://www.wikidata.org/entity/Q100261455,Walid Zidi,male,1986-04-30T00:00:00Z,Tunisia,Africa
+http://www.wikidata.org/entity/Q100264287,Hamed Owais,male,1919-03-08T00:00:00Z,Egypt,Africa
+http://www.wikidata.org/entity/Q100265245,Gilson Delgado,male,1992-10-19T00:00:00Z,Cape Verde,Africa
+http://www.wikidata.org/entity/Q100269227,David Kriel,male,1999-02-15T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q100271506,Mohammed Kably,male,1938-01-01T00:00:00Z,Morocco,Africa
+http://www.wikidata.org/entity/Q100272970,Amadou Saalum Seck,male,1953-01-01T00:00:00Z,Senegal,Africa
+http://www.wikidata.org/entity/Q100273072,Zineddine Belaïd,male,1999-03-20T00:00:00Z,Algeria,Africa
+http://www.wikidata.org/entity/Q100275083,Mzamiru Yassin,male,1996-01-03T00:00:00Z,Tanzania,Africa
+http://www.wikidata.org/entity/Q100275100,Perivi Katjavivi,male,1940-01-01T00:00:00Z,Namibia,Africa
+http://www.wikidata.org/entity/Q100276045,Brendin Horner,male,1999-01-01T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q100279091,Ifeanyi Onyeabor,male,1971-01-01T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q100287049,Kwadwo Opoku,male,2001-07-13T00:00:00Z,Ghana,Africa
+http://www.wikidata.org/entity/Q100291521,Youssouf Assogba,male,2001-08-21T00:00:00Z,Benin,Africa
+http://www.wikidata.org/entity/Q100291544,Sidney Obissa,male,2000-05-04T00:00:00Z,Gabon,Africa
+http://www.wikidata.org/entity/Q100298072,Ian Reigns,male,1996-08-29T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q100299179,Alexandros Axiotis,male,1996-03-11T00:00:00Z,Zambia,Africa
+http://www.wikidata.org/entity/Q100300095,Ilias Akhomach,male,2004-04-16T00:00:00Z,Morocco,Africa
+http://www.wikidata.org/entity/Q100304330,Sebastian Osigwe,male,1994-03-26T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q100307846,BigTril,male,1990-01-01T00:00:00Z,Uganda,Africa
+http://www.wikidata.org/entity/Q100307867,Mavó,male,1971-10-04T00:00:00Z,Mozambique,Africa
+http://www.wikidata.org/entity/Q100308369,Martín Mapisa,male,1998-05-25T00:00:00Z,Zimbabwe,Africa
+http://www.wikidata.org/entity/Q100309454,Atuhaire Ambala,male,2001-04-26T00:00:00Z,Uganda,Africa
+http://www.wikidata.org/entity/Q100314688,Nancoman Keita,male,1950-01-01T00:00:00Z,Mali,Africa
+http://www.wikidata.org/entity/Q100316226,Chase Onorati,male,1999-08-20T00:00:00Z,Zimbabwe,Africa
+http://www.wikidata.org/entity/Q100316252,Yvan Alounga,male,2002-02-05T00:00:00Z,Cameroon,Africa
+http://www.wikidata.org/entity/Q100318691,Loïc Bessilé,male,1999-02-19T00:00:00Z,Cameroon,Africa
+http://www.wikidata.org/entity/Q100320581,Mohamed Amor Ayari,male,1950-01-01T00:00:00Z,French protectorate of Tunisia,Africa
+http://www.wikidata.org/entity/Q100320708,Sylvio Ouassiero,male,1994-05-07T00:00:00Z,Madagascar,Africa
+http://www.wikidata.org/entity/Q100320779,Hakim Abdallah,male,1998-01-09T00:00:00Z,Madagascar,Africa
+http://www.wikidata.org/entity/Q100326685,Mohcine Jazouli,male,1967-03-10T00:00:00Z,Morocco,Africa
+http://www.wikidata.org/entity/Q100329186,Peter Edmund van Vuuren,male,1956-05-15T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q100340060,Damilola Mike-Bamiloye,male,1989-09-16T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q100342174,Shady Radwan,male,2001-09-01T00:00:00Z,Egypt,Africa
+http://www.wikidata.org/entity/Q1003422,Francis Litsingi,male,1986-09-10T00:00:00Z,Republic of the Congo,Africa
+http://www.wikidata.org/entity/Q100343277,Pieter Spaarwater,male,1936-12-24T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q100343561,Malambule Samuel Mashinini,male,1959-11-22T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q100348052,Imoh Umoren,male,1982-08-13T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q100348773,Boumédiene Bensmaine,male,1915-07-31T00:00:00Z,Algeria,Africa
+http://www.wikidata.org/entity/Q100351303,Jean-Luc Habyarimana,male,1983-09-29T00:00:00Z,Rwanda,Africa
+http://www.wikidata.org/entity/Q1003745,Fredrick Kayindi-Ngobi,male,1973-12-23T00:00:00Z,Uganda,Africa
+http://www.wikidata.org/entity/Q100376355,Abdelmajid Sebbata,male,1989-05-20T00:00:00Z,Morocco,Africa
+http://www.wikidata.org/entity/Q100376359,Farouk El Merrakchi,male,1981-02-01T00:00:00Z,Morocco,Africa
+http://www.wikidata.org/entity/Q100376398,Mohamed Jelloul,male,1971-01-01T00:00:00Z,Morocco,Africa
+http://www.wikidata.org/entity/Q100376399,Mourad Alami,male,1952-08-11T00:00:00Z,Morocco,Africa
+http://www.wikidata.org/entity/Q100376417,Hicham Nostik,male,1976-01-01T00:00:00Z,Morocco,Africa
+http://www.wikidata.org/entity/Q100376755,Abdelaziz Abdi,male,1969-11-01T00:00:00Z,Morocco,Africa
+http://www.wikidata.org/entity/Q100377252,Heinrich Charl Smith,male,1955-01-01T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q100388017,Corneille Nangaa,male,1970-07-09T00:00:00Z,Democratic Republic of the Congo,Africa
+http://www.wikidata.org/entity/Q100395952,Jean Djigui Kéita,male,1936-01-01T00:00:00Z,Mali,Africa
+http://www.wikidata.org/entity/Q100400527,Ian Owulakwao Greenstreet,male,1959-01-01T00:00:00Z,Ghana,Africa
+http://www.wikidata.org/entity/Q100406790,Léonard Besabotsy,male,1993-06-06T00:00:00Z,Madagascar,Africa
+http://www.wikidata.org/entity/Q100406801,Boto Fagnorena,male,1985-01-14T00:00:00Z,Madagascar,Africa
+http://www.wikidata.org/entity/Q100406810,Valéry Rakotoarinosy,male,1986-04-09T00:00:00Z,Madagascar,Africa
+http://www.wikidata.org/entity/Q100406840,Tsito Razafindrasata,male,1996-10-02T00:00:00Z,Madagascar,Africa
+http://www.wikidata.org/entity/Q100406859,Tsiry Razafindrasata,male,1995-09-14T00:00:00Z,Madagascar,Africa
+http://www.wikidata.org/entity/Q100406881,Marcio Ravelomanantsoa,male,1996-10-15T00:00:00Z,Madagascar,Africa
+http://www.wikidata.org/entity/Q100409567,Augustin Rabeasimbola,male,1988-01-09T00:00:00Z,Madagascar,Africa
+http://www.wikidata.org/entity/Q100426848,Lansana Mansaray,male,1992-01-01T00:00:00Z,Sierra Leone,Africa
+http://www.wikidata.org/entity/Q100427135,Bafodé Dansoko,male,1985-12-28T00:00:00Z,Guinea,Africa
+http://www.wikidata.org/entity/Q100428969,Lawal Bilbis,male,1961-01-01T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q100436173,Mr Macaroni,male,1993-05-03T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q100436269,Joe van Zyl,male,1999-01-21T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q100448943,Sadri Skander,male,1982-04-10T00:00:00Z,Tunisia,Africa
+http://www.wikidata.org/entity/Q100452907,Pierralit Tovonay,male,1991-10-15T00:00:00Z,Madagascar,Africa
+http://www.wikidata.org/entity/Q100452918,Andry Lalaina Rakotozanany,male,1983-01-31T00:00:00Z,Madagascar,Africa
+http://www.wikidata.org/entity/Q100452930,Jean-Jacques Razanajafy,male,1988-03-30T00:00:00Z,Madagascar,Africa
+http://www.wikidata.org/entity/Q100452943,Edgard Nandrasana,male,1981-11-26T00:00:00Z,Madagascar,Africa
+http://www.wikidata.org/entity/Q100454014,Sidore Rafenoarinosy,male,1984-06-19T00:00:00Z,Madagascar,Africa
+http://www.wikidata.org/entity/Q100454035,Mario Miradji,male,1984-06-20T00:00:00Z,Madagascar,Africa
+http://www.wikidata.org/entity/Q100454050,Léonard Baraka,male,1985-02-24T00:00:00Z,Madagascar,Africa
+http://www.wikidata.org/entity/Q100454077,Hector Kandy Rambelomasina,male,1981-02-17T00:00:00Z,Madagascar,Africa
+http://www.wikidata.org/entity/Q100454090,Robin Rakotonirina,male,1985-05-28T00:00:00Z,Madagascar,Africa
+http://www.wikidata.org/entity/Q100455655,Martial Papy Mukeba,male,1983-05-23T00:00:00Z,Democratic Republic of the Congo,Africa
+http://www.wikidata.org/entity/Q100457980,Seif-Eddine Houmine,male,1989-06-24T00:00:00Z,Morocco,Africa
+http://www.wikidata.org/entity/Q100458853,Moro Mandjouf Sidibé,male,1951-01-01T00:00:00Z,Guinea,Africa
+http://www.wikidata.org/entity/Q100462695,Laye Souleymane Diallo,male,1983-01-01T00:00:00Z,Guinea,Africa
+http://www.wikidata.org/entity/Q100469635,Ousmane Doré,male,1957-01-01T00:00:00Z,Guinea,Africa
+http://www.wikidata.org/entity/Q1004709,Bulus Dauwa Yohanna,male,1970-12-15T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q100490194,Pa Salieu,male,1997-07-01T00:00:00Z,The Gambia,Africa
+http://www.wikidata.org/entity/Q100491431,Amos Kula Shembe,male,1907-01-01T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q100499032,Mahmoud al-Sayyed,male,1939-01-01T00:00:00Z,United Arab Republic,Africa
+http://www.wikidata.org/entity/Q100502763,Youcef Krache,male,1987-01-01T00:00:00Z,Algeria,Africa
+http://www.wikidata.org/entity/Q100524709,Felix Irorere,male,2002-06-21T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q100527389,Amine Aouichaoui,male,1982-07-18T00:00:00Z,Tunisia,Africa
+http://www.wikidata.org/entity/Q100527459,Yassine Sahli,male,1987-11-23T00:00:00Z,Tunisia,Africa
+http://www.wikidata.org/entity/Q100527482,Mohamed Khadheri,male,1987-07-11T00:00:00Z,Tunisia,Africa
+http://www.wikidata.org/entity/Q100528580,Jibril Abubakar,male,2000-01-06T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q100529235,Marouane Braiek,male,1985-08-14T00:00:00Z,Tunisia,Africa
+http://www.wikidata.org/entity/Q100529285,Hedi Boukhris,male,1986-07-12T00:00:00Z,Tunisia,Africa
+http://www.wikidata.org/entity/Q100529591,Khaled Benaissa,male,1978-09-26T00:00:00Z,Algeria,Africa
+http://www.wikidata.org/entity/Q100531460,Zachary Hadji,male,1996-10-08T00:00:00Z,Morocco,Africa
+http://www.wikidata.org/entity/Q100535477,Jamal al Qadiri al Boutchichi,male,1942-01-01T00:00:00Z,Morocco,Africa
+http://www.wikidata.org/entity/Q100545314,Pacôme Agboke,male,1991-04-19T00:00:00Z,Ivory Coast,Africa
+http://www.wikidata.org/entity/Q100552631,Abdelhakim Sefrioui,male,1959-04-21T00:00:00Z,Morocco,Africa
+http://www.wikidata.org/entity/Q100557449,Cliff Sekete,male,1992-09-07T00:00:00Z,Zimbabwe,Africa
+http://www.wikidata.org/entity/Q100563142,Rached Khiari,male,1983-04-03T00:00:00Z,Tunisia,Africa
+http://www.wikidata.org/entity/Q100565237,Eddy Munyaneza,male,1981-10-24T00:00:00Z,Burundi,Africa
+http://www.wikidata.org/entity/Q100574396,Andrew Flynn,male,2003-01-01T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q100574721,Luke James,male,2002-01-01T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q100574776,Noa Strike-Nakar,male,2003-01-01T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q100574879,Oscar Korbla Mawuli Awuku,male,1999-05-18T00:00:00Z,Ghana,Africa
+http://www.wikidata.org/entity/Q100575931,Tete António,male,1955-01-22T00:00:00Z,Angola,Africa
+http://www.wikidata.org/entity/Q100587700,Mohamed Tsouli,male,1940-01-01T00:00:00Z,Morocco,Africa
+http://www.wikidata.org/entity/Q100587731,Eric Appiah,male,2001-05-08T00:00:00Z,Ghana,Africa
+http://www.wikidata.org/entity/Q100587870,Nathan Fuakala,male,2001-03-13T00:00:00Z,Republic of the Congo,Africa
+http://www.wikidata.org/entity/Q100596843,Gildo Kassa,male,1995-04-06T00:00:00Z,Ethiopia,Africa
+http://www.wikidata.org/entity/Q100597983,Lawrence Oyor,male,1991-05-14T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q100599532,Faustin Ntezilyayo,male,1962-08-20T00:00:00Z,Rwanda,Africa
+http://www.wikidata.org/entity/Q100599555,Abdeslem Sefrioui,male,1943-10-19T00:00:00Z,Morocco,Africa
+http://www.wikidata.org/entity/Q100599919,Frederick Reuss,male,1960-11-01T00:00:00Z,Ethiopia,Africa
+http://www.wikidata.org/entity/Q100600718,Junior Karamoko,male,1994-06-12T00:00:00Z,Ivory Coast,Africa
+http://www.wikidata.org/entity/Q100605824,Joseph Akouissone,male,1943-01-01T00:00:00Z,Central African Republic,Africa
+http://www.wikidata.org/entity/Q100605826,Boubacari Doucouré,male,1999-03-19T00:00:00Z,Mali,Africa
+http://www.wikidata.org/entity/Q100606196,Benswwggs,male,1987-04-24T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q100621579,Wael Ben Romdhane,male,1992-12-12T00:00:00Z,Tunisia,Africa
+http://www.wikidata.org/entity/Q100621591,Younes Mazhoud,male,1991-11-29T00:00:00Z,Tunisia,Africa
+http://www.wikidata.org/entity/Q100621600,Zouhaier Attia,male,1989-06-28T00:00:00Z,Tunisia,Africa
+http://www.wikidata.org/entity/Q100626510,Fahmi Ben Romdhane,male,1990-12-12T00:00:00Z,Tunisia,Africa
+http://www.wikidata.org/entity/Q100630791,Abdullahi Dahir Rabi,male,2003-03-27T00:00:00Z,Somalia,Africa
+http://www.wikidata.org/entity/Q100695932,Habib Ben Farah,male,1967-04-18T00:00:00Z,Tunisia,Africa
+http://www.wikidata.org/entity/Q100701517,Jacques Moshe,male,1900-01-01T00:00:00Z,Ottoman Empire,Africa
+http://www.wikidata.org/entity/Q100707310,Sofiane Benfatah,male,1985-11-27T00:00:00Z,Algeria,Africa
+http://www.wikidata.org/entity/Q100707329,Makpoloka Mangonga,male,1968-01-01T00:00:00Z,Democratic Republic of the Congo,Africa
+http://www.wikidata.org/entity/Q100708412,Hassane Mezine,male,1972-01-01T00:00:00Z,Algeria,Africa
+http://www.wikidata.org/entity/Q100709741,Muḥammad al-Sayyid ʻĪd,male,1947-11-12T00:00:00Z,Egypt,Africa
+http://www.wikidata.org/entity/Q100714286,Sheikh Sibi,male,1998-02-21T00:00:00Z,The Gambia,Africa
+http://www.wikidata.org/entity/Q100715582,Nathan Mensah,male,1998-04-09T00:00:00Z,Ghana,Africa
+http://www.wikidata.org/entity/Q100715711,Kyriakos Papadopoulos,male,1931-08-23T00:00:00Z,Ottoman Empire,Africa
+http://www.wikidata.org/entity/Q100717768,Sun-El Musician,male,1989-03-28T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q100717966,Arnold Oceng,male,1985-11-30T00:00:00Z,Uganda,Africa
+http://www.wikidata.org/entity/Q100718050,Mohammed Abdulsalam,male,1997-09-07T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q100718436,Sunday Adebayo,male,1973-09-12T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q100718472,Mike Adewunmi,male,1999-01-18T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q100718543,Abdul Ado,male,1997-10-01T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q100718579,Akoy Agau,male,1994-11-28T00:00:00Z,South Sudan,Africa
+http://www.wikidata.org/entity/Q100718607,Obij Aget,male,1992-11-01T00:00:00Z,South Sudan,Africa
+http://www.wikidata.org/entity/Q100718673,Aly Ahmed,male,1992-03-15T00:00:00Z,Egypt,Africa
+http://www.wikidata.org/entity/Q100718674,Bashir Ahmed,male,1993-08-17T00:00:00Z,Ghana,Africa
+http://www.wikidata.org/entity/Q100718736,Olalekan Ajayi,male,1992-05-05T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q100718751,Dimitry Akanda-Coronel,male,1992-08-13T00:00:00Z,Cape Verde,Africa
+http://www.wikidata.org/entity/Q100718756,Madut Akec,male,1999-01-01T00:00:00Z,South Sudan,Africa
+http://www.wikidata.org/entity/Q100718808,Emmanuel Akot,male,1999-03-17T00:00:00Z,South Sudan,Africa
+http://www.wikidata.org/entity/Q100719182,Prince Ali,male,1996-08-11T00:00:00Z,Ghana,Africa
+http://www.wikidata.org/entity/Q100719351,Radhouane Ben Ouanes,male,1980-04-28T00:00:00Z,Tunisia,Africa
+http://www.wikidata.org/entity/Q100719957,Kelvin Amayo,male,1992-01-09T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q100720097,Al-Wajid Aminu,male,1998-09-01T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q100721112,Christian Anigwe,male,2000-09-11T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q100721126,E.J. Anosike,male,1998-11-11T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q100721200,Micheal Anumba,male,1999-09-06T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q100721591,Niki Arinze,male,1978-12-04T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q100722436,Hassan Attia,male,1994-01-01T00:00:00Z,Egypt,Africa
+http://www.wikidata.org/entity/Q100722654,Babatunde Adewale Ajayi,male,1962-12-05T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q100723074,Joel Awich,male,1993-04-22T00:00:00Z,Kenya,Africa
+http://www.wikidata.org/entity/Q100723249,Ousmane Ba,male,1992-11-11T00:00:00Z,Mali,Africa
+http://www.wikidata.org/entity/Q100723666,Mohamed Bah,male,1993-08-22T00:00:00Z,Mali,Africa
+http://www.wikidata.org/entity/Q100724875,Orphé Mbina,male,2000-11-02T00:00:00Z,Gabon,Africa
+http://www.wikidata.org/entity/Q100741597,Mohammad Adnan Al-Afyouni,male,1954-01-01T00:00:00Z,United Arab Republic,Africa
+http://www.wikidata.org/entity/Q100742561,Ayachi Afilal,male,1939-01-01T00:00:00Z,Morocco,Africa
+http://www.wikidata.org/entity/Q100743319,Bishop Blay,male,1980-01-01T00:00:00Z,Liberia,Africa
+http://www.wikidata.org/entity/Q100744011,Radwan Bakkali,male,1996-08-09T00:00:00Z,Morocco,Africa
+http://www.wikidata.org/entity/Q100744281,Morlaye Bangoura,male,1979-02-18T00:00:00Z,Ivory Coast,Africa
+http://www.wikidata.org/entity/Q100744460,Koch Bar,male,1996-09-15T00:00:00Z,South Sudan,Africa
+http://www.wikidata.org/entity/Q100745443,Oumar Barry,male,1996-09-02T00:00:00Z,Guinea,Africa
+http://www.wikidata.org/entity/Q100745938,Paris Bass,male,1995-08-29T00:00:00Z,Libya,Africa
+http://www.wikidata.org/entity/Q100746610,Mohamed Magdy Farid,male,1982-08-18T00:00:00Z,Egypt,Africa
+http://www.wikidata.org/entity/Q100747472,Chesney Crosby,male,1992-03-02T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q100747810,Idé Gnandou,male,1957-08-22T00:00:00Z,Niger,Africa
+http://www.wikidata.org/entity/Q100747945,Jaden Bediako,male,2000-09-24T00:00:00Z,Ghana,Africa
+http://www.wikidata.org/entity/Q100748833,Deuce Bello,male,1992-09-19T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q100749035,Hicham Benayad-Cherif,male,1990-02-24T00:00:00Z,Algeria,Africa
+http://www.wikidata.org/entity/Q100751464,Chudier Bile,male,1998-07-07T00:00:00Z,South Sudan,Africa
+http://www.wikidata.org/entity/Q100752813,Christopher Pappas,male,1991-08-26T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q100754521,Baboucarr Bojang,male,1980-12-19T00:00:00Z,The Gambia,Africa
+http://www.wikidata.org/entity/Q100756572,Souley Boum,male,1999-01-26T00:00:00Z,Guinea,Africa
+http://www.wikidata.org/entity/Q100757199,Ari Boya,male,1999-04-29T00:00:00Z,Cameroon,Africa
+http://www.wikidata.org/entity/Q100758876,Darrius Brannon,male,1983-03-09T00:00:00Z,Rwanda,Africa
+http://www.wikidata.org/entity/Q100760336,Denzel Brito,male,1991-08-09T00:00:00Z,Cape Verde,Africa
+http://www.wikidata.org/entity/Q100760488,Jean Francois Bro Grebe,male,1983-02-27T00:00:00Z,Ivory Coast,Africa
+http://www.wikidata.org/entity/Q100765039,Preston Bungei,male,1995-02-23T00:00:00Z,Kenya,Africa
+http://www.wikidata.org/entity/Q100767162,Mohamed Camara,male,1983-06-01T00:00:00Z,Guinea,Africa
+http://www.wikidata.org/entity/Q100767163,Moussa Camara,male,1987-04-21T00:00:00Z,Senegal,Africa
+http://www.wikidata.org/entity/Q100767164,Seco Camara,male,1995-04-20T00:00:00Z,Guinea-Bissau,Africa
+http://www.wikidata.org/entity/Q100769484,Tamenang Choh,male,1998-07-17T00:00:00Z,Cameroon,Africa
+http://www.wikidata.org/entity/Q100770730,Dele Coker,male,1988-03-18T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q100772945,Abdoul Karim Coulibaly,male,2000-12-23T00:00:00Z,Mali,Africa
+http://www.wikidata.org/entity/Q100775050,Kouamé,male,1997-01-01T00:00:00Z,Ivory Coast,Africa
+http://www.wikidata.org/entity/Q100777382,Stephen Dely,male,1977-12-09T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q100777528,Sekou Dembele,male,1998-09-27T00:00:00Z,Mali,Africa
+http://www.wikidata.org/entity/Q100777948,Varnie Dennis,male,1982-01-21T00:00:00Z,Liberia,Africa
+http://www.wikidata.org/entity/Q100779015,Tahirou Diabate,male,1998-11-24T00:00:00Z,Mali,Africa
+http://www.wikidata.org/entity/Q100779030,Cheick Diakite,male,1985-08-26T00:00:00Z,Mali,Africa
+http://www.wikidata.org/entity/Q100779034,Mahamoud Diakite,male,1986-01-23T00:00:00Z,Mali,Africa
+http://www.wikidata.org/entity/Q100779140,Cheikh Diallo,male,1996-03-15T00:00:00Z,Senegal,Africa
+http://www.wikidata.org/entity/Q100779144,Ibrahima Diallo,male,1999-12-10T00:00:00Z,Senegal,Africa
+http://www.wikidata.org/entity/Q100779156,Abdou Diame,male,1981-07-10T00:00:00Z,Senegal,Africa
+http://www.wikidata.org/entity/Q100779170,Mamoudou Diarra,male,1997-10-04T00:00:00Z,Mali,Africa
+http://www.wikidata.org/entity/Q100779171,Modibo Diarra,male,1980-09-16T00:00:00Z,Mali,Africa
+http://www.wikidata.org/entity/Q100779180,Pape Diatta,male,1994-07-27T00:00:00Z,Senegal,Africa
+http://www.wikidata.org/entity/Q100779184,Mahamadou Diawara,male,1999-09-11T00:00:00Z,Mali,Africa
+http://www.wikidata.org/entity/Q100779709,Mamadou Diene,male,1987-05-23T00:00:00Z,Senegal,Africa
+http://www.wikidata.org/entity/Q100779714,Bassirou Dieng,male,1985-06-16T00:00:00Z,Senegal,Africa
+http://www.wikidata.org/entity/Q100780309,Samuel Dingba,male,1994-10-30T00:00:00Z,Cameroon,Africa
+http://www.wikidata.org/entity/Q100781089,Rodrigue Djahue,male,1980-06-09T00:00:00Z,Ivory Coast,Africa
+http://www.wikidata.org/entity/Q100781091,Ibrahim Djambo,male,1992-07-14T00:00:00Z,Mali,Africa
+http://www.wikidata.org/entity/Q100781212,Gatete Djuma,male,1992-12-11T00:00:00Z,Rwanda,Africa
+http://www.wikidata.org/entity/Q100782148,Mibindo Dongo,male,1977-10-22T00:00:00Z,Democratic Republic of the Congo,Africa
+http://www.wikidata.org/entity/Q100782672,Mahamat Saleh Daoussa Haggar,male,1978-11-07T00:00:00Z,Chad,Africa
+http://www.wikidata.org/entity/Q100783060,Ibrahim Famouke Doumbia,male,1998-09-29T00:00:00Z,Mali,Africa
+http://www.wikidata.org/entity/Q100783346,Fousseyni Drame,male,2000-08-18T00:00:00Z,Mali,Africa
+http://www.wikidata.org/entity/Q100783347,Hassan Drame,male,2000-08-18T00:00:00Z,Mali,Africa
+http://www.wikidata.org/entity/Q100784458,Derek Durham,male,1974-06-13T00:00:00Z,Burkina Faso,Africa
+http://www.wikidata.org/entity/Q100784506,Anthony Duruji,male,1998-07-22T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q100784686,Abdellatif Hilal,male,1940-01-01T00:00:00Z,Morocco,Africa
+http://www.wikidata.org/entity/Q100784913,Ben Ebong,male,1976-01-20T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q100785129,Samuel Chidi,male,1990-09-26T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q100785388,Ayodeji Egbeyemi,male,1990-07-16T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q100785611,Devine Eke,male,1996-07-29T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q100786741,Mohamed Esseghir,male,1985-01-11T00:00:00Z,Algeria,Africa
+http://www.wikidata.org/entity/Q100786749,Cedric Essola,male,1987-01-15T00:00:00Z,Cameroon,Africa
+http://www.wikidata.org/entity/Q100787191,Tobi Ewuosho,male,1997-08-08T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q100787231,Francis Ezenwa,male,1968-05-29T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q100787445,Amadou Mbow,male,1993-05-15T00:00:00Z,Senegal,Africa
+http://www.wikidata.org/entity/Q100788287,Adonis Filer,male,1993-07-11T00:00:00Z,Rwanda,Africa
+http://www.wikidata.org/entity/Q100789482,Grant Fiorentinos,male,1992-08-06T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q100791609,Hassan Fofana,male,1983-04-19T00:00:00Z,Guinea,Africa
+http://www.wikidata.org/entity/Q100791610,Mike Fofana,male,1997-10-05T00:00:00Z,Ivory Coast,Africa
+http://www.wikidata.org/entity/Q100792360,Kevin Franceschi,male,1993-10-05T00:00:00Z,Morocco,Africa
+http://www.wikidata.org/entity/Q100792363,Andrew Francis,male,1985-01-10T00:00:00Z,Rwanda,Africa
+http://www.wikidata.org/entity/Q100793319,Alhaji Fullah,male,1989-06-07T00:00:00Z,Sierra Leone,Africa
+http://www.wikidata.org/entity/Q100793561,Gob Gabriel,male,1999-10-27T00:00:00Z,South Sudan,Africa
+http://www.wikidata.org/entity/Q100793585,Both Gach,male,1999-02-04T00:00:00Z,South Sudan,Africa
+http://www.wikidata.org/entity/Q100793966,Evans Ganapamo,male,1994-08-19T00:00:00Z,Central African Republic,Africa
+http://www.wikidata.org/entity/Q100795061,Moustaid Mustapha,male,1945-01-01T00:00:00Z,Morocco,Africa
+http://www.wikidata.org/entity/Q100795838,Miloud Habachi,male,1960-01-01T00:00:00Z,Morocco,Africa
+http://www.wikidata.org/entity/Q100796190,Ronnie Gombe,male,1992-07-21T00:00:00Z,Kenya,Africa
+http://www.wikidata.org/entity/Q100796221,Daniel Gomis,male,1991-09-13T00:00:00Z,Senegal,Africa
+http://www.wikidata.org/entity/Q100796223,Lionel Gomis,male,1992-01-08T00:00:00Z,Senegal,Africa
+http://www.wikidata.org/entity/Q100798140,Iliya Gadzhev,male,1902-02-02T00:00:00Z,Ottoman Empire,Africa
+http://www.wikidata.org/entity/Q1007982,Gamal Al-Ghandour,male,1957-06-12T00:00:00Z,Egypt,Africa
+http://www.wikidata.org/entity/Q100798323,Dou Gueye,male,1997-07-12T00:00:00Z,Senegal,Africa
+http://www.wikidata.org/entity/Q100798328,Moussa Gueye,male,1988-12-14T00:00:00Z,Senegal,Africa
+http://www.wikidata.org/entity/Q100798339,Cornelio Guibunda,male,1984-09-12T00:00:00Z,Mozambique,Africa
+http://www.wikidata.org/entity/Q100800140,Abdoulaye Harouna,male,1992-12-12T00:00:00Z,Niger,Africa
+http://www.wikidata.org/entity/Q1008011,Kheli Dube,male,1983-08-06T00:00:00Z,Zimbabwe,Africa
+http://www.wikidata.org/entity/Q100805507,Abu Muhsin al-Masri,male,1958-01-01T00:00:00Z,Egypt,Africa
+http://www.wikidata.org/entity/Q100807882,Jacob Radebe,male,1948-04-06T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q100808875,Rey Idowu,male,1999-05-23T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q100826172,Sam Japhet-Mathias,male,1998-03-24T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q100868528,Daye Kaba,male,1986-04-30T00:00:00Z,Guinea,Africa
+http://www.wikidata.org/entity/Q100868543,Francis Kabore,male,1978-07-09T00:00:00Z,Burkina Faso,Africa
+http://www.wikidata.org/entity/Q100868576,Japhet Kadji,male,1995-02-09T00:00:00Z,Cameroon,Africa
+http://www.wikidata.org/entity/Q100868674,Diaby Kamara,male,1978-02-18T00:00:00Z,Mauritius,Africa
+http://www.wikidata.org/entity/Q100868780,Youssoupha Kane,male,1994-10-10T00:00:00Z,Senegal,Africa
+http://www.wikidata.org/entity/Q100868849,Nelson Kaputo,male,1997-04-24T00:00:00Z,Cameroon,Africa
+http://www.wikidata.org/entity/Q100868899,Dan Nlundulu,male,1999-02-05T00:00:00Z,Democratic Republic of the Congo,Africa
+http://www.wikidata.org/entity/Q100868965,Jonathan Kasibabu,male,1996-04-24T00:00:00Z,Democratic Republic of the Congo,Africa
+http://www.wikidata.org/entity/Q100869012,Joseph Katuka,male,1988-05-11T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q100869366,Baye Moussa Keita,male,1990-09-07T00:00:00Z,Senegal,Africa
+http://www.wikidata.org/entity/Q100869985,Lebogang More,male,1980-04-23T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q100870286,Mayan Kiir,male,1998-01-01T00:00:00Z,South Sudan,Africa
+http://www.wikidata.org/entity/Q100871230,Hosana Kitenge,male,2000-12-17T00:00:00Z,Democratic Republic of the Congo,Africa
+http://www.wikidata.org/entity/Q100872095,Mohamed Koita,male,1990-01-08T00:00:00Z,Mauritius,Africa
+http://www.wikidata.org/entity/Q100872227,Mohamed Konate,male,1996-05-12T00:00:00Z,Mali,Africa
+http://www.wikidata.org/entity/Q100872237,Malick Kone,male,1991-12-12T00:00:00Z,Guinea,Africa
+http://www.wikidata.org/entity/Q100872549,Ulrich Kossekpa,male,1982-11-26T00:00:00Z,Central African Republic,Africa
+http://www.wikidata.org/entity/Q100872707,Majak Kou,male,1984-05-04T00:00:00Z,Sudan,Africa
+http://www.wikidata.org/entity/Q100872708,Willy Kouassi,male,1991-12-29T00:00:00Z,Ivory Coast,Africa
+http://www.wikidata.org/entity/Q100873185,Kuany Kuany,male,2000-03-27T00:00:00Z,South Sudan,Africa
+http://www.wikidata.org/entity/Q100873186,Kur Kuath,male,1998-08-12T00:00:00Z,South Sudan,Africa
+http://www.wikidata.org/entity/Q100873340,Bul Kuol,male,1997-01-10T00:00:00Z,South Sudan,Africa
+http://www.wikidata.org/entity/Q100873628,Mogga Lado,male,1995-11-23T00:00:00Z,Sudan,Africa
+http://www.wikidata.org/entity/Q100874591,Taoufik Lakhoua,male,1950-01-01T00:00:00Z,French protectorate of Tunisia,Africa
+http://www.wikidata.org/entity/Q100875304,Chris Ledlum,male,2001-02-19T00:00:00Z,Ghana,Africa
+http://www.wikidata.org/entity/Q100875961,Omos,male,1992-05-16T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q100876962,Omar Lo,male,1997-07-01T00:00:00Z,Senegal,Africa
+http://www.wikidata.org/entity/Q100877245,Junior Lomomba,male,1993-01-14T00:00:00Z,Democratic Republic of the Congo,Africa
+http://www.wikidata.org/entity/Q100877473,Mohamed El Habachi,male,1939-01-01T00:00:00Z,Morocco,Africa
+http://www.wikidata.org/entity/Q1008780,Gebreyesus Tesfaye,male,1935-01-01T00:00:00Z,Ethiopia,Africa
+http://www.wikidata.org/entity/Q100878049,Goodwin Tutum Anim,male,1929-05-29T00:00:00Z,Ghana,Africa
+http://www.wikidata.org/entity/Q100879028,Chier Maker,male,1995-12-05T00:00:00Z,South Sudan,Africa
+http://www.wikidata.org/entity/Q100879205,Makuach Maluach,male,1998-05-04T00:00:00Z,South Sudan,Africa
+http://www.wikidata.org/entity/Q100879233,Larbi Naji,male,1990-12-14T00:00:00Z,Morocco,Africa
+http://www.wikidata.org/entity/Q100879577,Fodé Doucouré,male,2001-02-03T00:00:00Z,Mali,Africa
+http://www.wikidata.org/entity/Q100880513,Ismael Massoud,male,2000-05-06T00:00:00Z,Egypt,Africa
+http://www.wikidata.org/entity/Q100880990,Lat Mayen,male,1998-08-16T00:00:00Z,South Sudan,Africa
+http://www.wikidata.org/entity/Q100881010,Jordin Mayes,male,1991-11-30T00:00:00Z,Uganda,Africa
+http://www.wikidata.org/entity/Q100881073,Duol Mayot,male,1993-01-01T00:00:00Z,Sudan,Africa
+http://www.wikidata.org/entity/Q100881172,Moussa Mbaye,male,1984-10-18T00:00:00Z,Senegal,Africa
+http://www.wikidata.org/entity/Q100881178,Lamine Mbodj,male,1997-09-11T00:00:00Z,Senegal,Africa
+http://www.wikidata.org/entity/Q100883828,Tosin Mehinti,male,1994-05-30T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q100883996,Boris Meno,male,1983-11-23T00:00:00Z,Democratic Republic of the Congo,Africa
+http://www.wikidata.org/entity/Q100884172,Wassef Methnani,male,1998-08-07T00:00:00Z,Tunisia,Africa
+http://www.wikidata.org/entity/Q100884652,Dane Miller Jr.,male,1990-05-10T00:00:00Z,Uganda,Africa
+http://www.wikidata.org/entity/Q100888776,Axel Mpoyo,male,1997-01-05T00:00:00Z,Rwanda,Africa
+http://www.wikidata.org/entity/Q100889590,Haboubacar Mutombo,male,1994-01-24T00:00:00Z,Democratic Republic of the Congo,Africa
+http://www.wikidata.org/entity/Q100889610,Ron Mvouika,male,1991-11-03T00:00:00Z,Democratic Republic of the Congo,Africa
+http://www.wikidata.org/entity/Q100889613,Patrick Mwamba,male,1999-10-11T00:00:00Z,Democratic Republic of the Congo,Africa
+http://www.wikidata.org/entity/Q100889733,Abdoulaye N'Diaye,male,1984-10-05T00:00:00Z,Senegal,Africa
+http://www.wikidata.org/entity/Q100889734,Adama N'Diaye,male,1978-06-17T00:00:00Z,Senegal,Africa
+http://www.wikidata.org/entity/Q100889735,Alpha N'Diaye,male,1988-11-06T00:00:00Z,Mali,Africa
+http://www.wikidata.org/entity/Q100889736,Aziz N'Diaye,male,1988-05-16T00:00:00Z,Senegal,Africa
+http://www.wikidata.org/entity/Q100889745,Sidy N'Dir,male,1995-06-23T00:00:00Z,Senegal,Africa
+http://www.wikidata.org/entity/Q100890076,Kevin Ndahiro,male,1995-03-28T00:00:00Z,Rwanda,Africa
+http://www.wikidata.org/entity/Q100890078,Papa Ndao,male,1992-11-15T00:00:00Z,Senegal,Africa
+http://www.wikidata.org/entity/Q100890093,Fallou Ndoye,male,1994-02-06T00:00:00Z,Senegal,Africa
+http://www.wikidata.org/entity/Q100890095,Ikenna Ndugba,male,1998-06-11T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q100890307,Emmanuel Negedu,male,1988-10-23T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q100890562,Brice Nengsu,male,1983-01-25T00:00:00Z,Cameroon,Africa
+http://www.wikidata.org/entity/Q100890923,Filmon Mebrahtu,male,1968-01-01T00:00:00Z,Eritrea,Africa
+http://www.wikidata.org/entity/Q100891166,Papa Madièye Mbaye,male,1958-01-01T00:00:00Z,Senegal,Africa
+http://www.wikidata.org/entity/Q100891344,Obiora Nnaji,male,1978-10-21T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q100891572,Teddy Mattera,male,1963-01-01T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q100892151,Ayoub Nouhi,male,1999-01-07T00:00:00Z,Morocco,Africa
+http://www.wikidata.org/entity/Q100892215,Joel Ntambwe,male,1998-10-17T00:00:00Z,Democratic Republic of the Congo,Africa
+http://www.wikidata.org/entity/Q100892228,Michael Nuga,male,1997-12-27T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q100892315,Osita Nwachukwu,male,1974-01-27T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q100892340,Lotanna Nwogbo,male,1993-05-30T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q100892394,Josh Nzeakor,male,1997-06-13T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q100892395,Michel-Ofik Nzege,male,1992-10-14T00:00:00Z,Democratic Republic of the Congo,Africa
+http://www.wikidata.org/entity/Q100893003,Ejike Obinna,male,1999-12-14T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q100893044,Albert Odero,male,1997-06-21T00:00:00Z,Kenya,Africa
+http://www.wikidata.org/entity/Q100893322,Barry Ogalue,male,1994-06-08T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q100893325,Derek Ogbeide,male,1997-03-28T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q100893347,Ajiri Ogemuno-Johnson,male,1999-08-08T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q100893401,Michael Oguine,male,1996-12-23T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q100893411,Fred Oguns,male,1982-08-27T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q100893421,Chuba Ohams,male,1997-12-22T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q100893646,Francis Okoro,male,1999-11-09T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q100893765,Augustine Okosun,male,1986-07-04T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q100894009,Francois Oloa,male,1976-08-11T00:00:00Z,Cameroon,Africa
+http://www.wikidata.org/entity/Q100894013,Giovanni Olomo,male,1983-10-22T00:00:00Z,Cameroon,Africa
+http://www.wikidata.org/entity/Q100894129,Eugene Omoruyi,male,1997-02-14T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q100894140,Nick Ongenda,male,2000-09-29T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q100894191,Hermann Opoku,male,1986-03-07T00:00:00Z,Ghana,Africa
+http://www.wikidata.org/entity/Q100894200,Omar Oraby,male,1991-09-08T00:00:00Z,Egypt,Africa
+http://www.wikidata.org/entity/Q100898399,Junior Pehoua,male,1983-11-08T00:00:00Z,Central African Republic,Africa
+http://www.wikidata.org/entity/Q100898400,Lionel Pehoua,male,1982-09-04T00:00:00Z,Central African Republic,Africa
+http://www.wikidata.org/entity/Q100899604,Chris Ondong Mba,male,1993-08-07T00:00:00Z,Gabon,Africa
+http://www.wikidata.org/entity/Q100900774,Saul Phiri,male,1997-03-23T00:00:00Z,Zimbabwe,Africa
+http://www.wikidata.org/entity/Q100906650,Omar Namsaoui,male,1990-06-04T00:00:00Z,Morocco,Africa
+http://www.wikidata.org/entity/Q100912558,Deng Riak,male,1995-06-01T00:00:00Z,South Sudan,Africa
+http://www.wikidata.org/entity/Q100917556,Mahmoud Abdul Awwel,male,1984-01-10T00:00:00Z,Cameroon,Africa
+http://www.wikidata.org/entity/Q100918772,Brian Rudolph,male,1988-09-17T00:00:00Z,Cape Verde,Africa
+http://www.wikidata.org/entity/Q100919082,Adonis Rwabigwi,male,1995-06-09T00:00:00Z,Rwanda,Africa
+http://www.wikidata.org/entity/Q100919083,Eric Rwahwire,male,1996-02-21T00:00:00Z,Uganda,Africa
+http://www.wikidata.org/entity/Q100919241,Daniel Sackey,male,1999-04-09T00:00:00Z,Ghana,Africa
+http://www.wikidata.org/entity/Q100919546,Gabriel Charpentier,male,1999-05-17T00:00:00Z,Republic of the Congo,Africa
+http://www.wikidata.org/entity/Q100919778,Ibrahima Sankare,male,1996-06-01T00:00:00Z,Senegal,Africa
+http://www.wikidata.org/entity/Q100919855,Marcus Santos-Silva,male,1997-06-07T00:00:00Z,Cape Verde,Africa
+http://www.wikidata.org/entity/Q100920535,Abioun Babatunde,male,1994-10-03T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q100921354,Elhadji Seck,male,1990-06-14T00:00:00Z,Senegal,Africa
+http://www.wikidata.org/entity/Q100921355,Mamadou Seck,male,1987-06-19T00:00:00Z,Senegal,Africa
+http://www.wikidata.org/entity/Q100921447,Adam Seiko,male,1998-02-27T00:00:00Z,Uganda,Africa
+http://www.wikidata.org/entity/Q100922723,Bourama Sidibe,male,1997-11-01T00:00:00Z,Mali,Africa
+http://www.wikidata.org/entity/Q100925348,Amadou Sow,male,1998-11-18T00:00:00Z,Mali,Africa
+http://www.wikidata.org/entity/Q100925559,Brandon Spann,male,1981-03-10T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q100925714,Carlos Paulo,male,1951-06-11T00:00:00Z,Angola,Africa
+http://www.wikidata.org/entity/Q100930376,Khadim Sy,male,1997-04-10T00:00:00Z,Senegal,Africa
+http://www.wikidata.org/entity/Q100930441,Oumar Sylla,male,1984-11-11T00:00:00Z,Mali,Africa
+http://www.wikidata.org/entity/Q100930881,Sama Taku,male,1993-03-18T00:00:00Z,Cameroon,Africa
+http://www.wikidata.org/entity/Q100931023,Racine Talla,male,1994-05-05T00:00:00Z,Senegal,Africa
+http://www.wikidata.org/entity/Q100931234,Patrick Tapé,male,1998-06-08T00:00:00Z,Ivory Coast,Africa
+http://www.wikidata.org/entity/Q100931260,Kader Tapsoba,male,1987-09-12T00:00:00Z,Burkina Faso,Africa
+http://www.wikidata.org/entity/Q100931993,Will Tavares,male,1995-07-18T00:00:00Z,Cape Verde,Africa
+http://www.wikidata.org/entity/Q100933715,Daniel Danis,male,1986-01-01T00:00:00Z,South Sudan,Africa
+http://www.wikidata.org/entity/Q100934045,Jonathan Tchamwa Tchatchoua,male,1999-04-21T00:00:00Z,Cameroon,Africa
+http://www.wikidata.org/entity/Q100934343,Aylton Tesch,male,1975-03-05T00:00:00Z,São Tomé and Príncipe,Africa
+http://www.wikidata.org/entity/Q100934400,Flo Thamba,male,1999-02-25T00:00:00Z,Democratic Republic of the Congo,Africa
+http://www.wikidata.org/entity/Q100935654,Mohammed Tijjani,male,1974-02-03T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q100936068,John Tonje,male,2001-04-23T00:00:00Z,Cameroon,Africa
+http://www.wikidata.org/entity/Q100936248,Joseph Touomou,male,1977-01-04T00:00:00Z,Cameroon,Africa
+http://www.wikidata.org/entity/Q100936405,Dalen Traore,male,1995-12-12T00:00:00Z,Ivory Coast,Africa
+http://www.wikidata.org/entity/Q100936852,Aboubakar Karamoko,male,1999-10-15T00:00:00Z,Ivory Coast,Africa
+http://www.wikidata.org/entity/Q100936941,Orlando Sérgio,male,1960-01-01T00:00:00Z,Angola,Africa
+http://www.wikidata.org/entity/Q100937028,Duke Tshomba,male,1978-04-28T00:00:00Z,Zaire,Africa
+http://www.wikidata.org/entity/Q100938493,Munis Tutu,male,1996-07-01T00:00:00Z,Sudan,Africa
+http://www.wikidata.org/entity/Q100938934,Ugo Udezue,male,1978-12-01T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q100939033,Stephen Ugochukwu,male,1996-03-22T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q100939038,Aher Uguak,male,1998-05-24T00:00:00Z,South Sudan,Africa
+http://www.wikidata.org/entity/Q100939040,Henry Uhegwu,male,1982-11-23T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q100939862,Daniel Utomi,male,1997-03-07T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q100943147,Qudus Wahab,male,2000-01-30T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q1009476,George Lamptey,male,1929-01-01T00:00:00Z,Ghana,Africa
+http://www.wikidata.org/entity/Q100949205,Kamal Sofo,male,1988-01-17T00:00:00Z,Ghana,Africa
+http://www.wikidata.org/entity/Q100949241,Abdallah Stouky,male,1946-01-01T00:00:00Z,Morocco,Africa
+http://www.wikidata.org/entity/Q100950917,Kurt-Curry Wegscheider,male,2001-05-30T00:00:00Z,Central African Republic,Africa
+http://www.wikidata.org/entity/Q100953552,Dylan Whitbread,male,1994-10-27T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q100957862,Lucky Williams,male,1981-07-08T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q100959134,Abdelkebir Cheddati,male,1948-01-01T00:00:00Z,Morocco,Africa
+http://www.wikidata.org/entity/Q100961176,Tomas Woldetensae,male,1998-04-30T00:00:00Z,Eritrea,Africa
+http://www.wikidata.org/entity/Q100962471,Eyassu Worku,male,1998-10-18T00:00:00Z,Ethiopia,Africa
+http://www.wikidata.org/entity/Q100963294,Anas Serrhat,male,1996-11-01T00:00:00Z,Morocco,Africa
+http://www.wikidata.org/entity/Q100964241,Nisré Zouzoua,male,1996-07-16T00:00:00Z,Ivory Coast,Africa
+http://www.wikidata.org/entity/Q100964256,Arthur Zulu,male,1984-02-10T00:00:00Z,Zambia,Africa
+http://www.wikidata.org/entity/Q100964336,Mohamed Ezzedine Sellam,male,1926-03-15T00:00:00Z,French protectorate of Tunisia,Africa
+http://www.wikidata.org/entity/Q100965463,Sammy Gyamfi,male,1989-03-28T00:00:00Z,Ghana,Africa
+http://www.wikidata.org/entity/Q100975206,Mervyn Cirota,male,1953-03-24T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q100975590,Brahim Haggiag,male,1966-01-01T00:00:00Z,Algeria,Africa
+http://www.wikidata.org/entity/Q100977386,Thameur Mejri,male,1982-01-01T00:00:00Z,Tunisia,Africa
+http://www.wikidata.org/entity/Q100977805,William Mathafeng Matsheke,male,1981-01-01T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q100979649,Joe Mpisi,male,1966-11-12T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q100980127,Parfait Mendy,male,1981-04-18T00:00:00Z,Senegal,Africa
+http://www.wikidata.org/entity/Q100980938,Kouadio Konan Bertin,male,1968-12-26T00:00:00Z,Ivory Coast,Africa
+http://www.wikidata.org/entity/Q100981214,Ousmane Cisse,male,1986-11-17T00:00:00Z,Ivory Coast,Africa
+http://www.wikidata.org/entity/Q100984246,David Apasera,male,1962-04-25T00:00:00Z,Ghana,Africa
+http://www.wikidata.org/entity/Q100984327,Evidence Makgopa,male,2000-06-05T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q100984742,Charles Minlend Jr.,male,1997-12-19T00:00:00Z,Cameroon,Africa
+http://www.wikidata.org/entity/Q100984919,Mouhamadou Abdoulaye Ndoye,male,1989-11-21T00:00:00Z,Senegal,Africa
+http://www.wikidata.org/entity/Q100985282,Lassina Togola,male,1979-01-01T00:00:00Z,Mali,Africa
+http://www.wikidata.org/entity/Q100989319,Olamide Samuel,male,1992-09-04T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q100992239,Lemma Guya,male,1928-02-13T00:00:00Z,Ethiopia,Africa
+http://www.wikidata.org/entity/Q100992396,Ahmed Belhassan,male,1956-01-01T00:00:00Z,Morocco,Africa
+http://www.wikidata.org/entity/Q100995846,Abdul Ilah Nabhan,male,1945-01-01T00:00:00Z,United Arab Republic,Africa
+http://www.wikidata.org/entity/Q100997715,Brahim Issaoui,male,1999-03-29T00:00:00Z,Tunisia,Africa
+http://www.wikidata.org/entity/Q100997938,Jean Marie Vianney Niyomukiza,male,1998-01-02T00:00:00Z,Burundi,Africa
+http://www.wikidata.org/entity/Q100998683,Hassen Akacha,male,1914-09-03T00:00:00Z,French protectorate of Tunisia,Africa
+http://www.wikidata.org/entity/Q100999415,Abdallah Sima,male,2001-06-17T00:00:00Z,Senegal,Africa
+http://www.wikidata.org/entity/Q101002011,Ayman El Refaie,male,1988-04-18T00:00:00Z,Egypt,Africa
+http://www.wikidata.org/entity/Q101003111,Mehdi Saâda,male,1987-06-24T00:00:00Z,Tunisia,Africa
+http://www.wikidata.org/entity/Q101003167,Okey Uzoeshi,male,1983-01-01T00:00:00Z,Nigeria,Africa
+http://www.wikidata.org/entity/Q101007296,Justin Valentin,male,1971-04-14T00:00:00Z,Seychelles,Africa
+http://www.wikidata.org/entity/Q101011984,Hailemaryam Kiros,male,1997-02-05T00:00:00Z,Ethiopia,Africa
+http://www.wikidata.org/entity/Q101012122,Leul Gebresilase,male,1992-09-20T00:00:00Z,Ethiopia,Africa
+http://www.wikidata.org/entity/Q101012820,Musbah Eter,male,1957-01-01T00:00:00Z,Libya,Africa
+http://www.wikidata.org/entity/Q101013513,Sameh Alaa,male,1987-01-01T00:00:00Z,Egypt,Africa
+http://www.wikidata.org/entity/Q101014400,Ngosa Sunzu,male,1998-07-19T00:00:00Z,Zambia,Africa
+http://www.wikidata.org/entity/Q101018214,Philip Oslev,male,1997-11-27T00:00:00Z,Burundi,Africa
+http://www.wikidata.org/entity/Q101019052,Danilo Rosafio,male,2001-08-16T00:00:00Z,Kenya,Africa
+http://www.wikidata.org/entity/Q101024851,Anas Bach,male,1998-02-10T00:00:00Z,Morocco,Africa
+http://www.wikidata.org/entity/Q101051140,Omar Makram,male,1985-09-23T00:00:00Z,Egypt,Africa
+http://www.wikidata.org/entity/Q101064113,Louis Minnaar,male,1984-02-23T00:00:00Z,South Africa,Africa
+http://www.wikidata.org/entity/Q101064617,Mohamed Amine Ben Hmida,male,1995-12-15T00:00:00Z,Tunisia,Africa
+http://www.wikidata.org/entity/Q101067838,Muhammad Issa Dawood,male,1957-01-01T00:00:00Z,United Arab Republic,Africa

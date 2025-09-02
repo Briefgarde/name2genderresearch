@@ -1,0 +1,501 @@
+person,person_label,genders,dobs,countries,continents
+http://www.wikidata.org/entity/Q1000975,Susana Kasakoff,female,2000-01-01T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q100136990,Andrea Noemí González,female,1977-01-01T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q100138227,Lindy García,female,1989-05-30T00:00:00Z,Bolivia,South America
+http://www.wikidata.org/entity/Q100138710,Silvana Segura,female,1990-11-06T00:00:00Z,Peru,South America
+http://www.wikidata.org/entity/Q100144391,Nathalia Batista,female,1984-08-08T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100146225,Sylvia de Leon Chalreo,female,1905-04-11T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100146297,Vânia de Marchi,female,1956-09-10T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100146617,Esther Morales,female,1949-11-13T00:00:00Z,Bolivia,South America
+http://www.wikidata.org/entity/Q100152286,Marina Calabró,female,1973-12-13T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q100177343,Guillermina Grant,female,2002-06-02T00:00:00Z,Uruguay,South America
+http://www.wikidata.org/entity/Q100230441,Etna Velarde,female,1940-08-12T00:00:00Z,Peru,South America
+http://www.wikidata.org/entity/Q100250092,Diva Goulart,female,1932-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100250642,Mariana Armentano,female,1986-03-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100251337,Gloria Gómez,female,1958-08-21T00:00:00Z,Colombia,South America
+http://www.wikidata.org/entity/Q100251377,Adriana Astorquiza,female,1957-06-03T00:00:00Z,Colombia,South America
+http://www.wikidata.org/entity/Q100251466,Ângela Águida Portella,female,1969-02-12T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100256152,Gala Garrido,female,1987-01-04T00:00:00Z,Venezuela,South America
+http://www.wikidata.org/entity/Q100256368,Jessica Cattaneo,female,1996-12-08T00:00:00Z,Peru,South America
+http://www.wikidata.org/entity/Q100256905,Ines Marin,female,2001-04-19T00:00:00Z,Chile,South America
+http://www.wikidata.org/entity/Q100270882,Gisele Barreto Fetterman,female,1982-02-27T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100272310,Giuliana Dudok,female,2000-08-20T00:00:00Z,Uruguay,South America
+http://www.wikidata.org/entity/Q100272311,Nimia Murua,female,1997-12-04T00:00:00Z,Panama,South America
+http://www.wikidata.org/entity/Q100273732,Trinidad Ardiles,female,2003-05-10T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q100307038,Analía Obarrio,female,1902-08-17T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q100307212,Elena María Tuculet Carrau,female,1920-01-01T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q100323953,Joselia Aguiar,female,1978-09-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100324404,Isabella Páez,female,1995-08-29T00:00:00Z,Venezuela,South America
+http://www.wikidata.org/entity/Q100325263,Silvana Espiga,female,1972-01-01T00:00:00Z,Uruguay,South America
+http://www.wikidata.org/entity/Q100327423,Genézia Izabel Cardoso,female,1935-07-02T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100333050,Hilda Cid,female,1933-02-20T00:00:00Z,Chile,South America
+http://www.wikidata.org/entity/Q100347499,Malu Jimenez,female,1971-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100376121,Sandra Siemens,female,1965-06-15T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q100389152,Catalina Recavarren,female,1904-01-01T00:00:00Z,Peru,South America
+http://www.wikidata.org/entity/Q100397038,Leia,female,2001-05-14T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100401228,Carmen María Pinilla,female,1948-05-04T00:00:00Z,Peru,South America
+http://www.wikidata.org/entity/Q100420420,Jessica Feijó Almeida,female,1992-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100515654,Gabriela Gomes,female,1985-01-01T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q100517346,Kirla Echegaray,female,1968-03-27T00:00:00Z,Peru,South America
+http://www.wikidata.org/entity/Q100543632,Lúcia Hiratsuka,female,1960-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100563283,Susi Hochstimm,female,1920-07-08T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q100572887,Germana Monte-Mór,female,1958-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100573456,Elisa Carareto,female,1986-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100587838,Belén Lobo,female,1932-08-17T00:00:00Z,Venezuela,South America
+http://www.wikidata.org/entity/Q100598259,Cecilia González,female,1973-01-01T00:00:00Z,Uruguay,South America
+http://www.wikidata.org/entity/Q100603969,Valdilene dos Santos Silva,female,1991-12-18T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100606168,Sandrali de Campos Bueno,female,1949-05-10T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100606421,Letícia Mei,female,1979-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100653708,Angélica Bernal,female,1995-03-27T00:00:00Z,Colombia,South America
+http://www.wikidata.org/entity/Q100709292,Valery Altamar,female,2000-03-03T00:00:00Z,Colombia,South America
+http://www.wikidata.org/entity/Q100710552,Carina Núñez,female,1991-06-11T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q100711686,Alcira D. Bischoff de Alzuet,female,1943-01-01T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q100715707,María Daniela Biló,female,1966-01-01T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q100722098,Ximena Peña,female,1976-02-11T00:00:00Z,Ecuador,South America
+http://www.wikidata.org/entity/Q1007244,Gaby Espino,female,1977-11-15T00:00:00Z,Venezuela,South America
+http://www.wikidata.org/entity/Q100729011,Florencia Chiribelo,female,1985-02-23T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q100729198,Angélica Palomino,female,1976-06-20T00:00:00Z,Peru,South America
+http://www.wikidata.org/entity/Q100730939,Maruja Cifuentes,female,1913-06-01T00:00:00Z,Chile,South America
+http://www.wikidata.org/entity/Q100744152,Beatriz Coira,female,1941-01-01T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q100782152,Jhoana Patiño,female,1982-09-11T00:00:00Z,Colombia,South America
+http://www.wikidata.org/entity/Q100784758,Maribel Mora Curriao,female,1970-01-01T00:00:00Z,Chile,South America
+http://www.wikidata.org/entity/Q100843389,Alessandra Korap,female,1984-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100869974,Margarita Pasos,female,1972-12-28T00:00:00Z,Colombia,South America
+http://www.wikidata.org/entity/Q100875686,Helena Iriarte,female,1937-01-01T00:00:00Z,Colombia,South America
+http://www.wikidata.org/entity/Q100899779,Carolina Delia Hoz de Vila Guzmán,female,1983-07-23T00:00:00Z,Bolivia,South America
+http://www.wikidata.org/entity/Q100935018,María José Barragán Paladines,female,1974-07-20T00:00:00Z,Ecuador,South America
+http://www.wikidata.org/entity/Q100958047,Lourdes Cuesta,female,1976-01-01T00:00:00Z,Ecuador,South America
+http://www.wikidata.org/entity/Q100963278,Paula Abramo,female,1980-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100982198,Daiana Ocampo,female,1991-02-16T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q100989110,Leyla Espinoza,female,1996-05-15T00:00:00Z,Ecuador,South America
+http://www.wikidata.org/entity/Q100989337,Eunice Gutman,female,1941-02-04T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100997644,Maya Da-Rin,female,1979-01-02T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100997658,Haydée Schvartz,female,1956-12-28T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q100997739,Sofía Florentín,female,1997-05-29T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q100997744,Victoria Vélez,female,1999-01-05T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q100997761,Cecilia López,female,1996-07-10T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q100997765,Alejandra Giménez,female,1999-02-03T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q100997787,Alejandra Argento,female,1987-01-01T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q100997908,Carolina Troncoso,female,1991-01-28T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q101006907,Olinda Silvano,female,1969-01-01T00:00:00Z,Peru,South America
+http://www.wikidata.org/entity/Q101008695,Natalia Timerman,female,1981-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101016553,Lucieli Dornelles,female,1984-06-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101016819,Marina Demori,female,1994-10-21T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101017555,Andressa Missio,female,1980-12-05T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101018319,Suelen Reis,female,1981-06-19T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101062238,Salete Chiamulera,female,1959-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101063206,Julia Dupuy,female,2000-02-09T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q101067655,Stella Castro,female,1962-03-24T00:00:00Z,Colombia,South America
+http://www.wikidata.org/entity/Q101071771,Tânia de Maya Pedrosa,female,1933-10-23T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101071903,Alicia Plante,female,1939-01-01T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q101084678,Paola Ugaz,female,1974-01-01T00:00:00Z,Peru,South America
+http://www.wikidata.org/entity/Q101130401,Beatriz Marichalar,female,1914-02-14T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q101130405,Nella Rojas,female,1989-11-03T00:00:00Z,Venezuela,South America
+http://www.wikidata.org/entity/Q101130426,Stephany Zreik,female,1995-12-25T00:00:00Z,Venezuela,South America
+http://www.wikidata.org/entity/Q101130471,Queensaray Villegas,female,2003-06-03T00:00:00Z,Colombia,South America
+http://www.wikidata.org/entity/Q101130473,Lizsurley Villegas,female,2003-06-03T00:00:00Z,Colombia,South America
+http://www.wikidata.org/entity/Q101130598,María Cecilia Alvarado,female,1901-01-01T00:00:00Z,Ecuador,South America
+http://www.wikidata.org/entity/Q101130608,Constanza Gutiérrez,female,1963-01-01T00:00:00Z,Colombia,South America
+http://www.wikidata.org/entity/Q101208788,Karime Scander,female,1999-03-10T00:00:00Z,Peru,South America
+http://www.wikidata.org/entity/Q101210427,Patricia Mounier,female,1963-08-06T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q101210453,Andrea Novoa,female,1993-12-28T00:00:00Z,Venezuela,South America
+http://www.wikidata.org/entity/Q101227603,Erika Montecinos,female,1972-03-30T00:00:00Z,Chile,South America
+http://www.wikidata.org/entity/Q101235414,Ana Maria Tavares,female,1958-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101235489,Branca de Oliveira,female,1956-11-29T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101235522,Cibele Forjaz,female,1966-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101235561,Dália Rosenthal,female,1973-11-22T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101235635,Elisabeth Lopes,female,1956-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101235651,Esther Hamburger,female,1960-02-06T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101235764,Ingrid Dormien Koudela,female,1948-03-18T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101235817,Johanna Wilhelmina Smit,female,1948-08-13T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101235876,Lucia Maciel Barbosa de Oliveira,female,1961-03-27T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101236003,Clotilde Perez,female,1970-04-30T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101236006,Maria Cristina Castilho Costa,female,1949-12-19T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101236016,Maria Dora Genis Mourão,female,1947-04-30T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101236021,Helena Bastos,female,1958-08-04T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101236038,Maria Lúcia de Souza Barros Pupo,female,1951-03-19T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101236049,Teca Alencar de Brito,female,1954-10-08T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101236051,Maria Thais,female,1960-03-20T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101236118,Monica Tavares,female,1958-08-23T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101236134,Patrícia Moran,female,1961-02-09T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101236241,Silvia Fernandes,female,1953-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101236244,Silvia Berg,female,1958-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101236247,Silvia Laurentiz,female,1960-10-08T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101236260,Sônia Salzstein,female,1955-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101242283,Dinha do Acarajé,female,1951-05-20T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101242611,Lucia Koch,female,1966-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101242654,Carmela Gross,female,1946-02-16T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101242705,Norma Grinberg,female,1951-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101242716,Regina Machado,female,1950-04-07T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101242721,Renata Pallottini,female,1931-03-28T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101242768,Vânia Debs,female,1950-06-03T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101248668,Ruth Alvarado,female,1956-01-01T00:00:00Z,Peru,South America
+http://www.wikidata.org/entity/Q101250926,Juliana Flórez,female,2000-01-01T00:00:00Z,Colombia,South America
+http://www.wikidata.org/entity/Q101349490,Patricia Sheen,female,1971-01-01T00:00:00Z,Peru,South America
+http://www.wikidata.org/entity/Q101402317,Aura Morales,female,1920-07-14T00:00:00Z,Panama,South America
+http://www.wikidata.org/entity/Q101413635,María Luján Rey,female,1969-08-04T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q101417143,Lilia Virginia Wilson,female,1921-12-09T00:00:00Z,Panama,South America
+http://www.wikidata.org/entity/Q101424062,Zulay Camacho,female,2002-02-26T00:00:00Z,Colombia,South America
+http://www.wikidata.org/entity/Q101424246,Leidy Paola Torres,female,2000-06-23T00:00:00Z,Colombia,South America
+http://www.wikidata.org/entity/Q101436749,Dolores Worrell,female,1928-01-05T00:00:00Z,Panama,South America
+http://www.wikidata.org/entity/Q101438838,Nira Guerreira,female,1962-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101445399,Patricia Arce,female,1970-05-06T00:00:00Z,Bolivia,South America
+http://www.wikidata.org/entity/Q101445907,Mary Peña,female,1963-11-17T00:00:00Z,Peru,South America
+http://www.wikidata.org/entity/Q101500067,Tatiana Orjuela,female,2000-01-01T00:00:00Z,Colombia,South America
+http://www.wikidata.org/entity/Q101500084,Diana Paola Sánchez,female,2000-01-01T00:00:00Z,Colombia,South America
+http://www.wikidata.org/entity/Q101514279,Dora Narrea,female,1944-09-21T00:00:00Z,Peru,South America
+http://www.wikidata.org/entity/Q101517850,Chiara Sacchi,female,2002-01-01T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q101522741,Verônica Da Fonsêca-Genevois,female,1951-07-09T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101550838,Frida María Armas Pfirter,female,1957-01-01T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q1015531,Ludmila Manicler,female,1987-07-06T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q101578209,Dona Cadu,female,1920-04-14T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101578914,Valeska Zambra,female,1994-03-26T00:00:00Z,Chile,South America
+http://www.wikidata.org/entity/Q101677551,Marcela Cristina Gómez,female,1984-02-19T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q101800594,Lola Blanco Montesinos,female,1907-07-01T00:00:00Z,Peru,South America
+http://www.wikidata.org/entity/Q101803141,Cristina Michelle Mata Pitti,female,1986-01-24T00:00:00Z,Panama,South America
+http://www.wikidata.org/entity/Q101809684,Barbara Bivolt,female,1993-11-27T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101811959,Wendy CBright,female,2002-09-27T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101830086,Lucy López,female,1930-07-18T00:00:00Z,Chile,South America
+http://www.wikidata.org/entity/Q101839813,Carlota Ramos de Santolaya,female,1910-01-01T00:00:00Z,Peru,South America
+http://www.wikidata.org/entity/Q101911826,Yessica Apaza,female,1980-12-16T00:00:00Z,Peru,South America
+http://www.wikidata.org/entity/Q101930662,María Virginia Francesa,female,1974-03-25T00:00:00Z,Venezuela,South America
+http://www.wikidata.org/entity/Q101982442,Segundina Flores,female,1968-03-30T00:00:00Z,Bolivia,South America
+http://www.wikidata.org/entity/Q102007277,Carmenza Jaramillo,female,1948-04-14T00:00:00Z,Colombia,South America
+http://www.wikidata.org/entity/Q102012985,Sonaly Tuesta,female,1972-01-01T00:00:00Z,Peru,South America
+http://www.wikidata.org/entity/Q102032653,Elena Lasida,female,1959-01-01T00:00:00Z,Uruguay,South America
+http://www.wikidata.org/entity/Q102037568,Nayely Bolaños,female,2003-02-25T00:00:00Z,Ecuador,South America
+http://www.wikidata.org/entity/Q102054948,Gabily,female,1995-10-30T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q102060136,Déborah Gaviria,female,1978-11-14T00:00:00Z,Peru,South America
+http://www.wikidata.org/entity/Q102076741,Denise Fournier,female,1987-01-01T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q102077134,Natalia Gavilova,female,1969-01-01T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q102082210,Laura Olascuaga,female,1995-07-19T00:00:00Z,Colombia,South America
+http://www.wikidata.org/entity/Q102089691,Violeta Bermúdez,female,1961-08-12T00:00:00Z,Peru,South America
+http://www.wikidata.org/entity/Q102104551,Nuria Esparch,female,1969-01-19T00:00:00Z,Peru,South America
+http://www.wikidata.org/entity/Q102104625,Solangel Fernández,female,1978-01-01T00:00:00Z,Peru,South America
+http://www.wikidata.org/entity/Q102104807,Elizabeth Astete Rodríguez,female,1952-03-30T00:00:00Z,Peru,South America
+http://www.wikidata.org/entity/Q102109185,Christel Balde Prössel,female,1919-01-01T00:00:00Z,Chile,South America
+http://www.wikidata.org/entity/Q102111974,Maria Aparecida Soares Ruas,female,1948-05-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q102112015,Edith Klempau,female,1919-04-08T00:00:00Z,Chile,South America
+http://www.wikidata.org/entity/Q102117397,Daniella Chávez,female,1985-10-26T00:00:00Z,Chile,South America
+http://www.wikidata.org/entity/Q102128981,Cecilia Guillenea,female,1981-01-24T00:00:00Z,Uruguay,South America
+http://www.wikidata.org/entity/Q102136512,Antoniana Krettli,female,1943-09-23T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q102157798,Sisa Agi,female,1962-01-01T00:00:00Z,Suriname,South America
+http://www.wikidata.org/entity/Q102163820,Bettiana Sonetti,female,1994-09-14T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q102167302,Lúcia Renato Junqueira,female,1966-12-28T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q102175732,Ofelia Teresa Alas,female,1943-07-04T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q102179875,Conchita Berggraaf,female,1974-11-05T00:00:00Z,Suriname,South America
+http://www.wikidata.org/entity/Q102184972,Renate Costa,female,1981-05-21T00:00:00Z,Paraguay,South America
+http://www.wikidata.org/entity/Q102186124,Mariana Arruti,female,1969-01-01T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q102186193,Eva Poncet,female,1970-01-01T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q102187462,María Malvicini,female,1920-03-19T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q1021909,Bruna Tenório,female,1989-06-27T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q102196188,Leyla Musalem,female,1948-10-20T00:00:00Z,Chile,South America
+http://www.wikidata.org/entity/Q102208090,Nina Paim,female,1986-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q102208673,Naomi Pikientio,female,1994-11-04T00:00:00Z,Suriname,South America
+http://www.wikidata.org/entity/Q102213,Matilde Horne,female,1914-01-01T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q102217464,Natalia Solomonoff,female,1968-01-01T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q102225797,Maria José Pacifico,female,1952-04-21T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q102233314,Wanda Ferraz,female,1949-06-07T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q102235951,Ingrid Metzner,female,1937-05-27T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q102244025,Liliana Forzani,female,1966-01-01T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q102258151,Nikelen Witter,female,1973-09-19T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q102290801,Fanny Rodríguez,female,1985-06-10T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q102291300,Neli Elisabeth Medeiros Mandel,female,1944-07-18T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q102291638,Carolina Castro,female,1979-05-11T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q102292388,Cibele Racy,female,2000-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q102304489,Delia Kesner,female,1965-05-10T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q102304997,María Nela Prada,female,1981-01-24T00:00:00Z,Bolivia,South America
+http://www.wikidata.org/entity/Q102313484,Elza Berquó,female,1931-10-17T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q102335,Leni Alexander,female,1924-06-08T00:00:00Z,Chile,South America
+http://www.wikidata.org/entity/Q102338579,Florencia Leonardi,female,1978-01-01T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q102338839,Christina Brech,female,1980-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q102341342,María Isabel Remy Simatovic,female,1954-01-01T00:00:00Z,Peru,South America
+http://www.wikidata.org/entity/Q102342324,Emma Mejía Venegas,female,1987-12-20T00:00:00Z,Peru,South America
+http://www.wikidata.org/entity/Q102346751,Marcela Morvidone,female,1968-09-20T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q102347072,Soher El Sukaria,female,1975-05-16T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q102347201,Paulina Palacios,female,1992-12-24T00:00:00Z,Chile,South America
+http://www.wikidata.org/entity/Q102347217,Sara Bochkovsky,female,1933-02-04T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q102349176,Ileanna Simancas,female,1976-09-07T00:00:00Z,Venezuela,South America
+http://www.wikidata.org/entity/Q102358472,Cirlei de Hollanda,female,1948-03-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q102358478,Denise Garcia,female,1955-12-15T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q102358533,Nilcéia Baroncelli,female,1945-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q102358548,Roseane Yampolschi,female,1956-07-18T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q102358559,Silvia de Lucca,female,1960-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q102358564,Valéria Bonafé,female,1984-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q102361598,Mónica Gómez Contreras,female,1954-01-01T00:00:00Z,Chile,South America
+http://www.wikidata.org/entity/Q102362075,Maria Carrizosa,female,1979-06-21T00:00:00Z,Colombia,South America
+http://www.wikidata.org/entity/Q102391409,Lourdes Sola,female,1938-07-10T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q102402646,Elena Terlevich,female,1946-06-12T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q102416738,Virgelina Chará,female,1953-01-01T00:00:00Z,Colombia,South America
+http://www.wikidata.org/entity/Q102419629,Mildred Merino,female,1922-10-07T00:00:00Z,Peru,South America
+http://www.wikidata.org/entity/Q102419831,Elena Antón Pascual,female,1901-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q102419872,Romina Biagioli,female,1989-04-03T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q102420306,Karina Vilches,female,1985-04-18T00:00:00Z,Chile,South America
+http://www.wikidata.org/entity/Q102421039,Neus Aguado,female,1955-01-01T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q102421953,Cida Pedrosa,female,1963-10-18T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q102423925,Victoria Vampa,female,1960-05-05T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q102424431,Graciela Gelmini,female,1901-01-01T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q102426655,Mayra Jordán,female,1994-07-02T00:00:00Z,Panama,South America
+http://www.wikidata.org/entity/Q102429561,Daniela Nicolás,female,1992-06-26T00:00:00Z,Chile,South America
+http://www.wikidata.org/entity/Q102430107,Silvia Giuliatti Winter,female,1965-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q1024918,Julia Vial,female,1977-06-24T00:00:00Z,Chile,South America
+http://www.wikidata.org/entity/Q1025215,Rossana de los Ríos,female,1975-09-16T00:00:00Z,Paraguay,South America
+http://www.wikidata.org/entity/Q102550169,Soledad Acuña,female,1975-03-23T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q102573296,Priscila Leal da Silva,female,1989-03-10T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10260438,Cora Rónai,female,1953-07-31T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10260593,Corina Von Lasperg,female,1941-05-19T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10261210,Costanza Pascolato,female,1939-09-19T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10261323,Cozete Barbosa,female,1956-02-25T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10261449,Creusa Cartola,female,1927-03-27T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10261568,Cris Bonna,female,1964-03-09T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10261569,Cris Braun,female,1962-06-29T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10261571,Cris Nicolotti,female,1959-08-15T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10261572,Cris Poli,female,1945-06-24T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10261573,Cris Vianna,female,1977-04-11T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10261620,Cristiana Lôbo,female,1957-08-18T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10261625,Cristiane Dias,female,1980-10-09T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10261630,Cristianne Fridman,female,1961-05-08T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10261658,Cristina Badaró,female,1982-08-07T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10261660,Cristina Boner,female,1961-12-08T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10261661,Cristina Brasil,female,1966-03-19T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10261662,Cristina Beer,female,1980-11-22T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10261664,Cristina Buarque,female,1950-12-23T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10261670,Cristina Fagundes,female,1976-01-10T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10261675,Cristina Galvão,female,1965-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10261677,Cristina Lopes,female,1966-01-29T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10261679,Cristina Mortágua,female,1970-09-08T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10261681,Cristina Nunes,female,1956-12-25T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10261682,Cristina Mutarelli,female,1955-12-29T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10261683,Cristina Mullins,female,1957-10-08T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10261684,Cristina Pereira,female,1949-08-09T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10261685,Cristina Prochaska,female,1959-11-12T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10261686,Cristina Ranzolin,female,1966-10-28T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10261687,Cristina Sano,female,1965-02-06T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10261688,Cristina Serra,female,1963-03-10T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10261691,Cristina Vieira,female,1976-05-06T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10261694,Cristina de Queiroz,female,1944-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10262094,Cuca Lazarotto,female,1968-10-11T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10262711,Cynthia Benini,female,1973-01-28T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10262712,Cynthia Mendes,female,1984-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10262715,Cynthia Zamorano,female,1975-01-31T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10262780,Cyria Coentro,female,1966-04-14T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10262855,Carmen Santos,female,1904-06-08T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10262856,Cármen Costa,female,1920-01-05T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10262861,Cássia Janys Moraes Silveira,female,1958-05-22T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10262862,Cássia Linhares,female,1973-11-24T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10262879,Catia Fonseca,female,1969-02-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10262880,Cátia Guimma,female,1966-08-20T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10262885,Cátia Pedrosa,female,1963-03-09T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10262887,Cátia de França,female,1947-02-13T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10263037,Célia,female,1947-09-08T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10263038,Célia Biar,female,1918-03-10T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10263040,Célia Coutinho,female,1934-04-29T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10263041,Célia Helena,female,1936-03-13T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10263043,Célia Olga,female,1946-07-11T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10263045,Célia Ribeiro,female,1929-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10263046,Célia Rodrigues,female,1922-02-28T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10263048,Célia Sakamoto,female,1975-02-15T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10263181,Cíntia Abravanel,female,1963-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10263184,Cíntia Moscovich,female,1958-03-15T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10263680,Dad Squarisi,female,1946-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10263729,Daiane Moretti,female,1988-03-13T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10263731,Daiene Dias,female,1989-05-16T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10263742,Dailza Damas,female,1957-12-06T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10263783,Dalma Callado,female,1957-12-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10263802,Dalva Damiana de Freitas,female,1927-09-27T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10263803,Dalva Figueiredo,female,1961-04-25T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10263804,Dalva Lazaroni,female,1945-11-07T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10263805,Dalva Maria Carvalho Mendes,female,1956-03-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10263876,Dandara Guerra,female,1983-10-10T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10263893,Dani Bolina,female,1984-02-10T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10263894,Dani Freitas,female,1973-10-02T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10263898,Dani Ornellas,female,1978-07-25T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10264025,Daniela Albuquerque,female,1982-07-22T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10264027,Daniela Araújo,female,1984-08-11T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10264028,Daniela Arbex,female,1973-04-19T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10264030,Daniela Beyruti,female,1976-07-11T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10264031,Daniela Barbosa,female,1974-07-14T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10264032,Daniela Camargo,female,1973-09-28T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10264033,Daniela Borges,female,2000-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10264034,Daniela Carvalho,female,1986-05-19T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10264035,Daniela Duarte,female,1975-06-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10264036,Daniela Faria,female,1977-03-25T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10264037,Daniela Freitas,female,1979-01-14T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10264038,Daniela Fontan,female,1980-04-20T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10264040,Daniela Piepszyk,female,1995-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10264042,Daniela Polzin,female,1979-03-04T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10264047,Daniele Batista,female,1983-04-02T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10264048,Daniele Rodrigues,female,1971-07-19T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10264052,Daniella Alcarpe,female,1981-07-02T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10264053,Daniella Galli,female,1974-05-20T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10264056,Danielle Cristina,female,1980-08-12T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10264058,Danielle Piermatei,female,1980-04-23T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10264060,Danielle Zangrando,female,1979-07-25T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10264088,Danny Pink,female,1989-05-11T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10264127,Danuza Bias Fortes Carneiro,female,1962-02-12T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10264128,Dany Bananinha,female,1976-08-15T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10264129,Dany Grace,female,1980-06-19T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10264201,Darcy França Denófrio,female,1936-07-21T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10264212,Darcy de Souza,female,1925-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10264268,Darlene Glória,female,1943-03-20T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10264480,Dayse Oliveira,female,1966-05-31T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10264613,Debby Lagranha,female,1991-10-03T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10264691,Dedina Bernardelli,female,1964-04-23T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10264783,Deise Nunes,female,1968-03-30T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10264818,Delasnieve Daspet,female,1950-09-12T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10264820,Delaíde Alves Miranda Arantes,female,1952-05-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10264869,Delis Ortiz,female,1963-07-05T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10265081,Denise Bandeira,female,1950-10-22T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10265082,Denise Cerqueira,female,1960-11-24T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10265085,Denise Céspedes,female,1965-06-23T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10265086,Denise Del Vecchio,female,1951-05-05T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10265088,Denise Emmer,female,1958-06-18T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10265089,Denise Milan,female,1954-07-16T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10265090,Denise Milfont,female,1962-01-26T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10265091,Denise Paraná,female,1953-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10265092,Denise Saraceni,female,1954-03-30T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10265094,Denise Simonetto,female,1955-03-13T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10265095,Denise Souza,female,1967-09-02T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10265096,Denise Stoklos,female,1950-07-14T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10265097,Denise Weinberg,female,1956-04-26T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10265148,Deny Barbosa,female,1986-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q102652399,Amira Belle,female,1993-12-26T00:00:00Z,Colombia,South America
+http://www.wikidata.org/entity/Q10265609,Desireé Vignolli,female,1965-07-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10265819,Deuzeni Goldman,female,1951-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10265880,Dhi Ribeiro,female,1966-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10266036,Diana Domingues,female,1947-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10266038,Diana Morel,female,1935-09-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10266040,Diana Nicolau,female,1987-01-16T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10266041,Diana Pequeno,female,1958-01-25T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10266161,Didi Wagner,female,1975-10-16T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10266162,Didi Viana,female,1911-06-27T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q102661621,Janick Maceta,female,1994-03-09T00:00:00Z,Peru,South America
+http://www.wikidata.org/entity/Q10266286,Dig Dutra,female,1975-12-19T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10266335,Dill Costa,female,1955-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10266336,Dilma Lóes,female,1950-07-22T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10266346,Dilu Melo,female,1913-09-25T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10266385,Dina Di,female,1976-02-19T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10266387,Dina Lisboa,female,1912-09-12T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10266390,Dinaelza Coqueiro,female,1949-03-22T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10266392,Dinalva Oliveira Teixeira,female,1945-05-16T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10266496,Dinorah Marzullo,female,1919-03-30T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10266505,Diná Silveira de Queirós,female,1911-11-09T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10266506,Diná de Lara,female,1948-10-08T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10266507,Diná de Oliveira,female,1907-03-02T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10266652,Dione Oliveira,female,2000-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10266653,Dione Marly Gandolfo Hashioka,female,1957-06-23T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10266719,Dirce Camargo,female,1913-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10266720,Dirce Knijnik,female,1929-01-11T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10266721,Dirce Militello,female,1924-01-26T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10266723,Dirce Tutu Quadros,female,1943-12-28T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10267348,Dita Côrte-Real,female,1952-07-30T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10267435,Diva Pavesi,female,1956-11-17T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10267436,Diva Pacheco,female,1940-03-02T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10267696,Djanira Silva do Rego Barros,female,1930-07-25T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10267706,Djenane Machado,female,1947-06-10T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10267711,Djin Sganzerla,female,1977-02-27T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10267815,Dodô da Portela,female,1920-01-03T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10268001,Domingas Person,female,1971-12-07T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10268175,Domitila Stabile de Oliveira,female,1944-09-13T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10268237,Dona Edith do Prato,female,1916-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10268253,Dona Militana,female,1925-03-19T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10268256,Dona Neuma,female,1922-05-08T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10268259,Dona Teté,female,1924-06-27T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10268265,Dona Zica,female,1913-02-06T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10268345,Dora Incontri,female,1962-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10268346,Dora Ferreira da Silva,female,1918-07-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10268347,Dora Kramer,female,1955-04-05T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10268349,Dora Parentes,female,1937-12-11T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10268352,Dora Pellegrino,female,1960-03-08T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10268357,Dorath Pinto Uchôa,female,1927-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10268405,Dorina Nowil,female,1919-05-28T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10268409,Dorinha Duval,female,1929-01-21T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10268425,Dorrit Harazim,female,1943-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10268975,Duda Little,female,1979-12-31T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10268987,Duda Yankovich,female,1976-09-27T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10269021,Dulce Barros de Almeida,female,1952-10-26T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10269023,Dulce Conforto,female,1956-03-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10269024,Dulce Damasceno de Brito,female,1926-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10269027,Dulce Maria Pereira,female,1954-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10269028,Dulce Santucci,female,1921-12-21T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10269030,Dulce Thompson,female,1963-07-18T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10269031,Dulcemar Vieira,female,1935-08-28T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10269034,Dulcina de Moraes,female,1908-02-03T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10269037,Dulcinéa de Oliveira,female,1933-11-26T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10269140,Durval Gomes Garcia,female,1931-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10269224,Dárcy Vera,female,1967-04-10T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10269239,Déa Selva,female,1917-05-08T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10269240,Débora Brasil,female,1970-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10269242,Débora Duboc,female,1965-05-04T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10269243,Débora Gomez,female,1981-07-24T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10269246,Débora Lamm,female,1978-01-29T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10269249,Débora Olivieri,female,1958-01-17T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10269250,Débora Rodrigues,female,1968-05-23T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10269251,Débora Vilalba,female,1976-03-09T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10269252,Déborah Kalume,female,1978-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10269363,Dóris Fleury,female,1962-10-05T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10269365,Dóris Giesse,female,1960-05-18T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10269988,Ecléa Bosi,female,1936-10-14T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10270325,Edith Siqueira,female,1956-09-20T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10270326,Edith Veiga,female,1943-02-12T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10270436,Edla Van Steen,female,1936-07-12T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10270444,Edmara Barbosa,female,1960-11-11T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10270493,Edna Savaget,female,1928-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10270494,Edna Veiga,female,1964-12-24T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10270495,Edna Velho,female,1964-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10270496,Edna de Cássia,female,1959-07-31T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10270919,Edy Cerri,female,1940-10-09T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10270988,Efigênia Ramos Rolim,female,1931-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10271201,Ela Wiecko,female,1948-09-14T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10271213,Elaine Bast,female,1973-02-17T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10271215,Elaine Cristina,female,1950-05-13T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10271217,Elaine Martins,female,1982-03-05T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10271218,Elaine Mickely,female,1980-04-22T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10271219,Elaine de Jesus,female,1977-01-13T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10271238,Elbe de Holanda,female,1927-06-02T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10271244,Elcione Barbalho,female,1944-10-05T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10271247,Elda Maria da Silva Pimenta,female,1945-02-22T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10271693,Elena Landau,female,1958-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10271697,Elena Toledo,female,1975-01-08T00:00:00Z,Venezuela,South America
+http://www.wikidata.org/entity/Q10271705,Eleonor Bruno,female,1913-10-06T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10271707,Eleonora Prado,female,1964-08-30T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10271710,Eleonora de Lucena,female,1957-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10271718,Elessandra Dartora,female,2000-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10271799,Eli Heil,female,1929-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10271821,Eliana Calmon,female,1944-11-05T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10271823,Eliana Fonseca,female,1963-02-17T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10271824,Eliana Guttman,female,1954-03-15T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10271825,Eliana Macedo,female,1926-09-21T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10271826,Eliana Kertész,female,1945-05-14T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10271831,Eliana Silva,female,1978-02-14T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10271832,Eliana de Lima,female,1961-09-19T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10271840,Eliane Brum,female,1966-05-23T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10271841,Eliane Caffé,female,1961-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10271842,Eliane Camargo,female,1965-03-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10271843,Eliane Costa,female,1960-09-29T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10271845,Eliane Lage,female,1928-07-16T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10271847,Eliane Maciel,female,1965-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10271848,Eliane Silva,female,1976-04-05T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10271849,Eliane Potiguara,female,1950-09-29T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10271882,Eliete Cigarini,female,1963-02-11T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10271928,Elisa Dias Veloso,female,1914-02-16T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10271933,Elisa Lucinda,female,1958-02-02T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10271934,Elisa Martins da Silveira,female,1912-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10271935,Elisa Tolomelli,female,1963-05-21T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10271936,Elisa Veeck,female,1987-12-02T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10271977,Elizabeth Gasper,female,1938-02-07T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10271979,Elizabeth Hartmann,female,1933-04-03T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10271980,Elizabeth Henreid,female,1928-08-28T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10271981,Elizabeth Jhin,female,1949-01-13T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10271991,Eliziane Gama,female,1977-02-27T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10271996,Elle Rio,female,1961-02-21T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10271997,Ellen Jabour,female,1977-12-14T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10272000,Ellen de Lima,female,1938-03-24T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10272014,Elly Herkenhoff,female,1906-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10272055,Eloá Quadros,female,1923-06-13T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10272056,Eloísa Mafalda,female,1924-09-18T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10272074,Elsie Dubugras,female,1904-03-02T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10272094,Elvira Gentil,female,1930-09-13T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10272097,Elvira Vigna,female,1947-09-29T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10272123,Elza Fernandes,female,1921-10-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q10272126,Elza Laranjeira,female,1925-06-16T00:00:00Z,Brazil,South America

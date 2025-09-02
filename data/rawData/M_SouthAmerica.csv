@@ -1,0 +1,501 @@
+person,person_label,genders,dobs,countries,continents
+http://www.wikidata.org/entity/Q10001579,Uladzimir Dudzitsky,male,1911-01-08T00:00:00Z,Venezuela,South America
+http://www.wikidata.org/entity/Q1000296,Fred Carreiro,male,1979-08-18T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q1000482,Walter Ivan de Azevedo,male,1926-05-08T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q1000682,Fernando Carrillo,male,1970-01-06T00:00:00Z,Venezuela,South America
+http://www.wikidata.org/entity/Q1000693,Fernando Tamayo,male,1963-12-17T00:00:00Z,Ecuador,South America
+http://www.wikidata.org/entity/Q1001139,Luis Felipe Sánchez Aponte,male,1947-05-11T00:00:00Z,Colombia,South America
+http://www.wikidata.org/entity/Q1001187,Domingo Salvador Castagna,male,1931-01-12T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q1001193,Heinz Dieter Heidemann,male,1946-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q1001227,Fierro Chávez,male,1958-10-30T00:00:00Z,Ecuador,South America
+http://www.wikidata.org/entity/Q1001328,Buddy Richard,male,1943-09-21T00:00:00Z,Chile,South America
+http://www.wikidata.org/entity/Q100138105,Chocolate da Bahia,male,1943-08-30T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100138109,Felipe Martinez Carbonell,male,1990-10-21T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q100140986,Davi Machado dos Santos Araújo,male,1999-03-20T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100145947,Jackson Rodríguez Perlaza,male,1998-10-07T00:00:00Z,Ecuador,South America
+http://www.wikidata.org/entity/Q100146359,Diego Cor,male,2000-07-06T00:00:00Z,Uruguay,South America
+http://www.wikidata.org/entity/Q100146378,Marcelo Garcés,male,2000-06-08T00:00:00Z,Peru,South America
+http://www.wikidata.org/entity/Q100146652,Nicolás Quagliata,male,1999-06-05T00:00:00Z,Uruguay,South America
+http://www.wikidata.org/entity/Q100146694,Rodrigo Mena,male,1966-06-29T00:00:00Z,Ecuador,South America
+http://www.wikidata.org/entity/Q100146747,Arnaldo Leite Pereira,male,1933-05-27T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100147541,Carlos Hobert,male,1945-06-27T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q100152769,Armando Cardoso,male,1906-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100156173,Dante Fiorenza,male,1957-09-02T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q100156210,Eugenio Chemp,male,1916-02-18T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100156250,Natanael Guzmán,male,1999-08-11T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q100157905,Raúl Yager,male,1944-07-20T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q100165465,Rafael Vásquez,male,1994-12-14T00:00:00Z,Venezuela,South America
+http://www.wikidata.org/entity/Q100188065,Vinicius Zanocelo,male,2001-01-30T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100198209,Martin Rodrigo Gill,male,1973-06-30T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q100207077,Carlos González,male,1944-01-01T00:00:00Z,Chile,South America
+http://www.wikidata.org/entity/Q100217565,Carlos León Alvarado,male,1916-06-02T00:00:00Z,Chile,South America
+http://www.wikidata.org/entity/Q1002186,Flávio da Silva Pim,male,1974-01-04T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100233642,Daniel R. Bès,male,1931-02-04T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q100233650,Dalmo Pessoa,male,1941-08-11T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100233966,Victor Daniel Camacaro Cordero,male,2002-05-15T00:00:00Z,Venezuela,South America
+http://www.wikidata.org/entity/Q100235622,Alexandre Ribeiro,male,1998-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100240458,José Sabóia,male,1949-11-15T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100251003,Yordan Yanchev,male,2001-08-30T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q100255133,Eduardo Morelenbaum,male,1960-12-24T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100256903,Randy Stephens,male,1957-05-27T00:00:00Z,Colombia,South America
+http://www.wikidata.org/entity/Q100266256,Gilberto Vergne Saboia,male,1942-05-16T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100266347,Jesús Sagredo,male,1994-03-10T00:00:00Z,Bolivia,South America
+http://www.wikidata.org/entity/Q100266616,Luis Fernando Saldías,male,1997-02-27T00:00:00Z,Bolivia,South America
+http://www.wikidata.org/entity/Q100266623,Guilherme Basseto,male,1997-03-12T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100268851,Bruno Scorza,male,2000-10-01T00:00:00Z,Uruguay,South America
+http://www.wikidata.org/entity/Q100269037,Carlos Almada,male,1999-01-17T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q100270823,Gabriel Almeida,male,1996-09-03T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100270824,Mauricio Doria-Medina,male,1988-09-22T00:00:00Z,Bolivia,South America
+http://www.wikidata.org/entity/Q100271079,Abdiel Ayarza,male,1992-09-12T00:00:00Z,Panama,South America
+http://www.wikidata.org/entity/Q100271356,Alejandro Yearwood,male,1996-04-29T00:00:00Z,Panama,South America
+http://www.wikidata.org/entity/Q100271499,Víctor Griffith,male,2000-12-12T00:00:00Z,Panama,South America
+http://www.wikidata.org/entity/Q100271502,César Yanis,male,1996-01-28T00:00:00Z,Panama,South America
+http://www.wikidata.org/entity/Q100274842,Tiago Trator,male,1987-04-12T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100277672,Matías Ocampo,male,2002-03-14T00:00:00Z,Uruguay,South America
+http://www.wikidata.org/entity/Q1002796,Giovane Alves da Silva,male,1982-11-25T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100294967,Luiz Tadeu Rigo,male,1957-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100299797,Tonho Dionorina,male,1952-12-15T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100307098,Nelson Cabanillas,male,2000-02-08T00:00:00Z,Peru,South America
+http://www.wikidata.org/entity/Q100316281,Shen Jiahao,male,2001-05-17T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q100316324,Esnaider Reales,male,1996-04-28T00:00:00Z,Colombia,South America
+http://www.wikidata.org/entity/Q100320352,João Marchetti,male,1935-05-14T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100321850,Pietro Vannucci,male,1975-03-29T00:00:00Z,Peru,South America
+http://www.wikidata.org/entity/Q100324298,Elwin Huaman,male,1990-07-01T00:00:00Z,Peru,South America
+http://www.wikidata.org/entity/Q100325165,Alexandre Grasseli,male,1974-05-05T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100327655,Alexandre Egea,male,1990-06-06T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100328369,Belmiro Mendes de Castro Filho,male,1948-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100329021,Hernán Díaz,male,1973-01-01T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q100332369,Jorge Orozco,male,2000-01-24T00:00:00Z,Bolivia,South America
+http://www.wikidata.org/entity/Q100332454,Raúl Vásquez Sáez,male,1954-02-06T00:00:00Z,Panama,South America
+http://www.wikidata.org/entity/Q1003442,Francisco Mondría,male,1972-01-01T00:00:00Z,Chile,South America
+http://www.wikidata.org/entity/Q100349947,Víctor Medina,male,2001-02-18T00:00:00Z,Panama,South America
+http://www.wikidata.org/entity/Q100351071,Rafael Sabonge,male,1978-10-09T00:00:00Z,Panama,South America
+http://www.wikidata.org/entity/Q100354669,Róger Rumrrill,male,1938-07-26T00:00:00Z,Peru,South America
+http://www.wikidata.org/entity/Q100362520,Ismael Betegón,male,2001-05-27T00:00:00Z,Panama,South America
+http://www.wikidata.org/entity/Q100366492,Max Hernández Camarero,male,1937-11-22T00:00:00Z,Peru,South America
+http://www.wikidata.org/entity/Q100366657,Martín Tanaka,male,1965-01-01T00:00:00Z,Peru,South America
+http://www.wikidata.org/entity/Q100378394,Miguel Nogueira,male,1959-11-03T00:00:00Z,Uruguay,South America
+http://www.wikidata.org/entity/Q100380247,Alejandro Cappuccio,male,1976-02-07T00:00:00Z,Uruguay,South America
+http://www.wikidata.org/entity/Q100384474,Shockman,male,1978-08-20T00:00:00Z,Suriname,South America
+http://www.wikidata.org/entity/Q100390391,Nicolás Ramos,male,1999-03-10T00:00:00Z,Uruguay,South America
+http://www.wikidata.org/entity/Q100392076,Carlos Cruz-Coke Ossa,male,1932-05-25T00:00:00Z,Chile,South America
+http://www.wikidata.org/entity/Q100416264,Américo S. Albrieux,male,1909-10-07T00:00:00Z,Uruguay,South America
+http://www.wikidata.org/entity/Q100422638,Nacho Álvarez,male,1986-10-19T00:00:00Z,Uruguay,South America
+http://www.wikidata.org/entity/Q100431228,Ricardo Peredo Wende,male,1962-01-01T00:00:00Z,Bolivia,South America
+http://www.wikidata.org/entity/Q100437408,Edhu Olivia,male,1996-01-17T00:00:00Z,Peru,South America
+http://www.wikidata.org/entity/Q100437421,Francisco Teixeira,male,1911-01-26T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100437534,Henrique de Melo Morais,male,1912-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100450105,Fessin,male,1999-01-04T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100452955,Léo Tilica,male,1995-04-20T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100453158,Renzo Ramirez,male,1997-06-24T00:00:00Z,Peru,South America
+http://www.wikidata.org/entity/Q100454487,Jorge Kingston,male,1901-11-24T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100454982,Carlos Arnaldo Krug,male,1906-10-25T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100456128,Nilson Torres de Rezende,male,1904-01-10T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100457181,Grey Dye,male,1996-05-31T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q100466653,Carlos Antônio Vieira Fernandes,male,1961-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100481143,Elton Santa Fé Zacarias,male,1961-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100487157,Jorge Savia,male,1947-12-05T00:00:00Z,Uruguay,South America
+http://www.wikidata.org/entity/Q100491251,Dante Alfredo Fiorenza,male,1957-09-02T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q100504350,Facundo Enriques,male,2000-04-22T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q100507724,Adrián Zigarán,male,1968-04-25T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q100511231,Dario Rais Lopes,male,1957-01-19T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100528,Ernesto Kroch,male,1917-02-11T00:00:00Z,Uruguay,South America
+http://www.wikidata.org/entity/Q100552599,Matheus Silva,male,1997-10-03T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100553591,Hernán Letcher,male,1977-05-02T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q100554978,Jhonnatan Medina-Álvarez,male,1982-01-12T00:00:00Z,Venezuela,South America
+http://www.wikidata.org/entity/Q100570569,Exneider Guerrero,male,1997-06-24T00:00:00Z,Colombia,South America
+http://www.wikidata.org/entity/Q100573307,Tiago Ferro,male,1976-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100574333,Joaquim de Lima Oliveira,male,1956-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100584651,Luis Rosales,male,1965-02-20T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q100585577,Gastón Pérez,male,1999-10-19T00:00:00Z,Uruguay,South America
+http://www.wikidata.org/entity/Q100586773,Vicente Poggi,male,2002-07-11T00:00:00Z,Uruguay,South America
+http://www.wikidata.org/entity/Q100586896,Gabriel Mario Bilmes,male,1953-09-02T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q100587100,José Scheps,male,1920-03-17T00:00:00Z,Uruguay,South America
+http://www.wikidata.org/entity/Q100587683,Diego Hernández,male,2000-06-22T00:00:00Z,Uruguay,South America
+http://www.wikidata.org/entity/Q100606205,Ramón Iriarte,male,1948-01-12T00:00:00Z,Venezuela,South America
+http://www.wikidata.org/entity/Q100683,Fritz Plaumann,male,1902-05-02T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100693258,Willian Chimura,male,1993-04-28T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100698200,José Alegría,male,1980-10-05T00:00:00Z,Peru,South America
+http://www.wikidata.org/entity/Q100700175,Osama Vinladen,male,2002-10-07T00:00:00Z,Peru,South America
+http://www.wikidata.org/entity/Q100700851,Marco Aurélio de Queiroz Campos,male,1971-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100701049,Cacau Lorenzoni,male,1961-04-03T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100706470,Wellington da Rocha,male,2001-02-15T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100707430,Williams Ríos,male,1993-10-01T00:00:00Z,Panama,South America
+http://www.wikidata.org/entity/Q100707647,Emilio Lopez Gabeiras,male,1959-04-02T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q100708502,Hendrik Soemodihardjo,male,1933-01-14T00:00:00Z,Suriname,South America
+http://www.wikidata.org/entity/Q100708800,Candres Peredo,male,1992-04-02T00:00:00Z,Bolivia,South America
+http://www.wikidata.org/entity/Q100711686,Alcira D. Bischoff de Alzuet,male,1943-01-01T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q100715866,Stanley Alves,male,1996-06-30T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100715870,Luis Agudo,male,1940-01-01T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q100716250,Thiago Moura,male,1995-11-27T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q1007183,Gabriel Coronel,male,1987-02-13T00:00:00Z,Venezuela,South America
+http://www.wikidata.org/entity/Q100718628,Diego Aguiar,male,1983-07-09T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100718633,Gabriel Aguirre,male,1992-04-26T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q1007187,Gabriel González,male,1942-03-18T00:00:00Z,Paraguay,South America
+http://www.wikidata.org/entity/Q100719140,Anell Alexis,male,1990-02-28T00:00:00Z,Panama,South America
+http://www.wikidata.org/entity/Q100719512,Andre Almeida,male,1988-09-09T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100720052,Agustin Ambrosino,male,1990-08-10T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q1007203,Gabriel Valenzuela,male,1981-06-10T00:00:00Z,Colombia,South America
+http://www.wikidata.org/entity/Q100722145,Freddy Asprilla,male,1988-05-09T00:00:00Z,Colombia,South America
+http://www.wikidata.org/entity/Q100722614,Luis Augusto,male,1984-05-31T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100723564,Victor Bafutto,male,1998-06-14T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100725605,Abilio Afonso Baeta Neves,male,1949-12-06T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100728315,Paulo Abrão,male,1901-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100729200,Sebastián Depolo,male,1976-01-01T00:00:00Z,Chile,South America
+http://www.wikidata.org/entity/Q100729647,Gabriel Prieto,male,1961-02-02T00:00:00Z,Chile,South America
+http://www.wikidata.org/entity/Q100730103,Héctor Viel Temperley,male,1933-01-01T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q100730171,Eduardo Soto,male,1934-01-01T00:00:00Z,Chile,South America
+http://www.wikidata.org/entity/Q100730397,"Edgardo ""El Gordo"" Oviedo",male,1928-01-01T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q100734728,Gerardo Núñez,male,1985-02-18T00:00:00Z,Uruguay,South America
+http://www.wikidata.org/entity/Q100737389,Renato Solís,male,1998-01-28T00:00:00Z,Peru,South America
+http://www.wikidata.org/entity/Q100738911,Federico Bonansea,male,1998-03-13T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q100740422,Argenis Tortolero,male,1941-03-16T00:00:00Z,Venezuela,South America
+http://www.wikidata.org/entity/Q100740743,Kevin Sandoval,male,1997-05-03T00:00:00Z,Peru,South America
+http://www.wikidata.org/entity/Q100742016,Alfredo Serra,male,1939-05-29T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q100742835,Jesús Antonio Figueroa,male,1996-02-13T00:00:00Z,Colombia,South America
+http://www.wikidata.org/entity/Q100743157,Javier Radiccioni,male,1982-12-03T00:00:00Z,Uruguay,South America
+http://www.wikidata.org/entity/Q100743498,Óscar Vanegas,male,1996-05-07T00:00:00Z,Colombia,South America
+http://www.wikidata.org/entity/Q100749182,José Campos,male,1961-09-24T00:00:00Z,Peru,South America
+http://www.wikidata.org/entity/Q100752971,Rosmel Blanco,male,1976-11-09T00:00:00Z,Venezuela,South America
+http://www.wikidata.org/entity/Q100755536,Esteban Bonzano,male,1982-01-18T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q100756134,Pedro Badrán Padauí,male,1960-01-01T00:00:00Z,Colombia,South America
+http://www.wikidata.org/entity/Q100758394,Hugo Chaparro Valderrama,male,1961-01-01T00:00:00Z,Colombia,South America
+http://www.wikidata.org/entity/Q100758919,José Manuel Crespo,male,1942-05-29T00:00:00Z,Colombia,South America
+http://www.wikidata.org/entity/Q100764067,Leandro Buboltz,male,1983-08-19T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100765002,Wilson Chimeli,male,1989-02-12T00:00:00Z,Paraguay,South America
+http://www.wikidata.org/entity/Q100766876,Francisco Cáffaro,male,2000-05-19T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q100767441,Zaronn Cann,male,1986-10-30T00:00:00Z,Chile,South America
+http://www.wikidata.org/entity/Q100767493,Ramón Portas,male,1928-11-19T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q100767596,Juan Cardenas,male,1997-01-10T00:00:00Z,Colombia,South America
+http://www.wikidata.org/entity/Q100767686,Federico Carlotta,male,1978-10-06T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q100768483,Felix Caspari,male,1987-03-16T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100768788,Renato Cesar,male,1982-09-06T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100768872,Jorsua Chambers,male,1981-06-11T00:00:00Z,Panama,South America
+http://www.wikidata.org/entity/Q100768903,Gabriel Chami,male,1984-01-01T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q100770257,Adenilson Clementino,male,1981-09-08T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100771329,Fernando Coloneze,male,1978-07-13T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100772575,Thiago Cordeiro,male,1985-12-18T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100772754,Marcelo Correa,male,1977-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100772870,Armani Cotton,male,1991-10-01T00:00:00Z,Panama,South America
+http://www.wikidata.org/entity/Q100773525,Kevin Crescenzi,male,1993-01-02T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100774594,Guilherme Da Luz,male,1979-11-12T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100774597,Tulio Da Silva,male,1996-07-03T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100774994,Eduardo Neale-Silva,male,1905-12-10T00:00:00Z,Chile,South America
+http://www.wikidata.org/entity/Q100775145,Rafael Da Silva,male,1985-05-10T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100775147,Raphael da Silva,male,1983-05-02T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q1007752,Abraão Lincoln Martins,male,1983-06-14T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100775409,Brandon Davis,male,1998-10-26T00:00:00Z,Colombia,South America
+http://www.wikidata.org/entity/Q100776115,Ricardo De Bem,male,1984-07-13T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100776150,Luciano de Souza,male,1986-12-19T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100776151,Rodrigo De Souza,male,1988-10-30T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100776957,Gilson de Jesus,male,1979-06-18T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100779091,Alexis Figueroa Aracena,male,1956-01-01T00:00:00Z,Chile,South America
+http://www.wikidata.org/entity/Q100782717,Carlos Dos Santos,male,1988-04-28T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100783660,Juan Carlos Bodoque Izuibejeres,male,1998-09-02T00:00:00Z,Uruguay,South America
+http://www.wikidata.org/entity/Q100785783,João Victor Lima Ferreira,male,1999-02-25T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q1007872,Anderson Roberto da Silva Luiz,male,1978-02-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100787446,Francisco Farabello,male,2000-11-01T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q100787454,Luis Clemente,male,1949-12-28T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q100787511,Antonio Romoleroux,male,1968-01-01T00:00:00Z,Ecuador,South America
+http://www.wikidata.org/entity/Q100791728,Jorge Pastor Asuaje,male,1954-01-01T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q100794479,Tyler Gaskins,male,1992-12-10T00:00:00Z,Panama,South America
+http://www.wikidata.org/entity/Q100794784,Thomas Gehrke,male,1982-06-24T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100795420,César Ureta,male,1945-03-20T00:00:00Z,Peru,South America
+http://www.wikidata.org/entity/Q100795609,André Seffrin,male,1965-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100795784,Kelvyn Ramos da Fonseca,male,1999-05-07T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100796267,Oswaldo Gonzalez,male,1979-10-31T00:00:00Z,Venezuela,South America
+http://www.wikidata.org/entity/Q100798277,Kalu Guasco,male,1981-05-09T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100798580,Luis Guzman,male,1979-07-22T00:00:00Z,Ecuador,South America
+http://www.wikidata.org/entity/Q100798640,Felipe Haase,male,1998-03-19T00:00:00Z,Chile,South America
+http://www.wikidata.org/entity/Q100801322,Aarão Alves,male,1974-08-26T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100805421,Jamelle Horne,male,1988-11-04T00:00:00Z,Panama,South America
+http://www.wikidata.org/entity/Q100805993,Francisco de Zela,male,1928-07-10T00:00:00Z,Peru,South America
+http://www.wikidata.org/entity/Q100817986,Mario Jackson,male,1968-05-04T00:00:00Z,Panama,South America
+http://www.wikidata.org/entity/Q100827232,Michael Javes,male,1990-07-16T00:00:00Z,Colombia,South America
+http://www.wikidata.org/entity/Q100832872,Daniel Gagliardi,male,1997-01-21T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100866710,Juliano Jordani,male,1976-10-13T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100868467,Francisco Junger,male,1973-03-19T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100868952,David Bosquez,male,2001-01-26T00:00:00Z,Panama,South America
+http://www.wikidata.org/entity/Q100870635,Jonathan King,male,1990-01-25T00:00:00Z,Panama,South America
+http://www.wikidata.org/entity/Q100871268,Gordon Klaiber,male,1983-10-10T00:00:00Z,Guyana,South America
+http://www.wikidata.org/entity/Q100871273,Pablo Zaffaroni,male,2001-01-14T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q100872923,Juninho,male,1982-07-25T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100874415,Cyril Langevine,male,1998-08-16T00:00:00Z,Guyana,South America
+http://www.wikidata.org/entity/Q100874729,Brian Latham,male,1983-12-18T00:00:00Z,Uruguay,South America
+http://www.wikidata.org/entity/Q100874962,Joaquin Moreno,male,1997-12-01T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q100875695,Luiz Lemes,male,1980-10-06T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100875757,Renan Lenz,male,1990-09-10T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100876493,Julio Paredes,male,1957-02-05T00:00:00Z,Colombia,South America
+http://www.wikidata.org/entity/Q100876712,Alonso Sánchez Baute,male,1964-01-01T00:00:00Z,Colombia,South America
+http://www.wikidata.org/entity/Q100876776,Francisco Sánchez Jiménez,male,1946-01-01T00:00:00Z,Colombia,South America
+http://www.wikidata.org/entity/Q100876910,José Stevenson,male,1932-01-01T00:00:00Z,Colombia,South America
+http://www.wikidata.org/entity/Q100877228,José Urriola,male,1971-01-01T00:00:00Z,Venezuela,South America
+http://www.wikidata.org/entity/Q100877468,Max Lorca-Lloyd,male,2000-01-12T00:00:00Z,Chile,South America
+http://www.wikidata.org/entity/Q100877890,Victor Luces,male,1977-01-26T00:00:00Z,Venezuela,South America
+http://www.wikidata.org/entity/Q100878165,Geno Luzcando,male,1995-04-24T00:00:00Z,Chile,South America
+http://www.wikidata.org/entity/Q100878580,Cristian Valencia,male,1963-01-01T00:00:00Z,Colombia,South America
+http://www.wikidata.org/entity/Q100878734,Alfredo Vanín,male,1950-01-01T00:00:00Z,Colombia,South America
+http://www.wikidata.org/entity/Q100878819,Roberto Mafra,male,1985-09-26T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100878966,Wanley Maia,male,1975-07-07T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100879046,Fernando Malaman,male,1985-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100879062,Rafael Maldonado,male,1974-08-06T00:00:00Z,Panama,South America
+http://www.wikidata.org/entity/Q100879587,Miguel Rocha Vivas,male,1976-01-01T00:00:00Z,Colombia,South America
+http://www.wikidata.org/entity/Q100879633,Ângelo,male,2004-12-21T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100880193,Álvaro Garzón López,male,1939-01-01T00:00:00Z,Colombia,South America
+http://www.wikidata.org/entity/Q100880196,Facundo Silvera,male,2001-11-18T00:00:00Z,Uruguay,South America
+http://www.wikidata.org/entity/Q100880578,Cass Matheus,male,1982-02-25T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100881746,Jorge Vidal Casas,male,1947-01-01T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q100883869,Jhan Paul Mejia,male,1994-06-15T00:00:00Z,Colombia,South America
+http://www.wikidata.org/entity/Q100886213,Iverson Molinar,male,1999-12-03T00:00:00Z,Panama,South America
+http://www.wikidata.org/entity/Q100887402,Edgar Moreno,male,1981-08-30T00:00:00Z,Colombia,South America
+http://www.wikidata.org/entity/Q100889243,Luis Murillo,male,1961-04-23T00:00:00Z,Colombia,South America
+http://www.wikidata.org/entity/Q100889402,Tymell Murphy,male,1990-12-30T00:00:00Z,Panama,South America
+http://www.wikidata.org/entity/Q100889640,Guillermo Myers,male,1968-03-17T00:00:00Z,Panama,South America
+http://www.wikidata.org/entity/Q100890424,Juan Carlos Hitters,male,1941-09-25T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q100890440,Rodrigo Moura Visoni,male,1980-03-21T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100890441,Felipe Cavalcante,male,1985-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100890443,Rodolfo Nogueira,male,1986-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100890444,Dib Carneiro Neto,male,1961-02-21T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100890447,Adalberto Valderrama Gerbasi,male,1952-12-16T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100890925,Parrerito,male,1953-06-20T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100894358,John Ortiz,male,1983-07-15T00:00:00Z,Colombia,South America
+http://www.wikidata.org/entity/Q100894467,Roque Osorio,male,1976-01-24T00:00:00Z,Venezuela,South America
+http://www.wikidata.org/entity/Q100894508,J.C. Otero,male,1985-11-14T00:00:00Z,Colombia,South America
+http://www.wikidata.org/entity/Q100894744,Trelonnie Owens,male,1971-10-25T00:00:00Z,Uruguay,South America
+http://www.wikidata.org/entity/Q100894961,Carlos Paez,male,2000-01-06T00:00:00Z,Venezuela,South America
+http://www.wikidata.org/entity/Q100895309,Keving Palacios,male,1984-09-29T00:00:00Z,Venezuela,South America
+http://www.wikidata.org/entity/Q100895311,Robert Palacios,male,1985-11-27T00:00:00Z,Venezuela,South America
+http://www.wikidata.org/entity/Q100895846,Gabriel Parizzia,male,1965-07-04T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q100897207,Matias Etchegoyen,male,1995-02-24T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q100897627,José Carabalí,male,1997-05-19T00:00:00Z,Ecuador,South America
+http://www.wikidata.org/entity/Q100898384,Rodrigo Peggau,male,1988-06-24T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100906604,Luiz Gonçalo,male,1960-06-05T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100906944,Alan Shoemaker,male,1953-01-01T00:00:00Z,Peru,South America
+http://www.wikidata.org/entity/Q100907556,Victor Ramalho,male,1984-08-08T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100912575,Fabio Ribeiro,male,1986-04-08T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100912577,Fabio Ribeiro,male,1968-09-27T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100915386,Pablo Rivas,male,1994-10-15T00:00:00Z,Panama,South America
+http://www.wikidata.org/entity/Q100918788,Marcelo Ruediger,male,1993-11-30T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100919342,Diogo Salazar,male,1983-05-02T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100921403,Rodrigo Segantim,male,1980-08-18T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100922794,Lucas Siewert,male,1997-05-05T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100922872,Juan Pablo Silveira,male,1986-03-03T00:00:00Z,Uruguay,South America
+http://www.wikidata.org/entity/Q100922873,Matheus Silveira,male,2000-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100925343,Romario Souza,male,1988-01-06T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100929179,Alex Guevara,male,1986-01-01T00:00:00Z,Peru,South America
+http://www.wikidata.org/entity/Q100930125,Omar Belmonte,male,1968-01-01T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q100934331,Gerardo Miguel Nieves Loja,male,1963-06-13T00:00:00Z,Ecuador,South America
+http://www.wikidata.org/entity/Q100934343,Aylton Tesch,male,1975-03-05T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100935286,Alejandro Bullón,male,1947-01-01T00:00:00Z,Peru,South America
+http://www.wikidata.org/entity/Q100935985,Fernando Tomasiello,male,1965-08-11T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100936543,Ricardo Trevisan,male,1978-03-30T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100936722,Tonny Trocha,male,1994-06-21T00:00:00Z,Colombia,South America
+http://www.wikidata.org/entity/Q100936934,Erick Suárez,male,1999-06-24T00:00:00Z,Bolivia,South America
+http://www.wikidata.org/entity/Q100939595,Jesus Urbina,male,1984-07-09T00:00:00Z,Venezuela,South America
+http://www.wikidata.org/entity/Q100939652,Julio Lobo,male,1994-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100941930,Doug Viegas,male,1979-06-19T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100941932,Rodrigo Viegas,male,1979-02-13T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100942458,Alex Magallanes,male,1997-03-15T00:00:00Z,Peru,South America
+http://www.wikidata.org/entity/Q100942913,Pablo Jarrín,male,1983-01-01T00:00:00Z,Ecuador,South America
+http://www.wikidata.org/entity/Q100943049,José Marconi Gomes Vieira,male,1962-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q1009567,Geovanis Cassiani,male,1970-01-10T00:00:00Z,Colombia,South America
+http://www.wikidata.org/entity/Q100969202,José Maria Sciutto,male,1947-02-10T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q100975589,Renato Aroeira,male,1954-05-18T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100977426,El Polaco,male,1987-05-23T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q100978686,Nicolás Renán Aguilera Arroyo,male,1972-05-09T00:00:00Z,Bolivia,South America
+http://www.wikidata.org/entity/Q100984038,Daniel King,male,1987-07-25T00:00:00Z,Panama,South America
+http://www.wikidata.org/entity/Q100984244,Enrique Rojas,male,1988-01-01T00:00:00Z,Venezuela,South America
+http://www.wikidata.org/entity/Q100985053,Alejandro Olivares,male,1976-11-03T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q100987719,Santiago Rebagliati,male,1996-08-01T00:00:00Z,Peru,South America
+http://www.wikidata.org/entity/Q100991542,Correa Vargas Rodolfo,male,1978-01-01T00:00:00Z,Colombia,South America
+http://www.wikidata.org/entity/Q100991568,Luiz Rachid Trabulsi,male,1927-08-18T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q100995903,Bryan García,male,2001-01-18T00:00:00Z,Ecuador,South America
+http://www.wikidata.org/entity/Q101001007,Kevin Zenón,male,2001-07-30T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q101001008,José Waikit Feng Ng,male,1992-01-01T00:00:00Z,Venezuela,South America
+http://www.wikidata.org/entity/Q101002993,Bruno Henrique de Sousa,male,1992-10-25T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101003117,Welder Knaf,male,1981-04-06T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101007471,Clemente Vásquez,male,1901-01-01T00:00:00Z,Ecuador,South America
+http://www.wikidata.org/entity/Q101013567,Ariel Mamede,male,1989-05-24T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101016626,Imanol Machuca,male,2000-01-15T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q101016975,Jared Fitzgerald,male,1998-08-16T00:00:00Z,Peru,South America
+http://www.wikidata.org/entity/Q101018258,China Balbino,male,1979-06-20T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q1010218,Huenes Marcelo Lemos,male,1981-12-05T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q1010259,Miguel Giacomuzzi,male,1958-08-07T00:00:00Z,Paraguay,South America
+http://www.wikidata.org/entity/Q101042418,J Chaiane,male,2002-07-31T00:00:00Z,Uruguay,South America
+http://www.wikidata.org/entity/Q101048869,João Vicente Freitas Neto,male,1949-12-19T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101053044,Piero Hincapié,male,2002-01-09T00:00:00Z,Ecuador,South America
+http://www.wikidata.org/entity/Q101063969,Aldo Zárate,male,2001-08-07T00:00:00Z,Paraguay,South America
+http://www.wikidata.org/entity/Q101064328,Sergio Villamayor,male,1989-12-04T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q101068088,Valmir Calheiros de Siqueira,male,1944-03-23T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101068125,Edécio Lopes Vasconcelos,male,1933-09-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101070061,Facundo Cáseres,male,2001-05-28T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q101070074,René Del Villar,male,1945-01-01T00:00:00Z,Chile,South America
+http://www.wikidata.org/entity/Q101071783,Gianfranco Quattrini,male,1972-01-01T00:00:00Z,Peru,South America
+http://www.wikidata.org/entity/Q101078672,Leonel Bucca,male,1999-03-20T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q101080038,Pedro Mario Pereyra,male,1943-07-20T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q101083354,Fabio Martínez,male,1981-01-01T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q101084011,Lucas Esquivel,male,2001-10-14T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q101084016,Hernán Cereceda,male,1926-04-29T00:00:00Z,Chile,South America
+http://www.wikidata.org/entity/Q101084326,Carlos Alberto Santos Costa,male,1977-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101084360,Facundo Kruspzky,male,2002-07-28T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q101084366,Jorge Chávez Álvarez,male,1955-01-16T00:00:00Z,Peru,South America
+http://www.wikidata.org/entity/Q101084371,Wilbert Portugal,male,1976-09-16T00:00:00Z,Peru,South America
+http://www.wikidata.org/entity/Q101084387,Jaime Salomón,male,1963-01-01T00:00:00Z,Peru,South America
+http://www.wikidata.org/entity/Q101084681,Mario Unzueta Urquidi,male,1905-01-01T00:00:00Z,Bolivia,South America
+http://www.wikidata.org/entity/Q101085450,Nicolás Rossi,male,1998-06-18T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q101090250,Claudio Javier Zega,male,1975-04-30T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q101092866,Nelsinho Santana,male,1955-07-31T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101094265,Raúl Cortés Peña,male,1915-03-18T00:00:00Z,Chile,South America
+http://www.wikidata.org/entity/Q101094279,Kencris,male,1997-10-05T00:00:00Z,Peru,South America
+http://www.wikidata.org/entity/Q101095876,Tom Veiga,male,1973-02-06T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101107246,Cesar Lora,male,1927-08-15T00:00:00Z,Bolivia,South America
+http://www.wikidata.org/entity/Q101109531,Ami Rodríguez,male,1994-05-18T00:00:00Z,Colombia,South America
+http://www.wikidata.org/entity/Q101110680,Richar Nelson Sierra Alquerque,male,1983-01-01T00:00:00Z,Colombia,South America
+http://www.wikidata.org/entity/Q101112638,Cristóbal Arteaga Rozas,male,1979-01-01T00:00:00Z,Chile,South America
+http://www.wikidata.org/entity/Q101112683,Flavio Tenius,male,1964-05-08T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101115670,Gianluca Petecof,male,2002-11-14T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101116019,Léo de Almeida Neves,male,1932-03-22T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101116053,Pedro Medeiros,male,1946-12-24T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101116086,Alexander Concha,male,1999-06-07T00:00:00Z,Chile,South America
+http://www.wikidata.org/entity/Q101116087,Matías Contreras,male,1998-08-06T00:00:00Z,Chile,South America
+http://www.wikidata.org/entity/Q101129365,Braian Aguirre,male,2000-07-28T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q101129805,Dorival Souza Barreto Júnior,male,1964-04-10T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101130047,Valter Magno de Carvalho,male,1973-02-22T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101130402,Armando Rubén Becerra Flores,male,1950-05-05T00:00:00Z,Peru,South America
+http://www.wikidata.org/entity/Q101130523,Adolfo Aurelio Gaffoglio,male,1933-10-22T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q101130532,Lío Pecoraro,male,1975-09-06T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q101130542,Aldo Armando Cocca,male,1924-09-04T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q101130621,Roberto Rimoldi Fraga,male,1944-11-11T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q101130634,Roberto Moldavski,male,1962-09-10T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q101130643,Roger Guerra-García,male,1933-04-02T00:00:00Z,Peru,South America
+http://www.wikidata.org/entity/Q101130645,Rubén Zini,male,1942-07-09T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q101130648,Vicente Walde Jáuregui,male,1949-11-28T00:00:00Z,Peru,South America
+http://www.wikidata.org/entity/Q101130651,Carlos Malpica Silva Santisteban,male,1929-10-26T00:00:00Z,Peru,South America
+http://www.wikidata.org/entity/Q101132565,Lautaro Morales,male,1999-12-16T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q101146495,Javier Cadena,male,1901-01-01T00:00:00Z,Ecuador,South America
+http://www.wikidata.org/entity/Q101150681,Rajendre Khargi,male,1955-01-01T00:00:00Z,Suriname,South America
+http://www.wikidata.org/entity/Q101178602,Valentín Larralde,male,2000-11-15T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q101184262,Fabián Gerardo Castillo Suárez,male,1968-11-04T00:00:00Z,Colombia,South America
+http://www.wikidata.org/entity/Q1011888,Gonzalo Cardozo,male,1987-01-10T00:00:00Z,Paraguay,South America
+http://www.wikidata.org/entity/Q101195972,Guido Ratto,male,1999-06-08T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q101200422,Naoyuki Fernandez,male,1988-09-03T00:00:00Z,Colombia,South America
+http://www.wikidata.org/entity/Q101208381,Pedro Marcelo Schiuma,male,1962-12-20T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q101212151,Raúl García,male,1911-11-30T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q101220015,Max Adolf Westen,male,1913-11-07T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q101221804,Pablo Venegas Gallardo,male,1901-01-01T00:00:00Z,Ecuador,South America
+http://www.wikidata.org/entity/Q101230488,Breno Lopes,male,1996-01-24T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101235405,Américo Pellegrini Filho,male,1935-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101235437,Antonio Carlos Carrasqueira,male,1952-09-09T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101235439,Antonio Carlos Silva D'Ávila,male,1955-12-15T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101235440,Antonio Luiz Cagnin,male,1930-06-13T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101235456,Artur Matuck,male,1949-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101235468,Aylton Escobar,male,1943-10-14T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101235486,Boris Kossoy,male,1941-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101235502,Carlos Augusto Calil,male,1951-05-11T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101235526,Ciro Marcondes Filho,male,1948-09-09T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101235572,Dennis de Oliveira,male,1963-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101235584,Tadeu Chiarelli,male,1956-06-03T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101235588,Donato Ferrari,male,1933-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101235609,Edmir Perrotti,male,1948-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101235684,Fernando Iazzetta,male,1966-09-27T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101235703,Fredric Michael Litto,male,1939-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101235711,Geraldo Souza Dias,male,1954-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101235717,Gilbertto Prado,male,1954-08-16T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101235723,Gil Jardim,male,1958-01-11T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101235771,Ismar de Oliveira Soares,male,1943-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101235807,João Anzanello Carrascoza,male,1962-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101235810,João Luiz Musa,male,1951-09-24T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101235812,João Paulo Schlittler,male,1964-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101235905,Luiz Barco,male,1939-03-06T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101235909,Claudio Mubarac,male,1959-09-27T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101235911,Luiz Fernando Ramos,male,1956-10-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101235966,Marco Giannotti,male,1966-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101236070,Mario Ramiro,male,1957-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101236098,Massimo Di Felice,male,1969-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101236188,Roberto Moreira,male,1961-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101236207,Rubens Machado,male,1952-06-24T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101236306,Waldomiro Vergueiro,male,1956-09-25T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101238793,Eduardo d'Oliveira França,male,1917-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101242508,Edelton Gloeden,male,1955-06-19T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101242529,Evandro Carlos Jardim,male,1935-04-15T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101242548,Olivier Toni,male,1926-05-27T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101242552,Gilberto Tinetti,male,1932-04-06T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101242567,Ismail Xavier,male,1947-11-09T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101242590,José Eduardo Martins,male,1938-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101242598,José Marques de Melo,male,1943-06-15T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101242607,Lalo Leal,male,1948-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101242682,Mário Ficarelli,male,1935-07-04T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101242707,Osvaldo Sangiorgi,male,1921-05-09T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101242717,Régis Duprat,male,1930-07-11T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101242726,Ricardo Amadeo Junior,male,1945-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101242751,Sérgio de Carvalho,male,1967-02-17T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101242766,Thomaz Farkas,male,1924-10-17T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101242778,Walter Zanini,male,1925-05-21T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101242849,Carlos Portinho,male,1973-07-02T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101243395,Carlos Malpica Rivarola,male,1908-11-04T00:00:00Z,Peru,South America
+http://www.wikidata.org/entity/Q101243420,Manuel Burga Puelles,male,1900-01-01T00:00:00Z,Peru,South America
+http://www.wikidata.org/entity/Q101245811,Wellington Rato,male,1992-06-28T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101246160,Eduardo Amaral,male,1967-06-29T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101247073,Juan Francisco Estable Puig,male,1930-10-05T00:00:00Z,Uruguay,South America
+http://www.wikidata.org/entity/Q101247082,Alejandro Hartmann,male,1973-05-17T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q101247266,Anthony Valencia,male,2003-07-21T00:00:00Z,Ecuador,South America
+http://www.wikidata.org/entity/Q101247588,Jefferson Galego,male,1997-04-04T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101248984,Freddy Ghilardi,male,1955-03-01T00:00:00Z,Peru,South America
+http://www.wikidata.org/entity/Q101250897,Alexis Sabella,male,2001-06-20T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q101251209,Víctor Jorge Moreno Quiroz,male,1949-12-18T00:00:00Z,Peru,South America
+http://www.wikidata.org/entity/Q101251381,Dimas Zegarra,male,1932-12-19T00:00:00Z,Peru,South America
+http://www.wikidata.org/entity/Q101298526,Timótheos Torres,male,1969-04-29T00:00:00Z,Colombia,South America
+http://www.wikidata.org/entity/Q101307495,Raúl Padovani,male,1901-01-01T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q10131,Francisco Varallo,male,1910-02-05T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q101329129,Esteban González,male,1982-03-17T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q101368565,Cristian Devenish,male,2001-01-25T00:00:00Z,Colombia,South America
+http://www.wikidata.org/entity/Q1013707,Mário Brandão da Silveira,male,1987-01-26T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101424710,Maurício Souza,male,1974-03-13T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101425490,Ramiro Sordo,male,2000-06-29T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q101429398,Cuquinha,male,1969-06-08T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101429482,Eudes Pedro,male,1966-07-19T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101436759,Edgar Montaño,male,1971-08-23T00:00:00Z,Bolivia,South America
+http://www.wikidata.org/entity/Q101438426,Vovo do Ile,male,1952-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101445566,Diego Tavares,male,1983-01-15T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101446549,Marconne Montenegro,male,1974-06-17T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101466040,Katanna Clarke,male,1940-09-07T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101491543,Gonzalo Benítez,male,1915-01-01T00:00:00Z,Ecuador,South America
+http://www.wikidata.org/entity/Q101495898,Luciano Olaizola,male,2001-08-22T00:00:00Z,Uruguay,South America
+http://www.wikidata.org/entity/Q101500051,Agustín Alfaro,male,1999-06-29T00:00:00Z,Uruguay,South America
+http://www.wikidata.org/entity/Q101500309,Lenin Checco Chauca,male,1979-05-16T00:00:00Z,Peru,South America
+http://www.wikidata.org/entity/Q101515848,Lucio Cinti,male,2000-02-23T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q101542243,Eduardo Jara Miranda,male,1934-01-01T00:00:00Z,Chile,South America
+http://www.wikidata.org/entity/Q101542315,Willie Salcedo,male,1954-01-01T00:00:00Z,Colombia,South America
+http://www.wikidata.org/entity/Q101557018,Raúl Santana,male,1989-04-17T00:00:00Z,Ecuador,South America
+http://www.wikidata.org/entity/Q101558322,Luís Oyama,male,1997-01-30T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101565301,Alfonso Ortiz,male,1947-01-01T00:00:00Z,Colombia,South America
+http://www.wikidata.org/entity/Q101567355,Pablo Alvarez Rocha,male,1964-06-01T00:00:00Z,Uruguay,South America
+http://www.wikidata.org/entity/Q101574018,Alejo Chornobroff,male,1992-01-24T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q101579731,Alfredo Londaibere,male,1955-01-01T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q101579946,Gino Infantino,male,2003-05-19T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q101580033,Carlos Véliz,male,1986-09-07T00:00:00Z,Chile,South America
+http://www.wikidata.org/entity/Q101580075,Walter Chávez Cruz,male,1901-01-01T00:00:00Z,Peru,South America
+http://www.wikidata.org/entity/Q101580328,José Praxedes de Andrade,male,1900-04-06T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101584400,Armando Massé,male,1959-06-13T00:00:00Z,Peru,South America
+http://www.wikidata.org/entity/Q101584414,Daniel Vannet,male,1951-09-23T00:00:00Z,Uruguay,South America
+http://www.wikidata.org/entity/Q101628174,Orlando Figuera,male,1996-01-01T00:00:00Z,Venezuela,South America
+http://www.wikidata.org/entity/Q101628259,Nathan Tjoe-A-On,male,2001-12-22T00:00:00Z,Suriname,South America
+http://www.wikidata.org/entity/Q101680179,Marcelo Alves,male,1998-02-07T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101690345,Juan González,male,2000-09-25T00:00:00Z,Venezuela,South America
+http://www.wikidata.org/entity/Q101693563,Calebe,male,2000-04-30T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101761515,João Victor,male,2002-04-06T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101764291,Luiz Henrique,male,2001-01-02T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101791178,Juan José Cáceres,male,2000-06-01T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q101808484,Vinicius Balieiro,male,1999-05-28T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101824024,Ricardo Bedoya,male,1954-01-01T00:00:00Z,Peru,South America
+http://www.wikidata.org/entity/Q101834112,Rubén Darío Almonacid,male,1943-01-01T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q101855530,Ícaro Lira,male,1986-01-01T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101917249,Sir Chandler,male,1974-02-05T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q101917689,Julio Fierro,male,2002-04-09T00:00:00Z,Chile,South America
+http://www.wikidata.org/entity/Q101918330,Lula,male,1966-05-15T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q101932027,Beto de Volder,male,1962-01-01T00:00:00Z,Argentina,South America
+http://www.wikidata.org/entity/Q102012734,Iranildo Conceição Espíndola,male,1969-01-24T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q102035839,Wrays Pérez,male,1961-04-18T00:00:00Z,Peru,South America
+http://www.wikidata.org/entity/Q102035885,João Luís Barbosa,male,1962-05-20T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q102035903,Jorginho,male,1962-05-19T00:00:00Z,Brazil,South America
+http://www.wikidata.org/entity/Q102036354,Inti Sotelo,male,1996-02-02T00:00:00Z,Peru,South America
