@@ -117,8 +117,100 @@ class GenderizeIoHandler(ServiceHandler):
         prediction = self.parse_response(response, useLocalization)
         return prediction
     
+class GenderAPIHandler(ServiceHandler):
+    key = os.getenv("genderAPIkey")
+    url = "https://api.genderapi.io/api"
+    def __init__(self, datasource):
+        super().__init__(datasource)
 
+    def callAPI(self, useLocalization:bool, useAI:bool=False, force:bool=False)->list[str]:
+        responses = []
 
+        for _, row in self.datasource.iterrows():
+            payload = {'name' : row['firstName']}
+            if useLocalization:
+                payload['country'] = row['isoCountry']
+            if useAI:
+                payload['askToAI'] = useAI
+            if force:
+                payload['forceToGenderize']=force
+
+            headers = {
+                "Content-Type": "application/json",
+                "Authorization": f"Bearer {self.key}"
+            }
+
+            response = requests.post(self.url, headers=headers, json=payload)
+            responses.append(response.text)
+
+        return responses
+    
+
+    # {
+    # "status": true,
+    # "used_credits": 1,
+    # "remaining_credits": 4999,
+    # "expires": 1743659200,
+    # "q": "Alice", # name as input
+    # "name": "Alice", # name considered
+    # "gender": "female",
+    # "country": "US", # Country considered by the system. It can explicitly be different to the one passed ! 
+    # "total_names": 10234,
+    # "probability": 98,
+    # "duration": "4ms"
+    # }
+    def parse_response(self, responses:list[str], useLocalization:bool, useAI:bool=False, force:bool=False)->pd.DataFrame:
+        response_list = []
+        for i in range(len(responses)):
+            r_dict = json.loads(responses[i])
+            source = self.datasource.iloc[i]
+
+            fullName = source['fullName']
+            namePassed = r_dict.get('name')
+            correct_gender = source['gender']
+            predicted_gender = r_dict.get('gender')
+            localization = source['isoCountry']
+            service_used = 'genderAPI'
+
+            # extras
+            extra_total_names = r_dict.get('total_names')
+            extra_probability = r_dict.get('probability')
+            extra_country_used_by_service = r_dict.get('country')
+
+            response_list.append([
+                i,
+                fullName,
+                namePassed,
+                correct_gender,
+                predicted_gender,
+                localization, 
+                useLocalization,
+                service_used, 
+                extra_total_names,
+                extra_probability,
+                extra_country_used_by_service,
+                useAI,
+                force
+            ])
+        return pd.DataFrame(response_list, columns=['index', 
+                                                    'fullName', 
+                                                    'namePassed', 
+                                                    'correctGender', 
+                                                    'predictedGender',
+                                                    'localization',
+                                                    'useLocalization',
+                                                    'serviceUsed',
+                                                    'extraTotalName',
+                                                    'extraProbability',
+                                                    'extraCountryUsedByService',
+                                                    'extraUsedAI',
+                                                    'extraForcedGenderize'
+        ])
+
+    def get_prediction(self, useLocalization:bool, useAI:bool=False, force:bool=False)->pd.DataFrame:
+        response = self.callAPI(useLocalization)
+        prediction = self.parse_response(response, useLocalization, useAI, force)
+        return prediction
             
 
 
