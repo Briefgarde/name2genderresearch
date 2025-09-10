@@ -4,6 +4,7 @@ import json
 from abc import ABC, abstractmethod
 from dotenv import load_dotenv
 import os
+import gender_guesser.detector as gender
 
 load_dotenv()
 
@@ -13,8 +14,6 @@ class ServiceHandler(ABC):
     def __init__(self, datasource : pd.DataFrame):
         super().__init__()
         self.datasource = datasource
-    def build_request():
-        raise NotImplementedError
 
     @abstractmethod
     def callAPI():
@@ -40,9 +39,6 @@ class GenderizeIoHandler(ServiceHandler):
     def __init__(self, datasource: pd.DataFrame, hasSubscription:bool):
         super().__init__(datasource)
         self.hasSubscription = hasSubscription
-    
-    def build_request():
-        raise Exception("This service does not require a built request")
 
     def callAPI(self, useLocalization:bool)->list[str]:
         """
@@ -117,8 +113,8 @@ class GenderizeIoHandler(ServiceHandler):
         prediction = self.parse_response(response, useLocalization)
         return prediction
     
-class GenderAPIHandler(ServiceHandler):
-    key = os.getenv("genderAPIkey")
+class GenderAPI_IO_Handler(ServiceHandler):
+    key = os.getenv("genderAPI_IO_key")
     url = "https://api.genderapi.io/api"
     def __init__(self, datasource):
         super().__init__(datasource)
@@ -170,7 +166,7 @@ class GenderAPIHandler(ServiceHandler):
             correct_gender = source['gender']
             predicted_gender = r_dict.get('gender')
             localization = source['isoCountry']
-            service_used = 'genderAPI'
+            service_used = 'genderAPI.io'
 
             # extras
             extra_total_names = r_dict.get('total_names')
@@ -213,4 +209,181 @@ class GenderAPIHandler(ServiceHandler):
         return prediction
             
 
+class GenderGuesserHandler(ServiceHandler):
+    # This dictionary is there to guide how to interpret the predicted gender that the service answers first and align it with the answer of the other services. 
+    # The actual response of the service is categorized in another columns. 
+    gender_result_dict = {
+        'male' : 'male',
+        'mostly male': 'male',
+        'female' : 'female',
+        'mostly female' : 'female',
+        'andy' : 'unknown',
+        'unknown' : 'unknown'
+    }
 
+    def __init__(self, datasource:pd.DataFrame):
+        super().__init__(datasource)
+        self.detector = gender.Detector()
+
+    def callAPI(self, useLocalization:bool)->list[str]:
+        responses = []
+        for _, r in self.datasource.iterrows():
+            name = r['firstName']
+            if useLocalization:
+                country = r['isoCountry']
+                response = self.detector.get_gender(name=name, country=country)
+            else : 
+                response = self.detector.get_gender(name=name)
+            responses.append(response)
+        return responses
+
+
+    def parse_response(self, responses:list[str], useLocalization:bool):
+        """
+        The responses from genderGuesser are very simple, since they are not a fully constructed JSON but a simple string containing the prediction. 
+        GenderGuesser can answer several strings : male, female, mostly male, mostly female, andy (for androgynous) and unknown. 
+        """
+        response_list = []
+
+        for i in range(len(responses)):
+            r = responses[i]
+            source = self.datasource.iloc[i]
+
+            fullName = source['fullName']
+            namePassed = source['firstName']
+            correct_gender = source['gender']
+            predicted_gender = self.gender_result_dict.get(r)
+            localization = source['isoCountry']
+            service_used = 'genderGuesser'
+
+            # extra
+            extra_precise_gender_predicted = r
+
+            response_list.append([
+                i,
+                fullName,
+                namePassed,
+                correct_gender,
+                predicted_gender, 
+                localization,
+                useLocalization,
+                service_used, 
+                extra_precise_gender_predicted
+            ])
+
+        return pd.DataFrame(response_list, columns=['index', 
+                                                    'fullName', 
+                                                    'namePassed', 
+                                                    'correctGender', 
+                                                    'predictedGender',
+                                                    'localization',
+                                                    'useLocalization',
+                                                    'serviceUsed',
+                                                    'extraPreciseGenderPredicted'
+        ])
+
+
+    def get_prediction(self, useLocalization:bool)->pd.DataFrame:
+        responses = self.callAPI(useLocalization)
+        return self.parse_response(responses, useLocalization)
+    
+
+class GenderAPI_com_Handler(ServiceHandler):
+    key = os.getenv('genderAPI_com_key')
+    url = 'https://gender-api.com/v2/gender'
+
+    def __init__(self, datasource):
+        super().__init__(datasource)
+
+    def callAPI(self, useLocalization:bool, useFullName:bool):
+        headers = {
+            'Content-Type' : 'application/json',
+            'Authorization': f'Bearer {self.key}'
+        }
+        responses = []
+        for _, row in self.datasource.iterrows():
+            payload = {}
+            if not useFullName:
+                payload['first_name'] = row['firstName']
+            else:
+                payload['full_name'] = row['fullName']
+            
+            if useLocalization:
+                payload['country'] = row['isoCountry']
+
+            response = requests.post(url=self.url, headers=headers, json=payload)
+            responses.append(response.text) 
+
+        return responses
+    
+
+#     {
+#    "input":{
+#       "full_name":"Clara Benson", # this says "first_name" if not useFullName
+#       "country":"GH" # only present if useLocalization
+#    },
+#    "details":{
+#       "credits_used":1,
+#       "duration":"39ms",
+#       "samples":81,
+#       "country":"GH", # set to null if not UseLocal
+#       "first_name_sanitized":"clara"
+#    },
+#    "result_found":true,
+#    "last_name":"Benson", # only if useLastName
+#    "first_name":"Clara", # This would also use any middle name if present
+#    "probability":0.98,
+#    "gender":"female"
+# }
+    def parse_response(self, responses:list[str], useLocalization:bool, useFullName:bool)->pd.DataFrame:
+        response_list = []
+        for i in range(len(responses)):
+            r_dict = json.loads(responses[i])
+            source = self.datasource.iloc[i]
+
+            fullName = source['fullName']
+            namePassed = r_dict['input']['full_name'] if useFullName else r_dict['input']['first_name']
+            correct_gender = source['gender']
+            predicted_gender = r_dict.get('gender')
+            localization = source['isoCountry']
+            service_used = 'genderAPI.com'
+
+            #extra
+            extra_probability = r_dict.get('probability')
+            extra_identifiedFirstName = r_dict.get('first_name')
+            extra_identifiedLastName = r_dict.get('last_name')
+
+            response_list.append([
+                i,
+                fullName,
+                namePassed,
+                correct_gender,
+                predicted_gender,
+                localization,
+                useLocalization,
+                service_used,
+                extra_probability,
+                extra_identifiedFirstName,
+                extra_identifiedLastName
+            ])
+
+        return pd.DataFrame(response_list, columns=[
+            'index',
+            'fullName',
+            'namePassed',
+            'correctGender',
+            'predictedGender',
+            'localization',
+            'useLocalization',
+            'serviceUsed',
+            'extraProbability',
+            'extraIdentifiedFirstName',
+            'extraIdentifiedLastName'
+        ])
+
+
+
+    def get_prediction(self, useLocalization:bool, useFullName:bool)->pd.DataFrame:
+        responses = self.callAPI(useLocalization, useFullName)
+
+        return self.parse_response(responses, useLocalization, useFullName)
