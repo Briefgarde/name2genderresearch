@@ -127,7 +127,7 @@ class GenderAPI_IO_Handler(ServiceHandler):
 
         for _, row in self.datasource.iterrows():
             payload = {'name' : row['firstName']}
-            if useLocalization:
+            if useLocalization and not pd.isna(row['isoCountry']):
                 payload['country'] = row['isoCountry']
             if useAI:
                 payload['askToAI'] = useAI
@@ -141,7 +141,6 @@ class GenderAPI_IO_Handler(ServiceHandler):
 
             response = requests.post(self.url, headers=headers, json=payload)
             responses.append(response.text)
-
         return responses
     
 
@@ -158,6 +157,7 @@ class GenderAPI_IO_Handler(ServiceHandler):
     # "probability": 98,
     # "duration": "4ms"
     # }
+
     def parse_response(self, responses:list[str], useLocalization:bool, useAI:bool=False, force:bool=False)->pd.DataFrame:
         response_list = []
         for i in range(len(responses)):
