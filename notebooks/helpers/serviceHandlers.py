@@ -5,6 +5,7 @@ from abc import ABC, abstractmethod
 from dotenv import load_dotenv
 import os
 import gender_guesser.detector as gender
+from enum import Enum
 
 load_dotenv()
 
@@ -308,7 +309,7 @@ class GenderAPI_com_Handler(ServiceHandler):
             else:
                 payload['full_name'] = row['fullName']
             
-            if useLocalization:
+            if useLocalization and not pd.isna(row['isoCountry']):
                 payload['country'] = row['isoCountry']
 
             response = requests.post(url=self.url, headers=headers, json=payload)
@@ -387,3 +388,192 @@ class GenderAPI_com_Handler(ServiceHandler):
         responses = self.callAPI(useLocalization, useFullName)
 
         return self.parse_response(responses, useLocalization, useFullName)
+
+
+
+class NamSorEndpoint(Enum):
+    FIRST_NAME = "genderBatch"
+    FIRST_NAME_GEO = "genderGeoBatch"
+    FULL_NAME = "genderFullBatch"
+    FULL_NAME_GEO = "genderFullGeoBatch"
+
+class NamSorHandler(ServiceHandler):
+    base_url = "https://v2.namsor.com/NamSorAPIv2/api2/json/"
+    method = "POST"
+    key = os.getenv('nameSor_key')
+
+    def __init__(self, datasource):
+        super().__init__(datasource)
+
+    def callAPI(self, endpoint: NamSorEndpoint):
+        url = self.base_url + endpoint.value
+        headers = {
+            "X-API-KEY": self.key,
+            "Accept": "application/json",
+            "Content-Type": "application/json"
+        }
+
+        responses = []
+        for _, row in self.datasource.iterrows():
+            payload = {'personalNames' : []}
+            
+            if (endpoint == NamSorEndpoint.FIRST_NAME) or (endpoint==NamSorEndpoint.FIRST_NAME_GEO):
+                payload['personalNames'].append({'firstName':row['firstName']})
+            else:
+                payload['personalNames'].append({'name' : row['fullName']})
+            
+            if (endpoint == NamSorEndpoint.FIRST_NAME_GEO) or (endpoint == NamSorEndpoint.FULL_NAME_GEO):
+                if not pd.isna(row['isoCountry']):
+                    payload['personalNames'][0]['countryIso2'] = row['isoCountry']
+
+            response = requests.request(self.method, url, json=payload, headers=headers)
+            responses.append(response.text)
+
+        return responses
+    
+    def parse_response(self, responses:list[str], endpoint:NamSorEndpoint):
+        response_list = []
+
+        for i in range(len(responses)):
+            r_dict = json.loads(responses[i])
+            r_dict = r_dict['personalNames'][0]
+            source = self.datasource.iloc[i]
+
+            fullName = source['fullName']
+            namePassed = r_dict['firstName'] if endpoint in [NamSorEndpoint.FIRST_NAME, NamSorEndpoint.FIRST_NAME_GEO] else r_dict['name']
+            correct_gender = source['gender']
+            predicted_gender = r_dict.get('likelyGender')
+            localization = source['isoCountry']
+            usedLocalization = True if (endpoint == NamSorEndpoint.FIRST_NAME_GEO) or (endpoint == NamSorEndpoint.FULL_NAME_GEO) else False
+            service_used = 'NamSor'
+
+            # extra
+            extra_genderScale = r_dict['genderScale']
+            extra_score = r_dict['score']
+            extra_probabilityCalibrated = r_dict['probabilityCalibrated']
+            extra_script = r_dict['script']
+            
+            response_list.append([
+                i,
+                fullName,
+                namePassed,
+                correct_gender, 
+                predicted_gender,
+                localization,
+                usedLocalization,
+                service_used,
+                extra_genderScale,
+                extra_score,
+                extra_probabilityCalibrated,
+                extra_script
+            ])
+
+        return pd.DataFrame(response_list, columns=[
+            'index',
+            'fullName',
+            'namePassed',
+            'correctGender',
+            'predictedGender',
+            'localization',
+            'useLocalization',
+            'serviceUsed',
+            'extraGenderScale',
+            'extraScore',
+            'extraProbabilityCalibrated',
+            'extraScript'
+        ])
+
+    def get_prediction(self, endpoint:NamSorEndpoint):
+        response = self.callAPI(endpoint)
+        return self.parse_response(response, endpoint)
+    
+
+class NameAPIHandler(ServiceHandler):
+    key = os.getenv('nameAPI_key_prefix') + '-' + os.getenv('nameAPI_key_suffix')
+    url = 'https://api.nameapi.org/rest/v5.3/genderizer/persongenderizer?apiKey='
+    method = 'POST'
+
+    genderResult_mapping = {'MALE': 'male', 'FEMALE': 'female'}
+    
+    def __init__(self, datasource):
+        super().__init__(datasource)
+
+    def callAPI(self, useFullName:bool)->list[str]:
+        responses = []
+
+        headers = {
+            'Content-Type' : 'application/json'
+        }
+        
+        for _, row in self.datasource.iterrows():
+            payload = {
+                "inputPerson": {
+                    "type": "NaturalInputPerson",
+                    "personName": {
+                        "nameFields": [
+                            {
+                                "string": row['fullName'] if useFullName else row['firstName'],
+                                "fieldType": "FULLNAME" if useFullName else "SURNAME",
+                            }
+                        ]
+                    }
+                }
+            }
+            response = requests.post(url=self.url + self.key, headers=headers, json=payload)
+            responses.append(response.text)
+
+        return responses
+
+
+    # {"gender":"FEMALE","maleProportion":null,"confidence":0.9333333333333333}    
+    def parse_response(self, responses:list[str], useFullName:bool)->pd.DataFrame:
+        response_list = []
+
+        for i in range(len(responses)):
+            r_dict = json.loads(responses[i])
+            source = self.datasource.iloc[i]
+
+            fullName = source['fullName']
+            namePassed = source['fullName'] if useFullName else source['firstName']
+            correctGender = source['gender']
+            extra_preciseGenderPredicted = r_dict.get('gender')
+            predictedGender = self.genderResult_mapping.get(extra_preciseGenderPredicted) if extra_preciseGenderPredicted in self.genderResult_mapping.keys() else 'unknown'
+            localization = source['isoCountry']
+            useLocalization = False
+            serviceUsed = 'NameAPI'
+
+            # extra
+            extra_maleProportion = r_dict.get('maleProportion')
+            extra_confidence = r_dict.get('confidence')
+
+            response_list.append([
+                i,
+                fullName,
+                namePassed,
+                correctGender,
+                predictedGender,
+                localization,
+                useLocalization,
+                serviceUsed,
+                extra_preciseGenderPredicted,
+                extra_maleProportion,
+                extra_confidence
+            ])
+
+        return pd.DataFrame(response_list, columns=[
+            'index',
+            'fullName',
+            'namePassed',
+            'correctGender',
+            'predictedGender',
+            'localization',
+            'useLocalization',
+            'serviceUsed',
+            'extrapreciseGenderPredicted',
+            'extraMaleProportion',
+            'extraConfidence'
+        ])
+
+    def get_prediction(self, useFullName:bool)->pd.DataFrame:
+        responses = self.callAPI(useFullName)
+        return self.parse_response(responses, useFullName)
