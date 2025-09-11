@@ -6,6 +6,8 @@ from dotenv import load_dotenv
 import os
 import gender_guesser.detector as gender
 from enum import Enum
+import asyncio
+import aiohttp
 
 load_dotenv()
 
@@ -498,31 +500,36 @@ class NameAPIHandler(ServiceHandler):
     def __init__(self, datasource):
         super().__init__(datasource)
 
-    def callAPI(self, useFullName:bool)->list[str]:
-        responses = []
+    async def _fetch(self, session, payload, idx):
+        """Async helper to fetch one response and preserve order with idx."""
+        async with session.post(self.url + self.key, headers={"Content-Type": "application/json"}, json=payload) as resp:
+            text = await resp.text()
+            return idx, text  # keep index for ordering
 
-        headers = {
-            'Content-Type' : 'application/json'
-        }
-        
-        for _, row in self.datasource.iterrows():
-            payload = {
-                "inputPerson": {
-                    "type": "NaturalInputPerson",
-                    "personName": {
-                        "nameFields": [
-                            {
-                                "string": row['fullName'] if useFullName else row['firstName'],
-                                "fieldType": "FULLNAME" if useFullName else "SURNAME",
-                            }
-                        ]
+    async def callAPI(self, useFullName: bool) -> list[str]:
+        """Asynchronous API caller for NameAPI (preserves order)."""
+        tasks = []
+        async with aiohttp.ClientSession() as session:
+            for i, row in self.datasource.iterrows():
+                payload = {
+                    "inputPerson": {
+                        "type": "NaturalInputPerson",
+                        "personName": {
+                            "nameFields": [
+                                {
+                                    "string": row['fullName'] if useFullName else row['firstName'],
+                                    "fieldType": "FULLNAME" if useFullName else "SURNAME",
+                                }
+                            ]
+                        }
                     }
                 }
-            }
-            response = requests.post(url=self.url + self.key, headers=headers, json=payload)
-            responses.append(response.text)
+                tasks.append(self._fetch(session, payload, i))
 
-        return responses
+            results = await asyncio.gather(*tasks)  # list of (idx, response)
+            results.sort(key=lambda x: x[0])        # sort by index to preserve order
+            responses = [r for _, r in results]     # strip index
+            return responses
 
 
     # {"gender":"FEMALE","maleProportion":null,"confidence":0.9333333333333333}    
@@ -539,7 +546,8 @@ class NameAPIHandler(ServiceHandler):
             extra_preciseGenderPredicted = r_dict.get('gender')
             predictedGender = self.genderResult_mapping.get(extra_preciseGenderPredicted) if extra_preciseGenderPredicted in self.genderResult_mapping.keys() else 'unknown'
             localization = source['isoCountry']
-            useLocalization = False
+            useLocalization = False # NameAPI can technically use a variant of the country code, but uses ISO-639 code of the language
+            # Since it is not equivalent, I'll not be using it. 
             serviceUsed = 'NameAPI'
 
             # extra
@@ -574,6 +582,6 @@ class NameAPIHandler(ServiceHandler):
             'extraConfidence'
         ])
 
-    def get_prediction(self, useFullName:bool)->pd.DataFrame:
-        responses = self.callAPI(useFullName)
+    async def get_prediction(self, useFullName:bool)->pd.DataFrame:
+        responses = await self.callAPI(useFullName)
         return self.parse_response(responses, useFullName)
