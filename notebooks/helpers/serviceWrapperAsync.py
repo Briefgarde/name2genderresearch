@@ -131,7 +131,7 @@ class NamSorWrapper(ServiceWrapper):
         else:
             payload['personalNames'].append({'name' : row['fullName']})
             
-        if (endpoint == NamSorEndpoint.FIRST_NAME_GEO) or (endpoint == NamSorEndpoint.FULL_NAME_GEO):
+        if endpoint in [NamSorEndpoint.FULL_NAME_GEO, NamSorEndpoint.FIRST_NAME_GEO]:
             if not pd.isna(row['isoCountry']):
                 payload['personalNames'][0]['countryIso2'] = row['isoCountry']
 
@@ -150,7 +150,7 @@ class NamSorWrapper(ServiceWrapper):
             correct_gender = source['gender']
             predicted_gender = r_dict.get('likelyGender')
             localization = source['isoCountry']
-            usedLocalization = True if (endpoint == NamSorEndpoint.FIRST_NAME_GEO) or (endpoint == NamSorEndpoint.FULL_NAME_GEO) else False
+            usedLocalization = True if endpoint in [NamSorEndpoint.FULL_NAME_GEO, NamSorEndpoint.FIRST_NAME_GEO] else False
             service_used = 'NamSor'
 
             # extra
