@@ -44,6 +44,12 @@ class WrapperManager():
             ["genderize", "namsor"],
             config={"genderize": {"useLocalization": True}, "namsor": {"endpoint": NamSorEndpoint.FULL_NAME}}
         )
+
+        The output will be a dict with the following format : 
+        results = {
+            'genderize' : pd.Dataframe, 
+            'namsor' : pd.Dataframe
+        }
         """
         config = config or {}
         results = {}

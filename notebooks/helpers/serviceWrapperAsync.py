@@ -110,6 +110,7 @@ class NamSorEndpoint(Enum):
     FIRST_NAME_GEO = "genderGeoBatch"
     FULL_NAME = "genderFullBatch"
     FULL_NAME_GEO = "genderFullGeoBatch"
+
 class NamSorWrapper(ServiceWrapper):
     base_url = "https://v2.namsor.com/NamSorAPIv2/api2/json/"
     method = "POST"
@@ -126,7 +127,7 @@ class NamSorWrapper(ServiceWrapper):
 
         payload = {'personalNames' : []}
             
-        if (endpoint == NamSorEndpoint.FIRST_NAME) or (endpoint==NamSorEndpoint.FIRST_NAME_GEO):
+        if endpoint in [NamSorEndpoint.FIRST_NAME, NamSorEndpoint.FIRST_NAME_GEO]:
             payload['personalNames'].append({'firstName':row['firstName']})
         else:
             payload['personalNames'].append({'name' : row['fullName']})
@@ -334,16 +335,6 @@ class GenderizeWrapper(ServiceWrapper):
     url = f"https://api.genderize.io/"
     method = "GET"
     hasSubscription = False # THIS WILL NEED TO BE CHANGED WHEN WORKING WITH THE FULL THING
-
-    # def build_request(self, row, idx, useLocalization:bool):
-    #     querystring = {'name': row['firstName'], }
-    #     if self.hasSubscription:
-    #         querystring['apikey'] = self.key
-    #     if useLocalization:
-    #         querystring['country'] = row['isoCountry']
-
-
-    #     return self.method, self.url, None, querystring, None, idx
     
     def build_request(self, row, idx, useLocalization:bool):
         params = {"name": row["firstName"]}
@@ -372,15 +363,15 @@ class GenderizeWrapper(ServiceWrapper):
             extra_probability = r_dict.get('probability')
 
             response_list.append([i, 
-                                  fullName, 
-                                  namePassed, 
-                                  correct_gender, 
-                                  predicted_gender, 
-                                  localization,
-                                  useLocalization,
-                                  service_used, 
-                                  extra_count, 
-                                  extra_probability])
+                                fullName, 
+                                namePassed, 
+                                correct_gender, 
+                                predicted_gender, 
+                                localization,
+                                useLocalization,
+                                service_used, 
+                                extra_count, 
+                                extra_probability])
 
         return pd.DataFrame(response_list, columns=['index', 
                                                     'fullName', 
