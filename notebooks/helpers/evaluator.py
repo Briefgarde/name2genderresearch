@@ -56,7 +56,7 @@ class Evaluator():
                             columns=['f_pred', 'm_pred', 'u_pred'])
     
 
-    def compute_error_without_unknown(conf_matrix):
+    def compute_error_without_unknown(self, conf_matrix):
         """Corresponds to 'errorCodedWithoutNA' from genderizeR-paper:
         https://journal.r-project.org/archive/2016/RJ-2016-002/RJ-2016-002.pdf"""
         error_without_unknown = (conf_matrix.loc['f', 'm_pred'] + conf_matrix.loc['m', 'f_pred']) / \
@@ -65,7 +65,7 @@ class Evaluator():
 
         return error_without_unknown
 
-    def compute_error_with_unknown(conf_matrix):
+    def compute_error_with_unknown(self, conf_matrix):
         """
         Corresponds to 'errorCoded' from genderizeR-paper:
         https://journal.r-project.org/archive/2016/RJ-2016-002/RJ-2016-002.pdf"""
@@ -75,7 +75,7 @@ class Evaluator():
 
         return error_with_unknown
 
-    def compute_error_unknown(conf_matrix):
+    def compute_error_unknown(self, conf_matrix):
         """Corresponds 'naCoded' from genderizeR-paper:
         https://journal.r-project.org/archive/2016/RJ-2016-002/RJ-2016-002.pdf"""
         true_f_and_m = conf_matrix.loc['f', :].sum() + conf_matrix.loc['m', :].sum()
@@ -83,7 +83,7 @@ class Evaluator():
 
         return error_unknown
 
-    def compute_error_gender_bias(conf_matrix):
+    def compute_error_gender_bias(self, conf_matrix):
         """Corresponds 'errorGenderBias' from genderizeR-paper:
         https://journal.r-project.org/archive/2016/RJ-2016-002/RJ-2016-002.pdf"""
         error_gender_bias = (conf_matrix.loc['m', 'f_pred'] - conf_matrix.loc['f', 'm_pred']) / \
@@ -91,3 +91,22 @@ class Evaluator():
                              conf_matrix.loc['m', 'f_pred'] + conf_matrix.loc['m', 'm_pred'])
 
         return error_gender_bias
+    
+    def compute_weighted_error(self, conf_matrix, eps=0.2):
+        """Compute weighted version of 'error_with_unknown', where terms related to classifying 'f' and 'm' as 'u'
+        is multiplied with 'eps'."""
+        numer = (conf_matrix.loc['m', 'f_pred'] + conf_matrix.loc['f', 'm_pred'] + eps * (
+                conf_matrix.loc['m', 'u_pred'] + conf_matrix.loc['f', 'u_pred']))
+        denom = (conf_matrix.loc['f', 'f_pred'] + conf_matrix.loc['f', 'm_pred'] + conf_matrix.loc['m', 'f_pred'] +
+                 conf_matrix.loc['m', 'm_pred'] + eps * (
+                        conf_matrix.loc['m', 'u_pred'] + conf_matrix.loc['f', 'u_pred']))
+        return numer / denom
+
+    def compute_all_errors(self, conf_matrix):
+        self.confusion_matrix = conf_matrix
+        error_with_unknown = self.compute_error_with_unknown(self.confusion_matrix)
+        error_without_unknown = self.compute_error_without_unknown(self.confusion_matrix)
+        error_unknown = self.compute_error_unknown(self.confusion_matrix)
+        error_gender_bias = self.compute_error_gender_bias(self.confusion_matrix)
+        weighted_error = self.compute_weighted_error(self.confusion_matrix)
+        return [error_with_unknown, error_without_unknown, error_gender_bias, error_unknown, weighted_error]
