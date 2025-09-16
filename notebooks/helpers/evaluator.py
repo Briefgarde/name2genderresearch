@@ -104,9 +104,17 @@ class Evaluator():
 
     def compute_all_errors(self, conf_matrix):
         self.confusion_matrix = conf_matrix
-        error_with_unknown = self.compute_error_with_unknown(self.confusion_matrix)
-        error_without_unknown = self.compute_error_without_unknown(self.confusion_matrix)
-        error_unknown = self.compute_error_unknown(self.confusion_matrix)
-        error_gender_bias = self.compute_error_gender_bias(self.confusion_matrix)
-        weighted_error = self.compute_weighted_error(self.confusion_matrix)
-        return [error_with_unknown, error_without_unknown, error_gender_bias, error_unknown, weighted_error]
+        error = {}
+        error['error_with_unknown'] = self.compute_error_with_unknown(self.confusion_matrix)
+        error['error_without_unknown'] = self.compute_error_without_unknown(self.confusion_matrix)
+        error['error_unknown'] = self.compute_error_unknown(self.confusion_matrix)
+        error['error_gender_bias'] = self.compute_error_gender_bias(self.confusion_matrix)
+        error['weighted_error'] = self.compute_weighted_error(self.confusion_matrix)
+        return error
+    
+        # error_with_unknown = self.compute_error_with_unknown(self.confusion_matrix)
+        # error_without_unknown = self.compute_error_without_unknown(self.confusion_matrix)
+        # error_unknown = self.compute_error_unknown(self.confusion_matrix)
+        # error_gender_bias = self.compute_error_gender_bias(self.confusion_matrix)
+        # weighted_error = self.compute_weighted_error(self.confusion_matrix)
+        # return [error_with_unknown, error_without_unknown, error_gender_bias, error_unknown, weighted_error]
