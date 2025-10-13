@@ -213,7 +213,8 @@ class GenderAPI_IO_Handler(ServiceHandler):
             
 
 class GenderGuesserHandler(ServiceHandler):
-    # This dictionary is there to guide how to interpret the predicted gender that the service answers first and align it with the answer of the other services. 
+    # This dictionary is there to guide how to interpret the predicted gender 
+    # that the service answers first and align it with the answer of the other services. 
     # The actual response of the service is categorized in another columns. 
     gender_result_dict = {
         'male' : 'male',
@@ -286,7 +287,7 @@ class GenderGuesserHandler(ServiceHandler):
         ])
 
 
-    def get_prediction(self, useLocalization:bool)->pd.DataFrame:
+    def get_prediction(self, useLocalization:bool=False)->pd.DataFrame:
         responses = self.callAPI(useLocalization)
         return self.parse_response(responses, useLocalization)
     

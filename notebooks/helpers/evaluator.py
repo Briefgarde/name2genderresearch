@@ -4,8 +4,6 @@ This entire evaluator was taken almost directly from https://peerj.com/articles/
 The github of said paper is available here : https://github.com/GenderGapSTEM-PublicationAnalysis/name_gender_inference/tree/main
 """
 
-
-
 import pandas as pd
 from enum import Enum
 
@@ -88,7 +86,7 @@ class Evaluator():
         https://journal.r-project.org/archive/2016/RJ-2016-002/RJ-2016-002.pdf"""
         error_gender_bias = (conf_matrix.loc['m', 'f_pred'] - conf_matrix.loc['f', 'm_pred']) / \
                             (conf_matrix.loc['f', 'f_pred'] + conf_matrix.loc['f', 'm_pred'] +
-                             conf_matrix.loc['m', 'f_pred'] + conf_matrix.loc['m', 'm_pred'])
+                            conf_matrix.loc['m', 'f_pred'] + conf_matrix.loc['m', 'm_pred'])
 
         return error_gender_bias
     

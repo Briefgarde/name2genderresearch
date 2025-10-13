@@ -46,14 +46,14 @@ class ServiceWrapper(ABC):
                 tasks.append(self._fetch(session, method, url, headers, payload, params, idx))
 
             results = await asyncio.gather(*tasks)  # preserves order
-            results.sort(key=lambda x: x[0])        # explicit safeguard
-            responses = [r for _, r in results]
-            return responses
+            # results.sort(key=lambda x: x[0])        # explicit safeguard
+            i_list, responses = zip(*results)
+            return responses, i_list
 
     async def get_prediction_async(self, **kwargs) -> pd.DataFrame:
         """Main entrypoint: run requests and parse responses."""
-        responses = await self._run_async_requests(**kwargs)
-        return self.parse_response(responses, **kwargs)
+        responses, i_list = await self._run_async_requests(**kwargs)
+        return self.parse_response(responses, i_list, **kwargs)
 
 
 class NameAPIWrapper(ServiceWrapper):
@@ -79,7 +79,7 @@ class NameAPIWrapper(ServiceWrapper):
         headers = {"Content-Type": "application/json"}
         return self.method, self.url + self.key, headers, payload, None, idx
 
-    def parse_response(self, responses: list[str], useFullName: bool = False) -> pd.DataFrame:
+    def parse_response(self, responses: list[str], i_list, useFullName: bool = False) -> pd.DataFrame:
         response_list = []
         for i in range(len(responses)):
             r_dict = json.loads(responses[i])
@@ -94,7 +94,7 @@ class NameAPIWrapper(ServiceWrapper):
             serviceUsed = 'NameAPI'
 
             response_list.append([
-                i, fullName, namePassed, correctGender, predictedGender,
+                i_list[i], fullName, namePassed, correctGender, predictedGender,
                 localization, False, serviceUsed,
                 extra_preciseGenderPredicted, r_dict.get('maleProportion'), r_dict.get('confidence')
             ])
@@ -138,7 +138,7 @@ class NamSorWrapper(ServiceWrapper):
 
         return self.method, url, headers, payload, None, idx
     
-    def parse_response(self, responses:list[str], endpoint:NamSorEndpoint):
+    def parse_response(self, responses:list[str], i_list, endpoint:NamSorEndpoint):
         response_list = []
 
         for i in range(len(responses)):
@@ -161,7 +161,7 @@ class NamSorWrapper(ServiceWrapper):
             extra_script = r_dict['script']
             
             response_list.append([
-                i,
+                i_list[i],
                 fullName,
                 namePassed,
                 correct_gender, 
@@ -213,7 +213,7 @@ class GenderAPI_com_Wrapper(ServiceWrapper):
 
         return self.method, self.url, headers, payload, None, idx 
 
-    def parse_response(self, responses:list[str], useLocalization:bool, useFullName:bool)->pd.DataFrame:
+    def parse_response(self, responses:list[str], i_list, useLocalization:bool, useFullName:bool)->pd.DataFrame:
         response_list = []
         for i in range(len(responses)):
             r_dict = json.loads(responses[i])
@@ -232,7 +232,7 @@ class GenderAPI_com_Wrapper(ServiceWrapper):
             extra_identifiedLastName = r_dict.get('last_name')
 
             response_list.append([
-                i,
+                i_list[i],
                 fullName,
                 namePassed,
                 correct_gender,
@@ -282,7 +282,7 @@ class GenderAPI_IO_Wrapper(ServiceWrapper):
 
         return self.method, self.url, headers, payload, None, idx
     
-    def parse_response(self, responses:list[str], useLocalization:bool, useAI:bool=False, force:bool=False)->pd.DataFrame:
+    def parse_response(self, responses:list[str], i_list, useLocalization:bool, useAI:bool=False, force:bool=False)->pd.DataFrame:
         response_list = []
         for i in range(len(responses)):
             r_dict = json.loads(responses[i])
@@ -301,7 +301,7 @@ class GenderAPI_IO_Wrapper(ServiceWrapper):
             extra_country_used_by_service = r_dict.get('country')
 
             response_list.append([
-                i,
+                i_list[i],
                 fullName,
                 namePassed,
                 correct_gender,
@@ -346,7 +346,7 @@ class GenderizeWrapper(ServiceWrapper):
 
     
 
-    def parse_response(self, responses:list[str], useLocalization:bool)->pd.DataFrame:
+    def parse_response(self, responses:list[str], i_list, useLocalization:bool)->pd.DataFrame:
         response_list = []
         for i in range(len(responses)):
             r_dict = json.loads(responses[i])
@@ -362,7 +362,7 @@ class GenderizeWrapper(ServiceWrapper):
             extra_count = r_dict.get('count')
             extra_probability = r_dict.get('probability')
 
-            response_list.append([i, 
+            response_list.append([i_list[i], 
                                 fullName, 
                                 namePassed, 
                                 correct_gender, 
