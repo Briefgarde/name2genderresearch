@@ -334,7 +334,7 @@ class GenderizeWrapper(ServiceWrapper):
     key = os.getenv("genderizeIO_key")
     url = f"https://api.genderize.io/"
     method = "GET"
-    hasSubscription = False # THIS WILL NEED TO BE CHANGED WHEN WORKING WITH THE FULL THING
+    hasSubscription = True # THIS WILL NEED TO BE CHANGED WHEN WORKING WITH THE FULL THING
     
     def build_request(self, row, idx, useLocalization:bool):
         params = {"name": row["firstName"]}

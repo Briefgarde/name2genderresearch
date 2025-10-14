@@ -39,7 +39,7 @@ class ServiceHandler(ABC):
 class GenderizeIoHandler(ServiceHandler):
     key = os.getenv("genderizeIO_key")
     url = f"https://api.genderize.io/"
-    def __init__(self, datasource: pd.DataFrame, hasSubscription:bool):
+    def __init__(self, datasource: pd.DataFrame, hasSubscription=True):
         super().__init__(datasource)
         self.hasSubscription = hasSubscription
 
