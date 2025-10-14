@@ -1,4 +1,3 @@
-
 """
 This entire evaluator was taken almost directly from https://peerj.com/articles/cs-156/ with only minor modifications. 
 The github of said paper is available here : https://github.com/GenderGapSTEM-PublicationAnalysis/name_gender_inference/tree/main
@@ -46,7 +45,7 @@ class Evaluator():
         
         return result
     
-    def get_confusion_matrix(self, df:None, col_true:str='correctGender', col_pred:str='predictedGender'):
+    def get_confusion_matrix(self, df=None, col_true:str='correctGender', col_pred:str='predictedGender'):
         if df is None:
             df = self.dataframe
         result = self.get_all_assignement(df, col_true, col_pred)
@@ -100,14 +99,14 @@ class Evaluator():
                         conf_matrix.loc['m', 'u_pred'] + conf_matrix.loc['f', 'u_pred']))
         return numer / denom
 
-    def compute_all_errors(self, conf_matrix):
+    def compute_all_errors(self, conf_matrix, eps=0.2):
         self.confusion_matrix = conf_matrix
         error = {}
         error['error_with_unknown'] = self.compute_error_with_unknown(self.confusion_matrix)
         error['error_without_unknown'] = self.compute_error_without_unknown(self.confusion_matrix)
         error['error_unknown'] = self.compute_error_unknown(self.confusion_matrix)
         error['error_gender_bias'] = self.compute_error_gender_bias(self.confusion_matrix)
-        error['weighted_error'] = self.compute_weighted_error(self.confusion_matrix)
+        error['weighted_error'] = self.compute_weighted_error(self.confusion_matrix, eps)
         return error
     
         # error_with_unknown = self.compute_error_with_unknown(self.confusion_matrix)
