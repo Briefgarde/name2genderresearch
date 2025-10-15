@@ -27,15 +27,38 @@ class ServiceWrapper(ABC):
         pass
 
     async def _fetch(self, session, method, url, headers, payload, params, idx):
-        """Async HTTP request helper, preserving order with idx."""
-        if method.upper() == "GET":
-            async with session.get(url, headers=headers, params=params) as resp:
-                return idx, await resp.text()
-        elif method.upper() == "POST":
-            async with session.post(url, headers=headers, json=payload, params=params) as resp:
-                return idx, await resp.text()
-        else:
-            raise ValueError(f"Unsupported HTTP method: {method}")
+        """Async HTTP request helper, preserving order with idx and tagging errors as JSON."""
+        try:
+            if method.upper() == "GET":
+                async with session.get(url, headers=headers, params=params) as resp:
+                    text = await resp.text()
+                    # Tag non-200 responses as JSON-formatted error
+                    if resp.status != 200:
+                        return idx, json.dumps({
+                            "error": f"HTTP {resp.status}",
+                            "body": text[:200]  # keep only first 200 chars for brevity
+                        })
+                    return idx, text
+
+            elif method.upper() == "POST":
+                async with session.post(url, headers=headers, json=payload, params=params) as resp:
+                    text = await resp.text()
+                    if resp.status != 200:
+                        return idx, json.dumps({
+                            "error": f"HTTP {resp.status}",
+                            "body": text[:200]
+                        })
+                    return idx, text
+
+            else:
+                raise ValueError(f"Unsupported HTTP method: {method}")
+
+        except Exception as e:
+            # Tag any network or runtime failure as a JSON error
+            return idx, json.dumps({
+                "error": "Request failed",
+                "details": str(e)
+            })
 
     async def _run_async_requests(self, **kwargs) -> list[str]:
         """Generic async runner that subclasses can use."""
@@ -142,23 +165,39 @@ class NamSorWrapper(ServiceWrapper):
         response_list = []
 
         for i in range(len(responses)):
-            r_dict = json.loads(responses[i])
-            r_dict = r_dict['personalNames'][0]
+            # from source 
             source = self.datasource.iloc[i]
-
             fullName = source['fullName']
-            namePassed = r_dict['firstName'] if endpoint in [NamSorEndpoint.FIRST_NAME, NamSorEndpoint.FIRST_NAME_GEO] else r_dict['name']
             correct_gender = source['gender']
-            predicted_gender = r_dict.get('likelyGender')
             localization = source['isoCountry']
-            usedLocalization = True if endpoint in [NamSorEndpoint.FULL_NAME_GEO, NamSorEndpoint.FIRST_NAME_GEO] else False
             service_used = 'NamSor'
+            usedLocalization = True if endpoint in [NamSorEndpoint.FULL_NAME_GEO, NamSorEndpoint.FIRST_NAME_GEO] else False
+            
+            # from dict
+            ## fallback : 
+            namePassed = "ERROR"
+            predicted_gender = "ERROR"
+            extra_genderScale = "ERROR"
+            extra_score = "ERROR"
+            extra_probabilityCalibrated = "ERROR"
+            extra_script = "ERROR"
 
-            # extra
-            extra_genderScale = r_dict['genderScale']
-            extra_score = r_dict['score']
-            extra_probabilityCalibrated = r_dict['probabilityCalibrated']
-            extra_script = r_dict['script']
+            ## actual values
+            try:
+                r_dict = json.loads(responses[i])
+                if "error" in r_dict and isinstance(r_dict, dict): #something bad happened
+                    print(f"[ERROR] API error for {fullName}: {r_dict['error']}")
+                    raise ValueError(r_dict["error"])
+                r_dict = json.loads(responses[i])
+                r_dict = r_dict['personalNames'][0]
+                namePassed = r_dict['firstName'] if endpoint in [NamSorEndpoint.FIRST_NAME, NamSorEndpoint.FIRST_NAME_GEO] else r_dict['name']
+                predicted_gender = r_dict.get('likelyGender')
+                extra_genderScale = r_dict['genderScale']
+                extra_score = r_dict['score']
+                extra_probabilityCalibrated = r_dict['probabilityCalibrated']
+                extra_script = r_dict['script']
+            except Exception as e:
+                print(f"[WARN] Failed to parse response for '{fullName}' (index {i_list[i]}): {e}")
             
             response_list.append([
                 i_list[i],
@@ -216,23 +255,50 @@ class GenderAPI_com_Wrapper(ServiceWrapper):
     def parse_response(self, responses:list[str], i_list, useLocalization:bool, useFullName:bool)->pd.DataFrame:
         response_list = []
         for i in range(len(responses)):
-            r_dict = json.loads(responses[i])
             source = self.datasource.iloc[i]
-
             fullName = source['fullName']
-            namePassed = r_dict['input']['full_name'] if useFullName else r_dict['input']['first_name']
             correct_gender = source['gender']
-            predicted_gender = r_dict.get('gender')
             localization = source['isoCountry']
             service_used = 'genderAPI.com'
 
-            #extra
-            extra_probability = r_dict.get('probability')
-            extra_identifiedFirstName = r_dict.get('first_name')
-            extra_identifiedLastName = r_dict.get('last_name')
+            # fall back stuff
+            namePassed = "ERROR"
+            predicted_gender = "ERROR"
+            extra_probability = "ERROR"
+            extra_identifiedFirstName = "ERROR"
+            extra_identifiedLastName = "ERROR"
+            id = i_list[i]
+
+            try:
+                r_dict = json.loads(responses[i])
+                if "error" in r_dict and isinstance(r_dict, dict): #something bad happened
+                    print(f"[ERROR] API error for {fullName}: {r_dict['error']}")
+                    raise ValueError(r_dict["error"])
+                namePassed = r_dict['input']['full_name'] if useFullName else r_dict['input']['first_name']
+                predicted_gender = r_dict.get('gender')
+                extra_probability = r_dict.get('probability')
+                extra_identifiedFirstName = r_dict.get('first_name')
+                extra_identifiedLastName = r_dict.get('last_name')
+            except Exception as e:
+                print(f"[WARN] Failed to parse response for '{fullName}' (index {i_list[i]}): {e}")
+            
+            # r_dict = json.loads(responses[i])
+            # source = self.datasource.iloc[i]
+
+            # fullName = source['fullName']
+            # namePassed = r_dict['input']['full_name'] if useFullName else r_dict['input']['first_name']
+            # correct_gender = source['gender']
+            # predicted_gender = r_dict.get('gender')
+            # localization = source['isoCountry']
+            # service_used = 'genderAPI.com'
+
+            # #extra
+            # extra_probability = r_dict.get('probability')
+            # extra_identifiedFirstName = r_dict.get('first_name')
+            # extra_identifiedLastName = r_dict.get('last_name')
 
             response_list.append([
-                i_list[i],
+                id,
                 fullName,
                 namePassed,
                 correct_gender,
@@ -240,6 +306,7 @@ class GenderAPI_com_Wrapper(ServiceWrapper):
                 localization,
                 useLocalization,
                 service_used,
+                useFullName,
                 extra_probability,
                 extra_identifiedFirstName,
                 extra_identifiedLastName
@@ -254,6 +321,7 @@ class GenderAPI_com_Wrapper(ServiceWrapper):
             'localization',
             'useLocalization',
             'serviceUsed',
+            'extra_useFullName',
             'extraProbability',
             'extraIdentifiedFirstName',
             'extraIdentifiedLastName'

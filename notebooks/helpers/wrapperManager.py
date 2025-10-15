@@ -1,4 +1,4 @@
-import serviceWrapperAsync as servWrapper
+import notebooks.helpers.serviceWrapperAsync as servWrapper
 import pandas as pd
 
 
