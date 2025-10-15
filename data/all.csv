@@ -1,4 +1,4 @@
-,fullName,firstName,lastName,gender,isoCountry,continent,birthYear,hasMiddleName,hasNoLastName,source
+id,fullName,firstName,lastName,gender,isoCountry,continent,birthYear,hasMiddleName,hasNoLastName,source
 0,Clara Benson,Clara,Benson,female,GH,Africa,2000,False,False,wikidata
 1,Esther Ruth Mbabazi,,,female,UG,Africa,1995,True,False,wikidata
 2,Dalia Ziada,Dalia,Ziada,female,EG,Africa,1982,False,False,wikidata
