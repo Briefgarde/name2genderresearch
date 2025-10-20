@@ -105,21 +105,37 @@ class NameAPIWrapper(ServiceWrapper):
     def parse_response(self, responses: list[str], i_list, useFullName: bool = False) -> pd.DataFrame:
         response_list = []
         for i in range(len(responses)):
-            r_dict = json.loads(responses[i])
+            # from source 
             source = self.datasource.iloc[i]
-
             fullName = source['fullName']
             namePassed = source['fullName'] if useFullName else source['firstName']
             correctGender = source['gender']
-            extra_preciseGenderPredicted = r_dict.get('gender')
-            predictedGender = self.genderResult_mapping.get(extra_preciseGenderPredicted, 'unknown')
             localization = source['isoCountry']
             serviceUsed = 'NameAPI'
+            # r_dict
+            ## fall back first
+            extra_preciseGenderPredicted = "ERROR"
+            predictedGender = "ERROR"
+            maleProportion = "ERROR"
+            confidence = "ERROR"
+
+            ## try actual value
+            try:
+                r_dict = json.loads(responses[i])
+                if "error" in r_dict and isinstance(r_dict, dict): #something bad happened
+                    print(f"[ERROR] API error for {fullName}: {r_dict['error']}")
+                    raise ValueError(r_dict["error"])
+                extra_preciseGenderPredicted = r_dict.get('gender')
+                predictedGender = self.genderResult_mapping.get(extra_preciseGenderPredicted, 'unknown')
+                maleProportion = r_dict.get('maleProportion')
+                confidence = r_dict.get('confidence')
+            except Exception as e:
+                print(f"[WARN] Failed to parse response for '{fullName}' (index {i_list[i]}): {e}")
 
             response_list.append([
                 i_list[i], fullName, namePassed, correctGender, predictedGender,
                 localization, False, serviceUsed,
-                extra_preciseGenderPredicted, r_dict.get('maleProportion'), r_dict.get('confidence')
+                extra_preciseGenderPredicted, maleProportion, confidence
             ])
 
         return pd.DataFrame(response_list, columns=[
