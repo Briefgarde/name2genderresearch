@@ -5,6 +5,7 @@ The github of said paper is available here : https://github.com/GenderGapSTEM-Pu
 
 import pandas as pd
 from enum import Enum
+from statsmodels.stats.contingency_tables import mcnemar
 
 class Gender(Enum):
     MALE = 'male'
@@ -115,3 +116,28 @@ class Evaluator():
         # error_gender_bias = self.compute_error_gender_bias(self.confusion_matrix)
         # weighted_error = self.compute_weighted_error(self.confusion_matrix)
         # return [error_with_unknown, error_without_unknown, error_gender_bias, error_unknown, weighted_error]
+
+
+    # stastical tests
+
+    def mcnemartest(self, df_ISO:pd.DataFrame, df_noISO:pd.DataFrame, exact:bool=True, correction:bool=True):
+        common_ids = set(df_noISO["index"]) & set(df_ISO["index"])
+
+        df_ISO_common = df_ISO[df_ISO["index"].isin(common_ids)].copy()
+        df_noISO_common = df_noISO[df_noISO["index"].isin(common_ids)].copy()
+
+        df_ISO_common = df_ISO_common.sort_values("index").reset_index(drop=True)
+        df_noISO_common = df_noISO_common.sort_values("index").reset_index(drop=True)
+
+        iso_correct = df_ISO_common["predictedGender"] == df_ISO_common["correctGender"]
+        noiso_correct = df_noISO_common["predictedGender"] == df_noISO_common["correctGender"]
+
+        a = sum(iso_correct & noiso_correct)                # correct in both
+        b = sum(~iso_correct & noiso_correct)               # correct in noISO, wrong in ISO
+        c = sum(iso_correct & ~noiso_correct)               # correct in ISO, wrong in noISO
+        d = sum(~iso_correct & ~noiso_correct)              # wrong in both
+
+        table = [[a, b],
+                [c, d]]
+        
+        return mcnemar(table=table, exact=exact, correction=correction)
