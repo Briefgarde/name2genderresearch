@@ -66,6 +66,7 @@ class ServiceWrapper(ABC):
         async with aiohttp.ClientSession() as session:
             for i, row in self.datasource.iterrows():
                 method, url, headers, payload, params, idx = self.build_request(row, i, **kwargs)
+                print(payload)
                 tasks.append(self._fetch(session, method, url, headers, payload, params, idx))
 
             results = await asyncio.gather(*tasks)  # preserves order
@@ -81,26 +82,48 @@ class ServiceWrapper(ABC):
 
 class NameAPIWrapper(ServiceWrapper):
     key = os.getenv('nameAPI_key_prefix') + '-' + os.getenv('nameAPI_key_suffix')
-    url = 'https://api.nameapi.org/rest/v5.3/genderizer/persongenderizer?apiKey='
+    url = "https://api.nameapi.org/rest/v5.3/genderizer/persongenderizer" #?apiKey='
     method = 'POST'
     genderResult_mapping = {'MALE': 'male', 'FEMALE': 'female'}
 
     def build_request(self, row, idx, useFullName: bool = False):
+        # payload = {
+        #     "inputPerson": {
+        #         "type": "NaturalInputPerson",
+        #         "personName": {
+        #             "nameFields": [
+        #                 {
+        #                     "string": row['fullName'] if useFullName else row['firstName'],
+        #                     "fieldType": "FULLNAME" if useFullName else "SURNAME",
+        #                 }
+        #             ]
+        #         }
+        #     }
+        # }
+
+        string = row['firstName'] if not useFullName else row['fullName']
+        field_type = "GIVENNAME" if not useFullName else "SURNAME"
+
+        querystring = {"apiKey":self.key}
+
         payload = {
+            "context": {
+                "priority": "REALTIME",
+                "properties": []
+            },
             "inputPerson": {
                 "type": "NaturalInputPerson",
-                "personName": {
-                    "nameFields": [
+                "personName": {"nameFields": [
                         {
-                            "string": row['fullName'] if useFullName else row['firstName'],
-                            "fieldType": "FULLNAME" if useFullName else "SURNAME",
+                            "string": string,
+                            "fieldType": field_type
                         }
-                    ]
-                }
+                    ]}
             }
         }
         headers = {"Content-Type": "application/json"}
-        return self.method, self.url + self.key, headers, payload, None, idx
+
+        return self.method, self.url, headers, payload, querystring, idx
 
     def parse_response(self, responses: list[str], i_list, useFullName: bool = False) -> pd.DataFrame:
         response_list = []
