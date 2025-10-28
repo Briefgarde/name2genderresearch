@@ -66,7 +66,6 @@ class ServiceWrapper(ABC):
         async with aiohttp.ClientSession() as session:
             for i, row in self.datasource.iterrows():
                 method, url, headers, payload, params, idx = self.build_request(row, i, **kwargs)
-                print(payload)
                 tasks.append(self._fetch(session, method, url, headers, payload, params, idx))
 
             results = await asyncio.gather(*tasks)  # preserves order
@@ -392,20 +391,55 @@ class GenderAPI_IO_Wrapper(ServiceWrapper):
     def parse_response(self, responses:list[str], i_list, useLocalization:bool, useAI:bool=False, force:bool=False)->pd.DataFrame:
         response_list = []
         for i in range(len(responses)):
-            r_dict = json.loads(responses[i])
+            # from source 
             source = self.datasource.iloc[i]
-
             fullName = source['fullName']
-            namePassed = r_dict.get('name')
             correct_gender = source['gender']
-            predicted_gender = r_dict.get('gender')
             localization = source['isoCountry']
             service_used = 'genderAPI.io'
+            try:
+                useLocalization = useLocalization if isinstance(useLocalization, bool) else False
+            except NameError:
+                useLocalization = False
 
-            # extras
-            extra_total_names = r_dict.get('total_names')
-            extra_probability = r_dict.get('probability')
-            extra_country_used_by_service = r_dict.get('country')
+
+            #from dict
+            ## fall back 
+            namePassed = "ERROR"
+            predicted_gender = "ERROR"
+            extra_total_names = "ERROR"
+            extra_probability = "ERROR"
+            extra_country_used_by_service = "ERROR"
+
+            ## actual value 
+            try : 
+                r_dict = json.loads(responses[i])
+                if "error" in r_dict and isinstance(r_dict, dict): #something bad happened
+                    print(f"[ERROR] API error for {fullName}: {r_dict['error']}")
+                    raise ValueError(r_dict["error"])
+                namePassed = r_dict.get('name')
+                predicted_gender = r_dict.get('gender')
+                extra_total_names = r_dict.get('total_names')
+                extra_probability = r_dict.get('probability')
+                extra_country_used_by_service = r_dict.get('country')
+            except Exception as e:
+                print(f"[WARN] Failed to parse response for '{fullName}' (index {i_list[i]}): {e}")
+
+
+            # r_dict = json.loads(responses[i])
+            # source = self.datasource.iloc[i]
+
+            # fullName = source['fullName']
+            # namePassed = r_dict.get('name')
+            # correct_gender = source['gender']
+            # predicted_gender = r_dict.get('gender')
+            # localization = source['isoCountry']
+            # service_used = 'genderAPI.io'
+
+            # # extras
+            # extra_total_names = r_dict.get('total_names')
+            # extra_probability = r_dict.get('probability')
+            # extra_country_used_by_service = r_dict.get('country')
 
             response_list.append([
                 i_list[i],
