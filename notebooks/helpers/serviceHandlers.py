@@ -224,6 +224,57 @@ class GenderGuesserHandler(ServiceHandler):
         'andy' : 'unknown',
         'unknown' : 'unknown'
     }
+    COUNTRIES = {'GB': 'great_britain',
+ 'IE': 'ireland',
+ 'US': 'usa',
+ 'IT': 'italy',
+ 'MT': 'malta',
+ 'PT': 'portugal',
+ 'ES': 'spain',
+ 'FR': 'france',
+ 'BE': 'belgium',
+ 'LU': 'luxembourg',
+ 'NL': 'the_netherlands',
+ 'DE': 'germany',
+ 'AT': 'austria',
+ 'CH': 'swiss',
+ 'IS': 'iceland',
+ 'DK': 'denmark',
+ 'NO': 'norway',
+ 'SE': 'sweden',
+ 'FI': 'finland',
+ 'EE': 'estonia',
+ 'LV': 'latvia',
+ 'LT': 'lithuania',
+ 'PL': 'poland',
+ 'CZ': 'czech_republic',
+ 'SK': 'slovakia',
+ 'HU': 'hungary',
+ 'RO': 'romania',
+ 'BG': 'bulgaria',
+ 'BA': 'bosniaand',
+ 'HR': 'croatia',
+ 'MK': 'macedonia',
+ 'ME': 'montenegro',
+ 'RS': 'serbia',
+ 'SI': 'slovenia',
+ 'AL': 'albania',
+ 'GR': 'greece',
+ 'RU': 'russia',
+ 'BY': 'belarus',
+ 'MD': 'moldova',
+ 'UA': 'ukraine',
+ 'AM': 'armenia',
+ 'AZ': 'azerbaijan',
+ 'GE': 'georgia',
+ 'TR': 'turkey',
+ 'SA': 'arabia',
+ 'IL': 'israel',
+ 'CN': 'china',
+ 'IN': 'india',
+ 'JP': 'japan',
+ 'KR': 'korea',
+ 'VN': 'vietnam'}
 
     def __init__(self, datasource:pd.DataFrame):
         super().__init__(datasource)
@@ -234,7 +285,7 @@ class GenderGuesserHandler(ServiceHandler):
         for _, r in self.datasource.iterrows():
             name = r['firstName']
             if useLocalization:
-                country = r['isoCountry']
+                country = self.COUNTRIES.get(r['isoCountry'], "other_countries")
                 response = self.detector.get_gender(name=name, country=country)
             else : 
                 response = self.detector.get_gender(name=name)
