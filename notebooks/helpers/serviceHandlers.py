@@ -218,9 +218,9 @@ class GenderGuesserHandler(ServiceHandler):
     # The actual response of the service is categorized in another columns. 
     gender_result_dict = {
         'male' : 'male',
-        'mostly male': 'male',
+        'mostly_male': 'male',
         'female' : 'female',
-        'mostly female' : 'female',
+        'mostly_female' : 'female',
         'andy' : 'unknown',
         'unknown' : 'unknown'
     }
