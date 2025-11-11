@@ -490,18 +490,37 @@ class GenderizeWrapper(ServiceWrapper):
     def parse_response(self, responses:list[str], i_list, useLocalization:bool)->pd.DataFrame:
         response_list = []
         for i in range(len(responses)):
-            r_dict = json.loads(responses[i])
-            source = self.datasource.iloc[i]
+            # from source 
+            source = self.datasource[i]
             fullName = source['fullName']
-            namePassed = r_dict.get('name')
             correct_gender = source['gender']
-            predicted_gender = r_dict.get('gender')
             localization = source['isoCountry']
             service_used = 'genderize.IO'
+            try:
+                useLocalization = useLocalization if isinstance(useLocalization, bool) else False
+            except NameError:
+                useLocalization = False
 
-            # elements that are not guaranteed to be shared by every service are noted as extra
-            extra_count = r_dict.get('count')
-            extra_probability = r_dict.get('probability')
+            # from dict
+            ## fallback
+            namePassed = "ERROR"
+            predicted_gender = "ERROR"
+            extra_count = "ERROR"
+            extra_probability = "ERROR"
+
+            ## real value 
+            try:
+                r_dict = json.loads(responses[i])
+                if "error" in r_dict and isinstance(r_dict, dict): #something bad happened
+                    print(f"[ERROR] API error for {fullName}: {r_dict['error']}")
+                    raise ValueError(r_dict["error"])
+                namePassed = r_dict.get('name')
+                predicted_gender = r_dict.get('gender')
+                extra_count = r_dict.get('count')
+                extra_probability = r_dict.get('probability')
+            except Exception as e:
+                print(f"[WARN] Failed to parse response for '{fullName}' (index {i_list[i]}): {e}")
+
 
             response_list.append([i_list[i], 
                                 fullName, 
