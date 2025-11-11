@@ -491,7 +491,7 @@ class GenderizeWrapper(ServiceWrapper):
         response_list = []
         for i in range(len(responses)):
             # from source 
-            source = self.datasource[i]
+            source = self.datasource.iloc[i]
             fullName = source['fullName']
             correct_gender = source['gender']
             localization = source['isoCountry']
