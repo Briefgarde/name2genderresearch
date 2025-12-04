@@ -120,24 +120,289 @@ class Evaluator():
 
     # stastical tests
 
-    def mcnemartest(self, df_ISO:pd.DataFrame, df_noISO:pd.DataFrame, exact:bool=True, correction:bool=True):
-        common_ids = set(df_noISO["index"]) & set(df_ISO["index"])
+import numpy as np
+from scipy.stats import chi2_contingency
+from math import sqrt, exp, log
 
-        df_ISO_common = df_ISO[df_ISO["index"].isin(common_ids)].copy()
-        df_noISO_common = df_noISO[df_noISO["index"].isin(common_ids)].copy()
 
-        df_ISO_common = df_ISO_common.sort_values("index").reset_index(drop=True)
-        df_noISO_common = df_noISO_common.sort_values("index").reset_index(drop=True)
+class StatisticalTester:
+    def __init__(self, df_iso: pd.DataFrame, df_noiso: pd.DataFrame):
+        """
+        df_iso / df_noiso must contain:
+            - 'index' : unique ID per name
+            - 'predictedGender'
+            - 'correctGender'
+        """
+        self.df_iso = df_iso.copy()
+        self.df_noiso = df_noiso.copy()
 
-        iso_correct = df_ISO_common["predictedGender"] == df_ISO_common["correctGender"]
-        noiso_correct = df_noISO_common["predictedGender"] == df_noISO_common["correctGender"]
+    def get_contingency_table(self):
+        common_ids = set(self.df_noiso["index"]) & set(self.df_iso["index"])
+        df_iso_c = self.df_iso[self.df_iso["index"].isin(common_ids)]
+        df_noiso_c = self.df_noiso[self.df_noiso["index"].isin(common_ids)]
 
-        a = sum(iso_correct & noiso_correct)                # correct in both
-        b = sum(~iso_correct & noiso_correct)               # correct in noISO, wrong in ISO
-        c = sum(iso_correct & ~noiso_correct)               # correct in ISO, wrong in noISO
-        d = sum(~iso_correct & ~noiso_correct)              # wrong in both
+        df_iso_c = df_iso_c.sort_values("index").reset_index(drop=True)
+        df_noiso_c = df_noiso_c.sort_values("index").reset_index(drop=True)
 
-        table = [[a, b],
-                [c, d]]
-        
-        return mcnemar(table=table, exact=exact, correction=correction)
+        iso_correct = df_iso_c["predictedGender"] == df_iso_c["correctGender"]
+        noiso_correct = df_noiso_c["predictedGender"] == df_noiso_c["correctGender"]
+
+        a = sum(iso_correct & noiso_correct) # correct in both
+        b = sum(~iso_correct & noiso_correct) # incorrect with ISO, correct without => adding ISO worsened the acc
+        c = sum(iso_correct & ~noiso_correct) # correct with ISO, incorrect without => adding ISO helped the acc
+        d = sum(~iso_correct & ~noiso_correct) # incorrect with both 
+
+        table = np.array([[a, b],
+                          [c, d]])
+        self.contingency_table = table
+        return table
+
+    def run_mcnemar_test(self):
+        try : 
+            table = self.contingency_table
+        except:
+            table = self.get_contingency_table()
+        result = mcnemar(table, exact=True, correction=True)
+
+        # Extract b and c for effect sizes
+        b, c = table[0, 1], table[1, 0]
+        n = b + c
+
+        # Effect sizes
+        odds_ratio = c / b if b != 0 else np.inf
+        g = (c-b) / n if n > 0 else np.nan # range of [-1, 1]
+        # to note : this isn't quite Cohen's G in the standard literature, but a close, unscaled version of it. 
+        # to get the standard cohen's g metric, we can simply do g/2 to be able to use the standard interpretation. 
+        log_or = log(odds_ratio) if np.isfinite(odds_ratio) else np.nan
+        se_log_or = sqrt(1 / b + 1 / c) if (b > 0 and c > 0) else np.nan
+
+        ci_low, ci_high = (
+            exp(log_or - 1.96 * se_log_or),
+            exp(log_or + 1.96 * se_log_or),
+        ) if np.isfinite(log_or) else (np.nan, np.nan)
+        # if result around 1 => no particular improvement
+        # above 1 (ex : 1.4,2.8)=> improvement of 1.4x to 2.8x when adding the iso
+        # below 1()
+
+        return {
+            "test": "McNemar",
+            "statistic": result.statistic,
+            "p_value": result.pvalue,
+            "b": b,
+            "c": c,
+            "odds_ratio": odds_ratio,
+            "ci_low" : ci_low,
+            "ci_high" : ci_high,
+            "cohen_g": g,
+            "table" : table
+        }
+
+    def run_chi_square_test(self):
+        # Compute simple accuracy tables
+        iso_correct = (self.df_iso["predictedGender"] == self.df_iso["correctGender"]).sum()
+        noiso_correct = (self.df_noiso["predictedGender"] == self.df_noiso["correctGender"]).sum()
+        iso_total = len(self.df_iso)
+        noiso_total = len(self.df_noiso)
+
+        table = np.array([
+            [iso_correct, iso_total - iso_correct],
+            [noiso_correct, noiso_total - noiso_correct],
+        ])
+
+        chi2, p, dof, expected = chi2_contingency(table, correction=False)
+        n = table.sum()
+        cramer_v = sqrt(chi2 / (n * (min(table.shape) - 1)))
+
+        # Accuracy difference
+        delta_accuracy = (iso_correct / iso_total) - (noiso_correct / noiso_total)
+
+        return {
+            "test": "Chi-square",
+            "chi2": chi2,
+            "p_value": p,
+            "cramers_v": cramer_v,
+            "delta_accuracy": delta_accuracy,
+            "table": table,
+        }
+
+    def summarize(self):
+        paired = self.run_mcnemar_test()
+        # independent = self.run_chi_square_test()
+        return {
+            "paired_result": paired,
+            # "independent_result": independent,
+        }
+
+class EvalManager():
+    serviceList = ["genderAPI.io", "genderize.IO", 
+                "genderGuesser",
+                "NamSor",
+                "genderAPI.com"] # at discreetion, we might add NameAPI when this end up being tested
+    sourceList = ["kaggle", "wikidata"]
+    useLocalList = [True, False]
+
+    metricList = ["error_with_unknown", "error_without_unknown", "error_unknown", "error_gender_bias", "weighted_error"]
+
+    def __init__(self):
+        pass
+    def runAnalysis(self, masterdf:pd.DataFrame):
+        df_perf = pd.DataFrame()
+        df_stat = pd.DataFrame()
+
+        for service in self.serviceList:
+            
+            for source in self.sourceList:
+                
+                df_iso = masterdf[
+                    (masterdf['source']==source) &
+                    (masterdf['serviceUsed']==service) & 
+                    (masterdf['useLocalization']==True)
+                    ]
+                df_noiso = masterdf[
+                    (masterdf['source']==source) &
+                    (masterdf['serviceUsed']==service) & 
+                    (masterdf['useLocalization']==False)
+                    ]
+                
+                tester = StatisticalTester(df_iso=df_iso, df_noiso=df_noiso)
+                summary = tester.summarize()
+                summary = summary['paired_result']
+                summary['service_used'] = service
+                summary['source'] = source
+                summary.pop("table")
+                summary.pop("test")
+
+                df_summary = pd.DataFrame(
+                    data=[summary],
+                )
+                df_stat = pd.concat([df_stat, df_summary])
+                
+                for useLocal in self.useLocalList:
+                    df_metric = masterdf[
+                        (masterdf['source']==source) &
+                        (masterdf['serviceUsed']==service) & 
+                        (masterdf['useLocalization']==useLocal)
+                        ]
+
+                    eval = Evaluator(df_metric)
+                    conf_matrix = eval.get_confusion_matrix()
+
+                    
+                    result = eval.compute_all_errors(conf_matrix)
+                    result['service_used'] = service
+                    result['source'] = source
+                    result['useLocal'] = useLocal
+                    df_result = pd.DataFrame([result])
+                    df_perf = pd.concat([df_perf, df_result])
+
+
+
+        df_stat = df_stat.loc[:, ["service_used", "source", "statistic", "p_value", "b", "c", "odds_ratio", "cohen_g", "ci_low", "ci_high"]]
+        df_perf = df_perf.loc[:, ["service_used", "source", "useLocal", "error_with_unknown", "error_without_unknown", "error_unknown", "error_gender_bias", "weighted_error"]]
+        df_stat = df_stat.sort_values(by=["service_used", "source"])
+        df_perf = df_perf.sort_values(by=["service_used", "source"])
+        return df_stat, df_perf
+    
+    def runAnalysisWithoutUnknown(self, masterdf:pd.DataFrame):
+        df_no_unknown = masterdf.loc[masterdf['predictedGender']!='unknown', :]
+        return self.runAnalysis(df_no_unknown)
+    
+    def getMeanMetric(self, df_perf)->pd.DataFrame:
+        meanMetric_df = pd.DataFrame()
+        metricCol = ["error_with_unknown", "error_without_unknown", 'error_unknown', 'error_gender_bias', 'weighted_error']
+
+        for service in df_perf['service_used'].unique():
+            serviceRow = df_perf.loc[df_perf['service_used']==service, :]
+            meanList = []
+            for metric in self.metricList:
+                meanList.append(serviceRow[metric].mean())
+            df = pd.DataFrame(data=[meanList], columns=self.metricList)
+            df['service'] = service
+            meanMetric_df = pd.concat([df, meanMetric_df])
+        meanMetric_df = meanMetric_df.loc[:, ['service']+ self.metricList]
+        return meanMetric_df
+    
+    def getMeanMetricPerState(self, df_perf:pd.DataFrame)->pd.DataFrame:
+        metric_iso_df = df_perf[df_perf['useLocal']==True]
+        mean_metric_iso = self.getMeanMetric(metric_iso_df)
+        mean_metric_iso['useLocal'] = True
+        metric_Noiso_df = df_perf[df_perf['useLocal']==False]
+        mean_metric_Noiso = self.getMeanMetric(metric_Noiso_df)
+        mean_metric_Noiso['useLocal'] = False
+        result =pd.concat([mean_metric_iso, mean_metric_Noiso])
+        result = result.loc[:, ['service', 'useLocal']+self.metricList]
+        return result
+
+    def getConfMatrix(self, df:pd.DataFrame, useLocal:bool):
+        for service in self.serviceList:
+            df_metric = df[
+                        (df['serviceUsed']==service) & 
+                        (df['useLocalization']==useLocal)
+                        ]
+                
+            eval = Evaluator(df_metric)
+            conf_matrix = eval.get_confusion_matrix()
+            conf_matrix = conf_matrix.iloc[:2]
+            word = "with" if useLocal else "without"
+            print(f"Conf matrix for {service} {word} useLocal")
+            print(conf_matrix)
+            print(conf_matrix.to_numpy().sum())
+            print("------------")
+
+    def getMetricWholeDataset(self, masterdf:pd.DataFrame):
+        df_perf = pd.DataFrame()
+        df_stat = pd.DataFrame()
+
+        for service in self.serviceList:
+            
+            
+                
+                df_iso = masterdf[
+                    
+                    (masterdf['serviceUsed']==service) & 
+                    (masterdf['useLocalization']==True)
+                    ]
+                df_noiso = masterdf[
+                    
+                    (masterdf['serviceUsed']==service) & 
+                    (masterdf['useLocalization']==False)
+                    ]
+                
+                tester = StatisticalTester(df_iso=df_iso, df_noiso=df_noiso)
+                summary = tester.summarize()
+                summary = summary['paired_result']
+                summary['service_used'] = service
+                
+                summary.pop("table")
+                summary.pop("test")
+
+                df_summary = pd.DataFrame(
+                    data=[summary],
+                )
+                df_stat = pd.concat([df_stat, df_summary])
+                
+                for useLocal in self.useLocalList:
+                    df_metric = masterdf[
+                        
+                        (masterdf['serviceUsed']==service) & 
+                        (masterdf['useLocalization']==useLocal)
+                        ]
+
+                    eval = Evaluator(df_metric)
+                    conf_matrix = eval.get_confusion_matrix()
+
+                    
+                    result = eval.compute_all_errors(conf_matrix)
+                    result['service_used'] = service
+                    
+                    result['useLocal'] = useLocal
+                    df_result = pd.DataFrame([result])
+                    df_perf = pd.concat([df_perf, df_result])
+
+
+
+        df_stat = df_stat.loc[:, ["service_used",  "statistic", "p_value", "b", "c", "odds_ratio", "cohen_g", "ci_low", "ci_high"]]
+        df_perf = df_perf.loc[:, ["service_used",  "useLocal", "error_with_unknown", "error_without_unknown", "error_unknown", "error_gender_bias", "weighted_error"]]
+        df_stat = df_stat.sort_values(by=["service_used"])
+        df_perf = df_perf.sort_values(by=["service_used"])
+        return df_stat, df_perf
