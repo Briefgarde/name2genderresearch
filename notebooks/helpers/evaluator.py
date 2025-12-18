@@ -354,9 +354,6 @@ class EvalManager():
         df_stat = pd.DataFrame()
 
         for service in self.serviceList:
-            
-            
-                
                 df_iso = masterdf[
                     
                     (masterdf['serviceUsed']==service) & 
@@ -406,3 +403,46 @@ class EvalManager():
         df_stat = df_stat.sort_values(by=["service_used"])
         df_perf = df_perf.sort_values(by=["service_used"])
         return df_stat, df_perf
+    
+
+    def metricPerCountry(self, masterdf:pd.DataFrame, threshhold=500):
+        countryRepresentation = masterdf['localization'].value_counts()
+        listCountry = masterdf['localization'].dropna().unique()
+
+        df_perf = pd.DataFrame()
+
+        for service in self.serviceList:
+        
+            for useLocal in self.useLocalList:
+                    
+                for country in listCountry:
+                    population = countryRepresentation.loc[country]
+                    if population>threshhold:
+                        df_metric = masterdf[
+                            (masterdf['serviceUsed']==service) & 
+                            (masterdf['useLocalization']==useLocal) & 
+                            (masterdf['localization']==country)
+                        ]
+
+                        eval = Evaluator(df_metric)
+                        conf_matrix = eval.get_confusion_matrix()
+
+                        
+                        result = eval.compute_all_errors(conf_matrix)
+                        result['service_used'] = service
+                        result['useLocal'] = useLocal
+                        result['country']=country
+                        result['population'] = population/10
+                        df_result = pd.DataFrame([result])
+                        df_perf = pd.concat([df_perf, df_result])
+                    else:
+                        pass
+
+
+
+        df_perf = df_perf.loc[:, ["service_used", "country", "useLocal", 'population', "error_with_unknown", "error_without_unknown", "error_unknown", "error_gender_bias", "weighted_error"]]
+        df_perf = df_perf.sort_values(by=["service_used"])
+        return df_perf
+    
+
+

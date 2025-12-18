@@ -419,6 +419,8 @@ class GenderAPI_IO_Wrapper(ServiceWrapper):
                     raise ValueError(r_dict["error"])
                 namePassed = r_dict.get('name')
                 predicted_gender = r_dict.get('gender')
+                if predicted_gender == 'null':
+                    predicted_gender=='unknown'
                 extra_total_names = r_dict.get('total_names')
                 extra_probability = r_dict.get('probability')
                 extra_country_used_by_service = r_dict.get('country')
