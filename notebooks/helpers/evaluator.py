@@ -163,18 +163,20 @@ class StatisticalTester:
         except:
             table = self.get_contingency_table()
         result = mcnemar(table, exact=True, correction=True)
-
+        
         # Extract b and c for effect sizes
         b, c = table[0, 1], table[1, 0]
         n = b + c
+        
 
-        # Effect sizes
+        # Effect sizes  
         odds_ratio = c / b if b != 0 else np.inf
         g = (c-b) / n if n > 0 else np.nan # range of [-1, 1]
         # to note : this isn't quite Cohen's G in the standard literature, but a close, unscaled version of it. 
         # to get the standard cohen's g metric, we can simply do g/2 to be able to use the standard interpretation. 
-        log_or = log(odds_ratio) if np.isfinite(odds_ratio) else np.nan
-        se_log_or = sqrt(1 / b + 1 / c) if (b > 0 and c > 0) else np.nan
+        
+        log_or = np.log(odds_ratio) if np.isfinite(odds_ratio) else np.nan
+        se_log_or = np.sqrt(1 / b + 1 / c) if (b > 0 and c > 0) else np.nan
 
         ci_low, ci_high = (
             exp(log_or - 1.96 * se_log_or),
@@ -234,10 +236,21 @@ class StatisticalTester:
         }
 
 class EvalManager():
-    serviceList = ["genderAPI.io", "genderize.IO", 
-                "genderGuesser",
-                "NamSor",
-                "genderAPI.com"] # at discreetion, we might add NameAPI when this end up being tested
+    # serviceList = ["genderAPI.io", "genderize.IO", 
+    #             "genderGuesser",
+    #             "NamSor",
+    #             "genderAPI.com"] # at discreetion, we might add NameAPI when this end up being tested
+    corrections = {
+        'genderAPI.com': 'Gender-API.com',
+        'NamSor': 'Namsor',
+        'genderAPI.io': 'GenderAPI.io',
+        'genderGuesser': 'Gender-Guesser',
+        'genderize.IO': 'Genderize'
+    }
+    serviceList = corrections.values()
+    
+    
+    
     sourceList = ["kaggle", "wikidata"]
     useLocalList = [True, False]
 

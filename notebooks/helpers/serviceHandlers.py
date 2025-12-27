@@ -224,7 +224,8 @@ class GenderGuesserHandler(ServiceHandler):
         'andy' : 'unknown',
         'unknown' : 'unknown'
     }
-    COUNTRIES = {'GB': 'great_britain',
+    COUNTRIES = {
+'GB': 'great_britain',
  'IE': 'ireland',
  'US': 'usa',
  'IT': 'italy',
