@@ -6,6 +6,5 @@ __pycache__/
 *.pyo
 *.pyd
 .Rproj.user
-gender_R_package
 # random.ipynb is a little notebook I have for scribbling ideas and testing stuff. I does not need to be included anywher
 random.ipynb 
